@@ -1,0 +1,21 @@
+{
+  "slug": "lettuce",
+  "names": { "nl": "Sla", "en": "Lettuce" },
+  "category": "leafy",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 5,
+  "spacing_cm": 25,
+  "vak_per_m2": 4,
+  "sun": "partial",
+  "methods": [
+    { "type": "sow_indoor", "anchor": "last_frost", "start_weeks": -6, "end_weeks": -4,
+      "min_soil_c": null,
+      "note": { "nl": "Voorzaaien binnen voor een vroege start.", "en": "Sow indoors for an early start." } },
+    { "type": "sow_direct", "anchor": "last_frost", "start_weeks": -2, "end_weeks": 10,
+      "min_soil_c": 5,
+      "note": { "nl": "Buiten bijzaaien om de paar weken voor doorlopende oogst.", "en": "Sow outdoors every few weeks for a continuous harvest." } }
+  ],
+  "harvest": { "days_min": 45, "days_max": 65 },
+  "sources": ["De Bolster", "Velt", "Groei & Bloei"]
+}

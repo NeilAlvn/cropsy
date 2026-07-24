@@ -1,0 +1,16 @@
+{
+  "name": "growit-replica",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "description": "Container-first vegetable-growing app for NL/EU — backend, data & timing engine.",
+  "scripts": {
+    "smoke": "tsx scripts/smoke.ts",
+    "lint:crops": "tsx scripts/lint-crops.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

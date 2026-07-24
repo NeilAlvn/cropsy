@@ -1,0 +1,21 @@
+{
+  "slug": "tomato",
+  "names": { "nl": "Tomaat", "en": "Tomato" },
+  "category": "fruit-veg",
+  "frost_tender": true,
+  "container_ok": true,
+  "min_pot_litres": 10,
+  "spacing_cm": 45,
+  "vak_per_m2": 1,
+  "sun": "full",
+  "methods": [
+    { "type": "sow_indoor", "anchor": "last_frost", "start_weeks": -8, "end_weeks": -6,
+      "min_soil_c": null,
+      "note": { "nl": "Zaai binnen voor een vroege oogst.", "en": "Start indoors for an early harvest." } },
+    { "type": "transplant", "anchor": "last_frost", "start_weeks": 1, "end_weeks": 3,
+      "min_soil_c": 12,
+      "note": { "nl": "Pas na de laatste vorst uitplanten.", "en": "Only plant out after the last frost." } }
+  ],
+  "harvest": { "days_min": 60, "days_max": 85 },
+  "sources": ["De Bolster", "Vreeken", "Bingenheim"]
+}
