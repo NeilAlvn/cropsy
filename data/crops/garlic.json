@@ -15,7 +15,7 @@
     {
       "type": "plant",
       "anchor": "first_frost",
-      "start_weeks": -6,
+      "start_weeks": -3,
       "end_weeks": 2,
       "min_soil_c": 3,
       "note": {
@@ -28,6 +28,11 @@
     "days_min": 240,
     "days_max": 270
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Groei & Bloei",
+    "Gardeners World NL",
+    "Moesmeisje",
+    "robbiesmoestuin.nl"
+  ],
+  "verified": true
 }

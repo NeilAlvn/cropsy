@@ -46,22 +46,26 @@ const R = (
 ): Row => ({ slug, nl, en, cat, tender, cont, pot, sp, vak, sun, m, h })
 
 const CROPS: Row[] = [
-  // ── fruiting veg (frost-tender: indoors, then out after last frost) ─────────
-  R('tomato', 'Tomaat', 'Tomato', 'fruit-veg', true, true, 10, 45, 1, 'full', [SI(-8, -6), TP(1, 3, 12)], [60, 85]),
-  R('pepper', 'Paprika', 'Sweet pepper', 'fruit-veg', true, true, 10, 40, 1, 'full', [SI(-10, -8), TP(2, 3, 14)], [90, 120]),
-  R('chili', 'Spaanse peper', 'Chilli', 'fruit-veg', true, true, 7, 40, 1, 'full', [SI(-10, -8), TP(2, 3, 14)], [90, 120]),
-  R('aubergine', 'Aubergine', 'Aubergine', 'fruit-veg', true, true, 12, 45, 1, 'full', [SI(-10, -8), TP(2, 3, 15)], [100, 120]),
-  R('cucumber', 'Komkommer', 'Cucumber', 'fruit-veg', true, true, 15, 45, null, 'full', [SI(-4, -3), TP(1, 3, 15)], [55, 70]),
-  R('gherkin', 'Augurk', 'Gherkin', 'fruit-veg', true, true, 12, 40, null, 'full', [SI(-4, -3), TP(1, 3, 15)], [50, 65]),
-  R('courgette', 'Courgette', 'Courgette', 'fruit-veg', true, true, 20, 90, null, 'full', [SI(-4, -3), TP(1, 3, 12)], [50, 70]),
-  R('pumpkin', 'Pompoen', 'Pumpkin', 'fruit-veg', true, false, null, 120, null, 'full', [SI(-3, -2), TP(1, 3, 12)], [95, 120]),
-  R('winter-squash', 'Winterpompoen', 'Winter squash', 'fruit-veg', true, false, null, 100, null, 'full', [SI(-3, -2), TP(1, 3, 12)], [100, 130]),
-  R('melon', 'Meloen', 'Melon', 'fruit-veg', true, true, 15, 60, null, 'full', [SI(-4, -3), TP(2, 3, 16)], [90, 110]),
-  R('sweetcorn', 'Maïs', 'Sweetcorn', 'fruit-veg', true, false, null, 35, null, 'full', [SI(-3, -2), TP(1, 2, 12), SD(2, 4, 12)], [80, 100]),
+  // ── fruiting veg ────────────────────────────────────────────────────────────
+  // NOTE: frost-tender crops plant out at >= +4w from last frost. NL practice
+  // anchors this to IJsheiligen (11–15 May), NOT the meteorological last frost —
+  // sources are unanimous that tomatoes/courgettes/cucumbers/peppers only go out
+  // after ~15 May. With the NL last-frost default (~15 Apr) that is +4w.
+  R('tomato', 'Tomaat', 'Tomato', 'fruit-veg', true, true, 10, 45, 1, 'full', [SI(-6, -2), TP(4, 6, 12)], [60, 85]),
+  R('pepper', 'Paprika', 'Sweet pepper', 'fruit-veg', true, true, 10, 40, 1, 'full', [SI(-8, -5), TP(4, 6, 14)], [90, 120]),
+  R('chili', 'Spaanse peper', 'Chilli', 'fruit-veg', true, true, 7, 40, 1, 'full', [SI(-8, -5), TP(4, 6, 14)], [90, 120]),
+  R('aubergine', 'Aubergine', 'Aubergine', 'fruit-veg', true, true, 12, 45, 1, 'full', [SI(-8, -5), TP(4, 6, 15)], [100, 120]),
+  R('cucumber', 'Komkommer', 'Cucumber', 'fruit-veg', true, true, 15, 45, null, 'full', [SI(0, 2), TP(4, 6, 15)], [55, 70]),
+  R('gherkin', 'Augurk', 'Gherkin', 'fruit-veg', true, true, 12, 40, null, 'full', [SI(0, 2), TP(4, 6, 15)], [50, 65]),
+  R('courgette', 'Courgette', 'Courgette', 'fruit-veg', true, true, 20, 90, null, 'full', [SI(0, 3), TP(4, 6, 12)], [50, 70]),
+  R('pumpkin', 'Pompoen', 'Pumpkin', 'fruit-veg', true, false, null, 120, null, 'full', [SI(0, 2), TP(4, 6, 12)], [95, 120]),
+  R('winter-squash', 'Winterpompoen', 'Winter squash', 'fruit-veg', true, false, null, 100, null, 'full', [SI(0, 2), TP(4, 6, 12)], [100, 130]),
+  R('melon', 'Meloen', 'Melon', 'fruit-veg', true, true, 15, 60, null, 'full', [SI(-1, 1), TP(4, 6, 16)], [90, 110]),
+  R('sweetcorn', 'Maïs', 'Sweetcorn', 'fruit-veg', true, false, null, 35, null, 'full', [SI(0, 2), TP(4, 5, 12), SD(4, 7, 12)], [80, 100]),
 
   // ── legumes ─────────────────────────────────────────────────────────────────
-  R('french-bean', 'Stamslaboon', 'French bean', 'legume', true, true, 10, 10, 9, 'full', [SD(1, 6, 12)], [55, 70]),
-  R('runner-bean', 'Pronkboon', 'Runner bean', 'legume', true, false, null, 20, null, 'full', [SD(1, 4, 12)], [70, 90]),
+  R('french-bean', 'Stamslaboon', 'French bean', 'legume', true, true, 10, 10, 9, 'full', [SD(4, 9, 12)], [55, 70]),
+  R('runner-bean', 'Pronkboon', 'Runner bean', 'legume', true, false, null, 20, null, 'full', [SD(4, 8, 12)], [70, 90]),
   R('broad-bean', 'Tuinboon', 'Broad bean', 'legume', false, true, 12, 20, 4, 'full', [SD(-8, -4, 3)], [90, 110]),
   R('pea', 'Doperwt', 'Pea', 'legume', false, true, 12, 8, 8, 'full', [SD(-6, 2, 5)], [60, 80]),
   R('mangetout', 'Peul', 'Mangetout', 'legume', false, true, 12, 8, 8, 'full', [SD(-6, 2, 5)], [60, 75]),
@@ -98,7 +102,8 @@ const CROPS: Row[] = [
   // ── allium ──────────────────────────────────────────────────────────────────────
   R('onion', 'Ui', 'Onion', 'allium', false, true, 5, 10, 16, 'full', [PL(-4, 2, 5)], [120, 150]),
   R('shallot', 'Sjalot', 'Shallot', 'allium', false, true, 5, 15, 9, 'full', [PL(-8, -2, 3)], [100, 130]),
-  R('garlic', 'Knoflook', 'Garlic', 'allium', false, true, 5, 15, 9, 'full', [PL(-6, 2, 3, 'first_frost')], [240, 270]),
+  // Autumn-planted: NL sources say mid-Oct to mid-Nov (≈ first frost −3w..+2w).
+  R('garlic', 'Knoflook', 'Garlic', 'allium', false, true, 5, 15, 9, 'full', [PL(-3, 2, 3, 'first_frost')], [240, 270]),
   R('leek', 'Prei', 'Leek', 'allium', false, true, 10, 15, 9, 'full', [SI(-8, -6), TP(2, 6)], [120, 150]),
   R('spring-onion', 'Bosui', 'Spring onion', 'allium', false, true, 3, 3, 36, 'partial', [SD(-4, 10, 5)], [60, 80]),
   R('chives', 'Bieslook', 'Chives', 'allium', false, true, 3, 15, 9, 'partial', [SI(-6, -4), TP(0, 4)], [60, 70]),
@@ -107,7 +112,7 @@ const CROPS: Row[] = [
   R('potato', 'Aardappel', 'Potato', 'potato', true, true, 20, 30, null, 'full', [PL(-2, 2, 6)], [90, 120]),
 
   // ── herbs ─────────────────────────────────────────────────────────────────────
-  R('basil', 'Basilicum', 'Basil', 'herb', true, true, 3, 20, 4, 'full', [SI(-6, -4), TP(1, 2, 12)], [40, 60]),
+  R('basil', 'Basilicum', 'Basil', 'herb', true, true, 3, 20, 4, 'full', [SI(-4, -1), TP(4, 6, 12)], [40, 60]),
   R('parsley', 'Peterselie', 'Parsley', 'herb', false, true, 5, 15, 9, 'partial', [SI(-6, -4), SD(-2, 6, 8)], [70, 90]),
   R('coriander', 'Koriander', 'Coriander', 'herb', false, true, 3, 10, 9, 'partial', [SD(-2, 10, 8)], [40, 60]),
   R('dill', 'Dille', 'Dill', 'herb', false, true, 5, 15, 9, 'full', [SD(0, 10, 10)], [50, 70]),
@@ -125,7 +130,23 @@ const CROPS: Row[] = [
   R('asparagus', 'Asperge', 'Asparagus', 'fruit', false, false, null, 40, null, 'full', [PL(-4, 0)], [700, 730]),
 ]
 
+// ── Verification record ───────────────────────────────────────────────────────
+// Crops whose timing has been CROSS-REFERENCED against >=2 published NL sources
+// (see docs/DATA-VERIFICATION.md for the method and what each check found).
+// Everything absent from this map stays verified:false — draft, not confirmed.
+const VERIFIED: Record<string, string[]> = {
+  tomato: ['IVN kweektips', 'Gardeners World NL', 'Tuinadvies.nl', 'zaaitijden.nl'],
+  courgette: ['Makkelijke Moestuin', 'Groei & Bloei', 'Moesmeisje', 'mooiemoestuin.nl'],
+  garlic: ['Groei & Bloei', 'Gardeners World NL', 'Moesmeisje', 'robbiesmoestuin.nl'],
+  lettuce: ['Tuinadvies.nl moestuinklussen', 'Gardeners World NL jaarkalender'],
+  spinach: ['mooiemoestuin.nl', 'Tuinadvies.nl moestuinklussen'],
+  pea: ['Tuinadvies.nl moestuinklussen', 'Gardeners World NL jaarkalender'],
+  carrot: ['Tuinadvies.nl moestuinklussen', 'Gardeners World NL jaarkalender'],
+  radish: ['Tuinadvies.nl moestuinklussen', 'Gardeners World NL jaarkalender'],
+}
+
 function toCrop(r: Row): Crop {
+  const sources = VERIFIED[r.slug]
   return {
     slug: r.slug,
     names: { nl: r.nl, en: r.en },
@@ -138,8 +159,8 @@ function toCrop(r: Row): Crop {
     sun: r.sun,
     methods: r.m,
     harvest: { days_min: r.h[0], days_max: r.h[1] },
-    sources: [], // draft: to be filled when cross-referenced + verified
-    verified: false,
+    sources: sources ?? [],
+    verified: sources !== undefined,
   }
 }
 

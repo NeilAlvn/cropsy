@@ -28,6 +28,9 @@
     "days_min": 25,
     "days_max": 35
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Tuinadvies.nl moestuinklussen",
+    "Gardeners World NL jaarkalender"
+  ],
+  "verified": true
 }

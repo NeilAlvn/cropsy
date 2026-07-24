@@ -28,6 +28,9 @@
     "days_min": 40,
     "days_max": 55
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "mooiemoestuin.nl",
+    "Tuinadvies.nl moestuinklussen"
+  ],
+  "verified": true
 }
