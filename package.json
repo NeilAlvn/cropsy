@@ -8,6 +8,7 @@
     "smoke": "tsx scripts/smoke.ts",
     "seed:crops": "tsx scripts/seed-draft-crops.ts",
     "verify:engine": "tsx scripts/verify-engine.ts",
+    "verify:adjust": "tsx scripts/verify-adjust.ts",
     "lint:crops": "tsx scripts/lint-crops.ts",
     "typecheck": "tsc --noEmit"
   },

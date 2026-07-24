@@ -71,26 +71,33 @@ export async function resolveFrostProfile(
 export interface DailyWeather {
   date: string
   temp_min_c: number
+  temp_max_c: number
   precip_mm: number
 }
 
-/** Recent-past + near-future daily rain & min temp, for the reminder adjustment. */
+/** Recent-past + near-future daily rain & temps, for the reminder adjustment. */
 export async function dailyRainAndTemp(
   { lat, lon }: LatLon,
   fetchImpl: typeof fetch = fetch,
 ): Promise<DailyWeather[]> {
   const url =
     `${FORECAST}?latitude=${lat}&longitude=${lon}` +
-    `&daily=precipitation_sum,temperature_2m_min&past_days=7&forecast_days=7&timezone=auto`
+    `&daily=precipitation_sum,temperature_2m_min,temperature_2m_max&past_days=7&forecast_days=7&timezone=auto`
 
   const res = await fetchImpl(url)
   if (!res.ok) throw new Error(`Open-Meteo forecast ${res.status}`)
   const json = (await res.json()) as {
-    daily: { time: string[]; precipitation_sum: number[]; temperature_2m_min: number[] }
+    daily: {
+      time: string[]
+      precipitation_sum: number[]
+      temperature_2m_min: number[]
+      temperature_2m_max: number[]
+    }
   }
   return json.daily.time.map((date, i) => ({
     date,
     temp_min_c: json.daily.temperature_2m_min[i] ?? NaN,
+    temp_max_c: json.daily.temperature_2m_max[i] ?? NaN,
     precip_mm: json.daily.precipitation_sum[i] ?? 0,
   }))
 }

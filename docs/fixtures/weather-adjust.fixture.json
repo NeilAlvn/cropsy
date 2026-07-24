@@ -1,0 +1,99 @@
+{
+  "observations": [
+    {
+      "date": "2026-05-01",
+      "precip_mm": 8,
+      "temp_min_c": 6,
+      "temp_max_c": 11
+    },
+    {
+      "date": "2026-05-02",
+      "precip_mm": 6,
+      "temp_min_c": 5,
+      "temp_max_c": 10
+    },
+    {
+      "date": "2026-05-03",
+      "precip_mm": 1,
+      "temp_min_c": 5,
+      "temp_max_c": 11
+    },
+    {
+      "date": "2026-05-04",
+      "precip_mm": 0,
+      "temp_min_c": 7,
+      "temp_max_c": 14
+    },
+    {
+      "date": "2026-05-05",
+      "precip_mm": 0,
+      "temp_min_c": 9,
+      "temp_max_c": 17
+    },
+    {
+      "date": "2026-05-06",
+      "precip_mm": 0,
+      "temp_min_c": 10,
+      "temp_max_c": 20
+    },
+    {
+      "date": "2026-05-07",
+      "precip_mm": 0,
+      "temp_min_c": 11,
+      "temp_max_c": 21
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t-water-wet",
+      "crop_slug": "tomato",
+      "kind": "water",
+      "due": "2026-05-02"
+    },
+    {
+      "id": "t-water-dry",
+      "crop_slug": "tomato",
+      "kind": "water",
+      "due": "2026-05-06"
+    },
+    {
+      "id": "t-sow-cold",
+      "crop_slug": "courgette",
+      "kind": "sow",
+      "due": "2026-05-02",
+      "min_soil_c": 12
+    },
+    {
+      "id": "t-tp-warm",
+      "crop_slug": "lettuce",
+      "kind": "transplant",
+      "due": "2026-05-06",
+      "min_soil_c": 8
+    },
+    {
+      "id": "t-harvest",
+      "crop_slug": "radish",
+      "kind": "harvest",
+      "due": "2026-05-03"
+    }
+  ],
+  "adjustments": [
+    {
+      "task_id": "t-water-wet",
+      "action": "skip",
+      "reason": {
+        "nl": "Genoeg regen rond deze dag (15 mm) — overslaan.",
+        "en": "Enough rain around this day (15 mm) — skip watering."
+      }
+    },
+    {
+      "task_id": "t-sow-cold",
+      "action": "defer",
+      "to": "2026-05-05",
+      "reason": {
+        "nl": "Bodem nog te koud (< 12°C) — uitgesteld tot het warmer is.",
+        "en": "Soil still too cold (< 12°C) — held until it warms up."
+      }
+    }
+  ]
+}

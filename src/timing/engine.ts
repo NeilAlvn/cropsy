@@ -9,26 +9,7 @@
 // contract. This file must never reach for it.
 
 import type { Crop, CropMethod, FrostProfile, ScheduledWindow } from './types'
-
-const MS_PER_DAY = 86_400_000
-
-function parseISO(d: string): Date {
-  // Treat dates as UTC calendar days to avoid timezone drift shifting a window.
-  const parts = d.split('-').map(Number)
-  const [y, m, day] = parts
-  if (parts.length !== 3 || y === undefined || m === undefined || day === undefined) {
-    throw new Error(`invalid ISO date: ${d}`)
-  }
-  return new Date(Date.UTC(y, m - 1, day))
-}
-
-function toISO(d: Date): string {
-  return d.toISOString().slice(0, 10)
-}
-
-function addWeeks(d: Date, weeks: number): Date {
-  return new Date(d.getTime() + Math.round(weeks * 7) * MS_PER_DAY)
-}
+import { MS_PER_DAY, parseISO, toISO, addWeeks } from './dates'
 
 function anchorDate(method: CropMethod, frost: FrostProfile): Date {
   return parseISO(method.anchor === 'last_frost' ? frost.last_frost : frost.first_frost)

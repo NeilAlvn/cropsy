@@ -17,7 +17,7 @@ notes.
 
 ```
 data/crops/         The moat: 60 frost-relative crop rules (JSON). _SCHEMA.md = format.
-src/timing/         Pure timing engine — rules + frost dates → dated windows. No I/O.
+src/timing/         Pure engines — base schedule (engine) + weather adjustment. No I/O.
 src/weather/        Open-Meteo spike: frost profile + rain/temp signal.
 supabase/migrations The syncable-table foundation (updated_at + soft-delete + RLS).
 docs/API-CONTRACT   The web⇄mobile seam (offline-first, delta sync, two-layer timing).
@@ -35,6 +35,7 @@ scripts/            crop seeder, linter, deterministic verify, live smoke test.
 ```bash
 npm install
 npm run verify:engine  # deterministic: all 60 crops vs a fixed frost date, no network
+npm run verify:adjust  # deterministic: weather adjustment (skip-when-wet, defer-when-cold)
 npm run lint:crops     # validate rules + report draft/verified counts
 npm run smoke          # live Open-Meteo frost lookup → a dated schedule (needs network)
 npm run seed:crops     # regenerate the draft crop JSON from scripts/seed-draft-crops.ts
@@ -43,8 +44,12 @@ npm run typecheck
 
 ## The one idea to hold onto
 
-Timing is **two layers**. The `base` schedule is deterministic — computed from
-crop rules + frost dates, so the Flutter client runs the exact same logic
-**offline**. The `weather` adjustment (skip-when-rained, defer-below-soil-temp)
-is an **online, optional** overlay. Offline, the app degrades to the base
-schedule and never blanks. Everything in `src/timing` stays pure to protect this.
+Timing is **two layers**, both now built and pure:
+- **`engine.ts`** — the deterministic `base` schedule from crop rules + frost
+  dates. The Flutter client runs the exact same logic **offline**.
+- **`weather-adjust.ts`** — the **online, optional** overlay: skip watering when
+  it rained, defer sowing while the soil's too cold. Returns deltas only.
+
+Offline, the base schedule stands and never blanks. Both engines take their
+inputs as arguments (no clock, no network), so they're fully testable and each
+has a day-exact fixture in `docs/fixtures/` for Dart parity.

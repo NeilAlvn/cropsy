@@ -104,6 +104,13 @@ Response:
 `action` ∈ `defer` | `skip` | `bring_forward` | `none`. Never destructive; always
 carries a localized `reason` (trust). Advisory — the user can override.
 
+**Implemented** in `src/timing/weather-adjust.ts` (pure `adjustTasks(tasks,
+observations, params)`, deltas only). Current rules (params in `DEFAULT_ADJUST`):
+watering is **skipped** when rain over `[due-2d, due+1d]` ≥ 10 mm; a sow/transplant
+gated by `min_soil_c` is **deferred** to the next day mean air-temp (min+max)/2
+meets the gate, within 14 days. Day-exact fixture:
+`docs/fixtures/weather-adjust.fixture.json`.
+
 ---
 
 ## 6. User data — syncable tables (Supabase, delta sync)
