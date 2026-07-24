@@ -1,22 +1,22 @@
 {
-  "slug": "lettuce",
+  "slug": "kale",
   "names": {
-    "nl": "Sla",
-    "en": "Lettuce"
+    "nl": "Boerenkool",
+    "en": "Kale"
   },
-  "category": "leafy",
+  "category": "brassica",
   "frost_tender": false,
   "container_ok": true,
-  "min_pot_litres": 5,
-  "spacing_cm": 25,
-  "vak_per_m2": 4,
+  "min_pot_litres": 12,
+  "spacing_cm": 45,
+  "vak_per_m2": 1,
   "sun": "partial",
   "methods": [
     {
       "type": "sow_indoor",
       "anchor": "last_frost",
-      "start_weeks": -6,
-      "end_weeks": -4,
+      "start_weeks": -4,
+      "end_weeks": 0,
       "min_soil_c": null,
       "note": {
         "nl": "Binnen voorzaaien voor een vroege start.",
@@ -24,11 +24,22 @@
       }
     },
     {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": 2,
+      "end_weeks": 6,
+      "min_soil_c": null,
+      "note": {
+        "nl": "Buiten uitplanten zodra het veilig is.",
+        "en": "Plant out once conditions are safe."
+      }
+    },
+    {
       "type": "sow_direct",
       "anchor": "last_frost",
-      "start_weeks": -2,
-      "end_weeks": 10,
-      "min_soil_c": 5,
+      "start_weeks": 0,
+      "end_weeks": 6,
+      "min_soil_c": 8,
       "note": {
         "nl": "Direct op de plek buiten zaaien.",
         "en": "Sow directly outdoors where it will grow."
@@ -36,8 +47,8 @@
     }
   ],
   "harvest": {
-    "days_min": 45,
-    "days_max": 65
+    "days_min": 90,
+    "days_max": 120
   },
   "sources": [],
   "verified": false

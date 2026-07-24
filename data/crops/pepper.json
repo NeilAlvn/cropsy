@@ -1,22 +1,22 @@
 {
-  "slug": "courgette",
+  "slug": "pepper",
   "names": {
-    "nl": "Courgette",
-    "en": "Courgette"
+    "nl": "Paprika",
+    "en": "Sweet pepper"
   },
   "category": "fruit-veg",
   "frost_tender": true,
   "container_ok": true,
-  "min_pot_litres": 20,
-  "spacing_cm": 90,
-  "vak_per_m2": null,
+  "min_pot_litres": 10,
+  "spacing_cm": 40,
+  "vak_per_m2": 1,
   "sun": "full",
   "methods": [
     {
       "type": "sow_indoor",
       "anchor": "last_frost",
-      "start_weeks": -4,
-      "end_weeks": -3,
+      "start_weeks": -10,
+      "end_weeks": -8,
       "min_soil_c": null,
       "note": {
         "nl": "Binnen voorzaaien voor een vroege start.",
@@ -26,9 +26,9 @@
     {
       "type": "transplant",
       "anchor": "last_frost",
-      "start_weeks": 1,
+      "start_weeks": 2,
       "end_weeks": 3,
-      "min_soil_c": 12,
+      "min_soil_c": 14,
       "note": {
         "nl": "Buiten uitplanten zodra het veilig is.",
         "en": "Plant out once conditions are safe."
@@ -36,8 +36,8 @@
     }
   ],
   "harvest": {
-    "days_min": 50,
-    "days_max": 70
+    "days_min": 90,
+    "days_max": 120
   },
   "sources": [],
   "verified": false

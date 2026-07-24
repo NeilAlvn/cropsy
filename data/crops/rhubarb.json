@@ -1,0 +1,33 @@
+{
+  "slug": "rhubarb",
+  "names": {
+    "nl": "Rabarber",
+    "en": "Rhubarb"
+  },
+  "category": "fruit",
+  "frost_tender": false,
+  "container_ok": false,
+  "min_pot_litres": null,
+  "spacing_cm": 90,
+  "vak_per_m2": null,
+  "sun": "partial",
+  "methods": [
+    {
+      "type": "plant",
+      "anchor": "last_frost",
+      "start_weeks": -8,
+      "end_weeks": 0,
+      "min_soil_c": null,
+      "note": {
+        "nl": "Poten/planten in de aangegeven periode.",
+        "en": "Plant in the window shown."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 330,
+    "days_max": 365
+  },
+  "sources": [],
+  "verified": false
+}

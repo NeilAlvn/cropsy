@@ -1,0 +1,33 @@
+{
+  "slug": "strawberry",
+  "names": {
+    "nl": "Aardbei",
+    "en": "Strawberry"
+  },
+  "category": "fruit",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 3,
+  "spacing_cm": 30,
+  "vak_per_m2": 4,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "plant",
+      "anchor": "first_frost",
+      "start_weeks": -8,
+      "end_weeks": -2,
+      "min_soil_c": null,
+      "note": {
+        "nl": "Poten/planten in de aangegeven periode.",
+        "en": "Plant in the window shown."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 60,
+    "days_max": 60
+  },
+  "sources": [],
+  "verified": false
+}

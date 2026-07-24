@@ -1,0 +1,33 @@
+{
+  "slug": "asparagus",
+  "names": {
+    "nl": "Asperge",
+    "en": "Asparagus"
+  },
+  "category": "fruit",
+  "frost_tender": false,
+  "container_ok": false,
+  "min_pot_litres": null,
+  "spacing_cm": 40,
+  "vak_per_m2": null,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "plant",
+      "anchor": "last_frost",
+      "start_weeks": -4,
+      "end_weeks": 0,
+      "min_soil_c": null,
+      "note": {
+        "nl": "Poten/planten in de aangegeven periode.",
+        "en": "Plant in the window shown."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 700,
+    "days_max": 730
+  },
+  "sources": [],
+  "verified": false
+}

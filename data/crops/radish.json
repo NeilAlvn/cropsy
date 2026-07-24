@@ -1,7 +1,10 @@
 {
   "slug": "radish",
-  "names": { "nl": "Radijs", "en": "Radish" },
-  "category": "root",
+  "names": {
+    "nl": "Radijs",
+    "en": "Radish"
+  },
+  "category": "brassica",
   "frost_tender": false,
   "container_ok": true,
   "min_pot_litres": 3,
@@ -9,10 +12,22 @@
   "vak_per_m2": 16,
   "sun": "partial",
   "methods": [
-    { "type": "sow_direct", "anchor": "last_frost", "start_weeks": -4, "end_weeks": 12,
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": -4,
+      "end_weeks": 12,
       "min_soil_c": 5,
-      "note": { "nl": "Snelle oogst — ideaal om de paar weken bij te zaaien.", "en": "Fast to harvest — great for sowing every few weeks." } }
+      "note": {
+        "nl": "Direct op de plek buiten zaaien.",
+        "en": "Sow directly outdoors where it will grow."
+      }
+    }
   ],
-  "harvest": { "days_min": 25, "days_max": 35 },
-  "sources": ["De Bolster", "Vreeken", "Velt"]
+  "harvest": {
+    "days_min": 25,
+    "days_max": 35
+  },
+  "sources": [],
+  "verified": false
 }

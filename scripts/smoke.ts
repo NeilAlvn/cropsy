@@ -11,10 +11,19 @@ const UTRECHT = { lat: 52.09, lon: 5.12 }
 const crops = loadCrops()
 console.log(`Loaded ${crops.length} crops: ${crops.map((c) => c.slug).join(', ')}\n`)
 
+// The base schedule must never depend on the network (offline-first). So if the
+// live frost lookup is unreachable, fall back to a national default — exactly
+// what the app does on-device with no cached profile.
+const NL_DEFAULT = { last_frost: '2026-04-15', first_frost: '2026-11-01' }
 console.log('Resolving frost profile for Utrecht via Open-Meteo…')
-const frost = await resolveFrostProfile(UTRECHT)
-console.log(`  last frost:  ${frost.last_frost}`)
-console.log(`  first frost: ${frost.first_frost}\n`)
+let frost = NL_DEFAULT
+try {
+  frost = await resolveFrostProfile(UTRECHT)
+  console.log(`  last frost:  ${frost.last_frost}`)
+  console.log(`  first frost: ${frost.first_frost}\n`)
+} catch {
+  console.log(`  (Open-Meteo unreachable — using NL default, as the app would offline)\n`)
+}
 
 const schedule = scheduleGarden(crops, frost)
 console.log(`Full season schedule (${schedule.length} windows):`)
@@ -32,8 +41,12 @@ for (const w of active) {
 }
 
 console.log('\nWeather adjustment signal (recent + forecast):')
-const weather = await dailyRainAndTemp(UTRECHT)
-const rained = weather.filter((d) => d.precip_mm >= 5).length
-console.log(`  ${weather.length} days fetched; ${rained} with >=5mm rain (would skip watering)`)
+try {
+  const weather = await dailyRainAndTemp(UTRECHT)
+  const rained = weather.filter((d) => d.precip_mm >= 5).length
+  console.log(`  ${weather.length} days fetched; ${rained} with >=5mm rain (would skip watering)`)
+} catch {
+  console.log('  (Open-Meteo unreachable — offline, the app keeps the base schedule)')
+}
 
 console.log('\n✓ smoke test complete')

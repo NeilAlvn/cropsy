@@ -1,14 +1,14 @@
 {
-  "slug": "courgette",
+  "slug": "melon",
   "names": {
-    "nl": "Courgette",
-    "en": "Courgette"
+    "nl": "Meloen",
+    "en": "Melon"
   },
   "category": "fruit-veg",
   "frost_tender": true,
   "container_ok": true,
-  "min_pot_litres": 20,
-  "spacing_cm": 90,
+  "min_pot_litres": 15,
+  "spacing_cm": 60,
   "vak_per_m2": null,
   "sun": "full",
   "methods": [
@@ -26,9 +26,9 @@
     {
       "type": "transplant",
       "anchor": "last_frost",
-      "start_weeks": 1,
+      "start_weeks": 2,
       "end_weeks": 3,
-      "min_soil_c": 12,
+      "min_soil_c": 16,
       "note": {
         "nl": "Buiten uitplanten zodra het veilig is.",
         "en": "Plant out once conditions are safe."
@@ -36,8 +36,8 @@
     }
   ],
   "harvest": {
-    "days_min": 50,
-    "days_max": 70
+    "days_min": 90,
+    "days_max": 110
   },
   "sources": [],
   "verified": false

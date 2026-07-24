@@ -1,23 +1,23 @@
 {
-  "slug": "carrot",
+  "slug": "rocket",
   "names": {
-    "nl": "Wortel",
-    "en": "Carrot"
+    "nl": "Rucola",
+    "en": "Rocket"
   },
-  "category": "root",
+  "category": "brassica",
   "frost_tender": false,
   "container_ok": true,
-  "min_pot_litres": 10,
-  "spacing_cm": 5,
-  "vak_per_m2": 16,
-  "sun": "full",
+  "min_pot_litres": 3,
+  "spacing_cm": 15,
+  "vak_per_m2": 9,
+  "sun": "partial",
   "methods": [
     {
       "type": "sow_direct",
       "anchor": "last_frost",
-      "start_weeks": -2,
-      "end_weeks": 8,
-      "min_soil_c": 7,
+      "start_weeks": -4,
+      "end_weeks": 12,
+      "min_soil_c": 5,
       "note": {
         "nl": "Direct op de plek buiten zaaien.",
         "en": "Sow directly outdoors where it will grow."
@@ -25,8 +25,8 @@
     }
   ],
   "harvest": {
-    "days_min": 70,
-    "days_max": 90
+    "days_min": 30,
+    "days_max": 45
   },
   "sources": [],
   "verified": false

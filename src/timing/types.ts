@@ -35,6 +35,12 @@ export interface Crop {
   methods: CropMethod[]
   harvest: { days_min: number; days_max: number }
   sources: string[]
+  /**
+   * false = DRAFT: timing populated from general knowledge, NOT yet confirmed
+   * against real supplier calendars by a grower. Draft data must never ship as
+   * fact. Only flip to true once cross-checked against >=2 sources.
+   */
+  verified: boolean
 }
 
 /** The two dates that turn frost-relative rules into real calendar windows. */

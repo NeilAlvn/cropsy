@@ -29,6 +29,7 @@ plain data, no logic.
 | `methods` | array | one or more sowing/planting methods (below) — the heart of the rule |
 | `harvest` | object | `{days_min, days_max}` days from sow/plant to first harvest |
 | `sources` | string[] | which supplier calendars this row was cross-checked against |
+| `verified` | boolean | `false` = DRAFT (timing from general knowledge, not grower-confirmed). Only `true` after cross-checking ≥2 real sources. Draft data must never ship as fact. |
 
 ### `methods[]` — each is one way to get the crop going
 

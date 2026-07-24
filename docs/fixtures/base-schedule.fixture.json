@@ -1,0 +1,96 @@
+{
+  "frost": {
+    "last_frost": "2026-04-15",
+    "first_frost": "2026-11-01"
+  },
+  "windows": [
+    {
+      "crop_slug": "tomato",
+      "method": "sow_indoor",
+      "start": "2026-02-18",
+      "end": "2026-03-04",
+      "min_soil_c": null,
+      "note": {
+        "nl": "Binnen voorzaaien voor een vroege start.",
+        "en": "Start indoors for an early start."
+      }
+    },
+    {
+      "crop_slug": "lettuce",
+      "method": "sow_indoor",
+      "start": "2026-03-04",
+      "end": "2026-03-18",
+      "min_soil_c": null,
+      "note": {
+        "nl": "Binnen voorzaaien voor een vroege start.",
+        "en": "Start indoors for an early start."
+      }
+    },
+    {
+      "crop_slug": "onion",
+      "method": "plant",
+      "start": "2026-03-18",
+      "end": "2026-04-29",
+      "min_soil_c": 5,
+      "note": {
+        "nl": "Poten/planten in de aangegeven periode.",
+        "en": "Plant in the window shown."
+      }
+    },
+    {
+      "crop_slug": "lettuce",
+      "method": "sow_direct",
+      "start": "2026-04-01",
+      "end": "2026-06-24",
+      "min_soil_c": 5,
+      "note": {
+        "nl": "Direct op de plek buiten zaaien.",
+        "en": "Sow directly outdoors where it will grow."
+      }
+    },
+    {
+      "crop_slug": "potato",
+      "method": "plant",
+      "start": "2026-04-01",
+      "end": "2026-04-29",
+      "min_soil_c": 6,
+      "note": {
+        "nl": "Poten/planten in de aangegeven periode.",
+        "en": "Plant in the window shown."
+      }
+    },
+    {
+      "crop_slug": "tomato",
+      "method": "transplant",
+      "start": "2026-04-22",
+      "end": "2026-05-06",
+      "min_soil_c": 12,
+      "note": {
+        "nl": "Buiten uitplanten zodra het veilig is.",
+        "en": "Plant out once conditions are safe."
+      }
+    },
+    {
+      "crop_slug": "lambs-lettuce",
+      "method": "sow_direct",
+      "start": "2026-08-09",
+      "end": "2026-10-04",
+      "min_soil_c": 3,
+      "note": {
+        "nl": "Direct op de plek buiten zaaien.",
+        "en": "Sow directly outdoors where it will grow."
+      }
+    },
+    {
+      "crop_slug": "garlic",
+      "method": "plant",
+      "start": "2026-09-20",
+      "end": "2026-11-15",
+      "min_soil_c": 3,
+      "note": {
+        "nl": "Poten/planten in de aangegeven periode.",
+        "en": "Plant in the window shown."
+      }
+    }
+  ]
+}

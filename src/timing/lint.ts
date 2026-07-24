@@ -15,9 +15,16 @@ export function lintCrop(crop: Crop): LintIssue[] {
   const err = (message: string) => issues.push({ slug: crop.slug, level: 'error', message })
   const warn = (message: string) => issues.push({ slug: crop.slug, level: 'warn', message })
 
-  // One source = not verified. The whole point is cross-referencing.
-  if (!crop.sources || crop.sources.length < 2) {
-    err(`needs >=2 sources, has ${crop.sources?.length ?? 0}`)
+  // Verification gate. Draft crops are allowed in the repo (warned), but a crop
+  // claiming verified:true must actually be cross-referenced (>=2 sources). This
+  // is what stops unverified data masquerading as fact — the core "never be
+  // wrong" guardrail.
+  if (crop.verified) {
+    if (!crop.sources || crop.sources.length < 2) {
+      err(`marked verified but has ${crop.sources?.length ?? 0} sources (need >=2)`)
+    }
+  } else {
+    warn('DRAFT — timing not yet grower-verified (not launch-ready)')
   }
 
   if (crop.methods.length === 0) err('has no sowing/planting methods')
@@ -27,9 +34,11 @@ export function lintCrop(crop: Crop): LintIssue[] {
       err(`${m.type}: end_weeks (${m.end_weeks}) is before start_weeks (${m.start_weeks})`)
     }
 
-    // A frost-tender crop must never go OUTSIDE before the last frost.
-    const isOutdoorPlanting = m.type === 'transplant' || m.type === 'sow_direct' || m.type === 'plant'
-    if (crop.frost_tender && isOutdoorPlanting && m.anchor === 'last_frost' && m.start_weeks < 0) {
+    // A frost-tender crop must never expose a SEEDLING/TRANSPLANT outdoors before
+    // the last frost — those die. `plant` (tubers/crowns/sets) is exempt: it goes
+    // in underground and is normal practice before frost (e.g. potato).
+    const exposesTenderTissue = m.type === 'transplant' || m.type === 'sow_direct'
+    if (crop.frost_tender && exposesTenderTissue && m.anchor === 'last_frost' && m.start_weeks < 0) {
       err(`${m.type}: frost-tender crop starts ${-m.start_weeks}w BEFORE last frost — will be killed`)
     }
 

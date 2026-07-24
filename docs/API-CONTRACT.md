@@ -133,7 +133,9 @@ same as Farmsy. Documented here only so nothing is assumed.
 ---
 
 ## Open (fill in as we build)
-- [ ] `docs/fixtures/` shared day-exact test vectors (Aviah, before Chris mirrors §4)
+- [x] `docs/fixtures/base-schedule.fixture.json` — day-exact test vectors (frost
+      profile + crops → expected windows). Chris: your Dart §4 engine must
+      reproduce these exactly.
 - [ ] Exact `tasks.kind` enum (`water` | `sow` | `transplant` | `harvest` | `feed` …)
 - [ ] Whether frost profile is an endpoint or also bundled per-country offline
 - [ ] Auth handshake specifics once the Supabase project exists

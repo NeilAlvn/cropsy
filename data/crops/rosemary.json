@@ -1,0 +1,33 @@
+{
+  "slug": "rosemary",
+  "names": {
+    "nl": "Rozemarijn",
+    "en": "Rosemary"
+  },
+  "category": "herb",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 7,
+  "spacing_cm": 40,
+  "vak_per_m2": null,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": 2,
+      "end_weeks": 4,
+      "min_soil_c": null,
+      "note": {
+        "nl": "Buiten uitplanten zodra het veilig is.",
+        "en": "Plant out once conditions are safe."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 90,
+    "days_max": 90
+  },
+  "sources": [],
+  "verified": false
+}

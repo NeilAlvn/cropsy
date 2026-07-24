@@ -16,20 +16,28 @@ notes.
 ## What's here
 
 ```
-data/crops/         The moat: frost-relative crop rules (JSON). _SCHEMA.md = format.
+data/crops/         The moat: 60 frost-relative crop rules (JSON). _SCHEMA.md = format.
 src/timing/         Pure timing engine — rules + frost dates → dated windows. No I/O.
 src/weather/        Open-Meteo spike: frost profile + rain/temp signal.
 supabase/migrations The syncable-table foundation (updated_at + soft-delete + RLS).
 docs/API-CONTRACT   The web⇄mobile seam (offline-first, delta sync, two-layer timing).
-scripts/            loadCrops, crop linter, end-to-end smoke test.
+docs/fixtures/      Day-exact schedule fixture — Dart engine must match it.
+scripts/            crop seeder, linter, deterministic verify, live smoke test.
 ```
+
+> ⚠️ **All 60 crops are `verified: false` — DRAFT.** Timing is populated from
+> general knowledge, not yet cross-checked against real supplier calendars by a
+> grower. This is the moat and must be verified before launch; the linter tracks
+> how many still need sign-off. Do not treat draft dates as fact.
 
 ## Try it
 
 ```bash
 npm install
-npm run lint:crops   # validate the crop rules (bad data = worst bug)
-npm run smoke        # real crops + live Open-Meteo frost lookup → a dated schedule
+npm run verify:engine  # deterministic: all 60 crops vs a fixed frost date, no network
+npm run lint:crops     # validate rules + report draft/verified counts
+npm run smoke          # live Open-Meteo frost lookup → a dated schedule (needs network)
+npm run seed:crops     # regenerate the draft crop JSON from scripts/seed-draft-crops.ts
 npm run typecheck
 ```
 

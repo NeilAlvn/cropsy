@@ -1,22 +1,22 @@
 {
-  "slug": "courgette",
+  "slug": "celeriac",
   "names": {
-    "nl": "Courgette",
-    "en": "Courgette"
+    "nl": "Knolselderij",
+    "en": "Celeriac"
   },
-  "category": "fruit-veg",
-  "frost_tender": true,
-  "container_ok": true,
-  "min_pot_litres": 20,
-  "spacing_cm": 90,
+  "category": "root",
+  "frost_tender": false,
+  "container_ok": false,
+  "min_pot_litres": null,
+  "spacing_cm": 35,
   "vak_per_m2": null,
   "sun": "full",
   "methods": [
     {
       "type": "sow_indoor",
       "anchor": "last_frost",
-      "start_weeks": -4,
-      "end_weeks": -3,
+      "start_weeks": -8,
+      "end_weeks": -6,
       "min_soil_c": null,
       "note": {
         "nl": "Binnen voorzaaien voor een vroege start.",
@@ -28,7 +28,7 @@
       "anchor": "last_frost",
       "start_weeks": 1,
       "end_weeks": 3,
-      "min_soil_c": 12,
+      "min_soil_c": 10,
       "note": {
         "nl": "Buiten uitplanten zodra het veilig is.",
         "en": "Plant out once conditions are safe."
@@ -36,8 +36,8 @@
     }
   ],
   "harvest": {
-    "days_min": 50,
-    "days_max": 70
+    "days_min": 150,
+    "days_max": 180
   },
   "sources": [],
   "verified": false

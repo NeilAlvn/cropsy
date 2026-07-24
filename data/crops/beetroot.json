@@ -1,15 +1,15 @@
 {
-  "slug": "carrot",
+  "slug": "beetroot",
   "names": {
-    "nl": "Wortel",
-    "en": "Carrot"
+    "nl": "Kroot",
+    "en": "Beetroot"
   },
   "category": "root",
   "frost_tender": false,
   "container_ok": true,
-  "min_pot_litres": 10,
-  "spacing_cm": 5,
-  "vak_per_m2": 16,
+  "min_pot_litres": 7,
+  "spacing_cm": 10,
+  "vak_per_m2": 9,
   "sun": "full",
   "methods": [
     {
@@ -22,11 +22,22 @@
         "nl": "Direct op de plek buiten zaaien.",
         "en": "Sow directly outdoors where it will grow."
       }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": -2,
+      "end_weeks": 2,
+      "min_soil_c": null,
+      "note": {
+        "nl": "Buiten uitplanten zodra het veilig is.",
+        "en": "Plant out once conditions are safe."
+      }
     }
   ],
   "harvest": {
-    "days_min": 70,
-    "days_max": 90
+    "days_min": 60,
+    "days_max": 80
   },
   "sources": [],
   "verified": false

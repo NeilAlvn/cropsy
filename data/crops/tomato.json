@@ -1,6 +1,9 @@
 {
   "slug": "tomato",
-  "names": { "nl": "Tomaat", "en": "Tomato" },
+  "names": {
+    "nl": "Tomaat",
+    "en": "Tomato"
+  },
   "category": "fruit-veg",
   "frost_tender": true,
   "container_ok": true,
@@ -9,13 +12,33 @@
   "vak_per_m2": 1,
   "sun": "full",
   "methods": [
-    { "type": "sow_indoor", "anchor": "last_frost", "start_weeks": -8, "end_weeks": -6,
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -8,
+      "end_weeks": -6,
       "min_soil_c": null,
-      "note": { "nl": "Zaai binnen voor een vroege oogst.", "en": "Start indoors for an early harvest." } },
-    { "type": "transplant", "anchor": "last_frost", "start_weeks": 1, "end_weeks": 3,
+      "note": {
+        "nl": "Binnen voorzaaien voor een vroege start.",
+        "en": "Start indoors for an early start."
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": 1,
+      "end_weeks": 3,
       "min_soil_c": 12,
-      "note": { "nl": "Pas na de laatste vorst uitplanten.", "en": "Only plant out after the last frost." } }
+      "note": {
+        "nl": "Buiten uitplanten zodra het veilig is.",
+        "en": "Plant out once conditions are safe."
+      }
+    }
   ],
-  "harvest": { "days_min": 60, "days_max": 85 },
-  "sources": ["De Bolster", "Vreeken", "Bingenheim"]
+  "harvest": {
+    "days_min": 60,
+    "days_max": 85
+  },
+  "sources": [],
+  "verified": false
 }

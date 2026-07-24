@@ -6,6 +6,8 @@
   "description": "Container-first vegetable-growing app for NL/EU — backend, data & timing engine.",
   "scripts": {
     "smoke": "tsx scripts/smoke.ts",
+    "seed:crops": "tsx scripts/seed-draft-crops.ts",
+    "verify:engine": "tsx scripts/verify-engine.ts",
     "lint:crops": "tsx scripts/lint-crops.ts",
     "typecheck": "tsc --noEmit"
   },

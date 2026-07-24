@@ -1,14 +1,14 @@
 {
-  "slug": "courgette",
+  "slug": "cucumber",
   "names": {
-    "nl": "Courgette",
-    "en": "Courgette"
+    "nl": "Komkommer",
+    "en": "Cucumber"
   },
   "category": "fruit-veg",
   "frost_tender": true,
   "container_ok": true,
-  "min_pot_litres": 20,
-  "spacing_cm": 90,
+  "min_pot_litres": 15,
+  "spacing_cm": 45,
   "vak_per_m2": null,
   "sun": "full",
   "methods": [
@@ -28,7 +28,7 @@
       "anchor": "last_frost",
       "start_weeks": 1,
       "end_weeks": 3,
-      "min_soil_c": 12,
+      "min_soil_c": 15,
       "note": {
         "nl": "Buiten uitplanten zodra het veilig is.",
         "en": "Plant out once conditions are safe."
@@ -36,7 +36,7 @@
     }
   ],
   "harvest": {
-    "days_min": 50,
+    "days_min": 55,
     "days_max": 70
   },
   "sources": [],

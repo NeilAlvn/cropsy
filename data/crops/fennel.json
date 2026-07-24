@@ -1,23 +1,23 @@
 {
-  "slug": "carrot",
+  "slug": "fennel",
   "names": {
-    "nl": "Wortel",
-    "en": "Carrot"
+    "nl": "Venkel",
+    "en": "Florence fennel"
   },
-  "category": "root",
+  "category": "herb",
   "frost_tender": false,
   "container_ok": true,
-  "min_pot_litres": 10,
-  "spacing_cm": 5,
-  "vak_per_m2": 16,
+  "min_pot_litres": 7,
+  "spacing_cm": 25,
+  "vak_per_m2": 4,
   "sun": "full",
   "methods": [
     {
       "type": "sow_direct",
       "anchor": "last_frost",
-      "start_weeks": -2,
+      "start_weeks": 0,
       "end_weeks": 8,
-      "min_soil_c": 7,
+      "min_soil_c": 10,
       "note": {
         "nl": "Direct op de plek buiten zaaien.",
         "en": "Sow directly outdoors where it will grow."
@@ -25,8 +25,8 @@
     }
   ],
   "harvest": {
-    "days_min": 70,
-    "days_max": 90
+    "days_min": 80,
+    "days_max": 100
   },
   "sources": [],
   "verified": false
