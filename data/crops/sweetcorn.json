@@ -50,6 +50,10 @@
     "days_min": 80,
     "days_max": 100
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "zaaitijden.nl mais",
+    "KWS zaaitijd mais",
+    "robbiesmoestuin.nl"
+  ],
+  "verified": true
 }

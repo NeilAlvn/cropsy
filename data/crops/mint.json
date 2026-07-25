@@ -28,6 +28,9 @@
     "days_min": 60,
     "days_max": 60
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Florum kruiden-zaaikalender",
+    "mooiemoestuin.nl mediterrane kruiden"
+  ],
+  "verified": true
 }

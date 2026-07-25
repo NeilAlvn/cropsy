@@ -28,6 +28,9 @@
     "days_min": 55,
     "days_max": 70
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Tuinadvies.nl bonen",
+    "IJsheiligen (na 15 mei) — Warentuin / Gardeners World NL"
+  ],
+  "verified": true
 }

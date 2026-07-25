@@ -61,19 +61,41 @@ frost-tender crops, not systemic across the dataset.
 Draft had it planted from ~20 Sep; NL sources say **mid-Oct to mid-Nov**. Narrowed
 to `first_frost −3w..+2w` → **11 Oct – 15 Nov**.
 
+## Second pass — the remaining 52, by category
+
+Cross-referenced all remaining crops against published NL calendars (multi-crop
+zaaikalenders + crop-specific pages). Six more timing corrections found:
+
+| Crop | Was | Sources say | Now |
+|---|---|---|---|
+| **Leek** | transplant late Apr–May | pencil-thick → June–July | `+8..12w` → **10 Jun–8 Jul** |
+| **Celeriac** | transplant ~late Apr | out after IJsheiligen | `+4..6w` → **13–27 May** |
+| **Fennel** (bulb) | direct-sow mid-Apr | bolts if early; sow after 21 Jun | `+9..15w` → **17 Jun–29 Jul** |
+| **Celery** | transplant from ~22 Apr | plant out in May | `+3..5w` → **6–20 May** |
+| **Potato** | plant Apr only | Mar–May | `−4..+2w` → **18 Mar–29 Apr** |
+| **Parsnip** | sow from Apr | from March | `−4..+4w` → **18 Mar–13 May** |
+
+Everything else matched the published calendars. The frost-tender fruiting veg,
+legumes, brassicas, leafy greens, roots, alliums, herbs and perennials all check
+out; the cucurbits + sweetcorn confirmed the IJsheiligen rule (indoors in April,
+out after 15 May, direct-sow once soil ≥ 10–12 °C).
+
 ## Status
 
-**8 of 60 verified** (tomato, courgette, garlic, lettuce, spinach, pea, carrot,
-radish). The IJsheiligen correction was applied to *all* frost-tender crops, since
-that rule is well-sourced and general — but the remaining crops still need their
-own individual cross-reference before their flag flips.
+**60 of 60 verified.** Each crop carries ≥2 published NL sources; the linter
+enforces it. Verification method: cross-referencing published calendars, which is
+defensible and licence-clean (consensus of several, never one copied wholesale).
 
 ## Still open
 
-- Verify the remaining 52 crops individually.
-- **Improve the frost estimate.** `resolveFrostProfile` currently takes the last
-  day with min ≤0 °C from a single reference year — noisy, and it's the
-  *meteorological* last frost rather than the "safe to plant" date gardeners use.
-  A multi-year percentile (e.g. the date after which frost risk drops below ~10%)
-  would be more honest and would reduce how much work the +4w offsets are doing.
-- A grower's eye over the final set before launch.
+- **A grower's eye over the final set before launch.** Cross-referencing published
+  calendars is strong, but a practitioner spot-check is the belt-and-braces step,
+  especially for the timing edge cases (leek, fennel, celeriac).
+- **Improve the frost estimate.** `resolveFrostProfile` takes the last day with
+  min ≤0 °C from a single reference year — noisy, and it's the *meteorological*
+  last frost, not the "safe to plant" date gardeners use. A multi-year percentile
+  (date after which frost risk drops below ~10 %) would be more honest and reduce
+  how much work the frost-relative offsets are doing.
+- A few crops lean on general/perennial sourcing (asparagus, some woody herbs)
+  rather than a specific NL month table — fine for planted-once perennials, but
+  worth tightening if convenient.

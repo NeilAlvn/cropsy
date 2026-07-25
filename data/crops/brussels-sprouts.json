@@ -39,6 +39,9 @@
     "days_min": 150,
     "days_max": 180
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Allezadenkopen zaaikalender",
+    "Tuinadvies.nl zaaikalender"
+  ],
+  "verified": true
 }

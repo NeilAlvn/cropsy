@@ -50,6 +50,9 @@
     "days_min": 55,
     "days_max": 70
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "keukenplanten.nl koolrabi",
+    "Allezadenkopen zaaikalender"
+  ],
+  "verified": true
 }

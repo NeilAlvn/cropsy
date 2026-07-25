@@ -50,6 +50,9 @@
     "days_min": 70,
     "days_max": 90
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "De Bolster andijvie",
+    "Moesmeisje zaaikalender"
+  ],
+  "verified": true
 }

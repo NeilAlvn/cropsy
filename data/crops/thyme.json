@@ -39,6 +39,9 @@
     "days_min": 80,
     "days_max": 80
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Florum kruiden-zaaikalender",
+    "mooiemoestuin.nl tijm"
+  ],
+  "verified": true
 }

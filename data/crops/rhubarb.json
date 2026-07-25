@@ -28,6 +28,9 @@
     "days_min": 330,
     "days_max": 365
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "mooiemoestuin.nl rabarber",
+    "Makkelijke Moestuin community"
+  ],
+  "verified": true
 }

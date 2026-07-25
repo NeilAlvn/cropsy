@@ -28,6 +28,10 @@
     "days_min": 60,
     "days_max": 80
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Makkelijke Moestuin lente-ui",
+    "keukenplanten.nl bosui",
+    "Gardeners World NL"
+  ],
+  "verified": true
 }

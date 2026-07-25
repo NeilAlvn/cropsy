@@ -15,9 +15,9 @@
     {
       "type": "sow_direct",
       "anchor": "last_frost",
-      "start_weeks": 0,
-      "end_weeks": 8,
-      "min_soil_c": 10,
+      "start_weeks": 9,
+      "end_weeks": 15,
+      "min_soil_c": 12,
       "note": {
         "nl": "Direct op de plek buiten zaaien.",
         "en": "Sow directly outdoors where it will grow."
@@ -28,6 +28,10 @@
     "days_min": 80,
     "days_max": 100
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Gardeners World NL venkel",
+    "Groei & Bloei knolvenkel",
+    "Stadstuinieren"
+  ],
+  "verified": true
 }

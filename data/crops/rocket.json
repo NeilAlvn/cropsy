@@ -28,6 +28,9 @@
     "days_min": 30,
     "days_max": 45
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Moesmeisje zaaikalender",
+    "Allezadenkopen zaaikalender"
+  ],
+  "verified": true
 }

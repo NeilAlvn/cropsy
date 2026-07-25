@@ -39,6 +39,10 @@
     "days_min": 90,
     "days_max": 120
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Tuinadvies.nl zaaikalender",
+    "IJsheiligen (na 15 mei) — Warentuin / Gardeners World NL",
+    "allezadenkopen (voorzaaien feb)"
+  ],
+  "verified": true
 }

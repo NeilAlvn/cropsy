@@ -39,6 +39,9 @@
     "days_min": 60,
     "days_max": 80
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "De Bolster zuring",
+    "keukenplanten.nl zuring"
+  ],
+  "verified": true
 }

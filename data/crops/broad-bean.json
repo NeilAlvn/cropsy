@@ -28,6 +28,10 @@
     "days_min": 90,
     "days_max": 110
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "mooiemoestuin.nl tuinboon",
+    "Stadstuinieren",
+    "Gardeners World NL"
+  ],
+  "verified": true
 }

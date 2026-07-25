@@ -28,6 +28,9 @@
     "days_min": 45,
     "days_max": 60
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Tuinadvies.nl zaaikalender",
+    "directplant moestuinkalender"
+  ],
+  "verified": true
 }

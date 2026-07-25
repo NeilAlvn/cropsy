@@ -50,6 +50,9 @@
     "days_min": 90,
     "days_max": 120
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Allezadenkopen zaaikalender",
+    "Gardeners World NL jaarkalender"
+  ],
+  "verified": true
 }

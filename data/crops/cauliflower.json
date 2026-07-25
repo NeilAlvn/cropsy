@@ -39,6 +39,9 @@
     "days_min": 90,
     "days_max": 110
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "groenten-kweken bloemkool",
+    "Allezadenkopen zaaikalender"
+  ],
+  "verified": true
 }

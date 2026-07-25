@@ -39,6 +39,9 @@
     "days_min": 80,
     "days_max": 100
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Allezadenkopen zaaikalender",
+    "directplant moestuinkalender"
+  ],
+  "verified": true
 }

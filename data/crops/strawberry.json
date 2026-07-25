@@ -28,6 +28,9 @@
     "days_min": 60,
     "days_max": 60
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Groei & Bloei aardbeien",
+    "Makkelijke Moestuin community"
+  ],
+  "verified": true
 }

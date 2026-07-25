@@ -28,6 +28,9 @@
     "days_min": 120,
     "days_max": 150
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "De Bolster uien telen",
+    "mooiemoestuin.nl ui"
+  ],
+  "verified": true
 }

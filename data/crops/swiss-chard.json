@@ -39,6 +39,9 @@
     "days_min": 55,
     "days_max": 70
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Moesmeisje zaaikalender",
+    "directplant moestuinkalender"
+  ],
+  "verified": true
 }

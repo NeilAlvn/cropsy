@@ -39,6 +39,9 @@
     "days_min": 60,
     "days_max": 70
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Florum kruiden-zaaikalender",
+    "Allezadenkopen zaaikalender"
+  ],
+  "verified": true
 }

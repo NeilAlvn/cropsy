@@ -28,6 +28,9 @@
     "days_min": 60,
     "days_max": 80
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "mooiemoestuin.nl veldsla",
+    "Moesmeisje zaaikalender"
+  ],
+  "verified": true
 }

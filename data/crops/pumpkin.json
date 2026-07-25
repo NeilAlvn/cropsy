@@ -39,6 +39,10 @@
     "days_min": 95,
     "days_max": 120
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Makkelijke Moestuin",
+    "mooiemoestuin.nl",
+    "semaille zaaitips"
+  ],
+  "verified": true
 }

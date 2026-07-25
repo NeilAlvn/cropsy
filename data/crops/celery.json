@@ -26,8 +26,8 @@
     {
       "type": "transplant",
       "anchor": "last_frost",
-      "start_weeks": 1,
-      "end_weeks": 4,
+      "start_weeks": 3,
+      "end_weeks": 5,
       "min_soil_c": 10,
       "note": {
         "nl": "Buiten uitplanten zodra het veilig is.",
@@ -39,6 +39,10 @@
     "days_min": 120,
     "days_max": 140
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "robbiesmoestuin.nl bleekselderij",
+    "keukenplanten.nl",
+    "moestuinplanner.nl"
+  ],
+  "verified": true
 }

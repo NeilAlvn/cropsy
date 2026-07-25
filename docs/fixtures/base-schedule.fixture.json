@@ -38,6 +38,17 @@
       }
     },
     {
+      "crop_slug": "potato",
+      "method": "plant",
+      "start": "2026-03-18",
+      "end": "2026-04-29",
+      "min_soil_c": 6,
+      "note": {
+        "nl": "Poten/planten in de aangegeven periode.",
+        "en": "Plant in the window shown."
+      }
+    },
+    {
       "crop_slug": "lettuce",
       "method": "sow_direct",
       "start": "2026-04-01",
@@ -46,17 +57,6 @@
       "note": {
         "nl": "Direct op de plek buiten zaaien.",
         "en": "Sow directly outdoors where it will grow."
-      }
-    },
-    {
-      "crop_slug": "potato",
-      "method": "plant",
-      "start": "2026-04-01",
-      "end": "2026-04-29",
-      "min_soil_c": 6,
-      "note": {
-        "nl": "Poten/planten in de aangegeven periode.",
-        "en": "Plant in the window shown."
       }
     },
     {

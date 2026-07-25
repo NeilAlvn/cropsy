@@ -28,6 +28,9 @@
     "days_min": 700,
     "days_max": 730
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "mooiemoestuin.nl",
+    "aardappelshop/welkoop pootgoed (asperge)"
+  ],
+  "verified": true
 }

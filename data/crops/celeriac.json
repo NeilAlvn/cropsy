@@ -26,8 +26,8 @@
     {
       "type": "transplant",
       "anchor": "last_frost",
-      "start_weeks": 1,
-      "end_weeks": 3,
+      "start_weeks": 4,
+      "end_weeks": 6,
       "min_soil_c": 10,
       "note": {
         "nl": "Buiten uitplanten zodra het veilig is.",
@@ -39,6 +39,10 @@
     "days_min": 150,
     "days_max": 180
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "mooiemoestuin.nl knolselderij",
+    "keukenplanten.nl",
+    "zadenhof"
+  ],
+  "verified": true
 }

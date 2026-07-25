@@ -26,8 +26,8 @@
     {
       "type": "transplant",
       "anchor": "last_frost",
-      "start_weeks": 2,
-      "end_weeks": 6,
+      "start_weeks": 8,
+      "end_weeks": 12,
       "min_soil_c": null,
       "note": {
         "nl": "Buiten uitplanten zodra het veilig is.",
@@ -39,6 +39,9 @@
     "days_min": 120,
     "days_max": 150
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Allezadenkopen zaaikalender",
+    "Tuinadvies.nl zaaikalender"
+  ],
+  "verified": true
 }

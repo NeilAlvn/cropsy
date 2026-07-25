@@ -39,6 +39,10 @@
     "days_min": 60,
     "days_max": 80
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "IVN rode biet",
+    "robbiesmoestuin.nl",
+    "mooiemoestuin.nl"
+  ],
+  "verified": true
 }

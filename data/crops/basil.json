@@ -39,6 +39,9 @@
     "days_min": 40,
     "days_max": 60
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "Florum kruiden-zaaikalender",
+    "IJsheiligen (na 15 mei) — Warentuin / Gardeners World NL"
+  ],
+  "verified": true
 }

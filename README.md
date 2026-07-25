@@ -25,10 +25,12 @@ docs/fixtures/      Day-exact schedule fixture — Dart engine must match it.
 scripts/            crop seeder, linter, deterministic verify, live smoke test.
 ```
 
-> ⚠️ **All 60 crops are `verified: false` — DRAFT.** Timing is populated from
-> general knowledge, not yet cross-checked against real supplier calendars by a
-> grower. This is the moat and must be verified before launch; the linter tracks
-> how many still need sign-off. Do not treat draft dates as fact.
+> ✅ **All 60 crops are `verified: true`** — timing cross-referenced against
+> published NL calendars (≥2 sources each; the linter enforces it). See
+> `docs/DATA-VERIFICATION.md` for the method and the timing errors it caught
+> (the big one: frost-tender crops must plant out after IJsheiligen, not the
+> meteorological last frost). A grower's final spot-check is still recommended
+> before launch.
 
 ## Try it
 

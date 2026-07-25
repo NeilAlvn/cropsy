@@ -39,6 +39,10 @@
     "days_min": 50,
     "days_max": 65
   },
-  "sources": [],
-  "verified": false
+  "sources": [
+    "keukenplanten.nl",
+    "mooiemoestuin.nl",
+    "IJsheiligen (na 15 mei) — Warentuin / Gardeners World NL"
+  ],
+  "verified": true
 }
