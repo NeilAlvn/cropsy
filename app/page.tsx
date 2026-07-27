@@ -10,7 +10,7 @@ const ENDPOINTS = [
 export default function Home() {
   return (
     <main style={{ fontFamily: 'system-ui, sans-serif', padding: '2rem', lineHeight: 1.6 }}>
-      <h1>Growit API</h1>
+      <h1>Cropsy API</h1>
       <p>Backend for the crop timing engine. See docs/API-CONTRACT.md.</p>
       <ul>
         {ENDPOINTS.map((e) => (

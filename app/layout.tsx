@@ -3,7 +3,7 @@
 // layout to exist even when every route is a handler.
 
 export const metadata = {
-  title: 'Growit API',
+  title: 'Cropsy API',
   description: 'Crop rules, frost profiles and weather adjustments.',
 }
 

@@ -1,5 +1,5 @@
 {
-  "name": "growit-replica",
+  "name": "cropsy",
   "version": "0.0.1",
   "private": true,
   "type": "module",
@@ -22,6 +22,7 @@
     "@types/node": "^26.1.1",
     "@types/react": "19.2.17",
     "@types/react-dom": "^19.2.3",
+    "supabase": "^2.109.1",
     "tsx": "^4.19.2",
     "typescript": "^5.7.2"
   },

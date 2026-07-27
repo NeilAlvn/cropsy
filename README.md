@@ -1,4 +1,4 @@
-# Growit replica — backend, data & timing engine
+# Cropsy — backend, data & timing engine
 
 Container-first vegetable-growing app for the Netherlands & Europe. Tells you
 what to do in your garden **this week**, with planting dates + reminders built on
@@ -6,12 +6,18 @@ real Dutch/EU weather (KNMI/Open-Meteo) — not US zones.
 
 This repo is the **backend / data / web** half (Aviah). Mobile is Flutter, a
 separate repo (Chris). Product context lives in the Farmsy Obsidian vault:
-`Ideas/Growit Replica — Project Brief` and the `growit-replica-*.txt` planning
+`Ideas/Cropsy — Project Brief` (formerly "Growit Replica") and the planning
 notes.
 
-> **Status:** design-independent basics only — Luuk hasn't greenlit design yet.
-> No UI, no web app. Building the parts that can't be wasted: the crop-rule data
-> model, the timing engine, the weather integration, and the sync foundation.
+> **Status (2026-07-27):** greenlit by Luuk, and the API is **live** at
+> `https://growit-replica-ten.vercel.app` (VisionTechBV team on Vercel) —
+> `/api/crops`, `/api/frost`, `/api/schedule/weather-adjust`. Mobile has started
+> on the Flutter shell. Still open: the Supabase project for the syncable user
+> tables, and a grower spot-check of the 60 crops before launch.
+>
+> **Name:** "Cropsy" as of 2026-07-27. Note that **Cropsy Technologies Ltd**
+> (NZ agritech, viticulture vision systems) already trades under this name — a
+> proper EUIPO trademark search is outstanding before any spend on branding.
 
 ## What's here
 

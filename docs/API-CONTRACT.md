@@ -1,4 +1,4 @@
-# API Contract — web ⇄ mobile (Growit replica)
+# API Contract — web ⇄ mobile (Cropsy)
 
 Status: **draft v0.1 (2026-07-24)** · owner: Aviah (backend) · consumer: Chris (Flutter)
 
