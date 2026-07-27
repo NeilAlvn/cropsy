@@ -147,6 +147,18 @@
       "crop_slug": "tomato",
       "kind": "water",
       "due": "2026-05-16"
+    },
+    {
+      "id": "t-pot-on",
+      "crop_slug": "tomato",
+      "kind": "pot_on",
+      "due": "2026-05-12"
+    },
+    {
+      "id": "t-thin",
+      "crop_slug": "carrot",
+      "kind": "thin",
+      "due": "2026-05-12"
     }
   ],
   "adjustments": [

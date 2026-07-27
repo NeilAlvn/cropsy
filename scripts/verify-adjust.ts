@@ -51,6 +51,11 @@ const tasks: Task[] = [
   // Watering due 05-16. The only hot day before it (05-15, 32°C) had 5mm rain,
   // over the 2mm dryness limit → must NOT be brought forward.
   { id: 't-water-hot-wet', crop_slug: 'tomato', kind: 'water', due: '2026-05-16' },
+  // Container kinds are never weather-adjusted — including in a heatwave, where
+  // it would be tempting to "helpfully" move them. Due 05-12, right after the
+  // 34/35°C days, so a leaky rule would show up here.
+  { id: 't-pot-on', crop_slug: 'tomato', kind: 'pot_on', due: '2026-05-12' },
+  { id: 't-thin', crop_slug: 'carrot', kind: 'thin', due: '2026-05-12' },
 ]
 
 const adjustments = adjustTasks(tasks, obs)
@@ -74,6 +79,8 @@ const checks: [string, boolean][] = [
   ['heat brings watering forward to 2026-05-10', byId.get('t-water-heat')?.action === 'bring_forward' && byId.get('t-water-heat')?.to === '2026-05-10'],
   ['hot but rainy day does NOT bring watering forward', !byId.has('t-water-hot-wet')],
   ['today clamp keeps it out of the past (→ 2026-05-11)', clamped[0]?.action === 'bring_forward' && clamped[0]?.to === '2026-05-11'],
+  ['pot_on never adjusted, even in a heatwave', !byId.has('t-pot-on')],
+  ['thin never adjusted, even in a heatwave', !byId.has('t-thin')],
   ['only changed tasks returned (3)', adjustments.length === 3],
 ]
 

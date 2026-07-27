@@ -160,10 +160,13 @@ heatwave. Three deliberate constraints:
 far better than a 10-litre pot on a balcony, and containers are this app's whole
 premise.
 
-> **Still missing:** the adjuster can only move existing tasks — there is no
-> "add a task" delta — so a heatwave with no watering task scheduled anywhere
-> nearby still produces no advice. Adding an `add` action is a contract change;
-> not doing it unilaterally.
+**No `add` action — settled 2026-07-27 (Chris).** The adjuster only ever *moves
+or skips* tasks that already exist. Watering is recurring and driven by pot size
+and weather rather than frost, so it isn't part of the frost-relative base
+schedule at all: **the client generates watering tasks itself** and the server
+only shifts them. This keeps the adjuster from ever creating a row the client
+hasn't seen, so local schema and sync stay simple and watering reminders keep
+working fully offline.
 
 ---
 
@@ -197,15 +200,25 @@ same as Farmsy. Documented here only so nothing is assumed.
 - [x] `docs/fixtures/base-schedule.fixture.json` — day-exact test vectors (frost
       profile + crops → expected windows). Chris: your Dart §4 engine must
       reproduce these exactly.
-- [x] `tasks.kind` enum — settled as `water` | `sow` | `transplant` | `harvest`
-      | `feed` (`TaskKind` in `src/timing/weather-adjust.ts`). Additions are
-      backwards-compatible; the adjuster ignores kinds it has no rule for.
+- [x] `tasks.kind` enum — frozen 2026-07-27 as `water` | `sow` | `transplant` |
+      `harvest` | `feed` | `pot_on` | `thin` (`TaskKind` in
+      `src/timing/weather-adjust.ts`). `pot_on` (into a bigger container) and
+      `thin` (thinning seedlings after direct sow) were added at Chris's request
+      for the container wedge — `pot_on` is distinct from `transplant`, which
+      means going into a bed or the ground. Only `water`, `sow` and `transplant`
+      are weather-adjusted; every other kind falls through to `none` by
+      construction, so new kinds can never fabricate an adjustment.
 - [x] Frost profile is **both**: `GET /api/frost` when online, plus a bundled
       national default the client uses offline (§3). Neither blocks the other.
 - [x] Heat rule for watering — shipped 2026-07-27 (§5). Brings watering forward
       onto a hot, dry day; wet still wins; never schedules into the past.
-- [ ] Whether to add an `add` action so a heatwave can create a watering task
-      where none is scheduled. Contract change — needs Chris's input.
+- [x] `add` action — decided against (see §5). Client owns watering cadence;
+      the server only moves or skips tasks it was given.
+- [x] Snapshot bundling — the client ships `generated/crops-snapshot.json` as a
+      binary asset and seeds its local DB from it on first run, so a cold start
+      needs no network. The file already embeds `version`, so a fresh install
+      can send `If-None-Match` on its very first sync instead of re-fetching.
+      Same JSON shape the endpoint returns — one parser handles both paths.
 - [ ] Auth handshake specifics once the Supabase project exists
 - [ ] Deploy target + base URL for the three endpoints (Vercel project not yet
       created; Chris is on fixtures until it is)

@@ -14,7 +14,15 @@
 import type { LocalizedText } from './types'
 import { parseISO, toISO, addDays } from './dates'
 
-export type TaskKind = 'water' | 'sow' | 'transplant' | 'harvest' | 'feed'
+// `pot_on` and `thin` are container-gardening actions, added at Chris's request
+// before the enum was baked into the client's local schema:
+//   • pot_on — moving a plant into a bigger container. Distinct from
+//     `transplant`, which means going into a bed or the ground. Balcony growers
+//     pot on constantly, so it's first-class rather than a special case.
+//   • thin  — thinning seedlings after a direct sow (carrots, beets, lettuce).
+// Neither is weather-adjusted today; they exist so the client can express them
+// and so adding them later doesn't require a migration on both sides.
+export type TaskKind = 'water' | 'sow' | 'transplant' | 'harvest' | 'feed' | 'pot_on' | 'thin'
 
 export interface Task {
   id: string
@@ -178,7 +186,9 @@ function adjustTask(task: Task, byDate: Map<string, DayObservation>, p: AdjustPa
     }
   }
 
-  // harvest / feed: not weather-adjusted for now.
+  // harvest / feed / pot_on / thin: not weather-adjusted. Unknown kinds fall
+  // through to `none` by construction, so adding a kind can never fabricate an
+  // adjustment — new kinds are safe to introduce from either side.
   return none
 }
 
