@@ -25,34 +25,61 @@ UI to exist — it's the design-independent seam between our halves.
 
 ## 2. Reference data — crop rules (read-mostly, bundled + synced)
 
-**`GET /api/crops?changed_since=<iso8601>`**
+**`GET /api/crops`** · **implemented** (`app/api/crops/route.ts`)
 
-Returns crops changed since the timestamp (omit for a full snapshot). Response
-carries a `version` the client stores; a bumped version = re-pull.
+Returns the full crop table. Response carries a `version` the client stores; a
+changed version = re-pull.
 
 ```json
 {
-  "version": "2026-07-24T00:00:00Z",
+  "version": "33d3e8f955a94c8c",
+  "generated_at": "2026-07-27T00:00:00.000Z",
   "crops": [ /* Crop objects — exact shape in src/timing/types.ts + data/crops/_SCHEMA.md */ ],
   "deleted": ["some-old-slug"]
 }
 ```
 
+**`version` is a content hash, not a timestamp** (changed from draft v0.1). The
+crop table is edited as files, not rows, so there are no per-row timestamps to
+answer a `changed_since` query against — and a build-time timestamp would change
+on every deploy, making every client re-download 62 kB for nothing. A hash
+changes only when the data does.
+
+**Two ways to skip the download**, both returning `304` with an empty body:
+- `If-None-Match: "<version>"` — the `version` is also sent as a strong `ETag`.
+- `?version=<version>` — same check as a query param, for clients that would
+  rather store the string than plumb headers.
+
+`generated_at` is informational only; never compare it.
+
 The `Crop` object is plain frost-relative data (offsets in weeks from
 `last_frost` / `first_frost`). **The client evaluates it locally** — see §4.
+Only `verified: true` crops are ever served: the build refuses to produce a
+snapshot containing draft timing.
 
 ---
 
 ## 3. Frost profile — per location (cacheable, ship-to-device)
 
-**`GET /api/frost?lat=<n>&lon=<n>`**
+**`GET /api/frost?lat=<n>&lon=<n>`** · **implemented** (`app/api/frost/route.ts`)
 
 Turns a location into the two dates the engine needs. Derived from climate
-normals (Open-Meteo/KNMI), so it's stable — cache it hard, refresh rarely.
+history (Open-Meteo/KNMI), so it's stable — cache it hard, refresh rarely.
 
 ```json
 { "last_frost": "2026-03-18", "first_frost": "2026-11-21", "source": "open-meteo" }
 ```
+
+- **Coordinates are rounded server-side to 0.1° (~11 km)** before lookup. Frost
+  dates don't vary meaningfully below that, it keeps the cache from fragmenting
+  into one entry per GPS reading, and we never handle a user's exact position.
+  The client can round before sending too; the server rounds regardless.
+- `source` is `open-meteo` or `fallback`. **A lookup failure returns `200` with
+  the national default, not an error** — a client with no frost profile has no
+  schedule at all, so an approximate answer beats a failed one. Treat
+  `fallback` as "retry later", not as an error to surface.
+- Invalid or missing `lat`/`lon` → `400`.
+- Cache: `s-maxage=604800` (a week) on a real answer, `3600` on a fallback.
 
 Client caches this per rounded lat/lon. Offline with no cache → fall back to a
 bundled national default (e.g. NL `04-15` / `11-01`) so the base schedule still runs.
@@ -82,12 +109,16 @@ server-side is exactly the offline trap we're avoiding.
 
 ## 5. The weather adjustment — ONLINE, optional overlay
 
-**`POST /api/schedule/weather-adjust`**
+**`POST /api/schedule/weather-adjust`** · **implemented** (`app/api/schedule/weather-adjust/route.ts`)
 
-The base schedule is deterministic; this layer nudges *tasks* using live weather
-(skip-when-rained, defer-below-`min_soil_c`, ramp watering in heat). It returns
-**deltas only**, applied on top of the base. If the call fails or the device is
-offline, the client keeps the base schedule unchanged.
+The base schedule is deterministic; this layer nudges *tasks* using live weather.
+It returns **deltas only**, applied on top of the base. If the call fails or the
+device is offline, the client keeps the base schedule unchanged.
+
+**Failure is always `{"adjustments": []}` with `200`** — never a 5xx. An empty
+list means "no opinion", which is exactly what the client should do when the
+weather is unknown, so there is no error branch to write. Malformed input still
+returns `400`: that's a client bug, not a weather outage. Max 500 tasks/request.
 
 Request:
 ```json
@@ -110,6 +141,14 @@ watering is **skipped** when rain over `[due-2d, due+1d]` ≥ 10 mm; a sow/trans
 gated by `min_soil_c` is **deferred** to the next day mean air-temp (min+max)/2
 meets the gate, within 14 days. Day-exact fixture:
 `docs/fixtures/weather-adjust.fixture.json`.
+
+> **Gap — no heat rule yet.** The prose above once promised "ramp watering in
+> heat"; nothing implements it. Live-testing Utrecht on 2026-07-27 returned a
+> forecast max of **35.9 °C** on 29 Jul and produced *zero* adjustments, because
+> the only watering rule is skip-when-wet. A heatwave is precisely when a
+> watering reminder matters most, so this is the next rule to add — likely
+> `bring_forward` or an extra watering task above a temp threshold. Deliberately
+> not faked in the meantime: no advice is better than wrong advice.
 
 ---
 
@@ -143,6 +182,13 @@ same as Farmsy. Documented here only so nothing is assumed.
 - [x] `docs/fixtures/base-schedule.fixture.json` — day-exact test vectors (frost
       profile + crops → expected windows). Chris: your Dart §4 engine must
       reproduce these exactly.
-- [ ] Exact `tasks.kind` enum (`water` | `sow` | `transplant` | `harvest` | `feed` …)
-- [ ] Whether frost profile is an endpoint or also bundled per-country offline
+- [x] `tasks.kind` enum — settled as `water` | `sow` | `transplant` | `harvest`
+      | `feed` (`TaskKind` in `src/timing/weather-adjust.ts`). Additions are
+      backwards-compatible; the adjuster ignores kinds it has no rule for.
+- [x] Frost profile is **both**: `GET /api/frost` when online, plus a bundled
+      national default the client uses offline (§3). Neither blocks the other.
+- [ ] Heat rule for watering (see the gap note in §5) — the one known behaviour
+      gap in the adjuster.
 - [ ] Auth handshake specifics once the Supabase project exists
+- [ ] Deploy target + base URL for the three endpoints (Vercel project not yet
+      created; Chris is on fixtures until it is)
