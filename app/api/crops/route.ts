@@ -10,7 +10,7 @@
 // stores the version anyway and an explicit check is easier to reason about
 // on-device than header plumbing.
 
-import snapshot from '../../../dist/crops-snapshot.json'
+import snapshot from '../../../generated/crops-snapshot.json'
 
 // Deliberately NOT force-static: this handler reads the request's
 // If-None-Match header to answer 304, which a prerendered response can't do.

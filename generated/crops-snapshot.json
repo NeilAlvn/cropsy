@@ -1,0 +1,2595 @@
+{
+  "version": "33d3e8f955a94c8c",
+  "generated_at": "2026-07-27T14:04:51.987Z",
+  "crops": [
+    {
+      "slug": "asparagus",
+      "names": {
+        "nl": "Asperge",
+        "en": "Asparagus"
+      },
+      "category": "fruit",
+      "frost_tender": false,
+      "container_ok": false,
+      "min_pot_litres": null,
+      "spacing_cm": 40,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "plant",
+          "anchor": "last_frost",
+          "start_weeks": -4,
+          "end_weeks": 0,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Poten/planten in de aangegeven periode.",
+            "en": "Plant in the window shown."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 700,
+        "days_max": 730
+      },
+      "sources": [
+        "mooiemoestuin.nl",
+        "aardappelshop/welkoop pootgoed (asperge)"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "aubergine",
+      "names": {
+        "nl": "Aubergine",
+        "en": "Aubergine"
+      },
+      "category": "fruit-veg",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 12,
+      "spacing_cm": 45,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -8,
+          "end_weeks": -5,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 6,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 100,
+        "days_max": 120
+      },
+      "sources": [
+        "Tuinadvies.nl zaaikalender",
+        "IJsheiligen (na 15 mei) — Warentuin / Gardeners World NL",
+        "allezadenkopen (voorzaaien feb)"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "basil",
+      "names": {
+        "nl": "Basilicum",
+        "en": "Basil"
+      },
+      "category": "herb",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 3,
+      "spacing_cm": 20,
+      "vak_per_m2": 4,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -4,
+          "end_weeks": -1,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 6,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 40,
+        "days_max": 60
+      },
+      "sources": [
+        "Florum kruiden-zaaikalender",
+        "IJsheiligen (na 15 mei) — Warentuin / Gardeners World NL"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "beetroot",
+      "names": {
+        "nl": "Kroot",
+        "en": "Beetroot"
+      },
+      "category": "root",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 7,
+      "spacing_cm": 10,
+      "vak_per_m2": 9,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 8,
+          "min_soil_c": 7,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 2,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 60,
+        "days_max": 80
+      },
+      "sources": [
+        "IVN rode biet",
+        "robbiesmoestuin.nl",
+        "mooiemoestuin.nl"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "broad-bean",
+      "names": {
+        "nl": "Tuinboon",
+        "en": "Broad bean"
+      },
+      "category": "legume",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 12,
+      "spacing_cm": 20,
+      "vak_per_m2": 4,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -8,
+          "end_weeks": -4,
+          "min_soil_c": 3,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 90,
+        "days_max": 110
+      },
+      "sources": [
+        "mooiemoestuin.nl tuinboon",
+        "Stadstuinieren",
+        "Gardeners World NL"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "broccoli",
+      "names": {
+        "nl": "Broccoli",
+        "en": "Broccoli"
+      },
+      "category": "brassica",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 10,
+      "spacing_cm": 40,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": -4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 2,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 80,
+        "days_max": 100
+      },
+      "sources": [
+        "Allezadenkopen zaaikalender",
+        "Tuinadvies.nl zaaikalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "brussels-sprouts",
+      "names": {
+        "nl": "Spruitjes",
+        "en": "Brussels sprouts"
+      },
+      "category": "brassica",
+      "frost_tender": false,
+      "container_ok": false,
+      "min_pot_litres": null,
+      "spacing_cm": 60,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": -4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": -1,
+          "end_weeks": 3,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 150,
+        "days_max": 180
+      },
+      "sources": [
+        "Allezadenkopen zaaikalender",
+        "Tuinadvies.nl zaaikalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "cabbage",
+      "names": {
+        "nl": "Witte kool",
+        "en": "Cabbage"
+      },
+      "category": "brassica",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 12,
+      "spacing_cm": 45,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": -4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 2,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 90,
+        "days_max": 120
+      },
+      "sources": [
+        "Allezadenkopen zaaikalender",
+        "directplant moestuinkalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "carrot",
+      "names": {
+        "nl": "Wortel",
+        "en": "Carrot"
+      },
+      "category": "root",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 10,
+      "spacing_cm": 5,
+      "vak_per_m2": 16,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 8,
+          "min_soil_c": 7,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 70,
+        "days_max": 90
+      },
+      "sources": [
+        "Tuinadvies.nl moestuinklussen",
+        "Gardeners World NL jaarkalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "cauliflower",
+      "names": {
+        "nl": "Bloemkool",
+        "en": "Cauliflower"
+      },
+      "category": "brassica",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 12,
+      "spacing_cm": 45,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": -4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 2,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 90,
+        "days_max": 110
+      },
+      "sources": [
+        "groenten-kweken bloemkool",
+        "Allezadenkopen zaaikalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "celeriac",
+      "names": {
+        "nl": "Knolselderij",
+        "en": "Celeriac"
+      },
+      "category": "root",
+      "frost_tender": false,
+      "container_ok": false,
+      "min_pot_litres": null,
+      "spacing_cm": 35,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -8,
+          "end_weeks": -6,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 6,
+          "min_soil_c": 10,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 150,
+        "days_max": 180
+      },
+      "sources": [
+        "mooiemoestuin.nl knolselderij",
+        "keukenplanten.nl",
+        "zadenhof"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "celery",
+      "names": {
+        "nl": "Bleekselderij",
+        "en": "Celery"
+      },
+      "category": "herb",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 7,
+      "spacing_cm": 25,
+      "vak_per_m2": 4,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -8,
+          "end_weeks": -6,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 3,
+          "end_weeks": 5,
+          "min_soil_c": 10,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 120,
+        "days_max": 140
+      },
+      "sources": [
+        "robbiesmoestuin.nl bleekselderij",
+        "keukenplanten.nl",
+        "moestuinplanner.nl"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "chili",
+      "names": {
+        "nl": "Spaanse peper",
+        "en": "Chilli"
+      },
+      "category": "fruit-veg",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 7,
+      "spacing_cm": 40,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -8,
+          "end_weeks": -5,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 6,
+          "min_soil_c": 14,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 90,
+        "days_max": 120
+      },
+      "sources": [
+        "Tuinadvies.nl zaaikalender",
+        "IJsheiligen (na 15 mei) — Warentuin / Gardeners World NL",
+        "allezadenkopen (voorzaaien feb)"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "chives",
+      "names": {
+        "nl": "Bieslook",
+        "en": "Chives"
+      },
+      "category": "allium",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 3,
+      "spacing_cm": 15,
+      "vak_per_m2": 9,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": -4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 0,
+          "end_weeks": 4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 60,
+        "days_max": 70
+      },
+      "sources": [
+        "Florum kruiden-zaaikalender",
+        "Allezadenkopen zaaikalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "coriander",
+      "names": {
+        "nl": "Koriander",
+        "en": "Coriander"
+      },
+      "category": "herb",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 3,
+      "spacing_cm": 10,
+      "vak_per_m2": 9,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 10,
+          "min_soil_c": 8,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 40,
+        "days_max": 60
+      },
+      "sources": [
+        "Florum kruiden-zaaikalender",
+        "moestuintijd"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "courgette",
+      "names": {
+        "nl": "Courgette",
+        "en": "Courgette"
+      },
+      "category": "fruit-veg",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 20,
+      "spacing_cm": 90,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": 0,
+          "end_weeks": 3,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 6,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 50,
+        "days_max": 70
+      },
+      "sources": [
+        "Makkelijke Moestuin",
+        "Groei & Bloei",
+        "Moesmeisje",
+        "mooiemoestuin.nl"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "cucumber",
+      "names": {
+        "nl": "Komkommer",
+        "en": "Cucumber"
+      },
+      "category": "fruit-veg",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 15,
+      "spacing_cm": 45,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": 0,
+          "end_weeks": 2,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 6,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 55,
+        "days_max": 70
+      },
+      "sources": [
+        "Makkelijke Moestuin",
+        "mooiemoestuin.nl",
+        "IJsheiligen (na 15 mei) — Warentuin / Gardeners World NL"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "dill",
+      "names": {
+        "nl": "Dille",
+        "en": "Dill"
+      },
+      "category": "herb",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 5,
+      "spacing_cm": 15,
+      "vak_per_m2": 9,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 0,
+          "end_weeks": 10,
+          "min_soil_c": 10,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 50,
+        "days_max": 70
+      },
+      "sources": [
+        "Florum kruiden-zaaikalender",
+        "directplant moestuinkalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "endive",
+      "names": {
+        "nl": "Andijvie",
+        "en": "Endive"
+      },
+      "category": "leafy",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 7,
+      "spacing_cm": 30,
+      "vak_per_m2": 4,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 2,
+          "end_weeks": 8,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 0,
+          "end_weeks": 8,
+          "min_soil_c": 8,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 70,
+        "days_max": 90
+      },
+      "sources": [
+        "De Bolster andijvie",
+        "Moesmeisje zaaikalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "fennel",
+      "names": {
+        "nl": "Venkel",
+        "en": "Florence fennel"
+      },
+      "category": "herb",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 7,
+      "spacing_cm": 25,
+      "vak_per_m2": 4,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 9,
+          "end_weeks": 15,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 80,
+        "days_max": 100
+      },
+      "sources": [
+        "Gardeners World NL venkel",
+        "Groei & Bloei knolvenkel",
+        "Stadstuinieren"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "french-bean",
+      "names": {
+        "nl": "Stamslaboon",
+        "en": "French bean"
+      },
+      "category": "legume",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 10,
+      "spacing_cm": 10,
+      "vak_per_m2": 9,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 9,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 55,
+        "days_max": 70
+      },
+      "sources": [
+        "Tuinadvies.nl bonen",
+        "IJsheiligen (na 15 mei) — Warentuin / Gardeners World NL"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "garlic",
+      "names": {
+        "nl": "Knoflook",
+        "en": "Garlic"
+      },
+      "category": "allium",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 5,
+      "spacing_cm": 15,
+      "vak_per_m2": 9,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "plant",
+          "anchor": "first_frost",
+          "start_weeks": -3,
+          "end_weeks": 2,
+          "min_soil_c": 3,
+          "note": {
+            "nl": "Poten/planten in de aangegeven periode.",
+            "en": "Plant in the window shown."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 240,
+        "days_max": 270
+      },
+      "sources": [
+        "Groei & Bloei",
+        "Gardeners World NL",
+        "Moesmeisje",
+        "robbiesmoestuin.nl"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "gherkin",
+      "names": {
+        "nl": "Augurk",
+        "en": "Gherkin"
+      },
+      "category": "fruit-veg",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 12,
+      "spacing_cm": 40,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": 0,
+          "end_weeks": 2,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 6,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 50,
+        "days_max": 65
+      },
+      "sources": [
+        "keukenplanten.nl",
+        "mooiemoestuin.nl",
+        "IJsheiligen (na 15 mei) — Warentuin / Gardeners World NL"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "kale",
+      "names": {
+        "nl": "Boerenkool",
+        "en": "Kale"
+      },
+      "category": "brassica",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 12,
+      "spacing_cm": 45,
+      "vak_per_m2": 1,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -4,
+          "end_weeks": 0,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 2,
+          "end_weeks": 6,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 0,
+          "end_weeks": 6,
+          "min_soil_c": 8,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 90,
+        "days_max": 120
+      },
+      "sources": [
+        "Allezadenkopen zaaikalender",
+        "Gardeners World NL jaarkalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "kohlrabi",
+      "names": {
+        "nl": "Koolrabi",
+        "en": "Kohlrabi"
+      },
+      "category": "brassica",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 5,
+      "spacing_cm": 25,
+      "vak_per_m2": 4,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": -4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 2,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 0,
+          "end_weeks": 8,
+          "min_soil_c": 8,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 55,
+        "days_max": 70
+      },
+      "sources": [
+        "keukenplanten.nl koolrabi",
+        "Allezadenkopen zaaikalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "lambs-lettuce",
+      "names": {
+        "nl": "Veldsla",
+        "en": "Lamb's lettuce"
+      },
+      "category": "leafy",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 3,
+      "spacing_cm": 10,
+      "vak_per_m2": 16,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "first_frost",
+          "start_weeks": -12,
+          "end_weeks": -4,
+          "min_soil_c": 3,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 60,
+        "days_max": 80
+      },
+      "sources": [
+        "mooiemoestuin.nl veldsla",
+        "Moesmeisje zaaikalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "leek",
+      "names": {
+        "nl": "Prei",
+        "en": "Leek"
+      },
+      "category": "allium",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 10,
+      "spacing_cm": 15,
+      "vak_per_m2": 9,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -8,
+          "end_weeks": -6,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 8,
+          "end_weeks": 12,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 120,
+        "days_max": 150
+      },
+      "sources": [
+        "Allezadenkopen zaaikalender",
+        "Tuinadvies.nl zaaikalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "lettuce",
+      "names": {
+        "nl": "Sla",
+        "en": "Lettuce"
+      },
+      "category": "leafy",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 5,
+      "spacing_cm": 25,
+      "vak_per_m2": 4,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": -4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 10,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 45,
+        "days_max": 65
+      },
+      "sources": [
+        "Tuinadvies.nl moestuinklussen",
+        "Gardeners World NL jaarkalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "mangetout",
+      "names": {
+        "nl": "Peul",
+        "en": "Mangetout"
+      },
+      "category": "legume",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 12,
+      "spacing_cm": 8,
+      "vak_per_m2": 8,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": 2,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 60,
+        "days_max": 75
+      },
+      "sources": [
+        "Stadstuinieren",
+        "Tuinadvies.nl bonen"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "melon",
+      "names": {
+        "nl": "Meloen",
+        "en": "Melon"
+      },
+      "category": "fruit-veg",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 15,
+      "spacing_cm": 60,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -1,
+          "end_weeks": 1,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 6,
+          "min_soil_c": 16,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 90,
+        "days_max": 110
+      },
+      "sources": [
+        "mooiemoestuin.nl (komkommer)",
+        "Makkelijke Moestuin"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "mint",
+      "names": {
+        "nl": "Munt",
+        "en": "Mint"
+      },
+      "category": "herb",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 5,
+      "spacing_cm": 30,
+      "vak_per_m2": null,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 0,
+          "end_weeks": 4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 60,
+        "days_max": 60
+      },
+      "sources": [
+        "Florum kruiden-zaaikalender",
+        "mooiemoestuin.nl mediterrane kruiden"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "onion",
+      "names": {
+        "nl": "Ui",
+        "en": "Onion"
+      },
+      "category": "allium",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 5,
+      "spacing_cm": 10,
+      "vak_per_m2": 16,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "plant",
+          "anchor": "last_frost",
+          "start_weeks": -4,
+          "end_weeks": 2,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Poten/planten in de aangegeven periode.",
+            "en": "Plant in the window shown."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 120,
+        "days_max": 150
+      },
+      "sources": [
+        "De Bolster uien telen",
+        "mooiemoestuin.nl ui"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "oregano",
+      "names": {
+        "nl": "Oregano",
+        "en": "Oregano"
+      },
+      "category": "herb",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 3,
+      "spacing_cm": 25,
+      "vak_per_m2": 4,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": -4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 2,
+          "end_weeks": 4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 80,
+        "days_max": 80
+      },
+      "sources": [
+        "Florum kruiden-zaaikalender",
+        "mooiemoestuin.nl mediterrane kruiden"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "pak-choi",
+      "names": {
+        "nl": "Paksoi",
+        "en": "Pak choi"
+      },
+      "category": "brassica",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 5,
+      "spacing_cm": 20,
+      "vak_per_m2": 4,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 10,
+          "min_soil_c": 10,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 40,
+        "days_max": 55
+      },
+      "sources": [
+        "directplant moestuinkalender",
+        "Allezadenkopen zaaikalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "parsley",
+      "names": {
+        "nl": "Peterselie",
+        "en": "Parsley"
+      },
+      "category": "herb",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 5,
+      "spacing_cm": 15,
+      "vak_per_m2": 9,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": -4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 6,
+          "min_soil_c": 8,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 70,
+        "days_max": 90
+      },
+      "sources": [
+        "Florum kruiden-zaaikalender",
+        "directplant moestuinkalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "parsnip",
+      "names": {
+        "nl": "Pastinaak",
+        "en": "Parsnip"
+      },
+      "category": "root",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 15,
+      "spacing_cm": 12,
+      "vak_per_m2": 9,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -4,
+          "end_weeks": 4,
+          "min_soil_c": 6,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 120,
+        "days_max": 160
+      },
+      "sources": [
+        "mooiemoestuin.nl pastinaak",
+        "directplant moestuinkalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "pea",
+      "names": {
+        "nl": "Doperwt",
+        "en": "Pea"
+      },
+      "category": "legume",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 12,
+      "spacing_cm": 8,
+      "vak_per_m2": 8,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": 2,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 60,
+        "days_max": 80
+      },
+      "sources": [
+        "Tuinadvies.nl moestuinklussen",
+        "Gardeners World NL jaarkalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "pepper",
+      "names": {
+        "nl": "Paprika",
+        "en": "Sweet pepper"
+      },
+      "category": "fruit-veg",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 10,
+      "spacing_cm": 40,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -8,
+          "end_weeks": -5,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 6,
+          "min_soil_c": 14,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 90,
+        "days_max": 120
+      },
+      "sources": [
+        "Tuinadvies.nl zaaikalender",
+        "IJsheiligen (na 15 mei) — Warentuin / Gardeners World NL",
+        "allezadenkopen (voorzaaien feb)"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "pointed-cabbage",
+      "names": {
+        "nl": "Spitskool",
+        "en": "Pointed cabbage"
+      },
+      "category": "brassica",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 12,
+      "spacing_cm": 40,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -8,
+          "end_weeks": -5,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": -3,
+          "end_weeks": 1,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 80,
+        "days_max": 100
+      },
+      "sources": [
+        "Allezadenkopen zaaikalender",
+        "directplant moestuinkalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "potato",
+      "names": {
+        "nl": "Aardappel",
+        "en": "Potato"
+      },
+      "category": "potato",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 20,
+      "spacing_cm": 30,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "plant",
+          "anchor": "last_frost",
+          "start_weeks": -4,
+          "end_weeks": 2,
+          "min_soil_c": 6,
+          "note": {
+            "nl": "Poten/planten in de aangegeven periode.",
+            "en": "Plant in the window shown."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 90,
+        "days_max": 120
+      },
+      "sources": [
+        "aardappelshop",
+        "Welkoop",
+        "mooiemoestuin.nl aardappel"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "pumpkin",
+      "names": {
+        "nl": "Pompoen",
+        "en": "Pumpkin"
+      },
+      "category": "fruit-veg",
+      "frost_tender": true,
+      "container_ok": false,
+      "min_pot_litres": null,
+      "spacing_cm": 120,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": 0,
+          "end_weeks": 2,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 6,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 95,
+        "days_max": 120
+      },
+      "sources": [
+        "Makkelijke Moestuin",
+        "mooiemoestuin.nl",
+        "semaille zaaitips"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "radish",
+      "names": {
+        "nl": "Radijs",
+        "en": "Radish"
+      },
+      "category": "brassica",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 3,
+      "spacing_cm": 5,
+      "vak_per_m2": 16,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -4,
+          "end_weeks": 12,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 25,
+        "days_max": 35
+      },
+      "sources": [
+        "Tuinadvies.nl moestuinklussen",
+        "Gardeners World NL jaarkalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "red-cabbage",
+      "names": {
+        "nl": "Rode kool",
+        "en": "Red cabbage"
+      },
+      "category": "brassica",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 12,
+      "spacing_cm": 45,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": -4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 2,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 100,
+        "days_max": 130
+      },
+      "sources": [
+        "Allezadenkopen zaaikalender",
+        "directplant moestuinkalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "rhubarb",
+      "names": {
+        "nl": "Rabarber",
+        "en": "Rhubarb"
+      },
+      "category": "fruit",
+      "frost_tender": false,
+      "container_ok": false,
+      "min_pot_litres": null,
+      "spacing_cm": 90,
+      "vak_per_m2": null,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "plant",
+          "anchor": "last_frost",
+          "start_weeks": -8,
+          "end_weeks": 0,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Poten/planten in de aangegeven periode.",
+            "en": "Plant in the window shown."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 330,
+        "days_max": 365
+      },
+      "sources": [
+        "mooiemoestuin.nl rabarber",
+        "Makkelijke Moestuin community"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "rocket",
+      "names": {
+        "nl": "Rucola",
+        "en": "Rocket"
+      },
+      "category": "brassica",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 3,
+      "spacing_cm": 15,
+      "vak_per_m2": 9,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -4,
+          "end_weeks": 12,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 30,
+        "days_max": 45
+      },
+      "sources": [
+        "Moesmeisje zaaikalender",
+        "Allezadenkopen zaaikalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "rosemary",
+      "names": {
+        "nl": "Rozemarijn",
+        "en": "Rosemary"
+      },
+      "category": "herb",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 7,
+      "spacing_cm": 40,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 2,
+          "end_weeks": 4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 90,
+        "days_max": 90
+      },
+      "sources": [
+        "Florum kruiden-zaaikalender",
+        "mooiemoestuin.nl mediterrane kruiden"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "runner-bean",
+      "names": {
+        "nl": "Pronkboon",
+        "en": "Runner bean"
+      },
+      "category": "legume",
+      "frost_tender": true,
+      "container_ok": false,
+      "min_pot_litres": null,
+      "spacing_cm": 20,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 8,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 70,
+        "days_max": 90
+      },
+      "sources": [
+        "keukenplanten.nl pronkboon",
+        "Jessica Koomen",
+        "mooiemoestuin.nl"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "sage",
+      "names": {
+        "nl": "Salie",
+        "en": "Sage"
+      },
+      "category": "herb",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 5,
+      "spacing_cm": 40,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": -4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 2,
+          "end_weeks": 4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 80,
+        "days_max": 80
+      },
+      "sources": [
+        "Florum kruiden-zaaikalender",
+        "mooiemoestuin.nl mediterrane kruiden"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "shallot",
+      "names": {
+        "nl": "Sjalot",
+        "en": "Shallot"
+      },
+      "category": "allium",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 5,
+      "spacing_cm": 15,
+      "vak_per_m2": 9,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "plant",
+          "anchor": "last_frost",
+          "start_weeks": -8,
+          "end_weeks": -2,
+          "min_soil_c": 3,
+          "note": {
+            "nl": "Poten/planten in de aangegeven periode.",
+            "en": "Plant in the window shown."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 100,
+        "days_max": 130
+      },
+      "sources": [
+        "De Bolster uien telen",
+        "Allezadenkopen zaaikalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "sorrel",
+      "names": {
+        "nl": "Zuring",
+        "en": "Sorrel"
+      },
+      "category": "leafy",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 5,
+      "spacing_cm": 25,
+      "vak_per_m2": 4,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": -4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 0,
+          "end_weeks": 4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 60,
+        "days_max": 80
+      },
+      "sources": [
+        "De Bolster zuring",
+        "keukenplanten.nl zuring"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "spinach",
+      "names": {
+        "nl": "Spinazie",
+        "en": "Spinach"
+      },
+      "category": "leafy",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 5,
+      "spacing_cm": 15,
+      "vak_per_m2": 9,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": 2,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 40,
+        "days_max": 55
+      },
+      "sources": [
+        "mooiemoestuin.nl",
+        "Tuinadvies.nl moestuinklussen"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "spring-onion",
+      "names": {
+        "nl": "Bosui",
+        "en": "Spring onion"
+      },
+      "category": "allium",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 3,
+      "spacing_cm": 3,
+      "vak_per_m2": 36,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -4,
+          "end_weeks": 10,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 60,
+        "days_max": 80
+      },
+      "sources": [
+        "Makkelijke Moestuin lente-ui",
+        "keukenplanten.nl bosui",
+        "Gardeners World NL"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "strawberry",
+      "names": {
+        "nl": "Aardbei",
+        "en": "Strawberry"
+      },
+      "category": "fruit",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 3,
+      "spacing_cm": 30,
+      "vak_per_m2": 4,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "plant",
+          "anchor": "first_frost",
+          "start_weeks": -8,
+          "end_weeks": -2,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Poten/planten in de aangegeven periode.",
+            "en": "Plant in the window shown."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 60,
+        "days_max": 60
+      },
+      "sources": [
+        "Groei & Bloei aardbeien",
+        "Makkelijke Moestuin community"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "swede",
+      "names": {
+        "nl": "Koolraap",
+        "en": "Swede"
+      },
+      "category": "brassica",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 10,
+      "spacing_cm": 25,
+      "vak_per_m2": 4,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 4,
+          "min_soil_c": 8,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 90,
+        "days_max": 110
+      },
+      "sources": [
+        "Tuinadvies.nl zaaikalender",
+        "directplant moestuinkalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "sweetcorn",
+      "names": {
+        "nl": "Maïs",
+        "en": "Sweetcorn"
+      },
+      "category": "fruit-veg",
+      "frost_tender": true,
+      "container_ok": false,
+      "min_pot_litres": null,
+      "spacing_cm": 35,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": 0,
+          "end_weeks": 2,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 5,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 7,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 80,
+        "days_max": 100
+      },
+      "sources": [
+        "zaaitijden.nl mais",
+        "KWS zaaitijd mais",
+        "robbiesmoestuin.nl"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "swiss-chard",
+      "names": {
+        "nl": "Snijbiet",
+        "en": "Swiss chard"
+      },
+      "category": "leafy",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 7,
+      "spacing_cm": 25,
+      "vak_per_m2": 4,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 8,
+          "min_soil_c": 8,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 2,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 55,
+        "days_max": 70
+      },
+      "sources": [
+        "Moesmeisje zaaikalender",
+        "directplant moestuinkalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "thyme",
+      "names": {
+        "nl": "Tijm",
+        "en": "Thyme"
+      },
+      "category": "herb",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 3,
+      "spacing_cm": 25,
+      "vak_per_m2": 4,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": -4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 2,
+          "end_weeks": 4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 80,
+        "days_max": 80
+      },
+      "sources": [
+        "Florum kruiden-zaaikalender",
+        "mooiemoestuin.nl tijm"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "tomato",
+      "names": {
+        "nl": "Tomaat",
+        "en": "Tomato"
+      },
+      "category": "fruit-veg",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 10,
+      "spacing_cm": 45,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": -2,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 6,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 60,
+        "days_max": 85
+      },
+      "sources": [
+        "IVN kweektips",
+        "Gardeners World NL",
+        "Tuinadvies.nl",
+        "zaaitijden.nl"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "turnip",
+      "names": {
+        "nl": "Meiraap",
+        "en": "Turnip"
+      },
+      "category": "brassica",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 5,
+      "spacing_cm": 10,
+      "vak_per_m2": 9,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -4,
+          "end_weeks": 10,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Direct op de plek buiten zaaien.",
+            "en": "Sow directly outdoors where it will grow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 45,
+        "days_max": 60
+      },
+      "sources": [
+        "Tuinadvies.nl zaaikalender",
+        "directplant moestuinkalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "winter-squash",
+      "names": {
+        "nl": "Winterpompoen",
+        "en": "Winter squash"
+      },
+      "category": "fruit-veg",
+      "frost_tender": true,
+      "container_ok": false,
+      "min_pot_litres": null,
+      "spacing_cm": 100,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": 0,
+          "end_weeks": 2,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien voor een vroege start.",
+            "en": "Start indoors for an early start."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 6,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Buiten uitplanten zodra het veilig is.",
+            "en": "Plant out once conditions are safe."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 100,
+        "days_max": 130
+      },
+      "sources": [
+        "Makkelijke Moestuin",
+        "mooiemoestuin.nl"
+      ],
+      "verified": true
+    }
+  ],
+  "deleted": []
+}

@@ -7,9 +7,10 @@
   "scripts": {
     "dev": "npm run snapshot && next dev",
     "build": "next build",
-    "prebuild": "npm run lint:crops && npm run snapshot",
+    "prebuild": "npm run lint:crops && npm run verify:snapshot",
     "start": "next start",
     "snapshot": "tsx scripts/build-snapshot.ts",
+    "verify:snapshot": "tsx scripts/verify-snapshot.ts",
     "smoke": "tsx scripts/smoke.ts",
     "seed:crops": "tsx scripts/seed-draft-crops.ts",
     "verify:engine": "tsx scripts/verify-engine.ts",
