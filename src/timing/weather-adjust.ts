@@ -3,6 +3,7 @@
 // The base schedule (engine.ts) is deterministic and runs offline. This layer
 // nudges individual *tasks* using live weather so reminders stop being dumb:
 //   • a watering task is SKIPPED when it has rained / will rain (soil is wet)
+//   • a watering task is BROUGHT FORWARD to meet a hot, dry day before it
 //   • a sow/transplant task is DEFERRED while the soil is still too cold
 // It returns deltas only; the caller applies them on top of the base schedule.
 // Offline, none of this runs and the base schedule stands — never blank.
@@ -52,6 +53,18 @@ export interface AdjustParams {
   wetThresholdMm: number
   /** Furthest a task may be deferred before we give up and keep the base date. */
   maxDeferDays: number
+  /** Daily max at/above which a container plant needs water sooner (°C). */
+  heatThresholdC: number
+  /** How far before `due` we'll pull a watering forward to meet a hot day. */
+  heatLookbackDays: number
+  /** A hot day only counts if it's also dry — rain at/above this cancels it. */
+  heatDryMaxMm: number
+  /**
+   * Today (ISO yyyy-mm-dd), so a task is never brought forward into the past.
+   * Injected rather than read from a clock — the engine stays pure and the
+   * fixtures stay reproducible. `null` disables the clamp.
+   */
+  today: string | null
 }
 
 export const DEFAULT_ADJUST: AdjustParams = {
@@ -59,6 +72,14 @@ export const DEFAULT_ADJUST: AdjustParams = {
   rainForecastDays: 1,
   wetThresholdMm: 10,
   maxDeferDays: 14,
+  // 30 °C is where containers start drying out within a day. Containers are the
+  // whole premise of this app — a raised bed buffers heat far better than a
+  // 10-litre pot on a balcony, so the threshold is deliberately not a
+  // field-grower's number.
+  heatThresholdC: 30,
+  heatLookbackDays: 3,
+  heatDryMaxMm: 2,
+  today: null,
 }
 
 function meanTemp(o: DayObservation): number {
@@ -90,6 +111,34 @@ function adjustTask(task: Task, byDate: Map<string, DayObservation>, p: AdjustPa
         reason: {
           nl: `Genoeg regen rond deze dag (${Math.round(rain)} mm) — overslaan.`,
           en: `Enough rain around this day (${Math.round(rain)} mm) — skip watering.`,
+        },
+      }
+    }
+
+    // Not wet. Is there a hot, dry day BEFORE the watering is due? A container
+    // can go from damp to bone dry inside one 30 °C afternoon, so waiting for
+    // the scheduled day is how plants get lost in a heatwave.
+    //
+    // We can only move existing tasks — there's no "add a task" delta — so the
+    // honest response is to pull the watering forward to the first hot day
+    // rather than invent one. Wet always wins over hot: never water into
+    // saturated soil just because it's warm.
+    for (let d = -p.heatLookbackDays; d < 0; d++) {
+      const day = toISO(addDays(due, d))
+      const obs = byDate.get(day)
+      if (!obs) continue
+      if (obs.temp_max_c < p.heatThresholdC) continue
+      if (obs.precip_mm > p.heatDryMaxMm) continue
+      // Never schedule into the past. `today` is injected, not read from a
+      // clock, so this stays pure and testable.
+      if (p.today !== null && day < p.today) continue
+      return {
+        task_id: task.id,
+        action: 'bring_forward',
+        to: day,
+        reason: {
+          nl: `Hitte verwacht (${Math.round(obs.temp_max_c)}°C) — eerder water geven.`,
+          en: `Heat expected (${Math.round(obs.temp_max_c)}°C) — water earlier.`,
         },
       }
     }

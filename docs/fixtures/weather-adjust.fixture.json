@@ -41,6 +41,66 @@
       "precip_mm": 0,
       "temp_min_c": 11,
       "temp_max_c": 21
+    },
+    {
+      "date": "2026-05-08",
+      "precip_mm": 0,
+      "temp_min_c": 12,
+      "temp_max_c": 22
+    },
+    {
+      "date": "2026-05-09",
+      "precip_mm": 0,
+      "temp_min_c": 14,
+      "temp_max_c": 25
+    },
+    {
+      "date": "2026-05-10",
+      "precip_mm": 0,
+      "temp_min_c": 18,
+      "temp_max_c": 34
+    },
+    {
+      "date": "2026-05-11",
+      "precip_mm": 0,
+      "temp_min_c": 19,
+      "temp_max_c": 35
+    },
+    {
+      "date": "2026-05-12",
+      "precip_mm": 0,
+      "temp_min_c": 17,
+      "temp_max_c": 28
+    },
+    {
+      "date": "2026-05-13",
+      "precip_mm": 3,
+      "temp_min_c": 15,
+      "temp_max_c": 26
+    },
+    {
+      "date": "2026-05-14",
+      "precip_mm": 0,
+      "temp_min_c": 14,
+      "temp_max_c": 24
+    },
+    {
+      "date": "2026-05-15",
+      "precip_mm": 5,
+      "temp_min_c": 20,
+      "temp_max_c": 32
+    },
+    {
+      "date": "2026-05-16",
+      "precip_mm": 0,
+      "temp_min_c": 18,
+      "temp_max_c": 27
+    },
+    {
+      "date": "2026-05-17",
+      "precip_mm": 0,
+      "temp_min_c": 17,
+      "temp_max_c": 26
     }
   ],
   "tasks": [
@@ -75,6 +135,18 @@
       "crop_slug": "radish",
       "kind": "harvest",
       "due": "2026-05-03"
+    },
+    {
+      "id": "t-water-heat",
+      "crop_slug": "tomato",
+      "kind": "water",
+      "due": "2026-05-12"
+    },
+    {
+      "id": "t-water-hot-wet",
+      "crop_slug": "tomato",
+      "kind": "water",
+      "due": "2026-05-16"
     }
   ],
   "adjustments": [
@@ -93,6 +165,15 @@
       "reason": {
         "nl": "Bodem nog te koud (< 12°C) — uitgesteld tot het warmer is.",
         "en": "Soil still too cold (< 12°C) — held until it warms up."
+      }
+    },
+    {
+      "task_id": "t-water-heat",
+      "action": "bring_forward",
+      "to": "2026-05-10",
+      "reason": {
+        "nl": "Hitte verwacht (34°C) — eerder water geven.",
+        "en": "Heat expected (34°C) — water earlier."
       }
     }
   ]

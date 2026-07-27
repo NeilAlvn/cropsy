@@ -142,13 +142,28 @@ gated by `min_soil_c` is **deferred** to the next day mean air-temp (min+max)/2
 meets the gate, within 14 days. Day-exact fixture:
 `docs/fixtures/weather-adjust.fixture.json`.
 
-> **Gap — no heat rule yet.** The prose above once promised "ramp watering in
-> heat"; nothing implements it. Live-testing Utrecht on 2026-07-27 returned a
-> forecast max of **35.9 °C** on 29 Jul and produced *zero* adjustments, because
-> the only watering rule is skip-when-wet. A heatwave is precisely when a
-> watering reminder matters most, so this is the next rule to add — likely
-> `bring_forward` or an extra watering task above a temp threshold. Deliberately
-> not faked in the meantime: no advice is better than wrong advice.
+**Heat rule (added 2026-07-27).** A watering task is **brought forward** to the
+earliest hot, dry day in the 3 days before it's due: `temp_max_c ≥ 30 °C` and
+`precip_mm ≤ 2`. A container can go from damp to bone dry in one 30 °C
+afternoon, so waiting for the scheduled day is how plants are lost in a
+heatwave. Three deliberate constraints:
+
+- **Wet beats hot.** The skip-when-rained check runs first, so we never water
+  into saturated soil just because it's warm.
+- **A hot day that rained doesn't count** (`heatDryMaxMm`), which is why the
+  threshold is a *dry*-heat test rather than a temperature test.
+- **Never scheduled into the past.** `today` is passed into `AdjustParams` by
+  the route rather than read from a clock inside the engine, so the engine stays
+  pure and the fixtures stay reproducible. `today: null` disables the clamp.
+
+30 °C is tuned for **containers**, not open ground — a raised bed buffers heat
+far better than a 10-litre pot on a balcony, and containers are this app's whole
+premise.
+
+> **Still missing:** the adjuster can only move existing tasks — there is no
+> "add a task" delta — so a heatwave with no watering task scheduled anywhere
+> nearby still produces no advice. Adding an `add` action is a contract change;
+> not doing it unilaterally.
 
 ---
 
@@ -187,8 +202,10 @@ same as Farmsy. Documented here only so nothing is assumed.
       backwards-compatible; the adjuster ignores kinds it has no rule for.
 - [x] Frost profile is **both**: `GET /api/frost` when online, plus a bundled
       national default the client uses offline (§3). Neither blocks the other.
-- [ ] Heat rule for watering (see the gap note in §5) — the one known behaviour
-      gap in the adjuster.
+- [x] Heat rule for watering — shipped 2026-07-27 (§5). Brings watering forward
+      onto a hot, dry day; wet still wins; never schedules into the past.
+- [ ] Whether to add an `add` action so a heatwave can create a watering task
+      where none is scheduled. Contract change — needs Chris's input.
 - [ ] Auth handshake specifics once the Supabase project exists
 - [ ] Deploy target + base URL for the three endpoints (Vercel project not yet
       created; Chris is on fixtures until it is)

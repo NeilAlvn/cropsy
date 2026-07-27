@@ -8,7 +8,7 @@
 // error — a degraded answer the client can apply blindly beats an error it
 // has to special-case.
 
-import { adjustTasks, type Task } from '../../../../src/timing/weather-adjust'
+import { adjustTasks, DEFAULT_ADJUST, type Task } from '../../../../src/timing/weather-adjust'
 import { dailyRainAndTemp } from '../../../../src/weather/frost'
 
 /** Refuse absurd payloads rather than fanning out weather calls for them. */
@@ -51,7 +51,12 @@ export async function POST(request: Request): Promise<Response> {
 
   try {
     const observations = await dailyRainAndTemp({ lat: body.lat, lon: body.lon })
-    return Response.json({ adjustments: adjustTasks(body.tasks, observations) })
+    // The engine is clock-free by design, so the clock is supplied here. Without
+    // it the heat rule would happily pull a watering task back onto a hot day
+    // that has already been and gone.
+    const today = new Date().toISOString().slice(0, 10)
+    const adjustments = adjustTasks(body.tasks, observations, { ...DEFAULT_ADJUST, today })
+    return Response.json({ adjustments })
   } catch {
     // Weather unavailable → no opinion. The base schedule stands.
     return Response.json({ adjustments: [] })
