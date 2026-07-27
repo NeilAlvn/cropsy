@@ -20,3 +20,9 @@ next-env.d.ts
 
 .vercel
 .env*
+
+# Supabase DB password (local only — NEVER commit)
+.supabase-db-password.txt
+
+# Supabase CLI local state (project ref, pooler URL, version pins)
+supabase/.temp/

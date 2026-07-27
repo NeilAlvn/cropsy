@@ -172,8 +172,36 @@ working fully offline.
 
 ## 6. User data — syncable tables (Supabase, delta sync)
 
+**Project is LIVE (2026-07-27).** Ref `trjqvikbtqpmxytzmhsb`, region
+**`eu-central-1` (Frankfurt)** — same region as the API on Vercel (`fra1`), and
+EU user data stays in the EU. Migration `0001_syncable_foundation` is applied;
+both Supabase advisors (security + performance) report no issues.
+
+> The project was first created in `ap-northeast-2` (Seoul) by accident and
+> recreated. Supabase regions cannot be changed after creation, so this was the
+> only window to fix it for free. Garden rows carry `lat`/`lon`, which is
+> location data tied to identifiable users — storing it outside the EEA is a
+> GDPR transfer question, not just a latency one.
+
+API URL and `anon` key: Supabase dashboard → Project Settings → API. The `anon`
+key is safe in the client; the `service_role` key must never ship in the app.
+
 Direct Supabase access from Flutter (`supabase_flutter`) under RLS, same pattern
 as Farmsy. Syncable tables: `gardens`, `garden_plants`, `tasks`, `journal_entries`.
+
+**What the schema enforces, verified against the live database:**
+- **RLS on all four tables**, one `FOR ALL TO authenticated` policy each with
+  `owner = (select auth.uid())` in both `USING` and `WITH CHECK`.
+- **No `DELETE` privilege.** Deletion is `update ... set deleted_at = now()`.
+  A hard delete would leave no tombstone, so the deletion would never reach the
+  user's other devices and the row would silently reappear on the next pull.
+  Grants are `INSERT, SELECT, UPDATE` only — confirmed, not just intended.
+- **`anon` has no access to any table** (confirmed: zero grants).
+- **Cross-owner references are impossible.** Children carry a composite FK —
+  `(garden_id, owner) REFERENCES gardens(id, owner)` — because RLS only checks
+  that *you* own the new row, so a plain FK would let you attach your plant to
+  someone else's garden.
+- **`tasks.kind`** is a CHECK constraint carrying the frozen enum.
 
 **Every syncable row guarantees:**
 - `id uuid` (client-generatable, so optimistic offline inserts work)
@@ -219,6 +247,14 @@ same as Farmsy. Documented here only so nothing is assumed.
       needs no network. The file already embeds `version`, so a fresh install
       can send `If-None-Match` on its very first sync instead of re-fetching.
       Same JSON shape the endpoint returns — one parser handles both paths.
-- [ ] Auth handshake specifics once the Supabase project exists
-- [ ] Deploy target + base URL for the three endpoints (Vercel project not yet
-      created; Chris is on fixtures until it is)
+- [x] Supabase project — live 2026-07-27, `trjqvikbtqpmxytzmhsb`, eu-central-1.
+      Migration applied, advisors clean (§6).
+- [ ] Auth handshake specifics — provider choice (email/OAuth) still open
+- [x] Deploy target + base URL — live at `https://growit-replica-ten.vercel.app`
+      (Vercel project `cropsy`, VisionTechBV team, `fra1`). The hostname still
+      says growit because Vercel keeps the original production domain through a
+      project rename; it is cosmetic and never user-visible.
+- [ ] Real domain (e.g. `api.cropsy.app`) before launch, which retires the
+      growit-named hostname for good.
+- [ ] EUIPO trademark check on "Cropsy" — Cropsy Technologies Ltd (NZ agritech)
+      already trades under the name. Needed before any spend on branding.
