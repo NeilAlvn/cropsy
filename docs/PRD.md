@@ -333,15 +333,15 @@ Backend (`cropsy/`)
 - [x] Auth e-mails (magic link) branded (`supabase/templates/magic_link.html`; **apply parked:** `npx supabase config push`); `DELETE /api/account` (**Vercel env parked:** `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`).
 
 Mobile (`cropsy-mobile/`)
-- [ ] Supabase auth (email + magic link) with anonymous-first: user can use the app before signing in; sign-in migrates local rows.
-- [ ] Outbox + delta sync for `gardens`, `garden_plants`, `tasks`, `journal_entries`, `profiles`. Reinstall restores everything.
+- [x] Supabase auth (email + magic link) with anonymous-first: user can use the app before signing in; sign-in migrates local rows. (`lib/sync/auth_service.dart`; needs migration 0002 applied to sync `profiles`.)
+- [x] Outbox + delta sync for `gardens`, `garden_plants`, `tasks`, `journal_entries`, `profiles`. Reinstall restores everything. (`lib/sync/`, fake-transport test; **live round-trip unverified** until 0002 is pushed.)
 - [x] `lib/timing/replan.dart` + parity test.
-- [ ] Onboarding 1.1–1.8 to spec (rewire prototype; postcode fallback).
-- [ ] Home 2.1–2.4, 2.6 on real data.
-- [ ] Add plant 4.1–4.3 with variety + pot size.
-- [ ] My Garden: Planning list 5.2, Growing 5.3, Reminder 5.6 with `flutter_local_notifications`.
-- [ ] **Per-plant timeline 7.1–7.2** with placeholder mascot slots.
-- [ ] Crop detail 3.3, 3.10; other tabs show "content coming" cards.
+- [x] Onboarding 1.1–1.8 to spec (rewire prototype; postcode fallback).
+- [x] Home 2.1–2.4, 2.6 on real data.
+- [x] Add plant 4.1–4.3 with variety (free text until `varieties` lands) + pot size + place + start method.
+- [x] My Garden: Planning list 5.2, Growing 5.3, Reminder 5.6 with `flutter_local_notifications` (one summary per morning).
+- [x] **Per-plant timeline 7.1–7.2** with placeholder mascot slots.
+- [x] Crop detail 3.3, 3.10; other tabs show "content coming" cards (how-tos show data rows only).
 
 Exit: internal build on TestFlight (keyless workflow exists). Luuk grows a real plant against it.
 
