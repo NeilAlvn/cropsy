@@ -319,7 +319,7 @@ Two builders: Luuk + Claude, working both repos in one stream (backend/data firs
 - [x] Name: **Cropsy**. Website + domain exist. Freeze bundle id `app.visiontech.cropsy` (or `app.cropsy.*` — decide before first store record).
 - [ ] Luuk: point `api.<cropsy domain>` at the Vercel project; retire the growit-named hostname.
 - [x] Both: install Flutter 3.44 on Luuk's Mac (`brew install --cask flutter`), `flutter test` + `flutter analyze` green on `main`. (Flutter 3.47.4 installed 2026-09-13.)
-- [x] Backend: migration `0002` (§8.2) written; `profiles` row auto-created on signup via trigger. **Apply parked for Luuk:** `npx supabase db push --yes` in `cropsy/` (project linked, dry-run clean).
+- [x] Backend: migration `0002` (§8.2) written and applied (2026-09-13, with `0003` storage bucket and `0004` tasks.id text); `profiles` row auto-created on signup via trigger.
 - [x] PRD locked (this document). Both READMEs point here.
 
 ### Phase 1 — Core loop, real data, real sync (W39–W43, → 2026-10-25)
@@ -334,7 +334,7 @@ Backend (`cropsy/`)
 
 Mobile (`cropsy-mobile/`)
 - [x] Supabase auth (email + magic link) with anonymous-first: user can use the app before signing in; sign-in migrates local rows. (`lib/sync/auth_service.dart`; needs migration 0002 applied to sync `profiles`.)
-- [x] Outbox + delta sync for `gardens`, `garden_plants`, `tasks`, `journal_entries`, `profiles`. Reinstall restores everything. (`lib/sync/`, fake-transport test; **live round-trip unverified** until 0002 is pushed.)
+- [x] Outbox + delta sync for `gardens`, `garden_plants`, `tasks`, `journal_entries`, `profiles` (+ `harvests`, `feedback`). Live round-trip verified 2026-09-13 17:28 after migrations 0002–0004; reinstall-restore check pending.
 - [x] `lib/timing/replan.dart` + parity test.
 - [x] Onboarding 1.1–1.8 to spec (rewire prototype; postcode fallback).
 - [x] Home 2.1–2.4, 2.6 on real data.
