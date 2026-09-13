@@ -4,8 +4,8 @@ Container-first vegetable-growing app for the Netherlands & Europe. Tells you
 what to do in your garden **this week**, with planting dates + reminders built on
 real Dutch/EU weather (KNMI/Open-Meteo) — not US zones.
 
-This repo is the **backend / data / web** half (Aviah). Mobile is Flutter, a
-separate repo (Chris). Product context lives in the Farmsy Obsidian vault:
+This repo is the **backend / data / web** half. Mobile is Flutter, a
+separate repo (`NeilAlvn/cropsy-mobile`). **Product spec and build plan: `docs/PRD.md` (locked v1.0, 2026-09-13).** Product context lives in the Farmsy Obsidian vault:
 `Ideas/Cropsy — Project Brief` (formerly "Growit Replica") and the planning
 notes.
 
