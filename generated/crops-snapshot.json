@@ -1,6 +1,6 @@
 {
-  "version": "33d3e8f955a94c8c",
-  "generated_at": "2026-07-27T14:04:51.987Z",
+  "version": "835249a252418e32",
+  "generated_at": "2026-09-13T09:43:07.885Z",
   "crops": [
     {
       "slug": "asparagus",
@@ -32,6 +32,14 @@
         "days_min": 700,
         "days_max": 730
       },
+      "difficulty": 3,
+      "water_cadence_days": null,
+      "feed_cadence_days": 28,
+      "depth_mm": 150,
+      "germination_days": null,
+      "days_to_transplant": null,
+      "perennial": true,
+      "image": null,
       "sources": [
         "mooiemoestuin.nl",
         "aardappelshop/welkoop pootgoed (asperge)"
@@ -79,6 +87,14 @@
         "days_min": 100,
         "days_max": 120
       },
+      "difficulty": 3,
+      "water_cadence_days": null,
+      "feed_cadence_days": 14,
+      "depth_mm": 5,
+      "germination_days": 10,
+      "days_to_transplant": 63,
+      "perennial": false,
+      "image": "aubergine.jpg",
       "sources": [
         "Tuinadvies.nl zaaikalender",
         "IJsheiligen (na 15 mei) — Warentuin / Gardeners World NL",
@@ -127,6 +143,14 @@
         "days_min": 40,
         "days_max": 60
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": 14,
+      "depth_mm": 3,
+      "germination_days": 7,
+      "days_to_transplant": 35,
+      "perennial": false,
+      "image": "basil.jpg",
       "sources": [
         "Florum kruiden-zaaikalender",
         "IJsheiligen (na 15 mei) — Warentuin / Gardeners World NL"
@@ -174,6 +198,14 @@
         "days_min": 60,
         "days_max": 80
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 20,
+      "germination_days": 10,
+      "days_to_transplant": 28,
+      "perennial": false,
+      "image": "beetroot.jpg",
       "sources": [
         "IVN rode biet",
         "robbiesmoestuin.nl",
@@ -211,6 +243,14 @@
         "days_min": 90,
         "days_max": 110
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 50,
+      "germination_days": 14,
+      "days_to_transplant": 28,
+      "perennial": false,
+      "image": "broad-bean.jpg",
       "sources": [
         "mooiemoestuin.nl tuinboon",
         "Stadstuinieren",
@@ -259,6 +299,14 @@
         "days_min": 80,
         "days_max": 100
       },
+      "difficulty": 2,
+      "water_cadence_days": null,
+      "feed_cadence_days": 21,
+      "depth_mm": 10,
+      "germination_days": 7,
+      "days_to_transplant": 35,
+      "perennial": false,
+      "image": "broccoli.jpg",
       "sources": [
         "Allezadenkopen zaaikalender",
         "Tuinadvies.nl zaaikalender"
@@ -306,6 +354,14 @@
         "days_min": 150,
         "days_max": 180
       },
+      "difficulty": 2,
+      "water_cadence_days": null,
+      "feed_cadence_days": 21,
+      "depth_mm": 10,
+      "germination_days": 7,
+      "days_to_transplant": 35,
+      "perennial": false,
+      "image": "brussels-sprouts.jpg",
       "sources": [
         "Allezadenkopen zaaikalender",
         "Tuinadvies.nl zaaikalender"
@@ -353,6 +409,14 @@
         "days_min": 90,
         "days_max": 120
       },
+      "difficulty": 2,
+      "water_cadence_days": null,
+      "feed_cadence_days": 21,
+      "depth_mm": 10,
+      "germination_days": 7,
+      "days_to_transplant": 35,
+      "perennial": false,
+      "image": "cabbage.jpg",
       "sources": [
         "Allezadenkopen zaaikalender",
         "directplant moestuinkalender"
@@ -389,6 +453,14 @@
         "days_min": 70,
         "days_max": 90
       },
+      "difficulty": 2,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 10,
+      "germination_days": 14,
+      "days_to_transplant": null,
+      "perennial": false,
+      "image": "carrot.jpg",
       "sources": [
         "Tuinadvies.nl moestuinklussen",
         "Gardeners World NL jaarkalender"
@@ -436,6 +508,14 @@
         "days_min": 90,
         "days_max": 110
       },
+      "difficulty": 3,
+      "water_cadence_days": null,
+      "feed_cadence_days": 21,
+      "depth_mm": 10,
+      "germination_days": 7,
+      "days_to_transplant": 35,
+      "perennial": false,
+      "image": "cauliflower.jpg",
       "sources": [
         "groenten-kweken bloemkool",
         "Allezadenkopen zaaikalender"
@@ -483,6 +563,14 @@
         "days_min": 150,
         "days_max": 180
       },
+      "difficulty": 3,
+      "water_cadence_days": null,
+      "feed_cadence_days": 14,
+      "depth_mm": 3,
+      "germination_days": 14,
+      "days_to_transplant": 70,
+      "perennial": false,
+      "image": "celeriac.jpg",
       "sources": [
         "mooiemoestuin.nl knolselderij",
         "keukenplanten.nl",
@@ -531,6 +619,19 @@
         "days_min": 120,
         "days_max": 140
       },
+      "difficulty": 3,
+      "water_cadence_days": {
+        "small": 1,
+        "medium": 1,
+        "large": 2,
+        "ground": 3
+      },
+      "feed_cadence_days": 14,
+      "depth_mm": 3,
+      "germination_days": 14,
+      "days_to_transplant": 63,
+      "perennial": false,
+      "image": "celery.jpg",
       "sources": [
         "robbiesmoestuin.nl bleekselderij",
         "keukenplanten.nl",
@@ -579,6 +680,14 @@
         "days_min": 90,
         "days_max": 120
       },
+      "difficulty": 2,
+      "water_cadence_days": null,
+      "feed_cadence_days": 14,
+      "depth_mm": 5,
+      "germination_days": 12,
+      "days_to_transplant": 63,
+      "perennial": false,
+      "image": "chili.jpg",
       "sources": [
         "Tuinadvies.nl zaaikalender",
         "IJsheiligen (na 15 mei) — Warentuin / Gardeners World NL",
@@ -627,6 +736,14 @@
         "days_min": 60,
         "days_max": 70
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 5,
+      "germination_days": 14,
+      "days_to_transplant": 42,
+      "perennial": true,
+      "image": "chives.jpg",
       "sources": [
         "Florum kruiden-zaaikalender",
         "Allezadenkopen zaaikalender"
@@ -663,6 +780,14 @@
         "days_min": 40,
         "days_max": 60
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 10,
+      "germination_days": 10,
+      "days_to_transplant": null,
+      "perennial": false,
+      "image": "coriander.jpg",
       "sources": [
         "Florum kruiden-zaaikalender",
         "moestuintijd"
@@ -710,6 +835,19 @@
         "days_min": 50,
         "days_max": 70
       },
+      "difficulty": 1,
+      "water_cadence_days": {
+        "small": 1,
+        "medium": 1,
+        "large": 2,
+        "ground": 3
+      },
+      "feed_cadence_days": 14,
+      "depth_mm": 20,
+      "germination_days": 7,
+      "days_to_transplant": 21,
+      "perennial": false,
+      "image": "courgette.jpg",
       "sources": [
         "Makkelijke Moestuin",
         "Groei & Bloei",
@@ -759,6 +897,19 @@
         "days_min": 55,
         "days_max": 70
       },
+      "difficulty": 2,
+      "water_cadence_days": {
+        "small": 1,
+        "medium": 1,
+        "large": 2,
+        "ground": 3
+      },
+      "feed_cadence_days": 14,
+      "depth_mm": 20,
+      "germination_days": 7,
+      "days_to_transplant": 21,
+      "perennial": false,
+      "image": "cucumber.jpg",
       "sources": [
         "Makkelijke Moestuin",
         "mooiemoestuin.nl",
@@ -796,6 +947,14 @@
         "days_min": 50,
         "days_max": 70
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 5,
+      "germination_days": 12,
+      "days_to_transplant": null,
+      "perennial": false,
+      "image": "dill.jpg",
       "sources": [
         "Florum kruiden-zaaikalender",
         "directplant moestuinkalender"
@@ -854,6 +1013,14 @@
         "days_min": 70,
         "days_max": 90
       },
+      "difficulty": 2,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 10,
+      "germination_days": 7,
+      "days_to_transplant": 28,
+      "perennial": false,
+      "image": "endive.jpg",
       "sources": [
         "De Bolster andijvie",
         "Moesmeisje zaaikalender"
@@ -890,6 +1057,14 @@
         "days_min": 80,
         "days_max": 100
       },
+      "difficulty": 2,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 10,
+      "germination_days": 10,
+      "days_to_transplant": 28,
+      "perennial": false,
+      "image": "fennel.jpg",
       "sources": [
         "Gardeners World NL venkel",
         "Groei & Bloei knolvenkel",
@@ -927,6 +1102,14 @@
         "days_min": 55,
         "days_max": 70
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 40,
+      "germination_days": 8,
+      "days_to_transplant": 21,
+      "perennial": false,
+      "image": "french-bean.jpg",
       "sources": [
         "Tuinadvies.nl bonen",
         "IJsheiligen (na 15 mei) — Warentuin / Gardeners World NL"
@@ -963,6 +1146,14 @@
         "days_min": 240,
         "days_max": 270
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 50,
+      "germination_days": null,
+      "days_to_transplant": null,
+      "perennial": false,
+      "image": "garlic.jpg",
       "sources": [
         "Groei & Bloei",
         "Gardeners World NL",
@@ -1012,6 +1203,19 @@
         "days_min": 50,
         "days_max": 65
       },
+      "difficulty": 2,
+      "water_cadence_days": {
+        "small": 1,
+        "medium": 1,
+        "large": 2,
+        "ground": 3
+      },
+      "feed_cadence_days": 14,
+      "depth_mm": 20,
+      "germination_days": 7,
+      "days_to_transplant": 21,
+      "perennial": false,
+      "image": "gherkin.jpg",
       "sources": [
         "keukenplanten.nl",
         "mooiemoestuin.nl",
@@ -1071,6 +1275,14 @@
         "days_min": 90,
         "days_max": 120
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": 21,
+      "depth_mm": 10,
+      "germination_days": 7,
+      "days_to_transplant": 35,
+      "perennial": false,
+      "image": "kale.jpg",
       "sources": [
         "Allezadenkopen zaaikalender",
         "Gardeners World NL jaarkalender"
@@ -1129,6 +1341,14 @@
         "days_min": 55,
         "days_max": 70
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 10,
+      "germination_days": 7,
+      "days_to_transplant": 28,
+      "perennial": false,
+      "image": "kohlrabi.jpg",
       "sources": [
         "keukenplanten.nl koolrabi",
         "Allezadenkopen zaaikalender"
@@ -1165,6 +1385,14 @@
         "days_min": 60,
         "days_max": 80
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 10,
+      "germination_days": 12,
+      "days_to_transplant": null,
+      "perennial": false,
+      "image": "lambs-lettuce.jpg",
       "sources": [
         "mooiemoestuin.nl veldsla",
         "Moesmeisje zaaikalender"
@@ -1212,6 +1440,14 @@
         "days_min": 120,
         "days_max": 150
       },
+      "difficulty": 2,
+      "water_cadence_days": null,
+      "feed_cadence_days": 21,
+      "depth_mm": 10,
+      "germination_days": 14,
+      "days_to_transplant": 70,
+      "perennial": false,
+      "image": "leek.jpg",
       "sources": [
         "Allezadenkopen zaaikalender",
         "Tuinadvies.nl zaaikalender"
@@ -1259,6 +1495,14 @@
         "days_min": 45,
         "days_max": 65
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 5,
+      "germination_days": 7,
+      "days_to_transplant": 28,
+      "perennial": false,
+      "image": "lettuce.jpg",
       "sources": [
         "Tuinadvies.nl moestuinklussen",
         "Gardeners World NL jaarkalender"
@@ -1295,6 +1539,14 @@
         "days_min": 60,
         "days_max": 75
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 40,
+      "germination_days": 10,
+      "days_to_transplant": 21,
+      "perennial": false,
+      "image": "mangetout.jpg",
       "sources": [
         "Stadstuinieren",
         "Tuinadvies.nl bonen"
@@ -1342,6 +1594,19 @@
         "days_min": 90,
         "days_max": 110
       },
+      "difficulty": 3,
+      "water_cadence_days": {
+        "small": 1,
+        "medium": 1,
+        "large": 2,
+        "ground": 3
+      },
+      "feed_cadence_days": 14,
+      "depth_mm": 15,
+      "germination_days": 7,
+      "days_to_transplant": 28,
+      "perennial": false,
+      "image": "melon.jpg",
       "sources": [
         "mooiemoestuin.nl (komkommer)",
         "Makkelijke Moestuin"
@@ -1378,6 +1643,14 @@
         "days_min": 60,
         "days_max": 60
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 3,
+      "germination_days": 14,
+      "days_to_transplant": 42,
+      "perennial": true,
+      "image": null,
       "sources": [
         "Florum kruiden-zaaikalender",
         "mooiemoestuin.nl mediterrane kruiden"
@@ -1414,6 +1687,14 @@
         "days_min": 120,
         "days_max": 150
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 20,
+      "germination_days": 12,
+      "days_to_transplant": 56,
+      "perennial": false,
+      "image": "onion.jpg",
       "sources": [
         "De Bolster uien telen",
         "mooiemoestuin.nl ui"
@@ -1461,6 +1742,19 @@
         "days_min": 80,
         "days_max": 80
       },
+      "difficulty": 1,
+      "water_cadence_days": {
+        "small": 2,
+        "medium": 3,
+        "large": 5,
+        "ground": 7
+      },
+      "feed_cadence_days": null,
+      "depth_mm": 2,
+      "germination_days": 14,
+      "days_to_transplant": 42,
+      "perennial": true,
+      "image": "oregano.jpg",
       "sources": [
         "Florum kruiden-zaaikalender",
         "mooiemoestuin.nl mediterrane kruiden"
@@ -1497,6 +1791,14 @@
         "days_min": 40,
         "days_max": 55
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 10,
+      "germination_days": 6,
+      "days_to_transplant": 21,
+      "perennial": false,
+      "image": "pak-choi.jpg",
       "sources": [
         "directplant moestuinkalender",
         "Allezadenkopen zaaikalender"
@@ -1544,6 +1846,14 @@
         "days_min": 70,
         "days_max": 90
       },
+      "difficulty": 2,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 5,
+      "germination_days": 21,
+      "days_to_transplant": 42,
+      "perennial": false,
+      "image": "parsley.jpg",
       "sources": [
         "Florum kruiden-zaaikalender",
         "directplant moestuinkalender"
@@ -1580,6 +1890,14 @@
         "days_min": 120,
         "days_max": 160
       },
+      "difficulty": 2,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 15,
+      "germination_days": 21,
+      "days_to_transplant": null,
+      "perennial": false,
+      "image": "parsnip.jpg",
       "sources": [
         "mooiemoestuin.nl pastinaak",
         "directplant moestuinkalender"
@@ -1616,6 +1934,14 @@
         "days_min": 60,
         "days_max": 80
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 40,
+      "germination_days": 10,
+      "days_to_transplant": 21,
+      "perennial": false,
+      "image": "pea.jpg",
       "sources": [
         "Tuinadvies.nl moestuinklussen",
         "Gardeners World NL jaarkalender"
@@ -1663,6 +1989,14 @@
         "days_min": 90,
         "days_max": 120
       },
+      "difficulty": 2,
+      "water_cadence_days": null,
+      "feed_cadence_days": 14,
+      "depth_mm": 5,
+      "germination_days": 12,
+      "days_to_transplant": 63,
+      "perennial": false,
+      "image": "pepper.jpg",
       "sources": [
         "Tuinadvies.nl zaaikalender",
         "IJsheiligen (na 15 mei) — Warentuin / Gardeners World NL",
@@ -1711,6 +2045,14 @@
         "days_min": 80,
         "days_max": 100
       },
+      "difficulty": 2,
+      "water_cadence_days": null,
+      "feed_cadence_days": 21,
+      "depth_mm": 10,
+      "germination_days": 7,
+      "days_to_transplant": 35,
+      "perennial": false,
+      "image": "pointed-cabbage.jpg",
       "sources": [
         "Allezadenkopen zaaikalender",
         "directplant moestuinkalender"
@@ -1747,6 +2089,14 @@
         "days_min": 90,
         "days_max": 120
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 120,
+      "germination_days": null,
+      "days_to_transplant": null,
+      "perennial": false,
+      "image": "potato.jpg",
       "sources": [
         "aardappelshop",
         "Welkoop",
@@ -1795,6 +2145,19 @@
         "days_min": 95,
         "days_max": 120
       },
+      "difficulty": 1,
+      "water_cadence_days": {
+        "small": 1,
+        "medium": 1,
+        "large": 2,
+        "ground": 3
+      },
+      "feed_cadence_days": 14,
+      "depth_mm": 25,
+      "germination_days": 7,
+      "days_to_transplant": 21,
+      "perennial": false,
+      "image": "pumpkin.jpg",
       "sources": [
         "Makkelijke Moestuin",
         "mooiemoestuin.nl",
@@ -1832,6 +2195,14 @@
         "days_min": 25,
         "days_max": 35
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 10,
+      "germination_days": 5,
+      "days_to_transplant": null,
+      "perennial": false,
+      "image": "radish.jpg",
       "sources": [
         "Tuinadvies.nl moestuinklussen",
         "Gardeners World NL jaarkalender"
@@ -1879,6 +2250,14 @@
         "days_min": 100,
         "days_max": 130
       },
+      "difficulty": 2,
+      "water_cadence_days": null,
+      "feed_cadence_days": 21,
+      "depth_mm": 10,
+      "germination_days": 7,
+      "days_to_transplant": 35,
+      "perennial": false,
+      "image": "red-cabbage.jpg",
       "sources": [
         "Allezadenkopen zaaikalender",
         "directplant moestuinkalender"
@@ -1915,6 +2294,14 @@
         "days_min": 330,
         "days_max": 365
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": 28,
+      "depth_mm": 50,
+      "germination_days": null,
+      "days_to_transplant": null,
+      "perennial": true,
+      "image": "rhubarb.jpg",
       "sources": [
         "mooiemoestuin.nl rabarber",
         "Makkelijke Moestuin community"
@@ -1951,6 +2338,14 @@
         "days_min": 30,
         "days_max": 45
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 5,
+      "germination_days": 6,
+      "days_to_transplant": null,
+      "perennial": false,
+      "image": "rocket.jpg",
       "sources": [
         "Moesmeisje zaaikalender",
         "Allezadenkopen zaaikalender"
@@ -1987,6 +2382,19 @@
         "days_min": 90,
         "days_max": 90
       },
+      "difficulty": 2,
+      "water_cadence_days": {
+        "small": 2,
+        "medium": 3,
+        "large": 5,
+        "ground": 7
+      },
+      "feed_cadence_days": null,
+      "depth_mm": 3,
+      "germination_days": 21,
+      "days_to_transplant": 56,
+      "perennial": true,
+      "image": "rosemary.jpg",
       "sources": [
         "Florum kruiden-zaaikalender",
         "mooiemoestuin.nl mediterrane kruiden"
@@ -2023,6 +2431,14 @@
         "days_min": 70,
         "days_max": 90
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 50,
+      "germination_days": 10,
+      "days_to_transplant": 21,
+      "perennial": false,
+      "image": "runner-bean.jpg",
       "sources": [
         "keukenplanten.nl pronkboon",
         "Jessica Koomen",
@@ -2071,6 +2487,19 @@
         "days_min": 80,
         "days_max": 80
       },
+      "difficulty": 1,
+      "water_cadence_days": {
+        "small": 2,
+        "medium": 3,
+        "large": 5,
+        "ground": 7
+      },
+      "feed_cadence_days": null,
+      "depth_mm": 3,
+      "germination_days": 18,
+      "days_to_transplant": 56,
+      "perennial": true,
+      "image": null,
       "sources": [
         "Florum kruiden-zaaikalender",
         "mooiemoestuin.nl mediterrane kruiden"
@@ -2107,6 +2536,14 @@
         "days_min": 100,
         "days_max": 130
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 20,
+      "germination_days": null,
+      "days_to_transplant": null,
+      "perennial": false,
+      "image": "shallot.jpg",
       "sources": [
         "De Bolster uien telen",
         "Allezadenkopen zaaikalender"
@@ -2154,6 +2591,14 @@
         "days_min": 60,
         "days_max": 80
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 5,
+      "germination_days": 10,
+      "days_to_transplant": 28,
+      "perennial": true,
+      "image": "sorrel.jpg",
       "sources": [
         "De Bolster zuring",
         "keukenplanten.nl zuring"
@@ -2190,6 +2635,14 @@
         "days_min": 40,
         "days_max": 55
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 15,
+      "germination_days": 8,
+      "days_to_transplant": null,
+      "perennial": false,
+      "image": "spinach.jpg",
       "sources": [
         "mooiemoestuin.nl",
         "Tuinadvies.nl moestuinklussen"
@@ -2226,6 +2679,14 @@
         "days_min": 60,
         "days_max": 80
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 10,
+      "germination_days": 12,
+      "days_to_transplant": null,
+      "perennial": false,
+      "image": "spring-onion.jpg",
       "sources": [
         "Makkelijke Moestuin lente-ui",
         "keukenplanten.nl bosui",
@@ -2263,6 +2724,14 @@
         "days_min": 60,
         "days_max": 60
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": 14,
+      "depth_mm": null,
+      "germination_days": null,
+      "days_to_transplant": null,
+      "perennial": true,
+      "image": "strawberry.jpg",
       "sources": [
         "Groei & Bloei aardbeien",
         "Makkelijke Moestuin community"
@@ -2299,6 +2768,14 @@
         "days_min": 90,
         "days_max": 110
       },
+      "difficulty": 2,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 15,
+      "germination_days": 8,
+      "days_to_transplant": null,
+      "perennial": false,
+      "image": "swede.jpg",
       "sources": [
         "Tuinadvies.nl zaaikalender",
         "directplant moestuinkalender"
@@ -2357,6 +2834,14 @@
         "days_min": 80,
         "days_max": 100
       },
+      "difficulty": 2,
+      "water_cadence_days": null,
+      "feed_cadence_days": 14,
+      "depth_mm": 30,
+      "germination_days": 8,
+      "days_to_transplant": 21,
+      "perennial": false,
+      "image": "sweetcorn.jpg",
       "sources": [
         "zaaitijden.nl mais",
         "KWS zaaitijd mais",
@@ -2405,6 +2890,14 @@
         "days_min": 55,
         "days_max": 70
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 15,
+      "germination_days": 8,
+      "days_to_transplant": 28,
+      "perennial": false,
+      "image": "swiss-chard.jpg",
       "sources": [
         "Moesmeisje zaaikalender",
         "directplant moestuinkalender"
@@ -2452,6 +2945,19 @@
         "days_min": 80,
         "days_max": 80
       },
+      "difficulty": 2,
+      "water_cadence_days": {
+        "small": 2,
+        "medium": 3,
+        "large": 5,
+        "ground": 7
+      },
+      "feed_cadence_days": null,
+      "depth_mm": 2,
+      "germination_days": 18,
+      "days_to_transplant": 56,
+      "perennial": true,
+      "image": "thyme.jpg",
       "sources": [
         "Florum kruiden-zaaikalender",
         "mooiemoestuin.nl tijm"
@@ -2499,6 +3005,19 @@
         "days_min": 60,
         "days_max": 85
       },
+      "difficulty": 2,
+      "water_cadence_days": {
+        "small": 1,
+        "medium": 1,
+        "large": 2,
+        "ground": 3
+      },
+      "feed_cadence_days": 14,
+      "depth_mm": 5,
+      "germination_days": 8,
+      "days_to_transplant": 56,
+      "perennial": false,
+      "image": "tomato.jpg",
       "sources": [
         "IVN kweektips",
         "Gardeners World NL",
@@ -2537,6 +3056,14 @@
         "days_min": 45,
         "days_max": 60
       },
+      "difficulty": 1,
+      "water_cadence_days": null,
+      "feed_cadence_days": null,
+      "depth_mm": 15,
+      "germination_days": 6,
+      "days_to_transplant": null,
+      "perennial": false,
+      "image": "turnip.jpg",
       "sources": [
         "Tuinadvies.nl zaaikalender",
         "directplant moestuinkalender"
@@ -2584,6 +3111,19 @@
         "days_min": 100,
         "days_max": 130
       },
+      "difficulty": 1,
+      "water_cadence_days": {
+        "small": 1,
+        "medium": 1,
+        "large": 2,
+        "ground": 3
+      },
+      "feed_cadence_days": 14,
+      "depth_mm": 25,
+      "germination_days": 7,
+      "days_to_transplant": 21,
+      "perennial": false,
+      "image": "winter-squash.jpg",
       "sources": [
         "Makkelijke Moestuin",
         "mooiemoestuin.nl"

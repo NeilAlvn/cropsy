@@ -27,9 +27,23 @@ plain data, no logic.
 | `vak_per_m2` | number \| null | plants per 30×30 "vak" for square-metre gardeners; null = n/a |
 | `sun` | string | `full` \| `partial` \| `shade-tolerant` |
 | `methods` | array | one or more sowing/planting methods (below) — the heart of the rule |
-| `harvest` | object | `{days_min, days_max}` days from sow/plant to first harvest |
+| `harvest` | object | `{days_min, days_max}` days from the plant's *outdoor* start (transplant for indoor-started crops, else the sow/plant date) to first harvest |
+| `difficulty` | 1 \| 2 \| 3 \| null | easy / medium / hard |
+| `water_cadence_days` | `{small, medium, large, ground}` \| null | days between waterings per pot bucket (≤5 L / 6–12 L / >12 L / in-ground); null = engine default `1/2/3/4` |
+| `feed_cadence_days` | number \| null | days between feeds once established; null = no routine feeding |
+| `depth_mm` | number \| null | sowing/planting depth; null = planted as a plant |
+| `germination_days` | number \| null | sowing → emergence; drives the pot-on / thin node |
+| `days_to_transplant` | number \| null | indoor sowing → planting out; drives the transplant node |
+| `perennial` | boolean | comes back next year |
+| `image` | string \| null | file name in the app's `assets/crops/` |
 | `sources` | string[] | which supplier calendars this row was cross-checked against |
 | `verified` | boolean | `false` = DRAFT (timing from general knowledge, not grower-confirmed). Only `true` after cross-checking ≥2 real sources. Draft data must never ship as fact. |
+
+The eight fields from `difficulty` to `image` were added 2026-09-13 (PRD §8.1)
+from general horticultural references, not from the ≥2-source cross-check that
+`verified` asserts for the timing windows. They are in scope for the Phase 3
+grower spot-check. The linter bounds-checks them; null means unknown and the
+path builder simply omits the node that field would have produced.
 
 ### `methods[]` — each is one way to get the crop going
 

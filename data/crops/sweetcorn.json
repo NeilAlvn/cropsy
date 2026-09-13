@@ -50,6 +50,14 @@
     "days_min": 80,
     "days_max": 100
   },
+  "difficulty": 2,
+  "water_cadence_days": null,
+  "feed_cadence_days": 14,
+  "depth_mm": 30,
+  "germination_days": 8,
+  "days_to_transplant": 21,
+  "perennial": false,
+  "image": "sweetcorn.jpg",
   "sources": [
     "zaaitijden.nl mais",
     "KWS zaaitijd mais",

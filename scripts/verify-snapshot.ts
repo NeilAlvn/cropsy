@@ -10,6 +10,8 @@ import { fileURLToPath } from 'node:url'
 import { dirname, join } from 'node:path'
 import { loadCrops } from './loadCrops.ts'
 import { snapshotVersion, type CropSnapshot } from '../src/crops/snapshot.ts'
+import { contentVersion, type ContentSnapshot } from '../src/content/snapshot.ts'
+import { loadContent } from './build-content-snapshot.ts'
 
 const here = dirname(fileURLToPath(import.meta.url))
 const FILE = join(here, '..', 'generated', 'crops-snapshot.json')
@@ -31,3 +33,12 @@ if (committed.version !== expected) {
 }
 
 console.log(`✓ snapshot current (${committed.version}, ${committed.crops.length} crops)`)
+
+const CONTENT = join(here, '..', 'generated', 'content-snapshot.json')
+const content = existsSync(CONTENT) ? (JSON.parse(readFileSync(CONTENT, 'utf8')) as ContentSnapshot) : null
+const { version: _v, generated_at: _g, ...data } = content ?? ({} as ContentSnapshot)
+if (!content || contentVersion(data) !== contentVersion(loadContent())) {
+  console.error('Content snapshot is STALE. Run `npm run snapshot` and commit the result.')
+  process.exit(1)
+}
+console.log(`✓ content snapshot current (${content.version})`)

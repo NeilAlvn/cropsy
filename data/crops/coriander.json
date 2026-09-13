@@ -28,6 +28,14 @@
     "days_min": 40,
     "days_max": 60
   },
+  "difficulty": 1,
+  "water_cadence_days": null,
+  "feed_cadence_days": null,
+  "depth_mm": 10,
+  "germination_days": 10,
+  "days_to_transplant": null,
+  "perennial": false,
+  "image": "coriander.jpg",
   "sources": [
     "Florum kruiden-zaaikalender",
     "moestuintijd"

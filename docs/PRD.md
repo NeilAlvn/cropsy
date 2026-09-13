@@ -318,24 +318,24 @@ Two builders: Luuk + Claude, working both repos in one stream (backend/data firs
 ### Phase 0 — Unblock (W38, 2026-09-14 → 09-20)
 - [x] Name: **Cropsy**. Website + domain exist. Freeze bundle id `app.visiontech.cropsy` (or `app.cropsy.*` — decide before first store record).
 - [ ] Luuk: point `api.<cropsy domain>` at the Vercel project; retire the growit-named hostname.
-- [ ] Both: install Flutter 3.44 on Luuk's Mac (`brew install --cask flutter`), `flutter test` + `flutter analyze` green on `main`.
-- [ ] Backend: migration `0002` (§8.2) written and applied; `profiles` row auto-created on signup via trigger.
+- [x] Both: install Flutter 3.44 on Luuk's Mac (`brew install --cask flutter`), `flutter test` + `flutter analyze` green on `main`. (Flutter 3.47.4 installed 2026-09-13.)
+- [x] Backend: migration `0002` (§8.2) written; `profiles` row auto-created on signup via trigger. **Apply parked for Luuk:** `npx supabase db push --yes` in `cropsy/` (project linked, dry-run clean).
 - [x] PRD locked (this document). Both READMEs point here.
 
 ### Phase 1 — Core loop, real data, real sync (W39–W43, → 2026-10-25)
 Goal: a user can onboard, get a plan for their frost cell, add plants, see the timeline, get reminders, and have it survive reinstall. Everything offline-capable.
 
 Backend (`cropsy/`)
-- [ ] `src/timing/replan.ts` + `docs/fixtures/replan.fixture.json` (§7.2).
-- [ ] Port `watering` to TS, fixture it.
-- [ ] Extend crop schema with the §8.1 fields; migrate the 60 crops; linter updated.
-- [ ] `GET /api/content` skeleton serving `collections`, `monthly-checklist`, `prices` (may be near-empty).
-- [ ] Auth e-mails (magic link) branded; account deletion endpoint.
+- [x] `src/timing/replan.ts` + `docs/fixtures/replan.fixture.json` (§7.2).
+- [x] Port `watering` to TS, fixture it.
+- [x] Extend crop schema with the §8.1 fields; migrate the 60 crops; linter updated.
+- [x] `GET /api/content` skeleton serving `collections`, `monthly-checklist`, `prices` (may be near-empty).
+- [x] Auth e-mails (magic link) branded (`supabase/templates/magic_link.html`; **apply parked:** `npx supabase config push`); `DELETE /api/account` (**Vercel env parked:** `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`).
 
 Mobile (`cropsy-mobile/`)
 - [ ] Supabase auth (email + magic link) with anonymous-first: user can use the app before signing in; sign-in migrates local rows.
 - [ ] Outbox + delta sync for `gardens`, `garden_plants`, `tasks`, `journal_entries`, `profiles`. Reinstall restores everything.
-- [ ] `lib/timing/replan.dart` + parity test.
+- [x] `lib/timing/replan.dart` + parity test.
 - [ ] Onboarding 1.1–1.8 to spec (rewire prototype; postcode fallback).
 - [ ] Home 2.1–2.4, 2.6 on real data.
 - [ ] Add plant 4.1–4.3 with variety + pot size.
@@ -402,4 +402,6 @@ Weekly data fixes from `feedback`. Watch the §3 metrics. Decide on the season p
 
 ## Amendments
 
-_None yet. Add dated entries here; never edit locked sections in place._
+**2026-09-13 — harvest day-count anchor.** `harvest.days_min/max` count from the plant's *outdoor* start: the transplant date for indoor-started crops, otherwise the sow/plant date. That is how the 60 crop rows were entered (tomato 60–85 days is from planting out, not from sowing); `buildPath` in `replan.ts`/`replan.dart` follows it. `_SCHEMA.md` updated.
+
+**2026-09-13 — §8.1 field provenance.** `difficulty`, `water_cadence_days`, `feed_cadence_days`, `depth_mm`, `germination_days`, `days_to_transplant`, `perennial`, `image` were filled for all 60 crops from general horticultural references (`scripts/migrate-crop-fields.ts`), not the ≥2-source cross-check `verified` asserts for timing. Bounds-checked by the linter; grower spot-check in Phase 3. The `flower` node from §7.1 is dropped for v1 — no data field drives it.

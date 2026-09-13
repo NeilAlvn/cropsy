@@ -1,0 +1,243 @@
+{
+  "cases": [
+    {
+      "input": {
+        "plantId": "p1",
+        "cropSlug": "basil",
+        "potLitres": 3,
+        "today": "2026-06-01",
+        "horizonDays": 7,
+        "cadence": null
+      },
+      "tasks": [
+        {
+          "id": "water-p1-2026-06-01",
+          "crop_slug": "basil",
+          "kind": "water",
+          "due": "2026-06-01"
+        },
+        {
+          "id": "water-p1-2026-06-02",
+          "crop_slug": "basil",
+          "kind": "water",
+          "due": "2026-06-02"
+        },
+        {
+          "id": "water-p1-2026-06-03",
+          "crop_slug": "basil",
+          "kind": "water",
+          "due": "2026-06-03"
+        },
+        {
+          "id": "water-p1-2026-06-04",
+          "crop_slug": "basil",
+          "kind": "water",
+          "due": "2026-06-04"
+        },
+        {
+          "id": "water-p1-2026-06-05",
+          "crop_slug": "basil",
+          "kind": "water",
+          "due": "2026-06-05"
+        },
+        {
+          "id": "water-p1-2026-06-06",
+          "crop_slug": "basil",
+          "kind": "water",
+          "due": "2026-06-06"
+        },
+        {
+          "id": "water-p1-2026-06-07",
+          "crop_slug": "basil",
+          "kind": "water",
+          "due": "2026-06-07"
+        }
+      ]
+    },
+    {
+      "input": {
+        "plantId": "p2",
+        "cropSlug": "lettuce",
+        "potLitres": 10,
+        "today": "2026-06-01",
+        "horizonDays": 7,
+        "cadence": null
+      },
+      "tasks": [
+        {
+          "id": "water-p2-2026-06-01",
+          "crop_slug": "lettuce",
+          "kind": "water",
+          "due": "2026-06-01"
+        },
+        {
+          "id": "water-p2-2026-06-03",
+          "crop_slug": "lettuce",
+          "kind": "water",
+          "due": "2026-06-03"
+        },
+        {
+          "id": "water-p2-2026-06-05",
+          "crop_slug": "lettuce",
+          "kind": "water",
+          "due": "2026-06-05"
+        },
+        {
+          "id": "water-p2-2026-06-07",
+          "crop_slug": "lettuce",
+          "kind": "water",
+          "due": "2026-06-07"
+        }
+      ]
+    },
+    {
+      "input": {
+        "plantId": "p3",
+        "cropSlug": "tomato",
+        "potLitres": 20,
+        "today": "2026-06-01",
+        "horizonDays": 7,
+        "cadence": null
+      },
+      "tasks": [
+        {
+          "id": "water-p3-2026-06-01",
+          "crop_slug": "tomato",
+          "kind": "water",
+          "due": "2026-06-01"
+        },
+        {
+          "id": "water-p3-2026-06-04",
+          "crop_slug": "tomato",
+          "kind": "water",
+          "due": "2026-06-04"
+        },
+        {
+          "id": "water-p3-2026-06-07",
+          "crop_slug": "tomato",
+          "kind": "water",
+          "due": "2026-06-07"
+        }
+      ]
+    },
+    {
+      "input": {
+        "plantId": "p4",
+        "cropSlug": "courgette",
+        "potLitres": null,
+        "today": "2026-06-01",
+        "horizonDays": 7,
+        "cadence": null
+      },
+      "tasks": [
+        {
+          "id": "water-p4-2026-06-01",
+          "crop_slug": "courgette",
+          "kind": "water",
+          "due": "2026-06-01"
+        },
+        {
+          "id": "water-p4-2026-06-05",
+          "crop_slug": "courgette",
+          "kind": "water",
+          "due": "2026-06-05"
+        }
+      ]
+    },
+    {
+      "input": {
+        "plantId": "p5",
+        "cropSlug": "rosemary",
+        "potLitres": 3,
+        "today": "2026-06-01",
+        "cadence": {
+          "small": 2,
+          "medium": 3,
+          "large": 5,
+          "ground": 7
+        },
+        "horizonDays": 7
+      },
+      "tasks": [
+        {
+          "id": "water-p5-2026-06-01",
+          "crop_slug": "rosemary",
+          "kind": "water",
+          "due": "2026-06-01"
+        },
+        {
+          "id": "water-p5-2026-06-03",
+          "crop_slug": "rosemary",
+          "kind": "water",
+          "due": "2026-06-03"
+        },
+        {
+          "id": "water-p5-2026-06-05",
+          "crop_slug": "rosemary",
+          "kind": "water",
+          "due": "2026-06-05"
+        },
+        {
+          "id": "water-p5-2026-06-07",
+          "crop_slug": "rosemary",
+          "kind": "water",
+          "due": "2026-06-07"
+        }
+      ]
+    },
+    {
+      "input": {
+        "plantId": "p6",
+        "cropSlug": "tomato",
+        "potLitres": 8,
+        "today": "2026-06-25",
+        "horizonDays": 14,
+        "cadence": null
+      },
+      "tasks": [
+        {
+          "id": "water-p6-2026-06-25",
+          "crop_slug": "tomato",
+          "kind": "water",
+          "due": "2026-06-25"
+        },
+        {
+          "id": "water-p6-2026-06-27",
+          "crop_slug": "tomato",
+          "kind": "water",
+          "due": "2026-06-27"
+        },
+        {
+          "id": "water-p6-2026-06-29",
+          "crop_slug": "tomato",
+          "kind": "water",
+          "due": "2026-06-29"
+        },
+        {
+          "id": "water-p6-2026-07-01",
+          "crop_slug": "tomato",
+          "kind": "water",
+          "due": "2026-07-01"
+        },
+        {
+          "id": "water-p6-2026-07-03",
+          "crop_slug": "tomato",
+          "kind": "water",
+          "due": "2026-07-03"
+        },
+        {
+          "id": "water-p6-2026-07-05",
+          "crop_slug": "tomato",
+          "kind": "water",
+          "due": "2026-07-05"
+        },
+        {
+          "id": "water-p6-2026-07-07",
+          "crop_slug": "tomato",
+          "kind": "water",
+          "due": "2026-07-07"
+        }
+      ]
+    }
+  ]
+}

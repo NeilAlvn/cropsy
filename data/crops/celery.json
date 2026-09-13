@@ -39,6 +39,19 @@
     "days_min": 120,
     "days_max": 140
   },
+  "difficulty": 3,
+  "water_cadence_days": {
+    "small": 1,
+    "medium": 1,
+    "large": 2,
+    "ground": 3
+  },
+  "feed_cadence_days": 14,
+  "depth_mm": 3,
+  "germination_days": 14,
+  "days_to_transplant": 63,
+  "perennial": false,
+  "image": "celery.jpg",
   "sources": [
     "robbiesmoestuin.nl bleekselderij",
     "keukenplanten.nl",

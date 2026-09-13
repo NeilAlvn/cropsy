@@ -28,6 +28,14 @@
     "days_min": 45,
     "days_max": 60
   },
+  "difficulty": 1,
+  "water_cadence_days": null,
+  "feed_cadence_days": null,
+  "depth_mm": 15,
+  "germination_days": 6,
+  "days_to_transplant": null,
+  "perennial": false,
+  "image": "turnip.jpg",
   "sources": [
     "Tuinadvies.nl zaaikalender",
     "directplant moestuinkalender"

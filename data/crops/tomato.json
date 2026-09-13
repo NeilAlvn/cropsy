@@ -39,6 +39,19 @@
     "days_min": 60,
     "days_max": 85
   },
+  "difficulty": 2,
+  "water_cadence_days": {
+    "small": 1,
+    "medium": 1,
+    "large": 2,
+    "ground": 3
+  },
+  "feed_cadence_days": 14,
+  "depth_mm": 5,
+  "germination_days": 8,
+  "days_to_transplant": 56,
+  "perennial": false,
+  "image": "tomato.jpg",
   "sources": [
     "IVN kweektips",
     "Gardeners World NL",

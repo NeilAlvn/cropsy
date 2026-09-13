@@ -34,6 +34,24 @@ export interface Crop {
   sun: string
   methods: CropMethod[]
   harvest: { days_min: number; days_max: number }
+  // ── PRD §8.1 fields (added 2026-09-13). null = unknown; the path builder and
+  // the UI degrade gracefully. Values entered from general horticultural
+  // references; grower spot-check is Phase 3 scope. ──
+  /** 1 = easy, 2 = medium, 3 = hard. */
+  difficulty: 1 | 2 | 3 | null
+  /** Per-pot-bucket watering interval override; null = engine default. */
+  water_cadence_days: WaterCadence | null
+  /** Days between feeds once established; null = no routine feeding. */
+  feed_cadence_days: number | null
+  /** Sowing / planting depth. null = planted as a plant, not seed. */
+  depth_mm: number | null
+  /** Typical days from sowing to emergence. null = not grown from seed. */
+  germination_days: number | null
+  /** Days from indoor sowing to planting out. null = direct-sown / planted. */
+  days_to_transplant: number | null
+  perennial: boolean
+  /** Bundled image file name (app assets), or null. */
+  image: string | null
   sources: string[]
   /**
    * false = DRAFT: timing populated from general knowledge, NOT yet confirmed
@@ -41,6 +59,18 @@ export interface Crop {
    * fact. Only flip to true once cross-checked against >=2 sources.
    */
   verified: boolean
+}
+
+/** Days between waterings per container bucket (see watering.ts for buckets). */
+export interface WaterCadence {
+  /** ≤ 5 L */
+  small: number
+  /** 6–12 L */
+  medium: number
+  /** > 12 L */
+  large: number
+  /** in-ground / bed (pot_litres null) */
+  ground: number
 }
 
 /** The two dates that turn frost-relative rules into real calendar windows. */

@@ -1,0 +1,822 @@
+{
+  "cases": [
+    {
+      "name": "PRD §7.2: transplant 14 days late shifts harvest and feeds",
+      "crop_slug": "tomato",
+      "start": {
+        "method": "sow_indoor",
+        "on": "2027-03-19"
+      },
+      "plant_id": "tom1",
+      "log": {
+        "node_id": "tom1-transplant",
+        "logged_on": "2027-05-28"
+      },
+      "params": {
+        "thresholdDays": 5,
+        "firstFrost": "2027-11-01",
+        "frostMarginDays": 14
+      },
+      "path": [
+        {
+          "id": "tom1-sow",
+          "kind": "sow",
+          "planned_due": "2027-03-19",
+          "due": "2027-03-19",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom1-pot_on",
+          "kind": "pot_on",
+          "planned_due": "2027-04-10",
+          "due": "2027-04-10",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom1-transplant",
+          "kind": "transplant",
+          "planned_due": "2027-05-14",
+          "due": "2027-05-14",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom1-feed-1",
+          "kind": "feed",
+          "planned_due": "2027-05-28",
+          "due": "2027-05-28",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom1-feed-2",
+          "kind": "feed",
+          "planned_due": "2027-06-11",
+          "due": "2027-06-11",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom1-feed-3",
+          "kind": "feed",
+          "planned_due": "2027-06-25",
+          "due": "2027-06-25",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom1-feed-4",
+          "kind": "feed",
+          "planned_due": "2027-07-09",
+          "due": "2027-07-09",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom1-harvest",
+          "kind": "harvest",
+          "planned_due": "2027-07-13",
+          "due": "2027-07-13",
+          "until": "2027-08-07",
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        }
+      ],
+      "result": {
+        "nodes": [
+          {
+            "id": "tom1-sow",
+            "kind": "sow",
+            "planned_due": "2027-03-19",
+            "due": "2027-03-19",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": null
+          },
+          {
+            "id": "tom1-pot_on",
+            "kind": "pot_on",
+            "planned_due": "2027-04-10",
+            "due": "2027-04-10",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": null
+          },
+          {
+            "id": "tom1-transplant",
+            "kind": "transplant",
+            "planned_due": "2027-05-14",
+            "due": "2027-05-14",
+            "until": null,
+            "logged_on": "2027-05-28",
+            "skipped": false,
+            "moved_reason": null
+          },
+          {
+            "id": "tom1-feed-1",
+            "kind": "feed",
+            "planned_due": "2027-05-28",
+            "due": "2027-06-11",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": {
+              "nl": "Verplaatst (+14 dagen): uitplanten was later dan gepland.",
+              "en": "Moved (+14 days): planting out was later than planned."
+            }
+          },
+          {
+            "id": "tom1-feed-2",
+            "kind": "feed",
+            "planned_due": "2027-06-11",
+            "due": "2027-06-25",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": {
+              "nl": "Verplaatst (+14 dagen): uitplanten was later dan gepland.",
+              "en": "Moved (+14 days): planting out was later than planned."
+            }
+          },
+          {
+            "id": "tom1-feed-3",
+            "kind": "feed",
+            "planned_due": "2027-06-25",
+            "due": "2027-07-09",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": {
+              "nl": "Verplaatst (+14 dagen): uitplanten was later dan gepland.",
+              "en": "Moved (+14 days): planting out was later than planned."
+            }
+          },
+          {
+            "id": "tom1-feed-4",
+            "kind": "feed",
+            "planned_due": "2027-07-09",
+            "due": "2027-07-23",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": {
+              "nl": "Verplaatst (+14 dagen): uitplanten was later dan gepland.",
+              "en": "Moved (+14 days): planting out was later than planned."
+            }
+          },
+          {
+            "id": "tom1-harvest",
+            "kind": "harvest",
+            "planned_due": "2027-07-13",
+            "due": "2027-07-27",
+            "until": "2027-08-21",
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": {
+              "nl": "Verplaatst (+14 dagen): uitplanten was later dan gepland.",
+              "en": "Moved (+14 days): planting out was later than planned."
+            }
+          }
+        ],
+        "shift_days": 14,
+        "warnings": []
+      }
+    },
+    {
+      "name": "within threshold: 3 days late moves nothing",
+      "crop_slug": "tomato",
+      "start": {
+        "method": "sow_indoor",
+        "on": "2027-03-19"
+      },
+      "plant_id": "tom2",
+      "log": {
+        "node_id": "tom2-transplant",
+        "logged_on": "2027-05-17"
+      },
+      "params": {
+        "thresholdDays": 5,
+        "firstFrost": null,
+        "frostMarginDays": 14
+      },
+      "path": [
+        {
+          "id": "tom2-sow",
+          "kind": "sow",
+          "planned_due": "2027-03-19",
+          "due": "2027-03-19",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom2-pot_on",
+          "kind": "pot_on",
+          "planned_due": "2027-04-10",
+          "due": "2027-04-10",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom2-transplant",
+          "kind": "transplant",
+          "planned_due": "2027-05-14",
+          "due": "2027-05-14",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom2-feed-1",
+          "kind": "feed",
+          "planned_due": "2027-05-28",
+          "due": "2027-05-28",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom2-feed-2",
+          "kind": "feed",
+          "planned_due": "2027-06-11",
+          "due": "2027-06-11",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom2-feed-3",
+          "kind": "feed",
+          "planned_due": "2027-06-25",
+          "due": "2027-06-25",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom2-feed-4",
+          "kind": "feed",
+          "planned_due": "2027-07-09",
+          "due": "2027-07-09",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom2-harvest",
+          "kind": "harvest",
+          "planned_due": "2027-07-13",
+          "due": "2027-07-13",
+          "until": "2027-08-07",
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        }
+      ],
+      "result": {
+        "nodes": [
+          {
+            "id": "tom2-sow",
+            "kind": "sow",
+            "planned_due": "2027-03-19",
+            "due": "2027-03-19",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": null
+          },
+          {
+            "id": "tom2-pot_on",
+            "kind": "pot_on",
+            "planned_due": "2027-04-10",
+            "due": "2027-04-10",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": null
+          },
+          {
+            "id": "tom2-transplant",
+            "kind": "transplant",
+            "planned_due": "2027-05-14",
+            "due": "2027-05-14",
+            "until": null,
+            "logged_on": "2027-05-17",
+            "skipped": false,
+            "moved_reason": null
+          },
+          {
+            "id": "tom2-feed-1",
+            "kind": "feed",
+            "planned_due": "2027-05-28",
+            "due": "2027-05-28",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": null
+          },
+          {
+            "id": "tom2-feed-2",
+            "kind": "feed",
+            "planned_due": "2027-06-11",
+            "due": "2027-06-11",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": null
+          },
+          {
+            "id": "tom2-feed-3",
+            "kind": "feed",
+            "planned_due": "2027-06-25",
+            "due": "2027-06-25",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": null
+          },
+          {
+            "id": "tom2-feed-4",
+            "kind": "feed",
+            "planned_due": "2027-07-09",
+            "due": "2027-07-09",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": null
+          },
+          {
+            "id": "tom2-harvest",
+            "kind": "harvest",
+            "planned_due": "2027-07-13",
+            "due": "2027-07-13",
+            "until": "2027-08-07",
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": null
+          }
+        ],
+        "shift_days": 0,
+        "warnings": []
+      }
+    },
+    {
+      "name": "late direct sow pushes harvest into the frost margin → warning",
+      "crop_slug": "pumpkin",
+      "start": {
+        "method": "sow_direct",
+        "on": "2027-05-20"
+      },
+      "plant_id": "pum1",
+      "log": {
+        "node_id": "pum1-sow",
+        "logged_on": "2027-06-20"
+      },
+      "params": {
+        "thresholdDays": 5,
+        "firstFrost": "2027-10-15",
+        "frostMarginDays": 14
+      },
+      "path": [
+        {
+          "id": "pum1-sow",
+          "kind": "sow",
+          "planned_due": "2027-05-20",
+          "due": "2027-05-20",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "pum1-thin",
+          "kind": "thin",
+          "planned_due": "2027-06-03",
+          "due": "2027-06-03",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "pum1-feed-1",
+          "kind": "feed",
+          "planned_due": "2027-07-01",
+          "due": "2027-07-01",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "pum1-feed-2",
+          "kind": "feed",
+          "planned_due": "2027-07-15",
+          "due": "2027-07-15",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "pum1-feed-3",
+          "kind": "feed",
+          "planned_due": "2027-07-29",
+          "due": "2027-07-29",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "pum1-feed-4",
+          "kind": "feed",
+          "planned_due": "2027-08-12",
+          "due": "2027-08-12",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "pum1-harvest",
+          "kind": "harvest",
+          "planned_due": "2027-08-23",
+          "due": "2027-08-23",
+          "until": "2027-09-17",
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        }
+      ],
+      "result": {
+        "nodes": [
+          {
+            "id": "pum1-sow",
+            "kind": "sow",
+            "planned_due": "2027-05-20",
+            "due": "2027-05-20",
+            "until": null,
+            "logged_on": "2027-06-20",
+            "skipped": false,
+            "moved_reason": null
+          },
+          {
+            "id": "pum1-thin",
+            "kind": "thin",
+            "planned_due": "2027-06-03",
+            "due": "2027-07-04",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": {
+              "nl": "Verplaatst (+31 dagen): zaaien was later dan gepland.",
+              "en": "Moved (+31 days): sowing was later than planned."
+            }
+          },
+          {
+            "id": "pum1-feed-1",
+            "kind": "feed",
+            "planned_due": "2027-07-01",
+            "due": "2027-08-01",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": {
+              "nl": "Verplaatst (+31 dagen): zaaien was later dan gepland.",
+              "en": "Moved (+31 days): sowing was later than planned."
+            }
+          },
+          {
+            "id": "pum1-feed-2",
+            "kind": "feed",
+            "planned_due": "2027-07-15",
+            "due": "2027-08-15",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": {
+              "nl": "Verplaatst (+31 dagen): zaaien was later dan gepland.",
+              "en": "Moved (+31 days): sowing was later than planned."
+            }
+          },
+          {
+            "id": "pum1-feed-3",
+            "kind": "feed",
+            "planned_due": "2027-07-29",
+            "due": "2027-08-29",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": {
+              "nl": "Verplaatst (+31 dagen): zaaien was later dan gepland.",
+              "en": "Moved (+31 days): sowing was later than planned."
+            }
+          },
+          {
+            "id": "pum1-feed-4",
+            "kind": "feed",
+            "planned_due": "2027-08-12",
+            "due": "2027-09-12",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": {
+              "nl": "Verplaatst (+31 dagen): zaaien was later dan gepland.",
+              "en": "Moved (+31 days): sowing was later than planned."
+            }
+          },
+          {
+            "id": "pum1-harvest",
+            "kind": "harvest",
+            "planned_due": "2027-08-23",
+            "due": "2027-09-23",
+            "until": "2027-10-18",
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": {
+              "nl": "Verplaatst (+31 dagen): zaaien was later dan gepland.",
+              "en": "Moved (+31 days): sowing was later than planned."
+            }
+          }
+        ],
+        "shift_days": 31,
+        "warnings": [
+          {
+            "code": "harvest_near_frost",
+            "node_id": "pum1-harvest",
+            "reason": {
+              "nl": "De oogst loopt nu tot 2027-10-18, dicht bij de eerste vorst (2027-10-15). Toch doorgaan, of een sneller ras kiezen?",
+              "en": "Harvest now runs until 2027-10-18, close to first frost (2027-10-15). Grow it anyway, or swap for a faster variety?"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "early: sow 10 days early pulls everything forward",
+      "crop_slug": "lettuce",
+      "start": {
+        "method": "sow_direct",
+        "on": "2027-04-20"
+      },
+      "plant_id": "let1",
+      "log": {
+        "node_id": "let1-sow",
+        "logged_on": "2027-04-10"
+      },
+      "params": {
+        "thresholdDays": 5,
+        "firstFrost": null,
+        "frostMarginDays": 14
+      },
+      "path": [
+        {
+          "id": "let1-sow",
+          "kind": "sow",
+          "planned_due": "2027-04-20",
+          "due": "2027-04-20",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "let1-thin",
+          "kind": "thin",
+          "planned_due": "2027-05-04",
+          "due": "2027-05-04",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "let1-harvest",
+          "kind": "harvest",
+          "planned_due": "2027-06-04",
+          "due": "2027-06-04",
+          "until": "2027-06-24",
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        }
+      ],
+      "result": {
+        "nodes": [
+          {
+            "id": "let1-sow",
+            "kind": "sow",
+            "planned_due": "2027-04-20",
+            "due": "2027-04-20",
+            "until": null,
+            "logged_on": "2027-04-10",
+            "skipped": false,
+            "moved_reason": null
+          },
+          {
+            "id": "let1-thin",
+            "kind": "thin",
+            "planned_due": "2027-05-04",
+            "due": "2027-04-24",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": {
+              "nl": "Verplaatst (−10 dagen): zaaien was eerder dan gepland.",
+              "en": "Moved (−10 days): sowing was earlier than planned."
+            }
+          },
+          {
+            "id": "let1-harvest",
+            "kind": "harvest",
+            "planned_due": "2027-06-04",
+            "due": "2027-05-25",
+            "until": "2027-06-14",
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": {
+              "nl": "Verplaatst (−10 dagen): zaaien was eerder dan gepland.",
+              "en": "Moved (−10 days): sowing was earlier than planned."
+            }
+          }
+        ],
+        "shift_days": -10,
+        "warnings": []
+      }
+    },
+    {
+      "name": "bought seedling: harvest counts from the transplant date",
+      "crop_slug": "tomato",
+      "start": {
+        "method": "transplant",
+        "on": "2027-05-20"
+      },
+      "plant_id": "tom3",
+      "log": {
+        "node_id": "tom3-transplant",
+        "logged_on": "2027-05-20"
+      },
+      "params": {
+        "thresholdDays": 5,
+        "firstFrost": null,
+        "frostMarginDays": 14
+      },
+      "path": [
+        {
+          "id": "tom3-transplant",
+          "kind": "transplant",
+          "planned_due": "2027-05-20",
+          "due": "2027-05-20",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom3-feed-1",
+          "kind": "feed",
+          "planned_due": "2027-06-03",
+          "due": "2027-06-03",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom3-feed-2",
+          "kind": "feed",
+          "planned_due": "2027-06-17",
+          "due": "2027-06-17",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom3-feed-3",
+          "kind": "feed",
+          "planned_due": "2027-07-01",
+          "due": "2027-07-01",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom3-feed-4",
+          "kind": "feed",
+          "planned_due": "2027-07-15",
+          "due": "2027-07-15",
+          "until": null,
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        },
+        {
+          "id": "tom3-harvest",
+          "kind": "harvest",
+          "planned_due": "2027-07-19",
+          "due": "2027-07-19",
+          "until": "2027-08-13",
+          "logged_on": null,
+          "skipped": false,
+          "moved_reason": null
+        }
+      ],
+      "result": {
+        "nodes": [
+          {
+            "id": "tom3-transplant",
+            "kind": "transplant",
+            "planned_due": "2027-05-20",
+            "due": "2027-05-20",
+            "until": null,
+            "logged_on": "2027-05-20",
+            "skipped": false,
+            "moved_reason": null
+          },
+          {
+            "id": "tom3-feed-1",
+            "kind": "feed",
+            "planned_due": "2027-06-03",
+            "due": "2027-06-03",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": null
+          },
+          {
+            "id": "tom3-feed-2",
+            "kind": "feed",
+            "planned_due": "2027-06-17",
+            "due": "2027-06-17",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": null
+          },
+          {
+            "id": "tom3-feed-3",
+            "kind": "feed",
+            "planned_due": "2027-07-01",
+            "due": "2027-07-01",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": null
+          },
+          {
+            "id": "tom3-feed-4",
+            "kind": "feed",
+            "planned_due": "2027-07-15",
+            "due": "2027-07-15",
+            "until": null,
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": null
+          },
+          {
+            "id": "tom3-harvest",
+            "kind": "harvest",
+            "planned_due": "2027-07-19",
+            "due": "2027-07-19",
+            "until": "2027-08-13",
+            "logged_on": null,
+            "skipped": false,
+            "moved_reason": null
+          }
+        ],
+        "shift_days": 0,
+        "warnings": []
+      }
+    }
+  ]
+}

@@ -28,6 +28,14 @@
     "days_min": 60,
     "days_max": 80
   },
+  "difficulty": 1,
+  "water_cadence_days": null,
+  "feed_cadence_days": null,
+  "depth_mm": 40,
+  "germination_days": 10,
+  "days_to_transplant": 21,
+  "perennial": false,
+  "image": "pea.jpg",
   "sources": [
     "Tuinadvies.nl moestuinklussen",
     "Gardeners World NL jaarkalender"

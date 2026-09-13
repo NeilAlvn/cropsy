@@ -29,6 +29,27 @@ export function lintCrop(crop: Crop): LintIssue[] {
 
   if (crop.methods.length === 0) err('has no sowing/planting methods')
 
+  // §8.1 fields: null is allowed (unknown), a value must be sane.
+  const range = (name: string, v: number | null, lo: number, hi: number) => {
+    if (v != null && (v < lo || v > hi)) err(`${name} ${v} outside ${lo}..${hi}`)
+  }
+  range('difficulty', crop.difficulty, 1, 3)
+  range('depth_mm', crop.depth_mm, 1, 200)
+  range('germination_days', crop.germination_days, 2, 60)
+  range('days_to_transplant', crop.days_to_transplant, 14, 120)
+  range('feed_cadence_days', crop.feed_cadence_days, 5, 60)
+  if (crop.water_cadence_days) {
+    const c = crop.water_cadence_days
+    if (!(c.small <= c.medium && c.medium <= c.large && c.large <= c.ground)) {
+      err('water_cadence_days must be non-decreasing small ≤ medium ≤ large ≤ ground')
+    }
+  }
+  const grownFromSeed = crop.methods.some((m) => m.type === 'sow_indoor' || m.type === 'sow_direct')
+  if (grownFromSeed && crop.germination_days == null) warn('sown from seed but germination_days unknown')
+  if (crop.methods.some((m) => m.type === 'sow_indoor') && crop.days_to_transplant == null) {
+    warn('sow_indoor method but days_to_transplant unknown — path has no transplant node')
+  }
+
   for (const m of crop.methods) {
     if (m.end_weeks < m.start_weeks) {
       err(`${m.type}: end_weeks (${m.end_weeks}) is before start_weeks (${m.start_weeks})`)

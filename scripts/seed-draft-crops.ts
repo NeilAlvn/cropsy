@@ -240,6 +240,15 @@ function toCrop(r: Row): Crop {
     sun: r.sun,
     methods: r.m,
     harvest: { days_min: r.h[0], days_max: r.h[1] },
+    // §8.1 fields are filled by scripts/migrate-crop-fields.ts, not drafted here.
+    difficulty: null,
+    water_cadence_days: null,
+    feed_cadence_days: null,
+    depth_mm: null,
+    germination_days: null,
+    days_to_transplant: null,
+    perennial: false,
+    image: null,
     sources: sources ?? [],
     verified: sources !== undefined,
   }

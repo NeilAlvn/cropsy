@@ -28,6 +28,19 @@
     "days_min": 90,
     "days_max": 90
   },
+  "difficulty": 2,
+  "water_cadence_days": {
+    "small": 2,
+    "medium": 3,
+    "large": 5,
+    "ground": 7
+  },
+  "feed_cadence_days": null,
+  "depth_mm": 3,
+  "germination_days": 21,
+  "days_to_transplant": 56,
+  "perennial": true,
+  "image": "rosemary.jpg",
   "sources": [
     "Florum kruiden-zaaikalender",
     "mooiemoestuin.nl mediterrane kruiden"
