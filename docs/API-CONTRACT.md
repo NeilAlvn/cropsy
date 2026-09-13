@@ -227,6 +227,7 @@ same as Farmsy. Documented here only so nothing is assumed.
 ## 8. Added 2026-09-13 (PRD Phase 0/1)
 
 - `GET /api/content` — `{version, generated_at, collections, monthly_checklist, prices}`; same ETag / `?version=` negotiation as `/api/crops`. Types in `src/content/snapshot.ts`.
+- `GET /api/profile/status` — `Authorization: Bearer <user JWT>` → `{plan: free|lifetime|yearly, premium, expires, source}`. Reads RevenueCat with `REVENUECAT_SECRET_KEY` (Vercel env); without it answers `free`/`unconfigured`.
 - `DELETE /api/account` — `Authorization: Bearer <user JWT>`; verifies the token with Supabase Auth, deletes the user with the service-role key (server-only env), cascades to every owned row. `204` on success.
 - Timeline engine: `src/timing/replan.ts` ⇄ `lib/timing/replan.dart`, fixture `docs/fixtures/replan.fixture.json`. Watering: `src/timing/watering.ts` ⇄ `lib/timing/watering.dart`, fixture `docs/fixtures/watering.fixture.json`.
 - Migration `0002`: `profiles`, `harvests`, `feedback`, `plant_ids` + timeline columns on `tasks` (`node_kind`, `planned_due`, `moved_reason`, `skipped`). Syncable tables are now: `profiles`, `gardens`, `garden_plants`, `tasks`, `journal_entries`, `harvests`, `feedback`.
