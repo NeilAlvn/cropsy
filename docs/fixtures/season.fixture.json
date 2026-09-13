@@ -1,0 +1,108 @@
+{
+  "frost": {
+    "last_frost": "2027-04-15",
+    "first_frost": "2027-11-01"
+  },
+  "plants": [
+    {
+      "plant_id": "bb1",
+      "crop_slug": "broad-bean",
+      "harvest": {
+        "start": "2027-06-01",
+        "end": "2027-06-20"
+      }
+    },
+    {
+      "plant_id": "tom1",
+      "crop_slug": "tomato",
+      "harvest": {
+        "start": "2027-07-13",
+        "end": "2027-09-25"
+      }
+    },
+    {
+      "plant_id": "car1",
+      "crop_slug": "carrot",
+      "harvest": null
+    }
+  ],
+  "params": {
+    "minDaysLeftInWindow": 14,
+    "maxSuggestions": 2
+  },
+  "nodes": [
+    {
+      "kind": "sow_window",
+      "crop_slug": "broad-bean",
+      "plant_id": "bb1",
+      "start": "2027-02-18",
+      "end": "2027-03-18",
+      "note": {
+        "nl": "Direct op de plek buiten zaaien.",
+        "en": "Sow directly outdoors where it will grow."
+      }
+    },
+    {
+      "kind": "sow_window",
+      "crop_slug": "carrot",
+      "plant_id": "car1",
+      "start": "2027-04-01",
+      "end": "2027-06-10",
+      "note": {
+        "nl": "Direct op de plek buiten zaaien.",
+        "en": "Sow directly outdoors where it will grow."
+      }
+    },
+    {
+      "kind": "sow_window",
+      "crop_slug": "tomato",
+      "plant_id": "tom1",
+      "start": "2027-05-13",
+      "end": "2027-05-27",
+      "note": {
+        "nl": "Buiten uitplanten zodra het veilig is.",
+        "en": "Plant out once conditions are safe."
+      }
+    },
+    {
+      "kind": "harvest_window",
+      "crop_slug": "broad-bean",
+      "plant_id": "bb1",
+      "start": "2027-06-01",
+      "end": "2027-06-20",
+      "note": null
+    },
+    {
+      "kind": "succession",
+      "crop_slug": "radish",
+      "plant_id": null,
+      "after_plant_id": "bb1",
+      "start": "2027-06-20",
+      "end": "2027-07-08",
+      "note": {
+        "nl": "Plek vrij na Tuinboon (2027-06-20) — Radijs zaaien kan nog tot 2027-07-08.",
+        "en": "Space frees up after Broad bean (2027-06-20) — Radish can still be sown until 2027-07-08."
+      }
+    },
+    {
+      "kind": "succession",
+      "crop_slug": "rocket",
+      "plant_id": null,
+      "after_plant_id": "bb1",
+      "start": "2027-06-20",
+      "end": "2027-07-08",
+      "note": {
+        "nl": "Plek vrij na Tuinboon (2027-06-20) — Rucola zaaien kan nog tot 2027-07-08.",
+        "en": "Space frees up after Broad bean (2027-06-20) — Rocket can still be sown until 2027-07-08."
+      }
+    },
+    {
+      "kind": "harvest_window",
+      "crop_slug": "tomato",
+      "plant_id": "tom1",
+      "start": "2027-07-13",
+      "end": "2027-09-25",
+      "note": null
+    }
+  ]
+}

@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "npm run snapshot && next dev",
     "build": "next build",
-    "prebuild": "npm run lint:crops && npm run verify:snapshot",
+    "prebuild": "npm run lint:crops && npm run lint:content && npm run verify:snapshot",
     "start": "next start",
     "snapshot": "tsx scripts/build-snapshot.ts && tsx scripts/build-content-snapshot.ts",
     "verify:snapshot": "tsx scripts/verify-snapshot.ts",
@@ -18,8 +18,10 @@
     "verify:replan": "tsx scripts/verify-replan.ts",
     "verify:watering": "tsx scripts/verify-watering.ts",
     "verify:streak": "tsx scripts/verify-streak.ts",
-    "verify:all": "npm run lint:crops && npm run verify:engine && npm run verify:adjust && npm run verify:replan && npm run verify:watering && npm run verify:streak && npm run verify:snapshot",
+    "verify:all": "npm run lint:crops && npm run verify:engine && npm run verify:adjust && npm run verify:replan && npm run verify:watering && npm run verify:streak && npm run verify:season && npm run lint:content && npm run verify:snapshot",
     "lint:crops": "tsx scripts/lint-crops.ts",
+    "lint:content": "tsx scripts/lint-content.ts",
+    "verify:season": "tsx scripts/verify-season.ts",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
