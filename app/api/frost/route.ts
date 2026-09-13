@@ -22,10 +22,33 @@ function round(n: number): number {
   return Math.round(n * 10) / 10
 }
 
+/**
+ * NL postcode → centroid via PDOK Locatieserver (Kadaster, free, no key). The
+ * onboarding fallback when location permission is denied (PRD 1.5).
+ */
+async function geocodePostcode(postcode: string): Promise<{ lat: number; lon: number } | null> {
+  const pc = postcode.replace(/\s+/g, '').toUpperCase()
+  if (!/^[1-9]\d{3}[A-Z]{2}$/.test(pc)) return null
+  const q = new URLSearchParams({ q: pc, fq: 'type:postcode', fl: 'centroide_ll', rows: '1' })
+  const res = await fetch(`https://api.pdok.nl/bzk/locatieserver/search/v3/free?${q}`)
+  if (!res.ok) return null
+  const body = (await res.json()) as { response?: { docs?: { centroide_ll?: string }[] } }
+  const m = body.response?.docs?.[0]?.centroide_ll?.match(/POINT\(([-\d.]+) ([-\d.]+)\)/)
+  if (!m) return null
+  return { lon: Number(m[1]), lat: Number(m[2]) }
+}
+
 export async function GET(request: Request): Promise<Response> {
   const url = new URL(request.url)
-  const lat = Number(url.searchParams.get('lat'))
-  const lon = Number(url.searchParams.get('lon'))
+  let lat = Number(url.searchParams.get('lat'))
+  let lon = Number(url.searchParams.get('lon'))
+  const postcode = url.searchParams.get('postcode')
+  if (postcode) {
+    const hit = await geocodePostcode(postcode).catch(() => null)
+    if (!hit) return Response.json({ error: 'postcode not found (NL 1234AB expected)' }, { status: 404 })
+    lat = hit.lat
+    lon = hit.lon
+  }
 
   if (!Number.isFinite(lat) || !Number.isFinite(lon) || Math.abs(lat) > 90 || Math.abs(lon) > 180) {
     return Response.json(
@@ -39,7 +62,7 @@ export async function GET(request: Request): Promise<Response> {
   try {
     const profile = await resolveFrostProfile({ lat: round(lat), lon: round(lon) })
     return Response.json(
-      { ...profile, source: 'open-meteo' },
+      { ...profile, lat: round(lat), lon: round(lon), source: 'open-meteo' },
       { headers: { 'Cache-Control': 'public, s-maxage=604800, stale-while-revalidate=2592000' } },
     )
   } catch {
@@ -47,6 +70,8 @@ export async function GET(request: Request): Promise<Response> {
       {
         last_frost: `${year}-${FALLBACK.last_frost}`,
         first_frost: `${year}-${FALLBACK.first_frost}`,
+        lat: round(lat),
+        lon: round(lon),
         source: 'fallback',
       },
       // Short cache: a fallback is a degraded answer, so retry sooner.
