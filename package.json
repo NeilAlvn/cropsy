@@ -17,7 +17,8 @@
     "verify:adjust": "tsx scripts/verify-adjust.ts",
     "verify:replan": "tsx scripts/verify-replan.ts",
     "verify:watering": "tsx scripts/verify-watering.ts",
-    "verify:all": "npm run lint:crops && npm run verify:engine && npm run verify:adjust && npm run verify:replan && npm run verify:watering && npm run verify:snapshot",
+    "verify:streak": "tsx scripts/verify-streak.ts",
+    "verify:all": "npm run lint:crops && npm run verify:engine && npm run verify:adjust && npm run verify:replan && npm run verify:watering && npm run verify:streak && npm run verify:snapshot",
     "lint:crops": "tsx scripts/lint-crops.ts",
     "typecheck": "tsc --noEmit"
   },
