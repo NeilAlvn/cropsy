@@ -30,7 +30,7 @@ async function geocodePostcode(postcode: string): Promise<{ lat: number; lon: nu
   const pc = postcode.replace(/\s+/g, '').toUpperCase()
   if (!/^[1-9]\d{3}[A-Z]{2}$/.test(pc)) return null
   const q = new URLSearchParams({ q: pc, fq: 'type:postcode', fl: 'centroide_ll', rows: '1' })
-  const res = await fetch(`https://api.pdok.nl/bzk/locatieserver/search/v3/free?${q}`)
+  const res = await fetch(`https://api.pdok.nl/bzk/locatieserver/search/v3_1/free?${q}`)
   if (!res.ok) return null
   const body = (await res.json()) as { response?: { docs?: { centroide_ll?: string }[] } }
   const m = body.response?.docs?.[0]?.centroide_ll?.match(/POINT\(([-\d.]+) ([-\d.]+)\)/)
