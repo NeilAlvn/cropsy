@@ -257,7 +257,7 @@ same as Farmsy. Documented here only so nothing is assumed.
 - [x] Supabase project — live 2026-07-27, `trjqvikbtqpmxytzmhsb`, eu-central-1.
       Migration applied, advisors clean (§6).
 - [ ] Auth handshake specifics — provider choice (email/OAuth) still open
-- [x] Deploy target + base URL — live at `https://growit-replica-ten.vercel.app`
+- [x] Deploy target + base URL — live at `https://cropsy-l88s-medias-projects.vercel.app` (Luuk's Vercel, since 2026-09-13; Neil's `growit-replica-ten.vercel.app` is legacy)
       (Vercel project `cropsy`, VisionTechBV team, `fra1`). The hostname still
       says growit because Vercel keeps the original production domain through a
       project rename; it is cosmetic and never user-visible.
