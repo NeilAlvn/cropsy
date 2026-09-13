@@ -334,7 +334,7 @@ Backend (`cropsy/`)
 
 Mobile (`cropsy-mobile/`)
 - [x] Supabase auth (email + magic link) with anonymous-first: user can use the app before signing in; sign-in migrates local rows. (`lib/sync/auth_service.dart`; needs migration 0002 applied to sync `profiles`.)
-- [x] Outbox + delta sync for `gardens`, `garden_plants`, `tasks`, `journal_entries`, `profiles` (+ `harvests`, `feedback`). Live round-trip verified 2026-09-13 17:28 after migrations 0002–0004; reinstall-restore check pending.
+- [x] Outbox + delta sync for `gardens`, `garden_plants`, `tasks`, `journal_entries`, `profiles` (+ `harvests`, `feedback`). Live round-trip and wipe-reinstall-restore verified 2026-09-13 (1 garden, 5 plants, 50 tasks, journal, profile back byte-for-byte, zero dirty rows).
 - [x] `lib/timing/replan.dart` + parity test.
 - [x] Onboarding 1.1–1.8 to spec (rewire prototype; postcode fallback).
 - [x] Home 2.1–2.4, 2.6 on real data.
@@ -343,7 +343,7 @@ Mobile (`cropsy-mobile/`)
 - [x] **Per-plant timeline 7.1–7.2** with placeholder mascot slots.
 - [x] Crop detail 3.3, 3.10; other tabs show "content coming" cards (how-tos show data rows only).
 
-Exit: internal build on TestFlight (keyless workflow exists). Luuk grows a real plant against it.
+Exit: internal build on TestFlight (keyless workflow exists). Luuk grows a real plant against it. _Status 2026-09-13: every Phase 1 checkbox done and verified on the simulator; TestFlight build is the remaining step (blocked on the `flutter build ios` tool issue, see handover)._
 
 ### Phase 2 — Retention loop, payments, journal (W44–W46, → 2026-11-15)
 - [~] Mobile: streaks + freezes (7.3) ✅, garden-level "This week" ✅ (Home today's care; streak card), harvest logging + yield tally ✅ (money needs `prices.json`), growth logs 5.5 ✅ local photos (Storage upload pending bucket 0003), Settings 8.2 partial ✅ (account, sync, export, delete; help/contact/language pending), paywall §9 UI ✅ (RevenueCat pending products), feedback 2.7 / 3.9 ✅ (crop detail), insights cards 5.4 ☐, planting-calendar "based on" row ✅.
