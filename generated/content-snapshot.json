@@ -1,7 +1,13 @@
 {
-  "version": "3b124a101832b071",
-  "generated_at": "2026-09-13T09:42:14.780Z",
+  "version": "b7cb415d1d19bbed",
+  "generated_at": "2026-09-13T10:31:41.599Z",
   "collections": [],
   "monthly_checklist": [],
-  "prices": []
+  "prices": [],
+  "varieties": [],
+  "companions": {
+    "good": [],
+    "bad": []
+  },
+  "problems": []
 }

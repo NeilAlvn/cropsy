@@ -5,6 +5,7 @@
 
 import { createHash } from 'node:crypto'
 import type { LocalizedText } from '../timing/types'
+import type { Companions, Problem, Variety } from './types'
 
 export interface Collection {
   slug: string
@@ -34,6 +35,10 @@ export interface ContentData {
   collections: Collection[]
   monthly_checklist: ChecklistItem[]
   prices: Price[]
+  /** Verified rows only — the builder strips drafts. */
+  varieties: Variety[]
+  companions: Companions
+  problems: Problem[]
 }
 
 export interface ContentSnapshot extends ContentData {
@@ -45,7 +50,13 @@ export function contentVersion(data: ContentData): string {
   return createHash('sha256').update(JSON.stringify(data)).digest('hex').slice(0, 16)
 }
 
-export function buildContentSnapshot(data: ContentData, now: Date = new Date()): ContentSnapshot {
+export function buildContentSnapshot(input: ContentData, now: Date = new Date()): ContentSnapshot {
+  // Same gate as crops: draft content never reaches the device as fact.
+  const data: ContentData = {
+    ...input,
+    varieties: input.varieties.filter((v) => v.verified),
+    problems: input.problems.filter((p) => p.verified),
+  }
   for (const c of data.monthly_checklist) {
     if (c.month < 1 || c.month > 12) throw new Error(`checklist month out of range: ${c.month}`)
   }
