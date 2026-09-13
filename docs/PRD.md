@@ -346,8 +346,8 @@ Mobile (`cropsy-mobile/`)
 Exit: internal build on TestFlight (keyless workflow exists). Luuk grows a real plant against it.
 
 ### Phase 2 — Retention loop, payments, journal (W44–W46, → 2026-11-15)
-- [ ] Mobile: streaks + freezes (7.3), garden-level "This week", harvest logging + yield/money tally (7.5), growth logs 5.5 with photo upload, Settings 8.1–8.2, paywall §9 with RevenueCat, feedback 2.7 / 3.9, insights cards 5.4, planting-calendar "based on" row.
-- [ ] Backend: Storage bucket + policies, `GET /api/profile/status`, `feedback` + `harvests` sync, content snapshot endpoint with ETag, crop fields for 3.4–3.5 populated for all 60.
+- [~] Mobile: streaks + freezes (7.3) ✅, garden-level "This week" ✅ (Home today's care; streak card), harvest logging + yield tally ✅ (money needs `prices.json`), growth logs 5.5 ✅ local photos (Storage upload pending bucket 0003), Settings 8.2 partial ✅ (account, sync, export, delete; help/contact/language pending), paywall §9 UI ✅ (RevenueCat pending products), feedback 2.7 / 3.9 ✅ (crop detail), insights cards 5.4 ☐, planting-calendar "based on" row ✅.
+- [~] Backend: Storage bucket + policies ✅ (migration `0003`, **push parked**), `GET /api/profile/status` ☐ (needs RevenueCat), `feedback` + `harvests` sync ✅, content snapshot endpoint with ETag ✅, crop fields for 3.4–3.5 populated for all 60 ✅.
 - [ ] Luuk: RevenueCat products in App Store Connect + Play Console (needs Phase 0 ids), privacy labels, first pass of mascot brief for the house-style designer.
 
 Exit: **closed beta 2026-11-20**, 20 testers (NL). Feature-complete for the free tier.
