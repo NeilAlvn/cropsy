@@ -13,6 +13,8 @@ const cases: Case[] = [
   { name: 'premium: unlimited freezes', active: ['2027-05-01', '2027-05-05', '2027-05-09'], today: '2027-05-09', params: { freezesPerMonth: Infinity, pausedMonths: [] } },
   { name: 'winter pause bridges December', active: ['2027-11-30', '2028-01-02', '2028-01-03'], today: '2028-01-03', params: { freezesPerMonth: 2, pausedMonths: [12] } },
   { name: 'nothing active', active: [], today: '2027-05-05', params: DEFAULT_STREAK },
+  { name: 'first ever active day spends no freezes', active: ['2027-05-05'], today: '2027-05-05', params: DEFAULT_STREAK },
+  { name: 'open today after a first active day yesterday', active: ['2027-05-04'], today: '2027-05-05', params: DEFAULT_STREAK },
 ]
 const fixture = { cases: cases.map((c) => ({ ...c, params: { ...c.params, freezesPerMonth: c.params.freezesPerMonth === Infinity ? null : c.params.freezesPerMonth }, result: computeStreak(c.active, c.today, c.params) })) }
 const r = (i: number) => fixture.cases[i]!.result
@@ -23,7 +25,9 @@ const checks: [string, boolean][] = [
   ['open today', r(3).count === 2 && r(3).todayOpen],
   ['premium bridges everything', r(4).count === 3],
   ['winter pause', r(5).count === 3],
-  ['empty', r(6).count === 0 && r(6).todayOpen],
+  ['empty', r(6).count === 0 && r(6).todayOpen && Object.keys(r(6).freezesUsed).length === 0],
+  ['first day, no freezes spent', r(7).count === 1 && Object.keys(r(7).freezesUsed).length === 0],
+  ['yesterday only, today open, no freezes spent', r(8).count === 1 && r(8).todayOpen && Object.keys(r(8).freezesUsed).length === 0],
 ]
 const dir = join(dirname(fileURLToPath(import.meta.url)), '..', 'docs', 'fixtures')
 writeFileSync(join(dir, 'streak.fixture.json'), JSON.stringify(fixture, null, 2) + '\n')

@@ -47,9 +47,14 @@ export function computeStreak(
   let day = parseISO(today)
   const todayOpen = !active.has(today)
   if (todayOpen) day = addDays(day, -1)
+  // Freezes bridge gaps between active days; they are never spent on the
+  // empty days before a user's very first active day.
+  let earliest: string | null = null
+  for (const d of active) if (earliest === null || d < earliest) earliest = d
 
   for (let guard = 0; guard < 3660; guard++) {
     const iso = toISO(day)
+    if (earliest === null || iso < earliest) break
     if (active.has(iso)) {
       count++
     } else if (params.pausedMonths.includes(day.getUTCMonth() + 1)) {
