@@ -13,6 +13,7 @@
     "verify:snapshot": "tsx scripts/verify-snapshot.ts",
     "smoke": "tsx scripts/smoke.ts",
     "seed:crops": "tsx scripts/seed-draft-crops.ts",
+    "draft": "tsx scripts/draft-content.ts",
     "verify:engine": "tsx scripts/verify-engine.ts",
     "verify:adjust": "tsx scripts/verify-adjust.ts",
     "verify:replan": "tsx scripts/verify-replan.ts",
