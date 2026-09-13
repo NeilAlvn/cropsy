@@ -356,7 +356,7 @@ Exit: **closed beta 2026-11-20**, 20 testers (NL). Feature-complete for the free
 The content sprint. Nothing here needs new architecture.
 
 - [ ] Content: 90 crops verified; ~250 varieties; companions matrix; 25 problems; how-tos + FAQ + benefits for all 90 in NL and EN; 8 collections; 12 monthly checklists; prices. Gemini drafts, Luuk reviews, grower spot-check on 20 random crops.
-- [ ] Mobile: crop detail tabs 3.1, 3.4–3.8 rendering the content snapshot; Explore 6.1–6.4; Diagnose browser 7.1 (offline part); **Garden planner grid 5.1** with companion warnings; Season path 7.4 with succession prompts; NL/EN switch.
+- [~] Mobile: crop detail tabs 3.1 ☐ (varieties render once data lands), 3.4–3.5 ✅, 3.6–3.8 ☐ (content-coming cards, data rows shown); Explore 6.1 ✅ (snapshot-driven, empty), 6.2–6.4 ☐; Diagnose browser 7.1 (offline part) ✅ shell; **Garden planner grid 5.1** ✅ with companion-warning hook; Season path 7.4 with succession prompts ✅; NL/EN switch ☐ (profile.lang stored).
 - [ ] Luuk: house-style hand-off. Tokens swapped in `lib/design/`; mascot poses delivered as Rive/Lottie; copy deck NL/EN.
 
 Exit: open beta 2026-12-20. Store listing assets from the real UI.
