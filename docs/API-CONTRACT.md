@@ -204,7 +204,7 @@ as Farmsy. Syncable tables: `gardens`, `garden_plants`, `tasks`, `journal_entrie
 - **`tasks.kind`** is a CHECK constraint carrying the frozen enum.
 
 **Every syncable row guarantees:**
-- `id uuid` (client-generatable, so optimistic offline inserts work)
+- `id uuid` (client-generatable, so optimistic offline inserts work) — except `tasks.id`, which is `text` since migration `0004`: timeline node ids are deterministic strings
 - `updated_at timestamptz` (server-maintained via trigger)
 - `deleted_at timestamptz null` (soft delete — never hard-delete a synced row)
 - `owner uuid` (RLS: a user sees only their own rows)
