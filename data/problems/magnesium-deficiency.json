@@ -1,0 +1,70 @@
+{
+  "slug": "magnesium-deficiency",
+  "names": {
+    "nl": "Magnesiumgebrek",
+    "en": "Magnesium deficiency"
+  },
+  "kind": "disorder",
+  "parts": [
+    "leaves"
+  ],
+  "symptoms": {
+    "nl": "Het weefsel tussen de nerven vergeelt op de onderste, oudste bladeren terwijl de nerven donkergroen blijven, waardoor een opvallend tijgerpatroon ontstaat. In een later stadium veranderen de gele plekken in droge bruine vlekken en kunnen de bladranden omkrullen.",
+    "en": "Interveinal yellowing appears on the lowest and oldest leaves first while the main veins stay dark green, creating a distinctive tiger-stripe pattern. In advanced stages, yellow patches turn into dry brown necrotic lesions and the leaf edges may curl."
+  },
+  "treatment": {
+    "nl": "Voer een snelle noodbehandeling uit door een bladbespuiting toe te passen met 10 tot 20 gram bitterzout per liter water. Meng daarnaast kieseriet, dolomietkalk of gesteentemeel zoals lavameel door de toplaag van de potgrond om het magnesiumpeil structureel te herstellen.",
+    "en": "Apply a fast emergency foliar spray with 10 to 20 grams of Epsom salt dissolved per liter of water for direct absorption through the leaf stomata. In addition, work kieserite, dolomite lime, or rock dust like lava meal into the potting mix to sustainably restore magnesium levels."
+  },
+  "prevention": {
+    "nl": "Voorkom een overmaat aan kalium en zorg voor goed drainerende potgrond met een pH-waarde tussen 6,0 en 6,8. Meng aan het begin van het seizoen rijpe compost, organische mest en lavameel door de aarde om uitspoeling te compenseren.",
+    "en": "Avoid excessive potassium fertilization and ensure well-draining potting soil maintained at a pH between 6.0 and 6.8. Incorporate mature compost, organic amendments, and rock dust at the start of the season to counteract leaching from frequent watering."
+  },
+  "affects": [
+    "basil",
+    "chili",
+    "courgette",
+    "cucumber",
+    "endive",
+    "gherkin",
+    "lettuce",
+    "mint",
+    "pepper",
+    "potato",
+    "rhubarb",
+    "rosemary",
+    "sage",
+    "swiss-chard",
+    "tomato"
+  ],
+  "image": null,
+  "sources": [
+    "https://agro.bayer.nl/diagnose/ziekten/magnesiumgebrek",
+    "https://edepot.wur.nl/211161",
+    "https://edepot.wur.nl/292716",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/tomatenplant-gekrulde-bladeren/",
+    "https://royalbrinkman.nl/kennisbank-gewasverzorging/magnesium-tekort-planten",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/tomatenbladeren-worden-geel/",
+    "https://edepot.wur.nl/120244",
+    "https://edepot.wur.nl/215512",
+    "https://edepot.wur.nl/291654",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/tomatenplant-te-veel-water/",
+    "https://nutrinorm.nl/bemesting/beschikt-het-gewas-over-voldoende-magnesium/",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/natuurlijke-bestrijding/hagelschotziekte-behandelen/",
+    "https://edepot.wur.nl/386701",
+    "https://www.tuinadvies.nl/shop/tuin/plantverzorging/meststoffen/siertuin/magnesium-meststof-1kg-bb88ee7f~200110699/",
+    "https://beweegt.velt.nu/braas/download.php?bestand=Informatiebiomeststoffen.pdf",
+    "https://beweegt.velt.nu/braas/download.php?bestand=Teelt_van_wortelen.pdf",
+    "https://beweegt.velt.nu/braas/files/Uitleg%20messtoffen-hulpmiddelen%202021%20(1).pdf",
+    "https://www.tuinadvies.be/tuininfo/tuinonderhoud-kalender/gazonverzorging/na-verticuteren-kalk-of-mest/",
+    "https://edepot.wur.nl/309343",
+    "https://edepot.wur.nl/211619",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/augurkenplant-wordt-geel/",
+    "https://makkelijkemoestuin.nl/kennisbank/makkelijke-moestuin-voeding",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/gazonverzorging/na-verticuteren-kalk-of-mest/",
+    "https://www.moestuinforum.nl/topic/16723-magnesium-gebrek-ingrijpen/",
+    "https://edepot.wur.nl/456918",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/rabarber-geel-blad/"
+  ],
+  "verified": false
+}

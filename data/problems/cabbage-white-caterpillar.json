@@ -1,0 +1,57 @@
+{
+  "slug": "cabbage-white-caterpillar",
+  "names": {
+    "nl": "Koolwitje (rupsen)",
+    "en": "Cabbage white caterpillars"
+  },
+  "kind": "pest",
+  "parts": [
+    "leaves",
+    "stems",
+    "flowers"
+  ],
+  "symptoms": {
+    "nl": "Aanvankelijk ontstaan kleine hapjes en venstervraat, waarna grotere gaten volgen tot het blad volledig geskeletteerd raakt en enkel de dikke nerven overblijven. Op en onder de bladeren zijn donkere korreltjes uitwerpselen te vinden.",
+    "en": "Initially, small bites and window feeding appear on the leaves, progressing to large holes until the foliage is completely skeletonised down to the thick veins. Dark droppings are also visible on and under the leaves."
+  },
+  "treatment": {
+    "nl": "Controleer potten regelmatig om eitjes handmatig weg te wrijven en rupsen met de hand af te plukken. Een zelfgemaakte spray op basis van knoflookaftreksel verstoort de eetlust en schrikt af. Stimuleer natuurlijke vijanden zoals sluipwespen, loopkevers, vogels en wespen, en laat rupsen met geel spinsel met rust.",
+    "en": "Regularly inspect balcony pots to wipe away eggs and pick caterpillars off by hand. A homemade garlic spray deters newcomers and suppresses caterpillar appetite. Encourage natural predators like parasitic wasps, predatory beetles, birds, and wasps, leaving slow caterpillars surrounded by yellow webbing undisturbed."
+  },
+  "prevention": {
+    "nl": "Dek potten vanaf het vroege voorjaar af met fijnmazig insectengaas en zet afleidingsplanten zoals Oost-Indische kers of geurende kruiden en uien in de buurt. Controleer in mei, juni, augustus en september wekelijks de onderkant van het blad om eitjes tijdig weg te vegen.",
+    "en": "Cover containers from early spring with fine insect netting and grow nasturtiums as a trap crop or aromatic herbs and onions to mask the cabbage scent. Inspect the undersides of leaves weekly during May, June, August, and September to wipe away eggs before they hatch."
+  },
+  "affects": [
+    "broccoli",
+    "brussels-sprouts",
+    "cabbage",
+    "cauliflower",
+    "kale",
+    "pak-choi",
+    "pointed-cabbage",
+    "radish",
+    "red-cabbage",
+    "rocket",
+    "turnip"
+  ],
+  "image": null,
+  "sources": [
+    "https://makkelijkemoestuin.nl/kennisbank/rupsen-van-het-koolwitje-in-moestuin",
+    "https://community.makkelijkemoestuin.nl/posts/tips-2/strijd-tegen-koolwitje",
+    "https://www.ivn.nl/afdeling/amsterdam/een-leger-veelvraten-rupsen-in-de-tuin/",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/help-een-mini-rups-in-de-rucola",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/afrikaantjes-palmkool",
+    "https://velt.nu/tip/wat-doe-je-tegen-rupsen-op-koolplanten",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/rucola-met-gaatjes",
+    "https://edepot.wur.nl/346662",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/rupsen-in-de-rucola",
+    "https://edepot.wur.nl/341959",
+    "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/tips-voor-meer-vlinders-in-de-tuin/",
+    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/wat-voor-eitjes-zitten-er-in-mijn-rode-kool",
+    "https://makkelijkemoestuin.nl/kennisbank/plaagdieren-in-de-moestuin",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/prei-wortel-en-koolvlieg/",
+    "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-boerenkool-en-palmkool/"
+  ],
+  "verified": false
+}

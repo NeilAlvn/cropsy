@@ -1,0 +1,42 @@
+{
+  "slug": "allium-rust",
+  "names": {
+    "nl": "Roest bij ui en prei",
+    "en": "Allium rust"
+  },
+  "kind": "disease",
+  "parts": [
+    "leaves",
+    "stems"
+  ],
+  "symptoms": {
+    "nl": "De ziekte begint met kleine geelachtige vlekjes die snel veranderen in opvallende oranje tot roodbruine puistjes waaruit een stoffig poeder vrijkomt. Aangetaste bladeren worden geel of bleekgroen, krullen om en sterven vroegtijdig af waardoor de groei van de plant stagneert.",
+    "en": "The disease begins with small yellowish spots that quickly turn into distinctive orange to reddish-brown pustules releasing a dusty powder. Affected leaves turn yellow or pale green, curl, and die off prematurely, causing plant growth to stall."
+  },
+  "treatment": {
+    "nl": "Pluk of snijd aangetaste bladeren direct weg en voer ze af via de gft-bak in plaats van de composthoop; aangetaste bieslook kan tot vlak boven de grond worden afgeknipt. Besproei de planten met een heermoesaftreksel of een milde oplossing van baksoda met een drupje zachte zeep om verdere schimmeluitbreiding te remmen.",
+    "en": "Promptly remove affected leaves and dispose of them with green waste rather than on the compost heap; chives can be trimmed right down to soil level. Spray the plants with a horsetail extract or a mild solution of baking soda and a drop of soft soap to inhibit fungal spread."
+  },
+  "prevention": {
+    "nl": "Zet potten niet te dicht op elkaar voor een goede luchtcirculatie en geef altijd water aan de voet van de plant op de potgrond. Vermijd een overschot aan stikstofbemesting, hergebruik geen besmette potgrond en wied klein kruiskruid in de omgeving.",
+    "en": "Space pots sufficiently to allow good air circulation and always water at the base of the plant directly onto the potting soil. Avoid excessive nitrogen fertilisation, do not reuse contaminated potting soil, and weed out nearby groundsel."
+  },
+  "affects": [
+    "chives",
+    "garlic",
+    "leek",
+    "onion",
+    "shallot"
+  ],
+  "image": null,
+  "sources": [
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/roest-op-knoflook/",
+    "https://edepot.wur.nl/289485",
+    "https://beweegt.velt.nu/braas/download.php?bestand=MS201009.pdf",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/prei-sproeien-met-soda/",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/roestige-knoflook",
+    "https://www.tuinadvies.be/tuininfo/moestuin/groenten/prei-sproeien-met-soda/",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/roest-bij-knoflook"
+  ],
+  "verified": false
+}

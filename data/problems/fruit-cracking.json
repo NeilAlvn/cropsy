@@ -1,7 +1,7 @@
 {
   "slug": "fruit-cracking",
   "names": {
-    "nl": "Scheuren en barsten van vruchten",
+    "nl": "Barsten van vruchten",
     "en": "Fruit cracking"
   },
   "kind": "disorder",
@@ -9,25 +9,53 @@
     "fruits"
   ],
   "symptoms": {
-    "nl": "Diepe concentrische of radiale barsten in de schil rondom de vruchtsteel of aan de zijkant. De open barsten gaan bij vochtig weer gemakkelijk rotten door secundaire schimmelinfecties.",
-    "en": "Deep concentric or radial splits burst open across the skin around the stem or fruit cheeks. Exposed open cracks invite rapid fungal decay and mould if wet weather persists."
+    "nl": "Radiale of concentrische scheuren barsten open over de schil en het vruchtvlees, waardoor het binnenste pulp bloot komt te liggen. Deze open wonden worden snel aangetast door schimmelsporen, insecten en secundair rot.",
+    "en": "Radial or concentric tears split open across the fruit skin and outer flesh, exposing the internal pulp to the air. These open cracks quickly become vulnerable to secondary rotting, fungal moulds, and insect infestations."
   },
   "treatment": {
-    "nl": "Oogst gespleten vruchten direct om te consumeren voordat schimmels binnendringen. Breng de watergift direct terug naar een stabiel en gematigd niveau zonder uitschieters. Verwijder beschimmelde barstvruchten om aantasting van gave vruchten te voorkomen.",
-    "en": "Harvest cracked fruits immediately for culinary use before secondary moulds infiltrate the wounds. Normalise watering routines into frequent, moderate doses rather than erratic heavy soakings. Strip away decaying split fruits to protect healthy ripening fruit on the same cluster."
+    "nl": "Oogst gebarsten vruchten direct om te voorkomen dat plagen en schimmels binnendringen. Snijd het gescheurde deel weg als er nog geen rot is om de rest veilig te consumeren. Pluk bijna rijpe vruchten vroegtijdig en laat ze binnen op een zonnige vensterbank narijpen als er zware regenbuien worden voorspeld.",
+    "en": "Harvest cracked fruits immediately before insect pests invade and rot or mould sets in. If no mould has developed, cut away the split section so the remainder of the fruit can be safely eaten. Pick unripe fruits that are changing colour early and ripen them indoors on a sunny windowsill if heavy rain is forecast."
   },
   "prevention": {
-    "nl": "Geef potplanten tijdens warme zomers dagelijks consequent gelijkmatig water om snelle zwelling na droogte te voorkomen. Bedek de potgrond met een organische mulchlaag om verdamping tegen te gaan.",
-    "en": "Provide steady, even daily hydration to prevent the internal flesh expanding faster than the skin can stretch. Top dress container compost with straw or wood shavings to slow down surface evaporation."
+    "nl": "Houd potgrond gelijkmatig vochtig door regelmatig water te geven, mulch de aarde en plaats potten onder een afdak tegen zware stortbuien. Zorg voor evenwichtige voeding met kalium en calcium en kies barstresistente rassen.",
+    "en": "Keep container soil consistently moist to prevent sudden water uptake shock, and add an organic mulch layer to buffer moisture swings. Protect pots from heavy downpours under a shelter, provide balanced calcium and potassium feeding, and select crack-resistant cultivars."
   },
   "affects": [
-    "tomato",
+    "aubergine",
+    "chili",
+    "coriander",
+    "courgette",
+    "cucumber",
+    "dill",
     "pepper",
-    "chili"
-  ],
-  "sources": [
-    "https://makkelijkemoestuin.nl/kennisbank/tomatenziekte-herkennen-en-ingrijpen"
+    "strawberry",
+    "tomato"
   ],
   "image": null,
+  "sources": [
+    "https://edepot.wur.nl/420651",
+    "https://www.tuinadvies.nl/fr-BE/informations-sur-le-jardin/potager/baies-fruitieres/dechirure-de-fraise/",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/water-geven-hoe-vaak-en-hoe-veel",
+    "https://wageningen.groei.nl/groeninfo/plant-in-beeld",
+    "https://edepot.wur.nl/393301",
+    "https://makkelijkemoestuin.nl/kennisbank/welke-groentes-kunnen-tegen-kou",
+    "https://makkelijkemoestuin.nl/kennisbank/zaaien-in-augustus-voor-de-herfst",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/de-moestuinkalender-juli/",
+    "https://meierijstad.groei.nl/groeninfo/tuinkalender/augustus",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/neusrot-2",
+    "https://www.tuinadvies.nl/planten/kruiden/lycopersicon-esculentum-trostomaten/trostomaat/",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/meer-of-minder-water",
+    "https://makkelijkemoestuin.nl/kennisbank/juli-tomaat-courgette-en-komkommer",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/hoe-vaak-moet-je-tomaten-water-geven",
+    "https://velt.nu/tip/hoeveel-water-heeft-jouw-moestuin-nodig",
+    "https://velt.nu/tip/tips-voor-lentedagen-de-serre-kas",
+    "https://velt.nu/tip/ideale-teelten-achter-glas",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/planten-bemesten/",
+    "https://velt.nu/nieuws/deel-1-het-kan-wel-ziektevrije-buitentomaten",
+    "https://community.makkelijkemoestuin.nl/posts/testzaden-2024/gele-snacktomaat-dattolime-24-maart",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/vijf-tinten-groenten-en-fruit/",
+    "https://velt.nu/tip/spintmijten-voorkomen-en-bestrijden",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/natuurlijke-bestrijding/echte-of-valse-meeldauw/"
+  ],
   "verified": false
 }

@@ -1,41 +1,68 @@
 {
   "slug": "slugs-and-snails",
   "names": {
-    "nl": "Slakken (naakt- en huisjesslakken)",
+    "nl": "Slakken",
     "en": "Slugs and snails"
   },
   "kind": "pest",
   "parts": [
     "leaves",
     "stems",
-    "fruits",
-    "whole"
+    "flowers",
+    "fruits"
   ],
   "symptoms": {
-    "nl": "Aangevreten bladranden en grillige gaten in malse jonge bladeren en kiemplantjes. Kenmerkend zijn de glinsterende, opgedroogde slijmsporen op potranden en bladeren.",
-    "en": "Irregular holes and chewed edges on young leaves and fresh seedlings. Characteristic silvery, dried slime trails are visible across foliage and container rims."
+    "nl": "Slakken laten zilverachtige, glinsterende slijmsporen achter op bladeren, potten en balkonvloeren en vreten onregelmatige, rafelige gaten in het blad. Pas ontkiemde zaailingen kunnen 's nachts compleet tot aan de grond verdwijnen, terwijl de plaag overdag verborgen zit onder potranden en schotels.",
+    "en": "Slugs leave silvery, glistening slime trails across foliage, pots, and balcony decking, while rasping irregular, ragged holes into leaves. Freshly germinated seedlings often vanish completely down to soil level overnight, with the pests hiding under pot rims and saucers during the day."
   },
   "treatment": {
-    "nl": "Raap slakken handmatig weg bij schemering of na een regenbui. Plaats een koperen barrièretape rond de potrand om nieuwkomers effectief tegen te houden. Bij zware aantasting kun je biologische aaltjes (Phasmarhabditis hermaphrodita) ingieten in de potgrond.",
-    "en": "Handpick slugs manually at dusk or following a rain shower. Apply copper barrier tape around container edges to deter intruders. For severe infestations, water beneficial nematodes (Phasmarhabditis hermaphrodita) into the potting mix."
+    "nl": "Ga ongeveer een uur na het donker of na regen met een zaklamp op pad om slakken met de hand van potranden en schotels te rapen. Vang ze overdag met schuilplekvallen zoals omgekeerde schotels of vochtige planken, of zet parasitaire aaltjes in via het gietwater. Indien nodig kunnen biologische korrels op basis van ferrifosfaat worden gestrooid zonder gevaar voor vogels of huisdieren.",
+    "en": "Head out with a flashlight about an hour after dark or after rain to handpick slugs from pot rims and saucers. During the day, collect them beneath shelter traps such as inverted saucers, or apply parasitic nematodes to the potting compost with water. If using slug pellets, choose organic iron phosphate formulations which are safe for birds and other wildlife."
   },
   "prevention": {
-    "nl": "Geef uitsluitend 's ochtends vroeg water bij de stengelbasis zodat het potoppervlak voor de nacht opdroogt. Houd potten en balkontafels vrij van vochtige schuilplekjes onder schotels.",
-    "en": "Water plants early in the morning at the soil level so surfaces dry before nightfall. Keep container bottoms and drainage saucers free from damp, dark sheltering crevices."
+    "nl": "Breng koperband aan rond potten, zet bakken op verhogers en geef altijd 's ochtends water zodat oppervlakken overdag opdrogen. Bescherm kwetsbare planten daarnaast door aromatische kruiden zoals rozemarijn en tijm aan te planten of door knoflookspray te gebruiken.",
+    "en": "Apply copper tape around pots, elevate containers on pot feet, and always water in the morning so surfaces can dry. You can also deter feeding by planting aromatic herbs such as rosemary and thyme or by spraying leaves with a homemade garlic wash."
   },
   "affects": [
-    "lettuce",
+    "basil",
+    "coriander",
     "courgette",
-    "french-bean",
+    "cucumber",
+    "lettuce",
+    "pak-choi",
+    "pea",
+    "pumpkin",
     "spinach",
     "strawberry",
-    "cabbage",
-    "pak-choi",
-    "basil"
-  ],
-  "sources": [
-    "https://velt.nu/tips-tegen-ziekten-en-plagen"
+    "swiss-chard",
+    "tomato"
   ],
   "image": null,
+  "sources": [
+    "https://www.ivn.nl/afdeling/dronten/oktober-2023-het-verhaal-van-de-naaktslak-en-de-huisjesslak/",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/ongediertebestrijding/tips-om-slakken-uit-de-tuin-te-weren/",
+    "https://www.ivn.nl/leren-over-de-natuur/weetjes-bodemdieren/",
+    "https://www.tuinadvies.nl/shop/dier/ongedierte/overige-dieren/slakken/anti-slakkenscherm---50-cm-x--100-m-562eaca4~200267951/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/de-vierkante-meter-moestuin-deel-5/",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/ongediertebestrijding/eten-slakken-geraniums/",
+    "https://hoogeveen.groei.nl/groeninfo/bestrijden-van-slakken",
+    "https://groei.nl/artikel/hoe-kweek-ik-koriander",
+    "https://groei.nl/artikel/fruit-kweken-in-potten",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/basilicum-wordt-opgegeten/",
+    "https://makkelijkemoestuin.nl/kennisbank/help-slakken-in-de-makkelijke-moestuin",
+    "https://groei.nl/artikel/tuinklussen-in-juni-klussen-voor-de-drukste-tuinmaand",
+    "https://www.moestuinadvies.nl/wat-doe-je-tegen-slakken/",
+    "https://echt.groei.nl/groeninfo/gewasbescherming/wat-doe-je-tegen-slakken",
+    "https://velt.nu/tip/wat-doe-je-tegen-slakken",
+    "https://beweegt.velt.nu/braas/download.php?bestand=slakken.pdf",
+    "https://makkelijkemoestuin.nl/slak",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/ongediertebestrijding/zinnia-slakken/",
+    "https://www.gardenersworldmagazine.nl/groene-school/tuinklussen/slakken-strijdplan-tips/",
+    "https://natuuracademieonline.ivn.nl/resources/natuur-en-mens-natuurlijk-moestuinieren/zomer/de-slak",
+    "https://makkelijkemoestuin.nl/kennisbank/maak-je-moestuin-onaantrekkelijk-voor-slakken",
+    "https://makkelijkemoestuin.nl/blog/alles-over-slakken-en-wat-echt-werkt",
+    "https://velt.nu/nieuws/ontdek-de-moestuin-van-hanne-en-michiel-tijdens-de-velt-ecotuindagen",
+    "https://community.makkelijkemoestuin.nl/posts/tips-2/slakken-bestrijden-wat-bij-mij-heel-effectief-is"
+  ],
   "verified": false
 }

@@ -1,36 +1,55 @@
 {
   "slug": "fungus-gnats",
   "names": {
-    "nl": "Rouwvliegjes (varenrouwmug)",
+    "nl": "Rouwvliegjes",
     "en": "Fungus gnats"
   },
   "kind": "pest",
   "parts": [
+    "leaves",
     "roots",
     "stems"
   ],
   "symptoms": {
-    "nl": "Talloze kleine, zwarte mugjes die traag opfladderen uit de vochtige potgrond rondom planten. Zaailingen en jonge stekken stagneren in groei, verwelken plotseling of vallen om door vraat aan haarwortels.",
-    "en": "Small, dark, jerky flies crawling over damp potting soil and fluttering weakly around pots. Seedlings falter, wilt unexpectedly, or collapse because hidden larvae chew their tender root hairs."
+    "nl": "Kleine donkere mugjes vliegen op rond de potgrond, terwijl doorschijnende larven met een zwarte kop in de aarde aan de wortels en stengelbasis vreten. Zaailingen stoppen plots met groeien of vallen slap om, en jonge planten krijgen vergelende en verwelkende bladeren.",
+    "en": "Small dark gnats flutter around the soil surface, while translucent larvae with black heads feed on the roots and lower stems. Seedlings suddenly stop growing or collapse, and young plants develop yellowing and wilting leaves."
   },
   "treatment": {
-    "nl": "Laat de bovenste laag potgrond grondig uitdrogen tussen gietbeurten om de larven te laten sterven. Giet biologische aaltjes (Steinernema feltiae) uit over de vochtige potgrond om de larven aan te pakken. Plaats gele vangplaatjes om de volwassen mugjes snel af te vangen.",
-    "en": "Allow the top inch of potting compost to dry out completely to starve the larvae. Drench the compost with entomopathogenic nematodes (Steinernema feltiae) targeting the root-eating larvae. Position yellow sticky boards close to the soil surface to catch egg-laying adults."
+    "nl": "Zet aaltjes (Steinernema feltiae) of bodemroofmijten in via het gietwater om de larven en eitjes in de potgrond biologisch te bestrijden. Gebruik gele vangplaten om volwassen rouwmuggen weg te vangen en zo de voortplantingscyclus te doorbreken. Ook kan afgekoeld water getrokken van kaneel worden gegoten om schimmels te remmen en larven te ontmoedigen.",
+    "en": "Introduce parasitic nematodes (Steinernema feltiae) or predatory mites with the watering can to biologically control larvae and eggs in the soil. Use yellow sticky traps to catch adult fungus gnats and break their reproductive cycle. You can also apply cinnamon-infused water to inhibit fungus and discourage feeding larvae."
   },
   "prevention": {
-    "nl": "Geef balkonpotten nooit te veel water en dek de potgrond af met een laagje fijn zand. Gebruik uitsluitend hoogwaardige, goed gerijpte potgrond zonder rottende turfresten.",
-    "en": "Avoid persistent overwatering and top dress containers with a 1 cm barrier of coarse sand. Use clean, high-grade organic potting compost rather than half-rotted garden debris."
+    "nl": "Laat de bovenste laag potgrond tussen gietbeurten goed opdrogen of geef planten water van onderaf via een schotel. Breng een afdeklaag van grof zand of perliet aan en zorg buiten op het balkon voor goede luchtcirculatie.",
+    "en": "Allow the top layer of potting soil to dry out between waterings or water plants from below via a saucer. Cover the soil with a thin layer of coarse sand or perlite, and ensure good air circulation on the balcony."
   },
   "affects": [
     "basil",
-    "parsley",
+    "cabbage",
     "coriander",
-    "tomato",
+    "courgette",
+    "cucumber",
+    "mint",
+    "parsley",
     "pepper",
-    "lettuce",
-    "cucumber"
+    "tomato"
   ],
-  "sources": [],
   "image": null,
+  "sources": [
+    "https://www.tuinadvies.nl/tuininfo/planten/kamerplanten/springstaartjes-en-rouwvliegen-bij-kamerplanten/",
+    "https://edepot.wur.nl/715654",
+    "https://hoogeveen.groei.nl/nieuwsflits-juli/augustus-2024",
+    "https://edepot.wur.nl/174724",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/vliegjes-basilicum/",
+    "https://edepot.wur.nl/112122",
+    "https://edepot.wur.nl/332388",
+    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/vliegjes-in-mm-mix",
+    "https://edepot.wur.nl/173677",
+    "https://edepot.wur.nl/13246",
+    "https://makkelijkemoestuin.nl/kennisbank/rouwvliegjes-of-de-rouwvarenmug",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/kleine-wormpjes-in-grond",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/vliegjes-16",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/vliegjes-15",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/vliegjes-in-komkommerplant"
+  ],
   "verified": false
 }

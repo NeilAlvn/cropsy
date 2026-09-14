@@ -2,39 +2,72 @@
   "slug": "bolting",
   "names": {
     "nl": "Doorschieten",
-    "en": "Bolting (premature flowering)"
+    "en": "Bolting"
   },
   "kind": "disorder",
   "parts": [
+    "leaves",
     "stems",
     "flowers",
-    "whole"
+    "roots"
   ],
   "symptoms": {
-    "nl": "De plant schiet plotseling omhoog in een langgerekte bloemstengel ten koste van de bladvorming. Bladeren worden taai, bitter van smaak en verliezen hun knapperige consumptiewaarde.",
-    "en": "Plants stretch rapidly upward into tall flowering spikes instead of developing leafy crowns. Leaves become tough, leathery, and intensely bitter, ruining their culinary eating quality."
+    "nl": "Het hart van de plant schiet snel omhoog tot een lange, stugge bloeistengel, waardoor kroppen niet sluiten of openbarsten. Aan de top verschijnen kleine bloemknoppen en het loof wordt taai, vezelig en merkbaar bitter van smaak.",
+    "en": "The center of the plant rapidly shoots upward into a tall, rigid stalk, causing heading vegetables to fail to close or split open. Small flower buds emerge at the top while the foliage turns tough, fibrous, and noticeably bitter."
   },
   "treatment": {
-    "nl": "Knip de beginnende bloemknop direct weg om het doorschietproces kortstondig te vertragen. Oogst het resterende blad direct op voor consumptie voordat bitterheid de overhand krijgt. Zaai na het rooien van de plant direct een nieuw vakje in met een schiettolerant ras.",
-    "en": "Pinch out emerging flower buds immediately to extend leaf production for a few extra days. Harvest all remaining foliage straight away before bitter compounds build up completely. Clear the container space and resow with a bolt-resistant summer variety."
+    "nl": "Oogst het gewas onmiddellijk, want de bladeren zijn vaak nog geschikt om te stoven of roerbakken en de bloemen zijn eetbaar. Knip of breek bij rabarber en vaste kruiden opkomende bloemstelen direct weg om uitputting van de plant te voorkomen. Je kunt de bloeiende planten ook laten staan voor bestuivers op het balkon of het zaad laten afrijpen om zelf te oogsten.",
+    "en": "Harvest the crop immediately, as the leaves can still be cooked or stir-fried and the flowers are often edible. In rhubarb and perennial herbs, promptly snap or cut out emerging flower stalks to prevent the plant from exhausting its reserves. Alternatively, leave the blooms to feed balcony pollinators or allow them to set seed for next season."
   },
   "prevention": {
-    "nl": "Zet potten tijdens zomerse hittegolven in de halfschaduw en voorkom wortelstress door tijdig water te geven. Kies voor teelt in hartje zomer uitsluitend rassen met een hoge schietresistentie.",
-    "en": "Move container salads into partial afternoon shade during heat spells and maintain steady soil moisture. Choose bolt-resistant cultivars specifically bred for long-day summer conditions."
+    "nl": "Voorkom droogtestress door potten nooit volledig te laten uitdrogen en zet ze tijdens hittegolven in de halfschaduw. Zaai gevoelige gewassen op het juiste moment, kies schietresistente rassen en gebruik voldoende grote potten.",
+    "en": "Prevent drought stress by keeping containers consistently watered and move pots into semi-shade during heatwaves. Time your sowings carefully to avoid temperature and day-length triggers, choose bolt-resistant varieties, and use sufficiently large containers."
   },
   "affects": [
-    "lettuce",
-    "spinach",
-    "rocket",
+    "basil",
+    "cabbage",
+    "celery",
     "coriander",
+    "dill",
+    "endive",
+    "fennel",
+    "kohlrabi",
+    "leek",
+    "lettuce",
+    "onion",
     "pak-choi",
     "radish",
-    "dill",
-    "fennel"
-  ],
-  "sources": [
-    "https://makkelijkemoestuin.nl/kennisbank/valkuilen-en-beginnersfouten-moestuin"
+    "rhubarb",
+    "rocket",
+    "spinach",
+    "swiss-chard"
   ],
   "image": null,
+  "sources": [
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/paksoi-doorgeschoten",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/waarom-kropt-mijn-sla-niet/",
+    "https://groei.nl/artikel/hoe-zaai-ik-tuinkers",
+    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/doorgeschoten-groenten-door-de-warmte",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/de-moestuinkalender-juli",
+    "https://groei.nl/artikel/tips-bij-10-makkelijke-moestuingewassen",
+    "https://groei.nl/artikel/dille",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/doorgeschoten-radijs/",
+    "https://groei.nl/artikel/hoe-kweek-ik-knolvenkel",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/rabarber-telen-moestuin/",
+    "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/moestuintips-voor-oogsten/",
+    "https://beweegt.velt.nu/hamme/1786/zelfzadenkweken",
+    "https://natuuracademieonline.ivn.nl/resources/natuur-en-mens-moestuinieren/stap-voor-stap-moestuinieren-oogsten/de-laatste-stap-voorbereiden-op-het-volgende-seizoen",
+    "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-rucola/",
+    "https://groei.nl/artikel/zaaien-en-planten",
+    "https://groei.nl/artikel/de-moestuin-in-juli-oogsten-verzorgen-en-vooruitdenken",
+    "https://groei.nl/artikel/hoe-kweek-ik-spinazie",
+    "https://beweegt.velt.nu/braas/download.php?bestand=zadenlijst2013_lr.pdf",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/vroege-groentes-kweken/",
+    "https://www.tuinadvies.nl/planten/kruiden/apium-graveolens-secalinum/groene-selder/",
+    "https://velt.nu/system/files/media/documenten/leerkrachtenbundel_minimoestuin_op_school.pdf",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kervel-anthriscus-cerefolium/",
+    "https://community.makkelijkemoestuin.nl/posts/recepten-2/dille-en-koriander-in-een-rolletje",
+    "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-andijvie/"
+  ],
   "verified": false
 }

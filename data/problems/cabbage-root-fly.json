@@ -8,34 +8,60 @@
   "parts": [
     "roots",
     "stems",
-    "whole"
+    "leaves"
   ],
   "symptoms": {
-    "nl": "Koolplanten blijven achter in groei en het blad krijgt een doffe, blauwachtige loodglans. De plant verwelkt op zonnige dagen en laat zich moeiteloos uit de pot trekken doordat wortels zijn afgevreten.",
-    "en": "Young brassicas stall in development and display a distinctive dull, leaden-blue hue on leaves. Plants wilt on sunny afternoons and pull up effortlessly because white maggots devour the taproot."
+    "nl": "Planten gaan slap hangen alsof ze water tekortkomen, verkleuren loodgrijs of geel en sterven uiteindelijk af. Bij het doorsnijden van knollen zijn bruine vraatgangen zichtbaar en rond de wortels vind je pootloze, glimmend witte maden.",
+    "en": "Plants wilt as if lacking water, turn lead-grey or yellow, and eventually die or fall over. Slicing into tubers reveals hollow brown feeding tunnels, and shiny white, legless maggots can be found in the roots."
   },
   "treatment": {
-    "nl": "Trek onherstelbaar verwelkte koolplanten uit en vernietig de maden in de wortelhals. Giet overgebleven planten aan met parasitaire aaltjes (Steinernema feltiae of carpocapsae). Aard de overlevende stengels extra aan met compost zodat ze reservestamwortels kunnen vormen.",
-    "en": "Uproot irreversibly wilted plants and destroy all white maggots found around the root base. Drench the surrounding soil of adjacent plants with beneficial predatory nematodes. Mound fresh compost up the surviving stems to stimulate the growth of emergency adventitious roots."
+    "nl": "Giet de aarde aan met parasitaire aaltjes om de maden rond de wortels biologisch te doden. Stuif basalt- of lavameel rond de plantvoet of bespuit met een aftreksel van rabarberblad. Bij beginnende aantasting in potten kun je de kluit voorzichtig uitgraven, maden onder de kraan wegspoelen en de plant in verse grond herplanten.",
+    "en": "Water the soil with parasitic nematodes to biologically eliminate the maggots inside the root ball. Dust basalt or lava rock dust around the plant base or apply a rhubarb leaf extract. For early container infestations, lift the plant, rinse the maggots off the roots under running water, and replant in fresh soil."
   },
   "prevention": {
-    "nl": "Plaats direct bij het uitplanten een stevige koolkraag van rubber of karton strak om de stengelbasis. Dek potkolen van april tot september af met fijnmazig insectengaas tegen eiafzet.",
-    "en": "Fit tight-fitting cabbage collars made of cardboard or felt around the base of stems at planting. Keep potted brassicas covered with fine insect mesh from spring through autumn to block egg-laying."
+    "nl": "Dek potten direct na het planten af met fijnmazig insectengaas of breng koolkragen aan rond de voet van de stengel. Gebruik daarnaast schone potgrond, plant kolen eventueel schuin in en verwar de vlieg met geurende kruiden zoals dille of koriander.",
+    "en": "Protect containers directly after planting using fine insect netting or by placing cabbage collars around the base of the stems. Additionally, use fresh potting soil, consider planting horizontally, and mask crops using strongly scented companion herbs like dill or coriander."
   },
   "affects": [
     "broccoli",
     "brussels-sprouts",
     "cabbage",
     "cauliflower",
-    "kohlrabi",
-    "radish",
-    "turnip",
+    "kale",
+    "pak-choi",
     "pointed-cabbage",
-    "red-cabbage"
-  ],
-  "sources": [
-    "https://velt.nu/tips-tegen-ziekten-en-plagen"
+    "radish",
+    "red-cabbage",
+    "rocket",
+    "turnip"
   ],
   "image": null,
+  "sources": [
+    "https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/slappe-broccoli/",
+    "https://edepot.wur.nl/420364",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/maden-van-de-koolvlieg",
+    "https://edepot.wur.nl/272877",
+    "https://makkelijkemoestuin.nl/kennisbank/van-luis-tot-engerling-in-de-moestuin",
+    "https://edepot.wur.nl/332382",
+    "https://edepot.wur.nl/335671",
+    "https://edepot.wur.nl/295238",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/teeltplan-teeltwisseling-gewasgroepen-en-groenbemesters/",
+    "https://makkelijkemoestuin.nl/kennisbank/rupsen-van-het-koolwitje-in-moestuin",
+    "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-boerenkool-en-palmkool/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/moestuinieren-in-de-meimaand/",
+    "https://beweegt.velt.nu/regionoordwestvlaanderen/6901/biohulpmiddelen",
+    "https://groei.nl/artikel/tuinklussen-in-april-dingen-die-je-nu-kunt-doen-in-tuin-en-moestuin",
+    "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-spitskool/",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/tuintip-22/",
+    "https://beweegt.velt.nu/hamme/1857/biozaden",
+    "https://velt.nu/tip/wat-doe-je-tegen-de-koolvlieg",
+    "https://velt.nu/tip/kolen-plat-planten-zo-weer-je-de-koolvlieg",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groente-knolvoet/",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/meiraap-8",
+    "https://velt.nu/tip/het-nut-van-tagetes-afrikaantjes-jouw-moestuin",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/prei-wortel-en-koolvlieg",
+    "https://delangstraat.groei.nl/fileadmin/Afdelingen/afdeling_de_langstraat/Archief/Foto_bestanden/2022/Lezingen/15-03-2022_Rika_Verhoef/Tuinieren_met__on_kruid-lezing_van_15_maart__2022.pdf",
+    "https://community.makkelijkemoestuin.nl/posts/tips-2/maden"
+  ],
   "verified": false
 }

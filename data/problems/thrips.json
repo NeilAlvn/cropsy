@@ -1,40 +1,74 @@
 {
   "slug": "thrips",
   "names": {
-    "nl": "Tripsen",
+    "nl": "Trips",
     "en": "Thrips"
   },
   "kind": "pest",
   "parts": [
     "leaves",
+    "stems",
     "flowers",
     "fruits"
   ],
   "symptoms": {
-    "nl": "Zilverachtige of loodgrijze vlekken op het blad vol minuscule zwarte uitwerpselspikkeltjes. Bloemen en jonge vruchten vertonen verkurking, groeimisvormingen of vallen vroegtijdig af.",
-    "en": "Foliage develops bleached, silvery-grey patches dotted with pinpoint black droppings. Flowers and young developing fruits become deformed, russeted, or abort prematurely."
+    "nl": "Aangetaste bladeren vertonen een zilverachtige glans met zwarte vlekjes uitwerpselen, waarna ze kunnen omkrullen, verdrogen en afvallen. Bloemknoppen, scheuttoppen en jonge vruchten raken misvormd, wat leidt tot kurkachtige littekens en scheuren op de oogst.",
+    "en": "Infested leaves develop distinctive silvery patches speckled with tiny dark droppings, eventually curling, browning, and dropping prematurely. Feeding on buds, shoot tips, and developing fruits causes distorted growth, aborted flowers, and scarred, corky, or cracked produce."
   },
   "treatment": {
-    "nl": "Spoel de planten regelmatig af met een koude zeepwateroplossing om tripsen van het blad te wassen. Zet biologische roofwantsen (Orius) of roofmijten (Amblyseius) uit op een beschut balkon. Hang blauwe vangplaten op, aangezien tripsen sterk worden aangetrokken door de kleur blauw.",
-    "en": "Rinse plants thoroughly with insecticidal soap solution to dislodge feeding thrips nymphs. Introduce predatory bugs (Orius) or predatory mites (Amblyseius) to hunting zones. Deploy blue sticky monitoring cards, as thrips are uniquely attracted to blue hues."
+    "nl": "Hang blauwe signaalplaten op om volwassen tripsen weg te vangen en spoel de onderkant van bladeren krachtig af met koud water. Zet natuurlijke vijanden in zoals roofmijten tegen larven of aaltjes tegen poppen in de potgrond. Bij hardnekkige plagen kun je spuiten met zachte zeep, neemolie of pyrethrum, of het blad bepoederen met lava- of basaltmeel.",
+    "en": "Hang blue sticky traps around plants to trap adults and blast the undersides of foliage with cold water to dislodge nymphs. Introduce beneficial predators such as predatory mites, lacewing larvae, or apply parasitic soil nematodes to target pupae in the potting mix. For direct intervention, apply insecticidal soap, neem oil, or pyrethrum sprays, or lightly dust leaves with lava or basalt meal."
   },
   "prevention": {
-    "nl": "Handhaaf een goede luchtvochtigheid op het balkon, want tripsen floreren vooral bij hete, droge lucht. Inspecteer binnengehaalde planten grondig voordat ze bij potgewassen worden gezet.",
-    "en": "Maintain adequate humidity around containers, as thrips reproduce explosively in arid balcony warmth. Inspect newly acquired nursery plants carefully before placing them beside container greens."
+    "nl": "Dek gewassen vroegtijdig af met fijnmazig insectengaas en houd potten gelijkmatig vochtig om verzwakkende droogtestress te voorkomen. Inspecteer nieuwe planten grondig voor aankoop en stimuleer natuurlijke vijanden door bloeiende schermbloemigen zoals dille of venkel te planten.",
+    "en": "Protect vulnerable crops using ultra-fine insect netting and keep potting soil evenly watered to prevent warm, dry conditions that favor thrips. Thoroughly inspect new container plants before placing them on the balcony, and grow companion flowers such as dill and fennel to attract natural predators."
   },
   "affects": [
-    "leek",
-    "onion",
-    "shallot",
-    "cucumber",
-    "pepper",
+    "basil",
+    "cabbage",
     "chili",
-    "aubergine",
-    "french-bean"
-  ],
-  "sources": [
-    "https://velt.nu/tips-tegen-ziekten-en-plagen"
+    "chives",
+    "cucumber",
+    "endive",
+    "garlic",
+    "leek",
+    "mint",
+    "onion",
+    "pea",
+    "pepper",
+    "spring-onion",
+    "strawberry",
+    "tomato"
   ],
   "image": null,
+  "sources": [
+    "https://edepot.wur.nl/393376",
+    "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/wat-zijn-donderbeestjes-of-tripsen/",
+    "https://edepot.wur.nl/548981",
+    "https://edepot.wur.nl/112060",
+    "https://edepot.wur.nl/294832",
+    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/paprika-blaadjes",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/tomatenplant-gekrulde-bladeren/",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/aardbeien-met-scheuren",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/oei-is-dit-nu-de-trips-en-de-witte-vlieg-in-de-aardbeien",
+    "https://westland.groei.nl/groeninfo",
+    "https://www.tuinadvies.be/tuininfo/tuinontwerp-inspiratie/balkon-terras-kleine-tuinen/bloembakken-gemeente/",
+    "https://beweegt.velt.nu/regionoordwestvlaanderen/6901/biohulpmiddelen",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/aardbeien-wat-gaat-er-mis",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/moestuin-beschermen/",
+    "https://makkelijkemoestuin.nl/kennisbank/problemen/is-dit-erg",
+    "https://velt.nu/node/60",
+    "https://www.ivn.nl/afdeling/brabantse-wal/leren-over-de-natuur/lieveheersbeestjes-onder-de-schors-van-platanen/",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/vlekken-op-andijvie",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/trips-basilicum/",
+    "https://beweegt.velt.nu/dendermonde/2112/informatie",
+    "https://velt.nu/tip/hoe-werken-lavameel-en-basaltmeel",
+    "https://beweegt.velt.nu/zuidwestpajottenland/919/tuintips",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/mulfer/",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/verhuizen-tuinplanten-meenemen/",
+    "https://velt.nu/tip/wat-doe-je-tegen-de-preimineervlieg",
+    "https://edepot.wur.nl/182092",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/trips-aarbei-plant"
+  ],
   "verified": false
 }

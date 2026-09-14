@@ -7,29 +7,47 @@
   "kind": "disorder",
   "parts": [
     "leaves",
+    "stems",
     "fruits"
   ],
   "symptoms": {
-    "nl": "Bleke, perkamentachtige witte of geelbruine verbrande plekken op bladeren en direct aan zon blootgestelde vruchten. Het beschadigde vruchtweefsel zakt in, droogt perkamentachtig op en voelt papierachtig dun aan.",
-    "en": "Bleached, papery white or light-tan scald patches develop on leaves and sun-exposed fruit shoulders. The affected fruit skin sinks inward, turning papery thin and dry to the touch."
+    "nl": "Bladeren worden wit uitgeslagen of verbleekt en drogen later op tot doorschijnend, papierachtig of knisperend bruin weefsel, waarbij de plant op het heetst van de dag slap kan hangen. Op vruchten ontstaan bleke, gelige of ingezonken leerachtige witte tot bruine plekken die gevoelig zijn voor secundaire rotting.",
+    "en": "Leaves turn dull, bleached, or chalky white before becoming translucent, papery, or crispy brown, often accompanied by sudden daytime wilting. Direct midday heat causes exposed fruits to develop pale, yellowish, or sunken leathery patches that dry out and risk secondary rot."
   },
   "treatment": {
-    "nl": "Scherm de potplanten tijdens hittegolven af met een schaduwdoek of parasol op het heetst van de dag. Laat verbrand blad voorlopig zitten als bescherming tegen verdere zonneschade aan onderliggende vruchten. Verwijder vruchten pas als ze zacht worden en gaan rotten.",
-    "en": "Shield containers with temporary shade cloth or an umbrella during the blazing midday hours of heatwaves. Leave partially scorched leaves in place temporarily to shade underlying fruits. Only excise damaged fruits if rot sets in."
+    "nl": "Verplaats potten tijdens piekuren (12:00–16:00) direct naar de schaduw en bewater de grond vroeg in de ochtend of laat in de avond bij de wortels. Behoud deels verbrande bladeren tijdelijk als schaduw en knip pas volledig verdroogd blad weg zodra er nieuwe groei is. Oogst aangetaste vruchten direct en snijd de leerachtige plekken weg voor consumptie.",
+    "en": "Immediately shift containers into light or dappled shade during peak afternoon hours (12:00–16:00) and rehydrate the root zone early in the morning or late in the evening. Keep partially scorched foliage to shade lower growth, only pruning fully dried leaves once new shoots emerge. Promptly harvest affected fruits, cutting away the leathery white patches so the remainder can be consumed."
   },
   "prevention": {
-    "nl": "Laat bij zomersnoei (zoals dieven) voldoende bladscherm intact bovenop de vruchttrossen. Laat potplanten die binnen zijn opgekweekt geleidelijk afharden in gefilterd zonlicht.",
-    "en": "Preserve an adequate protective leaf canopy above fruit clusters when pruning or pinching shoots. Harden off tender indoor seedlings gradually in filtered light before putting them under intense sun."
+    "nl": "Hard jonge planten gedurende 7–14 dagen geleidelijk af in de halfschaduw en breng bij hittegolven een schaduwdoek of parasol aan boven het balkon. Behoud een beschermend bladerdek rondom vruchten en mulch de potgrond met stro of compost om uitdroging tegen te gaan.",
+    "en": "Gradually harden off seedlings over 7–14 days in partial shade before exposing them to full sun, and use shade netting or parasols during heatwaves. Retain an adequate leaf canopy to shelter developing fruits and mulch container soil to buffer against rapid heat and moisture loss."
   },
   "affects": [
-    "tomato",
-    "pepper",
+    "basil",
     "chili",
-    "aubergine"
-  ],
-  "sources": [
-    "https://makkelijkemoestuin.nl/kennisbank/waarom-worden-mijn-planten-geel"
+    "coriander",
+    "courgette",
+    "cucumber",
+    "lettuce",
+    "parsley",
+    "pepper",
+    "spinach",
+    "tomato"
   ],
   "image": null,
+  "sources": [
+    "https://makkelijkemoestuin.nl/kennisbank/afharden-van-zaailingen-en-ijsheiligen",
+    "https://velt.nu/tip/hoe-bescherm-je-jouw-moestuin-tegen-hitte-langdurige-droogte",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/puntpaprikas-gaan-rotten",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/bramen-zonnebrand/",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/tomaten-afharden-in-de-zon-slap",
+    "https://www.tuinadvies.nl/tuininfo/planten/bomen-heesters/portugese-laurier-bruine-bladeren/",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/paprikaplanten-en-tomatenplanten-in-volle-zon-met-36-graden",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/anti-zonnebrand",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-telen-op-schaduwrijke-plaatsen/",
+    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/afharden-met-deze-temperaturen",
+    "https://groei.nl/artikel/tuinklussen-in-april-dingen-die-je-nu-kunt-doen-in-tuin-en-moestuin",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/planten-beschermen-tegen-zon-en-vogels/"
+  ],
   "verified": false
 }

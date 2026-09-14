@@ -1,0 +1,73 @@
+{
+  "slug": "root-rot",
+  "names": {
+    "nl": "Wortelrot door natte voeten",
+    "en": "Root rot (waterlogging)"
+  },
+  "kind": "disease",
+  "parts": [
+    "roots",
+    "stems",
+    "leaves",
+    "flowers",
+    "fruits"
+  ],
+  "symptoms": {
+    "nl": "Planten gaan slap hangen en verwelken terwijl de potgrond kletsnat is en een zure of muffe geur verspreidt. De wortels worden bruin, papperig en breken snel af, terwijl bladeren vergelen en jonge vruchten of scheuten verschrompelen.",
+    "en": "Plants paradoxically wilt and droop while the potting soil is soaking wet and gives off a musty or sour smell. The roots turn brown, mushy, and break off easily, while foliage yellows and young fruits or shoots shrivel."
+  },
+  "treatment": {
+    "nl": "Haal de plant direct uit de pot, spoel de kletsnatte grond weg en snijd alle bruine en papperige wortels weg met een ontsmette schaar. Verpot de plant in schone, luchtige potgrond en snoei een deel van het bovengrondse loof terug om de verdamping in evenwicht te brengen. Voeg eventueel rijpe biologische compost of nuttige bodemmicro-organismen zoals Trichoderma toe om infecties op natuurlijke wijze te onderdrukken.",
+    "en": "Immediately remove the plant from its container, gently wash off the soggy soil, and prune away all rotten, brown roots with sterilized shears. Repot into fresh, airy potting soil and trim back some foliage to reduce the demand on the reduced root system. You can also mix in mature organic compost or beneficial microorganisms like Trichoderma to naturally suppress fungal pathogens."
+  },
+  "prevention": {
+    "nl": "Gebruik altijd potten met ruime afwateringsgaten, zet ze op potvoetjes en zorg voor een luchtig substraat met bijvoorbeeld perliet of grof zand. Geef pas water als de bovenste laag aarde droog aanvoelt en leeg volgelopen onderschotels binnen een half uur.",
+    "en": "Always use containers with ample drainage holes elevated on pot feet, and plant in an airy substrate mixed with perlite or coarse sand. Only water when the top few centimeters of soil feel dry, and empty filled saucers within half an hour."
+  },
+  "affects": [
+    "courgette",
+    "cucumber",
+    "french-bean",
+    "garlic",
+    "lettuce",
+    "onion",
+    "oregano",
+    "pumpkin",
+    "rosemary",
+    "sage",
+    "shallot",
+    "spinach",
+    "thyme",
+    "tomato"
+  ],
+  "image": null,
+  "sources": [
+    "https://makkelijkemoestuin.nl/kennisbank/koop-of-maak-een-moestuinbak",
+    "https://groei.nl/artikel/water-geven-in-de-tuin-vragen-die-elke-tuinier-heeft",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/natuurlijke-bestrijding/hoe-snel-groeit-vinca-minor-dicht/",
+    "https://www.tuinadvies.nl/tuininfo/planten/sierplanten/oleander-slappe-bladeren/",
+    "https://edepot.wur.nl/292719",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/bladeren-worden-geel",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/rozemarijn-wordt-bruin/",
+    "https://www.tuinadvies.nl/tuininfo/planten/kamerplanten/plant-verpotten-wortels-losmaken/",
+    "https://groei.nl/artikel/orchidee-knippen-en-verpotten",
+    "https://www.tuinadvies.nl/tuininfo/planten/kamerplanten/cactus-verhouten/",
+    "https://groei.nl/artikel/kruiden-terugknippen",
+    "https://velt.nu/tip/een-geslaagde-fruittuin-de-juiste-plant-op-de-juiste-plaats",
+    "https://edepot.wur.nl/273584",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/potje-voor-tomaten",
+    "https://groei.nl/artikel/trogbeplanten",
+    "https://groei.nl/artikel/framboos-kweken-in-een-pot",
+    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/knoflook-90",
+    "https://groei.nl/artikel/potten-beschermen-vorst",
+    "https://velt.nu/system/files/media/documenten/leerkrachtenbundel_minimoestuin_op_school.pdf",
+    "https://groei.nl/artikel/hoe-zaai-ik-citroenverbena",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/komt-dit-goed",
+    "https://makkelijkemoestuin.nl/blog/mei-in-de-moestuin-we-starten-nog-een-keer",
+    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/spekbonen-de-bak-in",
+    "https://groei.nl/artikel/moestuin-in-oktober-oogsten-snoeien-en-opruimen",
+    "https://edepot.wur.nl/329839",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/wortels-sla-opgegeten/"
+  ],
+  "verified": false
+}

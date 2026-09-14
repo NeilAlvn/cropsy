@@ -10,28 +10,42 @@
     "stems"
   ],
   "symptoms": {
-    "nl": "Lange, witgrijze venstertjes en gangen in het blad waar het bladgroen is weggeschraapt. Later ontstaan rafelige gaten en rot in de hartbladeren door vretende geelgroene rupsjes.",
-    "en": "Translucent whitish 'windowpanes' and mined stripes appear along the length of foliage. Inner central leaves subsequently turn shredded, ragged, and rotten from boring caterpillar feeding."
+    "nl": "Jonge rupsen veroorzaken doorschijnende venstervlekjes in het blad doordat ze het bladmoes wegeten. Later ontstaan rijen gerafelde gaten in doorgroeiend blad en boorgangen vol donkere uitwerpselen in de schacht, wat vaak leidt tot natrot.",
+    "en": "Young caterpillars cause translucent window-like patches on the leaves by eating away the inner tissue. Later, emerging leaves display rows of frayed holes, and tunnels filled with dark frass appear in the shaft, frequently leading to wet rot."
   },
   "treatment": {
-    "nl": "Knip aangetast blad weg tot onder de vraatplekken zodat het hart opnieuw kan uitgroeien. Druk aanwezige rupsjes en popjes in de bladscheden handmatig fijn. Spuit bij hardnekkige aantasting met een biologisch Bacillus thuringiensis-middel.",
-    "en": "Trim shredded foliage down below the feeding damage so clean heart shoots can regenerate. Manually crush any visible larvae or pupae tucked between the folded leaf bases. Apply Bacillus thuringiensis if caterpillar tunneling threatens the central stem."
+    "nl": "Pluk rupsen handmatig weg of knip aangetast blad tot boven het groeipunt af. Zodra de eerste venstervraat zichtbaar is, kun je biologisch behandelen met Bacillus thuringiensis of spinosad. Ook een koud aftreksel van rabarberblad kan curatief worden ingezet.",
+    "en": "Pick off caterpillars by hand or trim damaged foliage down to just above the growing tip. As soon as the first window feeding is visible, treat organically with Bacillus thuringiensis or spinosad. A cold rhubarb leaf extract can also be applied curatively."
   },
   "prevention": {
-    "nl": "Kweek prei en uien in potten altijd onder insectengaas vanaf het vroege voorjaar tot de late herfst. Vermijd verlichting dicht bij het balkon die de nachtactieve motjes aantrekt.",
-    "en": "Grow container alliums under fine insect netting throughout their entire spring-to-autumn cycle. Avoid bright balcony night lighting that lures nocturnal adult moths directly onto plants."
+    "nl": "Dek lookgewassen vanaf het planten tot de herfst af met fijnmazig insectengaas en hang feromoonvallen op om de mottenvlucht te monitoren. Zet geurverwarrende planten zoals selderij of wortel tussen de look en verwijder gewasresten tijdig om overwintering van poppen in de potgrond te voorkomen.",
+    "en": "Cover allium crops from planting until autumn with fine insect mesh and hang pheromone traps to monitor adult flights. Interplant strongly scented crops like celery or carrots to disorient the moths, and clear away crop debris to stop pupae from overwintering in potting soil."
   },
   "affects": [
+    "chives",
+    "garlic",
     "leek",
     "onion",
-    "garlic",
-    "shallot",
-    "chives",
-    "spring-onion"
-  ],
-  "sources": [
-    "https://velt.nu/tips-tegen-ziekten-en-plagen"
+    "shallot"
   ],
   "image": null,
+  "sources": [
+    "https://beweegt.velt.nu/regionoordwestvlaanderen/6901/biohulpmiddelen",
+    "https://edepot.wur.nl/119907",
+    "https://edepot.wur.nl/254727",
+    "https://edepot.wur.nl/41310",
+    "https://edepot.wur.nl/277852",
+    "https://dordrecht.groei.nl/nieuwsbrieven",
+    "https://velt.nu/tip/wat-doe-je-tegen-de-preimineervlieg",
+    "https://velt.nu/node/136",
+    "https://beweegt.velt.nu/reinaert/434/groepsaankoop",
+    "https://edepot.wur.nl/23092",
+    "https://groei.nl/artikel/ecologisch-tuinieren-in-juni",
+    "https://velt.nu/tip/combinatieteelt-de-moestuin",
+    "https://delangstraat.groei.nl/fileadmin/Afdelingen/afdeling_de_langstraat/Archief/Foto_bestanden/2022/Lezingen/15-03-2022_Rika_Verhoef/Tuinieren_met__on_kruid-lezing_van_15_maart__2022.pdf",
+    "https://velt.nu/tip/wat-doe-je-tegen-rupsen-op-koolplanten",
+    "https://www.tuinadvies.nl/shop/dier/ongedierte/insecten/kruipende-insecten/60-ml~200108234/",
+    "https://velt.nu/tip/hoe-maak-en-gebruik-je-plantenaftreksels"
+  ],
   "verified": false
 }

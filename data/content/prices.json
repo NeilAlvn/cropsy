@@ -136,8 +136,9 @@
   },
   {
     "crop_slug": "lettuce",
-    "eur": 0.89,
-    "unit": "pcs"
+    "eur": 0.79,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi382984/ah-kropsla"
   },
   {
     "crop_slug": "mangetout",
@@ -288,8 +289,9 @@
   },
   {
     "crop_slug": "tomato",
-    "eur": 1.98,
-    "unit": "kg"
+    "eur": 3.58,
+    "unit": "kg",
+    "source": "https://www.ah.nl/producten/product/wi4088/ah-tomaten"
   },
   {
     "crop_slug": "turnip",

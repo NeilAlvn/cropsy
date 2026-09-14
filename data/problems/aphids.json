@@ -1,39 +1,76 @@
 {
   "slug": "aphids",
   "names": {
-    "nl": "Bladluizen",
+    "nl": "Bladluis",
     "en": "Aphids"
   },
   "kind": "pest",
   "parts": [
     "leaves",
     "stems",
-    "flowers"
+    "flowers",
+    "roots"
   ],
   "symptoms": {
-    "nl": "Gekrulde en misvormde jonge bladtoppen bedekt met kolonies kleine groene, zwarte of grijze insecten. Bladeren worden kleverig door suikerrijke honingdauw waarop later zwarte roetdauwschimmel kan groeien.",
-    "en": "Curled and distorted leaf growth clustered with dense colonies of green, black, or grey sap-sucking insects. Foliage becomes sticky from honeydew secretions, frequently followed by black sooty mould."
+    "nl": "Kleine peervormige insecten in kolonies veroorzaken gekrulde of misvormde bladeren en stagnerende plantengroei. Daarnaast scheiden ze kleverige honingdauw af, wat mieren aantrekt en zwarte roetdauwschimmel kan veroorzaken.",
+    "en": "Small pear-shaped insects living in colonies cause curled or deformed leaves and stunted plant growth. They also excrete sticky honeydew that attracts ants and can lead to black sooty mold."
   },
   "treatment": {
-    "nl": "Spoel lichte kolonies direct af met een gerichte waterstraal van de plantenspuit. Verwijder zwaar bezette scheuttoppen handmatig of spuit met een milde ecologische zeepspiritusoplossing. Zet eventueel larven van gaasvliegen of lieveheersbeestjes uit.",
-    "en": "Rinse initial colonies away with a focused stream of cold water. Prune off heavily congested stem tips or spray foliage with a mild insecticidal soft soap solution. Release native ladybird or lacewing larvae for biological control."
+    "nl": "Spuit de bladluizen grondig af met een gerichte straal koud water of wrijf beginnende kolonies handmatig weg. Ernstig aangetaste toppen kunnen worden afgeknipt en bij het restafval weggegooid. Zet natuurlijke vijanden in zoals lieveheersbeestjes of besproei de plant met een mild ecologisch zeepsopje.",
+    "en": "Spray aphids off thoroughly with a stream of cold water or rub away early colonies by hand. Heavily infested plant tips can be pruned off and disposed of in residual waste. Introduce natural enemies like ladybirds or spray the plant with a mild organic soft soap solution."
   },
   "prevention": {
-    "nl": "Vermijd overmatige stikstofbemesting, want zacht en snelgroeiend weefsel trekt massaal luizen aan. Zaai lokbloemen zoals goudsbloem en schermbloemigen om zweefvliegen en lieveheersbeestjes naar het balkon te lokken.",
-    "en": "Avoid excessive nitrogen fertilisation, as lush and soft tissue invites aphid explosions. Grow nectar-rich flowering companions like calendula and umbellifers to attract hoverflies and ladybirds."
+    "nl": "Voorkom een overschot aan stikstofrijke bemesting en scherm jonge gewassen af met fijnmazig insectengaas. Gebruik combinatieteelt met geurende planten zoals bieslook en trek natuurlijke vijanden aan met bloeiende kruiden zoals dille.",
+    "en": "Avoid excessive nitrogen fertilization and protect young crops using fine-mesh insect netting. Practice companion planting with scented plants like chives and attract natural predators with flowering herbs like dill."
   },
   "affects": [
+    "beetroot",
     "broad-bean",
+    "cauliflower",
     "chili",
-    "pepper",
-    "tomato",
-    "cucumber",
+    "courgette",
+    "dill",
     "french-bean",
-    "aubergine",
-    "basil",
-    "lettuce"
+    "kale",
+    "lettuce",
+    "mint",
+    "pak-choi",
+    "parsley",
+    "pea",
+    "pepper",
+    "radish",
+    "rocket",
+    "spinach",
+    "swiss-chard",
+    "tomato"
   ],
-  "sources": [],
   "image": null,
+  "sources": [
+    "https://allezadenkopen.nl/blogs/nieuws/bladluis-bestrijden-zo-pak-je-dat-aan-in-je-moestuin",
+    "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/bladluizen-natuurlijk-bestrijden/",
+    "https://makkelijkemoestuin.nl/kennisbank/van-luis-tot-engerling-in-de-moestuin",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/ongediertebestrijding/rode-bladluis/",
+    "https://edepot.wur.nl/560539",
+    "https://velt.nu/bladluis",
+    "https://midden-kennemerland.groei.nl/tuintips-info/ecologisch-tuinieren/leeg-5",
+    "https://www.mooiemoestuin.nl/luizen/",
+    "https://royalbrinkman.nl/kennisbank-gewasbescherming/plagen/bladluis-bestrijden",
+    "https://edepot.wur.nl/455996",
+    "https://velt.nu/tip/wat-doe-je-tegen-bladluizen-de-moestuin",
+    "https://velt.nu/nieuws/last-van-bladluizen-dit-kan-je-ertegen-doen",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/bladluis-12",
+    "https://www.ivn.nl/provincies/flevoland/alles-over-het-lieveheersbeestje/",
+    "https://www.ivn.nl/leren-over-de-natuur/ode-aan-het-lieveheersbeestje/",
+    "https://velt.nu/tip/bladluizen-de-tuin",
+    "https://www.ivn.nl/provincies/zuid-holland/aanbod/groen-dichterbij/je-eigen-voedsel-verbouwen/",
+    "https://tuiniernatuurlijk.nl/bladluis-bestrijden-effectieve-tips-voor-een-gezonde-tuin/",
+    "https://velt.nu/system/files/media/documenten/natuurlijkevijandenbingo.pdf",
+    "https://edepot.wur.nl/353851",
+    "https://edepot.wur.nl/12331",
+    "https://edepot.wur.nl/279820",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/help-bladluis-2",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/bladluis-bestrijden",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/help-bladluizen"
+  ],
   "verified": false
 }

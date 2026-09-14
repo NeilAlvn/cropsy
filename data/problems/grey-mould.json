@@ -2,37 +2,63 @@
   "slug": "grey-mould",
   "names": {
     "nl": "Grauwe schimmel (Botrytis)",
-    "en": "Grey mould (Botrytis)"
+    "en": "Grey mould"
   },
   "kind": "disease",
   "parts": [
-    "leaves",
-    "stems",
     "flowers",
-    "fruits"
+    "fruits",
+    "leaves",
+    "stems"
   ],
   "symptoms": {
-    "nl": "Zachte, bruine rotte plekken op stengels, vruchten en bloemen die snel overdekt raken met een grijs, pluizig schimmeltapijt. Bij aanraking van het aangetaste weefsel stuift er een wolk van schimmelsporen op.",
-    "en": "Soft, brown watery rot spreads across stems, blooms, and ripening fruits, quickly smothered in fuzzy grey fungal fuzz. Disturbing the affected tissue releases dense clouds of powdery grey fungal spores."
+    "nl": "Op aangetast weefsel ontstaan zachte, waterige rotvlekken en een wollige, grijze schimmellaag die bij aanraking sporen afgeeft. Bloemen en bloemknoppen verdrogen of rotten weg, terwijl op stengels ingezonken kankers kunnen verschijnen waardoor bovengrondse delen verwelken.",
+    "en": "Soft, watery rot spots and a woolly, grey fungal layer that releases spores develop on affected plant tissue. Flowers and buds wither or rot away, while sunken cankers can appear on stems causing upper growth to wilt."
   },
   "treatment": {
-    "nl": "Knip rottende vruchten en aangetast weefsel voorzichtig weg tot in het gezonde plantendeel. Zet de pot op een zonnigere, winderige plek om het microklimaat direct op te drogen. Zorg dat de plant bij het snoeien zo min mogelijk wordt beschadigd.",
-    "en": "Prune out diseased fruits and collapsing plant tissue cleanly back into healthy green wood. Relocate the pot immediately into an airy, sun-drenched location to desiccate surface dampness. Disinfect pruning blades between cuts to avoid transmitting fungal spores."
+    "nl": "Knip aangetaste delen ruim weg met een droge schaar en gooi dit materiaal direct in de restafvalbak om verspreiding te voorkomen. Verplaats de pot naar een tochtige, overdekte en droge plek zodat vocht snel verdampt. Pas eventueel biologische middelen zoals Bacillus subtilis of kaliumbicarbonaat toe om verdere kieming en aantasting te remmen.",
+    "en": "Prune away infected parts generously with dry shears and dispose of them in the household trash to prevent spore dispersal. Move the pot to a breezy, sheltered, dry location so excess moisture evaporates rapidly. If needed, apply organic controls such as Bacillus subtilis or potassium bicarbonate to inhibit further infection."
   },
   "prevention": {
-    "nl": "Geef water strikt aan de wortels en voorkom dat bloemen en rijpende vruchten langdurig nat blijven. Dun dicht bladerdek uit zodat potgewassen na regenval snel kunnen ventileren.",
-    "en": "Water strictly into the potting soil, keeping developing fruits and delicate flower petals dry. Thin crowded container foliage periodically to maintain brisk, drying airflow through stems."
+    "nl": "Geef 's ochtends water aan de voet van de plant en zorg voor voldoende tussenruimte en goede drainagegaten voor een optimale luchtstroom. Zet kwetsbare potten bij langdurige regen onder een afdak en pluk regelmatig dode plantendelen weg bij droog weer.",
+    "en": "Water directly at the base of the plant in the morning and ensure adequate spacing and pot drainage for good airflow. Move vulnerable containers under shelter during persistent rain and regularly remove dead plant debris during dry weather."
   },
   "affects": [
-    "strawberry",
-    "tomato",
-    "cucumber",
-    "lettuce",
-    "french-bean",
     "aubergine",
-    "pepper"
+    "basil",
+    "chili",
+    "endive",
+    "french-bean",
+    "lettuce",
+    "pepper",
+    "rosemary",
+    "strawberry",
+    "thyme",
+    "tomato"
   ],
-  "sources": [],
   "image": null,
+  "sources": [
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/aardbeien-rotten-aan-plant/",
+    "https://research.wur.nl/en/publications/botrytis-richt-veel-schade-aan-in-tal-van-gewassen-aantasting-is-/",
+    "https://edepot.wur.nl/155037",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/natuurlijke-bestrijding/digituin/",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/natuurlijke-bestrijding/dahlia-schimmel/",
+    "https://edepot.wur.nl/425427",
+    "https://groei.nl/artikel/pioenroos-bloeit-niet",
+    "https://edepot.wur.nl/155017",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/tomatenziekte-10",
+    "https://zuid-kennemerland.groei.nl/groeninfo/rozenperikelen",
+    "https://westland.groei.nl/activiteiten/tuintips-door-het-jaar-heen-uit-52-weken-tuinplezier",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/aardbeien-onder-plastic/",
+    "https://bergen.groei.nl/tuin-groentips/tuinklussen-in-augustus",
+    "https://edepot.wur.nl/279783",
+    "https://velt.nu/nieuws/deel-5-hoe-vordert-het-project-robuuste-tomaten",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/winterporselein-3",
+    "https://edepot.wur.nl/332942",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/beschimmelde-aardbeien",
+    "https://www.tuinadvies.be/tuininfo/moestuin/fruit-bessen/druiven-barsten-open/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/bramen-zonnebrand/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/tijm-plant-dood/"
+  ],
   "verified": false
 }

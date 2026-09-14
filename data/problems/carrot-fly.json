@@ -1,0 +1,61 @@
+{
+  "slug": "carrot-fly",
+  "names": {
+    "nl": "Wortelvlieg",
+    "en": "Carrot fly"
+  },
+  "kind": "pest",
+  "parts": [
+    "leaves",
+    "roots",
+    "stems"
+  ],
+  "symptoms": {
+    "nl": "Jong zaaigoed verwelkt plotseling of valt om, waarna het loof van oudere planten geel, brons of paarsachtig verkleurt en afsterft. Ondergronds ontstaan roestbruine vreetgangen en rotting in de wortels of stengelbasis, waardoor wortels vertakt of misvormd raken.",
+    "en": "Young seedlings suddenly wilt or collapse, while the foliage of older plants turns yellow, bronze, or purplish before dying off. Underground, rust-brown feeding tunnels and rot develop in the roots or stem base, causing roots to become deformed or branched."
+  },
+  "treatment": {
+    "nl": "Trek aangetaste planten direct met wortel en grond uit de pot en gooi deze bij het restafval om verdere verpopping te voorkomen. Voeg specifieke parasitaire aaltjes toe via het gietwater om de larven in de bovenste bodemlaag te bestrijden. Daarnaast kunnen geurverdrijvende extracten zoals knoflookextract of uiengeurkorrels worden gebruikt om volwassen vliegen te desoriënteren en eileg te onderdrukken.",
+    "en": "Immediately pull up affected plants along with their roots and soil, discarding them in household waste to prevent pupation. Apply specific parasitic nematodes via watering to target and parasitize the larvae in the top soil layer. Additionally, repellent extracts such as garlic extract or onion granules can be used to disorient adult flies and suppress egg laying."
+  },
+  "prevention": {
+    "nl": "Plaats potten op een verhoging of balustrade en scherm de gewassen direct na het zaaien af met fijnmazig insectengaas. Pas combinatieteelt toe met geurende soorten zoals bieslook of knoflook om de wortelgeur te maskeren en zaai meteen dun om beschadiging bij uitdunnen te vermijden.",
+    "en": "Position pots on an elevation or railing and cover crops directly after sowing with fine-mesh netting. Practice companion planting with aromatic crops like chives or garlic to mask the scent, and sow thinly to avoid foliage bruising during thinning."
+  },
+  "affects": [
+    "carrot",
+    "celeriac",
+    "celery",
+    "coriander",
+    "dill",
+    "fennel",
+    "parsley",
+    "parsnip"
+  ],
+  "image": null,
+  "sources": [
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/wortelen-kweken/",
+    "https://edepot.wur.nl/173014",
+    "https://makkelijkemoestuin.nl/kennisbank/van-luis-tot-engerling-in-de-moestuin",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-peterselie",
+    "https://edepot.wur.nl/644979",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/prei-wortel-en-koolvlieg",
+    "https://beweegt.velt.nu/hamme/1857/biozaden",
+    "https://rauwdouwers.nl/wortel/",
+    "https://mergenmetz.nl/blog/notities/in-actie-tegen-de-wortelvlieg/",
+    "https://www.zenspiratie.be/bescherm-je-wortelen-tegen-de-wortelvlieg/",
+    "https://beweegt.velt.nu/regionoordwestvlaanderen/6901/biohulpmiddelen",
+    "https://maashorst.groei.nl/groeninfo/moestuinieren/goede-combinaties",
+    "https://www.ivn.nl/aanbod/groen-om-te-doen/leren-over-de-natuur/doe-tip-aan-de-slag-in-de-moestuin/",
+    "https://groei.nl/artikel/hoe-zaai-ik-worteltjes",
+    "https://beweegt.velt.nu/braas/download.php?bestand=Teelt_van_wortelen.pdf",
+    "https://makkelijkemoestuin.nl/kennisbank/maak-je-moestuinbak-winterklaar",
+    "https://velt.nu/tip/combinatieteelt-de-moestuin",
+    "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-wortel/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/wortels-sla-opgegeten/",
+    "https://edepot.wur.nl/299193",
+    "https://edepot.wur.nl/644978",
+    "https://sprinklr.co/blogs/nieuws/zo-bestrijd-je-wortelvlieg"
+  ],
+  "verified": false
+}
