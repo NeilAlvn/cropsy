@@ -1,0 +1,42 @@
+{
+  "slug": "slugs-and-snails",
+  "names": {
+    "nl": "Slakken (naakt- en huisjesslakken)",
+    "en": "Slugs and snails"
+  },
+  "kind": "pest",
+  "parts": [
+    "leaves",
+    "stems",
+    "fruits",
+    "whole"
+  ],
+  "symptoms": {
+    "nl": "Aangevreten bladranden en grillige gaten in malse jonge bladeren en kiemplantjes. Kenmerkend zijn de glinsterende, opgedroogde slijmsporen op potranden en bladeren.",
+    "en": "Irregular holes and chewed edges on young leaves and fresh seedlings. Characteristic silvery, dried slime trails are visible across foliage and container rims."
+  },
+  "treatment": {
+    "nl": "Raap slakken handmatig weg bij schemering of na een regenbui. Plaats een koperen barrièretape rond de potrand om nieuwkomers effectief tegen te houden. Bij zware aantasting kun je biologische aaltjes (Phasmarhabditis hermaphrodita) ingieten in de potgrond.",
+    "en": "Handpick slugs manually at dusk or following a rain shower. Apply copper barrier tape around container edges to deter intruders. For severe infestations, water beneficial nematodes (Phasmarhabditis hermaphrodita) into the potting mix."
+  },
+  "prevention": {
+    "nl": "Geef uitsluitend 's ochtends vroeg water bij de stengelbasis zodat het potoppervlak voor de nacht opdroogt. Houd potten en balkontafels vrij van vochtige schuilplekjes onder schotels.",
+    "en": "Water plants early in the morning at the soil level so surfaces dry before nightfall. Keep container bottoms and drainage saucers free from damp, dark sheltering crevices."
+  },
+  "affects": [
+    "lettuce",
+    "courgette",
+    "french-bean",
+    "spinach",
+    "strawberry",
+    "cabbage",
+    "pak-choi",
+    "basil"
+  ],
+  "sources": [
+    "https://www.tuinadvies.nl/artikelen/tips_om_slakken_uit_de_tuin_te_weren",
+    "https://velt.nu/tips-tegen-ziekten-en-plagen"
+  ],
+  "image": null,
+  "verified": false
+}

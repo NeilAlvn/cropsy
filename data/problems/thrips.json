@@ -1,0 +1,41 @@
+{
+  "slug": "thrips",
+  "names": {
+    "nl": "Tripsen",
+    "en": "Thrips"
+  },
+  "kind": "pest",
+  "parts": [
+    "leaves",
+    "flowers",
+    "fruits"
+  ],
+  "symptoms": {
+    "nl": "Zilverachtige of loodgrijze vlekken op het blad vol minuscule zwarte uitwerpselspikkeltjes. Bloemen en jonge vruchten vertonen verkurking, groeimisvormingen of vallen vroegtijdig af.",
+    "en": "Foliage develops bleached, silvery-grey patches dotted with pinpoint black droppings. Flowers and young developing fruits become deformed, russeted, or abort prematurely."
+  },
+  "treatment": {
+    "nl": "Spoel de planten regelmatig af met een koude zeepwateroplossing om tripsen van het blad te wassen. Zet biologische roofwantsen (Orius) of roofmijten (Amblyseius) uit op een beschut balkon. Hang blauwe vangplaten op, aangezien tripsen sterk worden aangetrokken door de kleur blauw.",
+    "en": "Rinse plants thoroughly with insecticidal soap solution to dislodge feeding thrips nymphs. Introduce predatory bugs (Orius) or predatory mites (Amblyseius) to hunting zones. Deploy blue sticky monitoring cards, as thrips are uniquely attracted to blue hues."
+  },
+  "prevention": {
+    "nl": "Handhaaf een goede luchtvochtigheid op het balkon, want tripsen floreren vooral bij hete, droge lucht. Inspecteer binnengehaalde planten grondig voordat ze bij potgewassen worden gezet.",
+    "en": "Maintain adequate humidity around containers, as thrips reproduce explosively in arid balcony warmth. Inspect newly acquired nursery plants carefully before placing them beside container greens."
+  },
+  "affects": [
+    "leek",
+    "onion",
+    "shallot",
+    "cucumber",
+    "pepper",
+    "chili",
+    "aubergine",
+    "french-bean"
+  ],
+  "sources": [
+    "https://www.tuinadvies.nl/artikelen/plagen_bij_basilicum",
+    "https://velt.nu/tips-tegen-ziekten-en-plagen"
+  ],
+  "image": null,
+  "verified": false
+}

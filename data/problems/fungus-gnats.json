@@ -1,0 +1,39 @@
+{
+  "slug": "fungus-gnats",
+  "names": {
+    "nl": "Rouwvliegjes (varenrouwmug)",
+    "en": "Fungus gnats"
+  },
+  "kind": "pest",
+  "parts": [
+    "roots",
+    "stems"
+  ],
+  "symptoms": {
+    "nl": "Talloze kleine, zwarte mugjes die traag opfladderen uit de vochtige potgrond rondom planten. Zaailingen en jonge stekken stagneren in groei, verwelken plotseling of vallen om door vraat aan haarwortels.",
+    "en": "Small, dark, jerky flies crawling over damp potting soil and fluttering weakly around pots. Seedlings falter, wilt unexpectedly, or collapse because hidden larvae chew their tender root hairs."
+  },
+  "treatment": {
+    "nl": "Laat de bovenste laag potgrond grondig uitdrogen tussen gietbeurten om de larven te laten sterven. Giet biologische aaltjes (Steinernema feltiae) uit over de vochtige potgrond om de larven aan te pakken. Plaats gele vangplaatjes om de volwassen mugjes snel af te vangen.",
+    "en": "Allow the top inch of potting compost to dry out completely to starve the larvae. Drench the compost with entomopathogenic nematodes (Steinernema feltiae) targeting the root-eating larvae. Position yellow sticky boards close to the soil surface to catch egg-laying adults."
+  },
+  "prevention": {
+    "nl": "Geef balkonpotten nooit te veel water en dek de potgrond af met een laagje fijn zand. Gebruik uitsluitend hoogwaardige, goed gerijpte potgrond zonder rottende turfresten.",
+    "en": "Avoid persistent overwatering and top dress containers with a 1 cm barrier of coarse sand. Use clean, high-grade organic potting compost rather than half-rotted garden debris."
+  },
+  "affects": [
+    "basil",
+    "parsley",
+    "coriander",
+    "tomato",
+    "pepper",
+    "lettuce",
+    "cucumber"
+  ],
+  "sources": [
+    "https://www.tuinadvies.nl/artikelen/rouwvliegjes_bestrijden",
+    "https://makkelijkemoestuin.nl/kennisbank/bestrijden-van-ziektes-plaagdieren"
+  ],
+  "image": null,
+  "verified": false
+}

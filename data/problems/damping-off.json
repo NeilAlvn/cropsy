@@ -1,0 +1,41 @@
+{
+  "slug": "damping-off",
+  "names": {
+    "nl": "Kiemziekte (omvalziekte)",
+    "en": "Damping off"
+  },
+  "kind": "disease",
+  "parts": [
+    "stems",
+    "roots",
+    "whole"
+  ],
+  "symptoms": {
+    "nl": "Pas gekiemde zaailingen verslappen plotseling bij de grondlijn en vallen massaal om. De stengelbasis vertoont een waterige, zwarte insnoering waarna het kiemplantje compleet vergaat.",
+    "en": "Newly emerged seedlings abruptly collapse flat against the compost surface virtually overnight. The basal stem appears pinched, blackened, and water-soaked right at the substrate level."
+  },
+  "treatment": {
+    "nl": "Verwijder omgevallen kiemplantjes direct met omringende aarde om uitbreiding van de schimmelhaard te stoppen. Laat de bovenlaag van het zaaibakje snel opdrogen en verhoog de ventilatie. Verhuis overgebleven zaailingen zo snel mogelijk naar verse, luchtige zaaigrond.",
+    "en": "Scoop out collapsed seedlings alongside their surrounding soil core to check localized fungal spread. Allow the substrate surface to dry out promptly and boost ambient air circulation. Prick out any surviving healthy seedlings immediately into fresh, sterile growing media."
+  },
+  "prevention": {
+    "nl": "Zaai nooit te dicht op elkaar en gebruik uitsluitend verse, schone zaaigrond in ontsmette potten. Zorg voor voldoende groeilicht en vermijd overmatig natte, koude omstandigheden tijdens de kieming.",
+    "en": "Sow seeds thinly and use only fresh, sterile seed-starting compost in scrupulously cleaned trays. Provide abundant light and avoid stagnant, chilled moisture during vulnerable germination stages."
+  },
+  "affects": [
+    "basil",
+    "tomato",
+    "pepper",
+    "lettuce",
+    "cucumber",
+    "spinach",
+    "coriander",
+    "aubergine"
+  ],
+  "sources": [
+    "https://makkelijkemoestuin.nl/kennisbank/valkuilen-en-beginnersfouten-moestuin",
+    "https://groei.nl/moestuin/ziekten-en-plagen"
+  ],
+  "image": null,
+  "verified": false
+}

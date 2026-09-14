@@ -1,0 +1,34 @@
+{
+  "slug": "fruit-cracking",
+  "names": {
+    "nl": "Scheuren en barsten van vruchten",
+    "en": "Fruit cracking"
+  },
+  "kind": "disorder",
+  "parts": [
+    "fruits"
+  ],
+  "symptoms": {
+    "nl": "Diepe concentrische of radiale barsten in de schil rondom de vruchtsteel of aan de zijkant. De open barsten gaan bij vochtig weer gemakkelijk rotten door secundaire schimmelinfecties.",
+    "en": "Deep concentric or radial splits burst open across the skin around the stem or fruit cheeks. Exposed open cracks invite rapid fungal decay and mould if wet weather persists."
+  },
+  "treatment": {
+    "nl": "Oogst gespleten vruchten direct om te consumeren voordat schimmels binnendringen. Breng de watergift direct terug naar een stabiel en gematigd niveau zonder uitschieters. Verwijder beschimmelde barstvruchten om aantasting van gave vruchten te voorkomen.",
+    "en": "Harvest cracked fruits immediately for culinary use before secondary moulds infiltrate the wounds. Normalise watering routines into frequent, moderate doses rather than erratic heavy soakings. Strip away decaying split fruits to protect healthy ripening fruit on the same cluster."
+  },
+  "prevention": {
+    "nl": "Geef potplanten tijdens warme zomers dagelijks consequent gelijkmatig water om snelle zwelling na droogte te voorkomen. Bedek de potgrond met een organische mulchlaag om verdamping tegen te gaan.",
+    "en": "Provide steady, even daily hydration to prevent the internal flesh expanding faster than the skin can stretch. Top dress container compost with straw or wood shavings to slow down surface evaporation."
+  },
+  "affects": [
+    "tomato",
+    "pepper",
+    "chili"
+  ],
+  "sources": [
+    "https://makkelijkemoestuin.nl/kennisbank/tomatenziekte-herkennen-en-ingrijpen",
+    "https://groei.nl/moestuin/ziekten-en-plagen"
+  ],
+  "image": null,
+  "verified": false
+}

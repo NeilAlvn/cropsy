@@ -1,0 +1,43 @@
+{
+  "slug": "cabbage-white-caterpillars",
+  "names": {
+    "nl": "Koolwitje (koolrupsen)",
+    "en": "Cabbage white caterpillars"
+  },
+  "kind": "pest",
+  "parts": [
+    "leaves",
+    "whole"
+  ],
+  "symptoms": {
+    "nl": "Grote happen en gaten in koolbladeren tot enkel het skelet van de bladnerven overblijft. Tussen de bladeren vind je donkergroene uitwerpselen en geelgroene of grijsbehaarde rupsen.",
+    "en": "Rapid skeletonisation of foliage with large ragged holes chewed into the leaf blades. Abundant dark green frass pellets accumulate near leaf joints alongside green or mottled caterpillars."
+  },
+  "treatment": {
+    "nl": "Zoek bladeren dagelijks af en raap rupsen en clusters gele eitjes aan de onderzijde met de hand weg. Zet bij zware plagen een biologisch preparaat in op basis van Bacillus thuringiensis. Verwijder ernstig vervuilde bladeren om schimmelvorming te vermijden.",
+    "en": "Inspect the undersides of leaves daily to crush yellow egg clusters and handpick caterpillars. Apply an organic spray based on Bacillus thuringiensis kurstaki if caterpillar pressure becomes severe. Wash remaining leaves clean of frass to deter secondary rotting."
+  },
+  "prevention": {
+    "nl": "Span direct na het planten fijnmazig insectengaas (maaswijdte 0,8 mm) strak over de potten. Plant aromatische kruiden zoals tijm of rozemarijn nabij om de vlinders op geur te misleiden.",
+    "en": "Drape ultra-fine insect netting (mesh 0.8 mm) securely over container-grown brassicas from planting onward. Interplant strong-smelling herbs like thyme or rosemary to mask brassica scent cues."
+  },
+  "affects": [
+    "broccoli",
+    "brussels-sprouts",
+    "cabbage",
+    "cauliflower",
+    "kale",
+    "kohlrabi",
+    "pointed-cabbage",
+    "red-cabbage",
+    "pak-choi",
+    "radish",
+    "rocket"
+  ],
+  "sources": [
+    "https://www.tuinadvies.nl/artikelen/prei-_wortel_en_koolvlieg",
+    "https://velt.nu/tips-tegen-ziekten-en-plagen"
+  ],
+  "image": null,
+  "verified": false
+}

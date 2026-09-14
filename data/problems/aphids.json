@@ -1,0 +1,42 @@
+{
+  "slug": "aphids",
+  "names": {
+    "nl": "Bladluizen",
+    "en": "Aphids"
+  },
+  "kind": "pest",
+  "parts": [
+    "leaves",
+    "stems",
+    "flowers"
+  ],
+  "symptoms": {
+    "nl": "Gekrulde en misvormde jonge bladtoppen bedekt met kolonies kleine groene, zwarte of grijze insecten. Bladeren worden kleverig door suikerrijke honingdauw waarop later zwarte roetdauwschimmel kan groeien.",
+    "en": "Curled and distorted leaf growth clustered with dense colonies of green, black, or grey sap-sucking insects. Foliage becomes sticky from honeydew secretions, frequently followed by black sooty mould."
+  },
+  "treatment": {
+    "nl": "Spoel lichte kolonies direct af met een gerichte waterstraal van de plantenspuit. Verwijder zwaar bezette scheuttoppen handmatig of spuit met een milde ecologische zeepspiritusoplossing. Zet eventueel larven van gaasvliegen of lieveheersbeestjes uit.",
+    "en": "Rinse initial colonies away with a focused stream of cold water. Prune off heavily congested stem tips or spray foliage with a mild insecticidal soft soap solution. Release native ladybird or lacewing larvae for biological control."
+  },
+  "prevention": {
+    "nl": "Vermijd overmatige stikstofbemesting, want zacht en snelgroeiend weefsel trekt massaal luizen aan. Zaai lokbloemen zoals goudsbloem en schermbloemigen om zweefvliegen en lieveheersbeestjes naar het balkon te lokken.",
+    "en": "Avoid excessive nitrogen fertilisation, as lush and soft tissue invites aphid explosions. Grow nectar-rich flowering companions like calendula and umbellifers to attract hoverflies and ladybirds."
+  },
+  "affects": [
+    "broad-bean",
+    "chili",
+    "pepper",
+    "tomato",
+    "cucumber",
+    "french-bean",
+    "aubergine",
+    "basil",
+    "lettuce"
+  ],
+  "sources": [
+    "https://velt.nu/wat-doe-je-tegen-bladluizen-de-moestuin",
+    "https://makkelijkemoestuin.nl/kennisbank/bestrijden-van-ziektes-plaagdieren"
+  ],
+  "image": null,
+  "verified": false
+}

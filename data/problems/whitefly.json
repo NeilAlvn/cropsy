@@ -1,0 +1,39 @@
+{
+  "slug": "whitefly",
+  "names": {
+    "nl": "Witte vlieg (kassintvlieg)",
+    "en": "Glasshouse whitefly"
+  },
+  "kind": "pest",
+  "parts": [
+    "leaves"
+  ],
+  "symptoms": {
+    "nl": "Wolkjes kleine, witte motachtige vliegjes die opvliegen zodra je de potplant aanraakt. Bladeren verkleuren vlekkerig geel en raken bedekt met plakkerige honingdauw en zwarte roetdauw.",
+    "en": "Clouds of tiny white moth-like insects fly up dramatically whenever foliage is shaken. Leaves develop chlorotic yellow patches, covered by sticky honeydew and black sooty mould."
+  },
+  "treatment": {
+    "nl": "Hang gele vangplaten vlak boven het gewas om volwassen vliegen weg te vangen. Was de onderzijde van de bladeren af met een biologische zachte zeepoplossing tegen eitjes en larven. Zet op een beschut balkon of in een tuinkasje sluipwespen (Encarsia formosa) uit.",
+    "en": "Hang yellow sticky cards directly above the canopy to trap flying adults. Sponge or spray the lower leaf surfaces with mild insecticidal soft soap against larvae. Release parasitic wasps (Encarsia formosa) in enclosed balconies or small greenhouses."
+  },
+  "prevention": {
+    "nl": "Zorg voor een constante tocht of luchtcirculatie rondom potten op het balkon. Inspecteer aangekochte kruiden en groenteplantjes vooraf grondig aan de onderzijde van het blad.",
+    "en": "Ensure consistent airflow across balcony containers to disrupt adult flying habitats. Thoroughly inspect garden-centre transplants before introducing them near other balcony containers."
+  },
+  "affects": [
+    "tomato",
+    "aubergine",
+    "cucumber",
+    "pepper",
+    "chili",
+    "french-bean",
+    "kale",
+    "cabbage"
+  ],
+  "sources": [
+    "https://velt.nu/natuurlijke-vijanden-naar-jouw-tuin-lokken",
+    "https://makkelijkemoestuin.nl/kennisbank/bestrijden-van-ziektes-plaagdieren"
+  ],
+  "image": null,
+  "verified": false
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "leaf-miners",
+  "names": {
+    "nl": "Bladmineerders",
+    "en": "Leaf miners"
+  },
+  "kind": "pest",
+  "parts": [
+    "leaves"
+  ],
+  "symptoms": {
+    "nl": "Kronkelende, witgele gangen of blaasvormige mijnen die kriskras door het bladmoes lopen. Binnenin de gang is tegen het licht vaak een donker stipje of made zichtbaar.",
+    "en": "Winding, whitish translucent serpent-like tunnels or blotches meander across leaf blades. Holding leaves to the light often reveals tiny dark frass specks or feeding larvae inside."
+  },
+  "treatment": {
+    "nl": "Knijp de larve voorzichtig dood in het blad zodra je een verse gang ontdekt. Pluk zwaar ondermijnde bladeren af en gooi ze bij het restafval. Bescherm de plant met koudgeperste neemolie om hernieuwde eiafzet te verstoren.",
+    "en": "Gently crush the tiny feeding larvae inside their tunnels between thumb and finger. Pick off and trash severely infested leaves to halt the life cycle. Spray remaining foliage with botanical neem oil to discourage further egg laying."
+  },
+  "prevention": {
+    "nl": "Dek vatbare gewassen zoals snijbiet en bietjes vroegtijdig af met insectengaas. Hang gele vangplaatjes boven containerplanten om de vliegjes tijdig te signaleren.",
+    "en": "Cover susceptible pot greens like chard and spinach with insect mesh early in spring. Suspend yellow sticky traps near containers to monitor adult fly activity."
+  },
+  "affects": [
+    "beetroot",
+    "swiss-chard",
+    "spinach",
+    "tomato",
+    "celery",
+    "celeriac"
+  ],
+  "sources": [
+    "https://velt.nu/tips-tegen-ziekten-en-plagen",
+    "https://www.tuinadvies.nl/artikelen/bladmineerder_herkennen_en_bestrijden"
+  ],
+  "image": null,
+  "verified": false
+}

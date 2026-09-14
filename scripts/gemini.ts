@@ -19,8 +19,11 @@ export interface Grounded<T> {
 }
 
 /** Ask for a JSON object; returns the parsed object + grounding source URLs. */
+const SEARCH_FIRST = 'Use the Google Search tool before answering and base every fact on what you find in Dutch/Belgian horticultural sources (tuinadvies.nl, velt.nu, groei.nl, makkelijkemoestuin.nl, ivn.nl, wur.nl, seed-house sites). '
+
 export async function askJson<T>(prompt: string): Promise<Grounded<T>> {
   requireKey()
+  prompt = SEARCH_FIRST + prompt
   const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${KEY}`, {
     method: 'POST',
     headers: { 'content-type': 'application/json' },

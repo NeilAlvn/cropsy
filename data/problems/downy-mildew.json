@@ -1,0 +1,38 @@
+{
+  "slug": "downy-mildew",
+  "names": {
+    "nl": "Valse meeldauw",
+    "en": "Downy mildew"
+  },
+  "kind": "disease",
+  "parts": [
+    "leaves"
+  ],
+  "symptoms": {
+    "nl": "Gele of hoekige bleke vlekken op de bovenzijde van het blad, begrensd door de nerven. Aan de onderzijde van de vlekken ontstaat een grijsviolet viltig schimmelpluis dat niet wegveegbaar is.",
+    "en": "Angular yellow to pale lesions develop on the leaf tops, sharply delimited by the veins. A distinct greyish-purple downy fungal growth appears directly underneath on the lower leaf surface."
+  },
+  "treatment": {
+    "nl": "Verwijder aangetaste bladeren direct om verdere sporenverspreiding te stoppen. Zet potten op een open, goed verluchte plek en houd het gewas zo droog mogelijk. Bij ernstige aantasting kan een biologisch koperpreparaat of heermoesaftreksel worden ingezet.",
+    "en": "Strip off infected foliage immediately to halt airborne spore dissemination. Relocate pots to a breezy, sheltered spot to accelerate leaf drying. Treat remaining plants with field horsetail decoction or an approved bio-fungicide if spread continues."
+  },
+  "prevention": {
+    "nl": "Giet altijd direct op de potgrond en nooit over de bladeren. Zorg voor voldoende afstand tussen potten zodat vochtige bladeren na regenval vlot kunnen opdrogen.",
+    "en": "Always irrigate directly at the soil line without wetting leaves. Space containers widely apart so rain moisture evaporates rapidly from the leaf canopy."
+  },
+  "affects": [
+    "lettuce",
+    "spinach",
+    "cucumber",
+    "gherkin",
+    "onion",
+    "lambs-lettuce",
+    "swiss-chard"
+  ],
+  "sources": [
+    "https://makkelijkemoestuin.nl/kennisbank/meeldauw-herkennen-voorkomen-en-bestrijden",
+    "https://www.tuinadvies.nl/artikelen/echte_of_valse_meeldauw_herkennen_en_bestrijden"
+  ],
+  "image": null,
+  "verified": false
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "spider-mites",
+  "names": {
+    "nl": "Spintmijten",
+    "en": "Spider mites"
+  },
+  "kind": "pest",
+  "parts": [
+    "leaves"
+  ],
+  "symptoms": {
+    "nl": "Talloze piepkleine gele of zilverachtige spikkeltjes op de bovenzijde van het blad. Aan de onderzijde en tussen de bladoksels zijn fijne, zijdeachtige webjes en minuscule stipjes zichtbaar.",
+    "en": "Dense stippling of fine pale-yellow dots appears on the upper surface of foliage. Delicate, silken webbing stretches across leaf undersides and shoot axils populated by microscopic mites."
+  },
+  "treatment": {
+    "nl": "Bespuit de onderkant van de bladeren grondig met een mengsel van water en kalizeep of neemolie. Zet natuurlijke roofmijten (zoals Phytoseiulus persimilis) uit voor effectieve biologische bestrijding. Verhoog de luchtvochtigheid tijdelijk door de planten dagelijks licht te benevelen.",
+    "en": "Thoroughly drench the undersides of leaves with potassium soap spray or cold-pressed neem solution. Introduce predatory mites (Phytoseiulus persimilis) to rapidly consume the population. Mist the canopy with water daily to elevate ambient humidity and discourage reproduction."
+  },
+  "prevention": {
+    "nl": "Vermijd hete, kurkdroge standplaatsen vlak tegen zuidermuren zonder toereikende ventilatie. Besproei het blad regelmatig 's ochtends met een fijne waternevel om droogtemijtontwikkeling af te remmen.",
+    "en": "Avoid baking hot, stagnant microclimates against sheltered south-facing brick walls. Regularly mist container plants in the morning to maintain beneficial humidity around foliage."
+  },
+  "affects": [
+    "cucumber",
+    "gherkin",
+    "aubergine",
+    "tomato",
+    "pepper",
+    "chili",
+    "french-bean",
+    "strawberry",
+    "basil"
+  ],
+  "sources": [
+    "https://www.tuinadvies.nl/artikelen/plagen_bij_basilicum",
+    "https://groei.nl/moestuin/ziekten-en-plagen"
+  ],
+  "image": null,
+  "verified": false
+}

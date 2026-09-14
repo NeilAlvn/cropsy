@@ -46,10 +46,10 @@ Use Dutch horticultural sources (Tuinadvies, Groei & Bloei, Velt, Makkelijke Moe
 Return ONLY a JSON array. Each item: {"slug": kebab-case English id, "names": {"nl": "...", "en": "..."},
 "kind": "pest"|"disease"|"disorder", "parts": subset of ["whole","leaves","stems","flowers","fruits","roots"],
 "symptoms": {"nl": 2 sentences, "en": 2 sentences}, "treatment": {"nl": organic-first, 2-3 sentences, "en": same},
-"prevention": {"nl": 1-2 sentences, "en": same}, "affects": array of crop slugs from this list only: ${cropList}}.
+"prevention": {"nl": 1-2 sentences, "en": same}, "affects": array of crop slugs from this list only: ${cropList}, "sources": 1-3 URLs of the Dutch pages you used}.
 Examples to include: slakken, bladluis, meeldauw, neusrot (blossom end rot), witte vlieg, spint, phytophthora, koolwitje.`)
-  for (const p of data) {
-    writeDraft(join(DATA, 'problems', `${p.slug}.json`), { ...p, image: null, sources, verified: false })
+  for (const p of data as (typeof data[number] & { sources?: string[] })[]) {
+    writeDraft(join(DATA, 'problems', `${p.slug}.json`), { ...p, image: null, sources: [...new Set([...(p.sources ?? []), ...sources])], verified: false })
   }
 }
 
@@ -61,8 +61,8 @@ async function varieties(slugs: string[]): Promise<void> {
 List 3 to 4 vegetable/herb VARIETIES of ${crop.names.en} (Dutch: ${crop.names.nl}) that Dutch seed houses actually sell
 (Sluis Garden, Buzzy, Vreeken's Zaden, Bakker, De Bolster, Welkoop, Intratuin). Prefer varieties suited to pots and balconies.
 Return ONLY a JSON array: {"slug": "${slug}-<variety-kebab>", "names": {"nl": "...", "en": "..."},
-"days_to_harvest": {"min": n, "max": n} or null, "container_ok": bool, "suppliers": [names], "traits": ["cherry","bush","early","mildew-resistant",...]}.`)
-    writeDraft(join(DATA, 'varieties', `${slug}.json`), data.map((v) => ({ ...v, crop_slug: slug, sources, verified: false })))
+"days_to_harvest": {"min": n, "max": n} or null, "container_ok": bool, "suppliers": [names], "traits": ["cherry","bush","early","mildew-resistant",...], "sources": [URLs of the supplier pages]}.`)
+    writeDraft(join(DATA, 'varieties', `${slug}.json`), (data as (typeof data[number] & { sources?: string[] })[]).map((v) => ({ ...v, crop_slug: slug, sources: [...new Set([...(v.sources ?? []), ...sources])], verified: false })))
   }
 }
 
@@ -87,13 +87,14 @@ async function editorial(slug: string, lang: 'nl' | 'en'): Promise<void> {
   if (!crop) { console.log(`unknown crop ${slug}`); return }
   const path = join(DATA, 'content', 'crops', `${slug}.${lang}.md`)
   if (existsSync(path) && /^verified:\s*true/m.test(readFileSync(path, 'utf8'))) { console.log(`skip (verified): ${path}`); return }
-  const { data, sources } = await askJson<{ starting: string; seedling: string; vegetative: string; flowering: string; harvest: string; faq: { q: string; a: string }[]; benefits: string }>(`
+  const { data, sources: grounded } = await askJson<{ starting: string; seedling: string; vegetative: string; flowering: string; harvest: string; faq: { q: string; a: string }[]; benefits: string; sources?: string[] }>(`
 Write ${lang === 'nl' ? 'Dutch' : 'English'} growing guidance for ${crop.names.en} (${crop.names.nl}) on a Dutch balcony or small garden,
 container-first, metric, Celsius, using IJsheiligen (11-15 May) as the frost-safe marker. Ground it in Dutch sources
 (Tuinadvies, Groei & Bloei, Velt, Makkelijke Moestuin, IVN). Warm, short sentences, no fluff. Do not repeat numbers we
 already hold as data (spacing ${crop.spacing_cm} cm, depth ${crop.depth_mm ?? '?'} mm, germination ${crop.germination_days ?? '?'} days).
 Return ONLY JSON: {"starting": 80-120 words, "seedling": 60-90, "vegetative": 80-120, "flowering": 60-90, "harvest": 80-120,
-"faq": 8 to 10 items {"q","a" 40-80 words}, "benefits": 60-90 words on kitchen use and nutrition (no health claims)}.`)
+"faq": 8 to 10 items {"q","a" 40-80 words}, "benefits": 60-90 words on kitchen use and nutrition (no health claims), "sources": 2-5 URLs of the Dutch pages you used}.`)
+  const sources = [...new Set([...(data.sources ?? []), ...grounded])]
   const md = `---
 crop: ${slug}
 lang: ${lang}
@@ -131,7 +132,7 @@ async function prices(): Promise<void> {
   const { data, sources } = await askJson<Price[]>(`
 Average 2025/2026 Dutch supermarket price (Albert Heijn / Jumbo, regular, not organic) for each crop as harvested:
 ${cropList}. Use €/kg for things sold by weight, €/piece ("pcs") for lettuce heads, courgettes, cucumbers, pumpkins, herbs (per bunch/pot).
-Return ONLY a JSON array: {"crop_slug": slug, "eur": number, "unit": "kg"|"pcs"}.`)
+Return ONLY a JSON array: {"crop_slug": slug, "eur": number, "unit": "kg"|"pcs", "source": URL of the shop page}.`)
   const path = join(DATA, 'content', 'prices.json')
   writeFileSync(path, JSON.stringify(data, null, 2) + '\n')
   console.log(`draft: ${path} (${data.length} rows) — sources: ${sources.join(' ')}`)

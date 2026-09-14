@@ -1,0 +1,41 @@
+{
+  "slug": "bolting",
+  "names": {
+    "nl": "Doorschieten",
+    "en": "Bolting (premature flowering)"
+  },
+  "kind": "disorder",
+  "parts": [
+    "stems",
+    "flowers",
+    "whole"
+  ],
+  "symptoms": {
+    "nl": "De plant schiet plotseling omhoog in een langgerekte bloemstengel ten koste van de bladvorming. Bladeren worden taai, bitter van smaak en verliezen hun knapperige consumptiewaarde.",
+    "en": "Plants stretch rapidly upward into tall flowering spikes instead of developing leafy crowns. Leaves become tough, leathery, and intensely bitter, ruining their culinary eating quality."
+  },
+  "treatment": {
+    "nl": "Knip de beginnende bloemknop direct weg om het doorschietproces kortstondig te vertragen. Oogst het resterende blad direct op voor consumptie voordat bitterheid de overhand krijgt. Zaai na het rooien van de plant direct een nieuw vakje in met een schiettolerant ras.",
+    "en": "Pinch out emerging flower buds immediately to extend leaf production for a few extra days. Harvest all remaining foliage straight away before bitter compounds build up completely. Clear the container space and resow with a bolt-resistant summer variety."
+  },
+  "prevention": {
+    "nl": "Zet potten tijdens zomerse hittegolven in de halfschaduw en voorkom wortelstress door tijdig water te geven. Kies voor teelt in hartje zomer uitsluitend rassen met een hoge schietresistentie.",
+    "en": "Move container salads into partial afternoon shade during heat spells and maintain steady soil moisture. Choose bolt-resistant cultivars specifically bred for long-day summer conditions."
+  },
+  "affects": [
+    "lettuce",
+    "spinach",
+    "rocket",
+    "coriander",
+    "pak-choi",
+    "radish",
+    "dill",
+    "fennel"
+  ],
+  "sources": [
+    "https://makkelijkemoestuin.nl/kennisbank/valkuilen-en-beginnersfouten-moestuin",
+    "https://groei.nl/moestuin/ziekten-en-plagen"
+  ],
+  "image": null,
+  "verified": false
+}

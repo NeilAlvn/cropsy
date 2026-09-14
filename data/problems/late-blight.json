@@ -1,0 +1,37 @@
+{
+  "slug": "late-blight",
+  "names": {
+    "nl": "Aardappelziekte (Phytophthora)",
+    "en": "Late blight (Phytophthora)"
+  },
+  "kind": "disease",
+  "parts": [
+    "leaves",
+    "stems",
+    "fruits",
+    "whole"
+  ],
+  "symptoms": {
+    "nl": "Grauwe, waterige olijfbruine vlekken op het blad die razendsnel verdorren en zwart worden. Op stengels ontstaan donkere strepen en vruchten krijgen harde, roodbruine, bobbelige rotte plekken.",
+    "en": "Water-soaked brownish lesions erupt on leaves, rapidly turning dry, papery, and black. Stems develop dark greasy blotches, while fruits develop firm, marbled brown rotting spots."
+  },
+  "treatment": {
+    "nl": "Knip aangetaste stengels en bladeren bij de eerste symptomen rigoureus weg met een ontsmette snoeischaar. Ruim plantenresten op via de grijze container en beslist niet op de composthoop. Bij vergevorderde aantasting moet de gehele plant worden verwijderd om buurgewassen te redden.",
+    "en": "Prune out symptomatic leaves and shoots immediately using sterilised shears. Discard infected debris in household refuse rather than home compost heaps. Uproot heavily infected plants entirely to protect neighbouring nightshade crops."
+  },
+  "prevention": {
+    "nl": "Zet potten altijd onder een afdak of balkonoverkapping zodat regen de bladeren niet kan bevochtigen. Kies voor buitenkweek bij voorkeur bewezen Phytophthora-resistente rassen.",
+    "en": "Place container tomatoes under rain covers or balcony eaves to ensure foliage stays bone dry. Prioritise planting modern tomato cultivars with verified genetic resistance to late blight."
+  },
+  "affects": [
+    "tomato",
+    "potato",
+    "aubergine"
+  ],
+  "sources": [
+    "https://makkelijkemoestuin.nl/kennisbank/tomatenziekte-herkennen-en-ingrijpen",
+    "https://groei.nl/moestuin/ziekten-en-plagen"
+  ],
+  "image": null,
+  "verified": false
+}

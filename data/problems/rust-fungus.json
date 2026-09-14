@@ -1,0 +1,42 @@
+{
+  "slug": "rust-fungus",
+  "names": {
+    "nl": "Roestschimmel",
+    "en": "Rust fungus"
+  },
+  "kind": "disease",
+  "parts": [
+    "leaves",
+    "stems"
+  ],
+  "symptoms": {
+    "nl": "Kleine, opvallende oranje, roodbruine of gele wratachtige sporenkussentjes op de onderkant van het blad. Bladeren vergelen vroegtijdig rondom de sporenhoopjes en sterven bij ernstige aantasting af.",
+    "en": "Raised, powdery pustules coloured vivid orange, rust-red, or yellow erupt across leaf undersides. Foliage yellows prematurely around the pustules, eventually drying up and withering away."
+  },
+  "treatment": {
+    "nl": "Pluk aangetaste bladeren direct af en gooi ze weg met het huishoudelijk restafval. Ontsmet de snoeischaar na elke knip met alcohol om sporenoverdracht te verhinderen. Besproei het gewas preventief met heermoesgier of zwavel om verdere kieming te stoppen.",
+    "en": "Strip off infected foliage right away and seal it inside household waste bags. Disinfect snips with rubbing alcohol between cuts to avoid spreading fungal spores. Mist clean leaves with horsetail tea or wettable sulphur to suppress germination."
+  },
+  "prevention": {
+    "nl": "Geef bonen en lookgewassen geen overmaat aan stikstofrijke meststoffen. Zorg voor een ruime standplaats in potten zodat loof na regen snel kan opdrogen in de wind.",
+    "en": "Avoid excessive high-nitrogen feeding which creates tender foliage vulnerable to fungal spores. Ensure containers stand in well-ventilated locations with ample space between individual pots."
+  },
+  "affects": [
+    "leek",
+    "onion",
+    "garlic",
+    "shallot",
+    "chives",
+    "spring-onion",
+    "french-bean",
+    "runner-bean",
+    "broad-bean",
+    "mint"
+  ],
+  "sources": [
+    "https://makkelijkemoestuin.nl/kennisbank/snijbonen-alweer-ziek",
+    "https://www.tuinadvies.nl/artikelen/roestschimmel_herkennen_en_bestrijden"
+  ],
+  "image": null,
+  "verified": false
+}

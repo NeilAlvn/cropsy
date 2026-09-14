@@ -1,0 +1,42 @@
+{
+  "slug": "waterlogging-and-root-rot",
+  "names": {
+    "nl": "Wortelrot door wateroverlast",
+    "en": "Waterlogging and root rot"
+  },
+  "kind": "disorder",
+  "parts": [
+    "roots",
+    "leaves",
+    "whole"
+  ],
+  "symptoms": {
+    "nl": "Bladeren vergelen en hangen slap omlaag ondanks dat de potgrond kletsnat aanvoelt. De wortels verkleuren donkerbruin tot zwart, stinken muf en vallen bij aanraking papperig uit elkaar.",
+    "en": "Foliage turns chlorotic yellow and wilts limply despite the potting compost being completely waterlogged. Roots darken from creamy-white into slimy brown or black, emitting an unpleasant sour odor."
+  },
+  "treatment": {
+    "nl": "Haal de plant voorzichtig uit de pot en knip rotte, zwarte wortels weg met een schone schaar. Verpot het gewas in verse, luchtige potgrond en controleer of de drainagegaten goed open zijn. Geef de eerste dagen geen water totdat de aarde weer handvochtig aanvoelt.",
+    "en": "Gently lift the root ball out and prune away all blackened, mushy roots using sterile shears. Repot immediately into fresh, porous compost, ensuring drainage holes remain unobstructed. Withhold water for several days until the new medium has partially dried."
+  },
+  "prevention": {
+    "nl": "Gebruik altijd potten met ruime afwateringsgaten en giet overtollig water in onderschotels binnen een halfuur weg. Meng perliet of grof zand door de potgrond om een luchtige structuur te waarborgen.",
+    "en": "Always plant containers with adequate drainage holes and empty standing water out of saucers within thirty minutes. Incorporate perlite or coarse grit into compost to maintain continuous root aeration."
+  },
+  "affects": [
+    "basil",
+    "rosemary",
+    "thyme",
+    "oregano",
+    "sage",
+    "pepper",
+    "chili",
+    "tomato",
+    "strawberry"
+  ],
+  "sources": [
+    "https://makkelijkemoestuin.nl/kennisbank/waarom-worden-mijn-planten-geel",
+    "https://groei.nl/moestuin/ziekten-en-plagen"
+  ],
+  "image": null,
+  "verified": false
+}

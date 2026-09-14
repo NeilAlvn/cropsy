@@ -1,0 +1,38 @@
+{
+  "slug": "leek-moth",
+  "names": {
+    "nl": "Preimot",
+    "en": "Leek moth"
+  },
+  "kind": "pest",
+  "parts": [
+    "leaves",
+    "stems"
+  ],
+  "symptoms": {
+    "nl": "Lange, witgrijze venstertjes en gangen in het blad waar het bladgroen is weggeschraapt. Later ontstaan rafelige gaten en rot in de hartbladeren door vretende geelgroene rupsjes.",
+    "en": "Translucent whitish 'windowpanes' and mined stripes appear along the length of foliage. Inner central leaves subsequently turn shredded, ragged, and rotten from boring caterpillar feeding."
+  },
+  "treatment": {
+    "nl": "Knip aangetast blad weg tot onder de vraatplekken zodat het hart opnieuw kan uitgroeien. Druk aanwezige rupsjes en popjes in de bladscheden handmatig fijn. Spuit bij hardnekkige aantasting met een biologisch Bacillus thuringiensis-middel.",
+    "en": "Trim shredded foliage down below the feeding damage so clean heart shoots can regenerate. Manually crush any visible larvae or pupae tucked between the folded leaf bases. Apply Bacillus thuringiensis if caterpillar tunneling threatens the central stem."
+  },
+  "prevention": {
+    "nl": "Kweek prei en uien in potten altijd onder insectengaas vanaf het vroege voorjaar tot de late herfst. Vermijd verlichting dicht bij het balkon die de nachtactieve motjes aantrekt.",
+    "en": "Grow container alliums under fine insect netting throughout their entire spring-to-autumn cycle. Avoid bright balcony night lighting that lures nocturnal adult moths directly onto plants."
+  },
+  "affects": [
+    "leek",
+    "onion",
+    "garlic",
+    "shallot",
+    "chives",
+    "spring-onion"
+  ],
+  "sources": [
+    "https://www.tuinadvies.nl/artikelen/prei-_wortel_en_koolvlieg",
+    "https://velt.nu/tips-tegen-ziekten-en-plagen"
+  ],
+  "image": null,
+  "verified": false
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "cabbage-root-fly",
+  "names": {
+    "nl": "Koolvlieg",
+    "en": "Cabbage root fly"
+  },
+  "kind": "pest",
+  "parts": [
+    "roots",
+    "stems",
+    "whole"
+  ],
+  "symptoms": {
+    "nl": "Koolplanten blijven achter in groei en het blad krijgt een doffe, blauwachtige loodglans. De plant verwelkt op zonnige dagen en laat zich moeiteloos uit de pot trekken doordat wortels zijn afgevreten.",
+    "en": "Young brassicas stall in development and display a distinctive dull, leaden-blue hue on leaves. Plants wilt on sunny afternoons and pull up effortlessly because white maggots devour the taproot."
+  },
+  "treatment": {
+    "nl": "Trek onherstelbaar verwelkte koolplanten uit en vernietig de maden in de wortelhals. Giet overgebleven planten aan met parasitaire aaltjes (Steinernema feltiae of carpocapsae). Aard de overlevende stengels extra aan met compost zodat ze reservestamwortels kunnen vormen.",
+    "en": "Uproot irreversibly wilted plants and destroy all white maggots found around the root base. Drench the surrounding soil of adjacent plants with beneficial predatory nematodes. Mound fresh compost up the surviving stems to stimulate the growth of emergency adventitious roots."
+  },
+  "prevention": {
+    "nl": "Plaats direct bij het uitplanten een stevige koolkraag van rubber of karton strak om de stengelbasis. Dek potkolen van april tot september af met fijnmazig insectengaas tegen eiafzet.",
+    "en": "Fit tight-fitting cabbage collars made of cardboard or felt around the base of stems at planting. Keep potted brassicas covered with fine insect mesh from spring through autumn to block egg-laying."
+  },
+  "affects": [
+    "broccoli",
+    "brussels-sprouts",
+    "cabbage",
+    "cauliflower",
+    "kohlrabi",
+    "radish",
+    "turnip",
+    "pointed-cabbage",
+    "red-cabbage"
+  ],
+  "sources": [
+    "https://www.tuinadvies.nl/artikelen/prei-_wortel_en_koolvlieg",
+    "https://velt.nu/tips-tegen-ziekten-en-plagen"
+  ],
+  "image": null,
+  "verified": false
+}

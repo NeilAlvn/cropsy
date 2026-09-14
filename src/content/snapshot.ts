@@ -29,6 +29,8 @@ export interface Price {
   /** €/kg or €/piece, NL supermarket average. */
   eur: number
   unit: 'kg' | 'pcs'
+  /** Shop page the estimate came from; review aid, shipped as-is. */
+  source?: string
 }
 
 export interface ContentData {

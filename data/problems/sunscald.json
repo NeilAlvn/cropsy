@@ -1,0 +1,36 @@
+{
+  "slug": "sunscald",
+  "names": {
+    "nl": "Zonnebrand",
+    "en": "Sunscald"
+  },
+  "kind": "disorder",
+  "parts": [
+    "leaves",
+    "fruits"
+  ],
+  "symptoms": {
+    "nl": "Bleke, perkamentachtige witte of geelbruine verbrande plekken op bladeren en direct aan zon blootgestelde vruchten. Het beschadigde vruchtweefsel zakt in, droogt perkamentachtig op en voelt papierachtig dun aan.",
+    "en": "Bleached, papery white or light-tan scald patches develop on leaves and sun-exposed fruit shoulders. The affected fruit skin sinks inward, turning papery thin and dry to the touch."
+  },
+  "treatment": {
+    "nl": "Scherm de potplanten tijdens hittegolven af met een schaduwdoek of parasol op het heetst van de dag. Laat verbrand blad voorlopig zitten als bescherming tegen verdere zonneschade aan onderliggende vruchten. Verwijder vruchten pas als ze zacht worden en gaan rotten.",
+    "en": "Shield containers with temporary shade cloth or an umbrella during the blazing midday hours of heatwaves. Leave partially scorched leaves in place temporarily to shade underlying fruits. Only excise damaged fruits if rot sets in."
+  },
+  "prevention": {
+    "nl": "Laat bij zomersnoei (zoals dieven) voldoende bladscherm intact bovenop de vruchttrossen. Laat potplanten die binnen zijn opgekweekt geleidelijk afharden in gefilterd zonlicht.",
+    "en": "Preserve an adequate protective leaf canopy above fruit clusters when pruning or pinching shoots. Harden off tender indoor seedlings gradually in filtered light before putting them under intense sun."
+  },
+  "affects": [
+    "tomato",
+    "pepper",
+    "chili",
+    "aubergine"
+  ],
+  "sources": [
+    "https://makkelijkemoestuin.nl/kennisbank/waarom-worden-mijn-planten-geel",
+    "https://www.tuinadvies.nl/artikelen/echte_of_valse_meeldauw_herkennen_en_bestrijden"
+  ],
+  "image": null,
+  "verified": false
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "blossom-end-rot",
+  "names": {
+    "nl": "Neusrot",
+    "en": "Blossom end rot"
+  },
+  "kind": "disorder",
+  "parts": [
+    "fruits"
+  ],
+  "symptoms": {
+    "nl": "Een ingezonken, waterige plek aan het uiteinde (de neus) van de vrucht tegenover de steel. Deze plek verhardt snel tot een leerachtige, donkerbruine of gitzwarte vlek.",
+    "en": "A sunken, water-soaked lesion forms at the blossom end of developing fruit. The damaged patch rapidly darkens and turns into a flat, leathery black patch."
+  },
+  "treatment": {
+    "nl": "Pluk en composteer aangetaste vruchten, want deze kunnen niet meer herstellen. Breng de vochthuishouding in de pot onmiddellijk in balans door regelmatig en gelijkmatig water te geven. Voeg eventueel vloeibare zeewierkalk of calcium toe als de potgrond is uitgeloogd.",
+    "en": "Pick off and compost damaged fruits immediately so the plant diverts energy to new growth. Stabilise soil moisture by establishing an even, daily watering schedule for containers. Supplement depleted potting substrate with a gentle calcium or seaweed amendment."
+  },
+  "prevention": {
+    "nl": "Voorkom sterke schommelingen tussen uitdroging en kletsnatte potgrond tijdens de vruchtzetting. Gebruik grote potten van minimaal 10 tot 15 liter met een vochtregulerende mulchlaag.",
+    "en": "Prevent abrupt wet-to-dry moisture fluctuations that block calcium uptake by roots. Plant heavy fruiting vegetables in large pots (minimum 10-15 litres) and mulch the surface."
+  },
+  "affects": [
+    "tomato",
+    "pepper",
+    "chili",
+    "aubergine",
+    "courgette"
+  ],
+  "sources": [
+    "https://makkelijkemoestuin.nl/kennisbank/neusrot-bij-tomaten-oorzaak-en-voorkomen",
+    "https://www.tuinadvies.nl/artikelen/prei-_wortel_en_koolvlieg"
+  ],
+  "image": null,
+  "verified": false
+}

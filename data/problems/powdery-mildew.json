@@ -1,0 +1,41 @@
+{
+  "slug": "powdery-mildew",
+  "names": {
+    "nl": "Echte meeldauw (witziekte)",
+    "en": "Powdery mildew"
+  },
+  "kind": "disease",
+  "parts": [
+    "leaves",
+    "stems"
+  ],
+  "symptoms": {
+    "nl": "Een wit, poederachtig schimmelpluis dat oppervlakkig op de bovenkant van het blad en op stengels ligt. Aangetaste bladeren vergelen geleidelijk, verdrogen langs de randen en sterven vroegtijdig af.",
+    "en": "A talcum-like white fungal coating spreads across the upper leaf surfaces and succulent stems. Affected leaves turn yellow, curl dryly at the margins, and wither prematurely."
+  },
+  "treatment": {
+    "nl": "Knip de ergst besmette bladeren onmiddellijk af en voer ze af via het restafval. Behandel de resterende plant met een spray van biologische melk verdund met water (verhouding 1 op 9) of kaliumbicarbonaat. Herhaal deze bespuiting na elke regenbui bij warm, droog weer.",
+    "en": "Prune out heavily infected foliage promptly and dispose of it in municipal waste. Spray the plant with a mixture of organic milk and water (1:9 ratio) or potassium bicarbonate. Reapply weekly during warm, dry spells to inhibit fungal proliferation."
+  },
+  "prevention": {
+    "nl": "Zorg voor ruime plantafstanden in potten zodat wind vrij tussen de stengels door kan waaien. Voorkom uitdroging van de potkluit, want droogtestress maakt vruchtgewassen extra vatbaar.",
+    "en": "Ensure generous container spacing to facilitate constant air movement through the canopy. Never let container potting soil completely dry out, as moisture stress triggers susceptibility."
+  },
+  "affects": [
+    "courgette",
+    "cucumber",
+    "pumpkin",
+    "winter-squash",
+    "melon",
+    "gherkin",
+    "strawberry",
+    "pea",
+    "mint"
+  ],
+  "sources": [
+    "https://makkelijkemoestuin.nl/kennisbank/meeldauw-herkennen-voorkomen-en-bestrijden",
+    "https://www.tuinadvies.nl/artikelen/echte_of_valse_meeldauw_herkennen_en_bestrijden"
+  ],
+  "image": null,
+  "verified": false
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "grey-mould",
+  "names": {
+    "nl": "Grauwe schimmel (Botrytis)",
+    "en": "Grey mould (Botrytis)"
+  },
+  "kind": "disease",
+  "parts": [
+    "leaves",
+    "stems",
+    "flowers",
+    "fruits"
+  ],
+  "symptoms": {
+    "nl": "Zachte, bruine rotte plekken op stengels, vruchten en bloemen die snel overdekt raken met een grijs, pluizig schimmeltapijt. Bij aanraking van het aangetaste weefsel stuift er een wolk van schimmelsporen op.",
+    "en": "Soft, brown watery rot spreads across stems, blooms, and ripening fruits, quickly smothered in fuzzy grey fungal fuzz. Disturbing the affected tissue releases dense clouds of powdery grey fungal spores."
+  },
+  "treatment": {
+    "nl": "Knip rottende vruchten en aangetast weefsel voorzichtig weg tot in het gezonde plantendeel. Zet de pot op een zonnigere, winderige plek om het microklimaat direct op te drogen. Zorg dat de plant bij het snoeien zo min mogelijk wordt beschadigd.",
+    "en": "Prune out diseased fruits and collapsing plant tissue cleanly back into healthy green wood. Relocate the pot immediately into an airy, sun-drenched location to desiccate surface dampness. Disinfect pruning blades between cuts to avoid transmitting fungal spores."
+  },
+  "prevention": {
+    "nl": "Geef water strikt aan de wortels en voorkom dat bloemen en rijpende vruchten langdurig nat blijven. Dun dicht bladerdek uit zodat potgewassen na regenval snel kunnen ventileren.",
+    "en": "Water strictly into the potting soil, keeping developing fruits and delicate flower petals dry. Thin crowded container foliage periodically to maintain brisk, drying airflow through stems."
+  },
+  "affects": [
+    "strawberry",
+    "tomato",
+    "cucumber",
+    "lettuce",
+    "french-bean",
+    "aubergine",
+    "pepper"
+  ],
+  "sources": [
+    "https://www.tuinadvies.nl/artikelen/grauwe_schimmel_botrytis",
+    "https://groei.nl/moestuin/ziekten-en-plagen"
+  ],
+  "image": null,
+  "verified": false
+}

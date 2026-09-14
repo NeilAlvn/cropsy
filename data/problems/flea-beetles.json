@@ -1,0 +1,39 @@
+{
+  "slug": "flea-beetles",
+  "names": {
+    "nl": "Aardvlooien",
+    "en": "Flea beetles"
+  },
+  "kind": "pest",
+  "parts": [
+    "leaves"
+  ],
+  "symptoms": {
+    "nl": "Honderden kleine, ronde gaatjes in malse bladeren waardoor het loof eruitziet als een zeef. Bij aanraking springen de kleine zwarte of gestreepte kevertjes razendsnel weg.",
+    "en": "Foliage looks peppered like a sieve with dozens of tiny, round shot-holes. Tiny black or bronze beetles spring away vigorously like fleas when leaves are brushed."
+  },
+  "treatment": {
+    "nl": "Houd de aarde en bladeren vochtig door herhaaldelijk te broezen, want aardvlooien mijden vocht. Bestuif het loof lichtjes met lava- of gesteentemeel om het blad onaantrekkelijk te maken. Behandel bij extreme schade met een biologisch pyrethrum- of zeepmiddel.",
+    "en": "Keep potting soil and leaves consistently moist with frequent misting, as flea beetles hate dampness. Dust the leaves lightly with fine rock flour or wood ash to deter feeding. Apply an approved organic pyrethrum or horticultural soap if defoliation turns catastrophic."
+  },
+  "prevention": {
+    "nl": "Dek jonge potgewassen direct na zaai of plant af met fijnmazig insectengaas. Zorg dat de potgrond in de lente en vroege zomer nooit volledig opdroogt en korst.",
+    "en": "Cover vulnerable seedlings with fine insect barrier netting immediately after germination. Keep the container soil evenly moist, preventing the dry, warm crust flea beetles prefer."
+  },
+  "affects": [
+    "rocket",
+    "radish",
+    "pak-choi",
+    "turnip",
+    "swede",
+    "kale",
+    "cabbage",
+    "kohlrabi"
+  ],
+  "sources": [
+    "https://velt.nu/tips-tegen-ziekten-en-plagen",
+    "https://www.tuinadvies.nl/artikelen/aardvlooien_bestrijden"
+  ],
+  "image": null,
+  "verified": false
+}
