@@ -1,0 +1,168 @@
+[
+  {
+    "slug": "spinach-renegade-f1",
+    "names": {
+      "nl": "Spinazie 'Renegade F1'",
+      "en": "Spinach 'Renegade F1'"
+    },
+    "days_to_harvest": {
+      "min": 28,
+      "max": 42
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "hybrid",
+      "compact",
+      "mildew-resistant",
+      "slow-bolting",
+      "baby-leaf",
+      "cut-and-come-again"
+    ],
+    "crop_slug": "spinach",
+    "sources": [
+      "https://www.bolster.eu/spinach/c1772",
+      "https://www.bolster.nl/spinazie-renegade-f1-spinacia-oleracea/p10765",
+      "https://www.bolster.nl/herfstgroenten-oogsten/t23661",
+      "https://www.bolster.nl/spinazie-oogsten/t22515",
+      "https://www.welkoop.nl/hortitops-spinazie-spinacia-oleracea-nores-15-gram-spinazie-15gram_1190062",
+      "https://www.intratuin.nl/horti-tops-groentezaad-spinazie-spinacia-oleracea-nores.html",
+      "https://dezaden.nl/product/buzzy-spinazie-zaden-nores/",
+      "https://www.gardenseeds.nl/product/spinazie-nores/",
+      "https://www.intratuin.nl/intratuin-groentezaad-spinazie-rond-zaad-spinacia-oleracea-nores.html",
+      "https://www.vreeken.nl/290300-wilde-spinazie-bloomsdale-riccio-america",
+      "https://www.vreeken.nl/zaden/groenten-fruit/spinazie/p1-2",
+      "https://www.sluisgarden.com/producten/cat/spinach/",
+      "https://www.gardenseeds.nl/product/spinazie-columbia-f1/",
+      "https://www.pokon.nl/tips/spinazie-in-pot-kweken/",
+      "https://www.pestik.cz/nl/a/verse-spinazie-uit-de-tuin"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "spinach-nores",
+    "names": {
+      "nl": "Spinazie 'Nores'",
+      "en": "Spinach 'Nores'"
+    },
+    "days_to_harvest": {
+      "min": 28,
+      "max": 45
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop",
+      "Hortitops",
+      "Intratuin"
+    ],
+    "traits": [
+      "round-seeded",
+      "summer-type",
+      "slow-bolting",
+      "mildew-resistant"
+    ],
+    "crop_slug": "spinach",
+    "sources": [
+      "https://www.bolster.eu/spinach/c1772",
+      "https://www.bolster.nl/spinazie-renegade-f1-spinacia-oleracea/p10765",
+      "https://www.bolster.nl/herfstgroenten-oogsten/t23661",
+      "https://www.bolster.nl/spinazie-oogsten/t22515",
+      "https://www.welkoop.nl/hortitops-spinazie-spinacia-oleracea-nores-15-gram-spinazie-15gram_1190062",
+      "https://www.intratuin.nl/horti-tops-groentezaad-spinazie-spinacia-oleracea-nores.html",
+      "https://dezaden.nl/product/buzzy-spinazie-zaden-nores/",
+      "https://www.gardenseeds.nl/product/spinazie-nores/",
+      "https://www.intratuin.nl/intratuin-groentezaad-spinazie-rond-zaad-spinacia-oleracea-nores.html",
+      "https://www.vreeken.nl/290300-wilde-spinazie-bloomsdale-riccio-america",
+      "https://www.vreeken.nl/zaden/groenten-fruit/spinazie/p1-2",
+      "https://www.sluisgarden.com/producten/cat/spinach/",
+      "https://www.gardenseeds.nl/product/spinazie-columbia-f1/",
+      "https://www.pokon.nl/tips/spinazie-in-pot-kweken/",
+      "https://www.pestik.cz/nl/a/verse-spinazie-uit-de-tuin"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "spinach-bloomsdale",
+    "names": {
+      "nl": "Wilde Spinazie 'Bloomsdale' / '(Riccio) America'",
+      "en": "Wild Spinach 'Bloomsdale' / '(Riccio) America'"
+    },
+    "days_to_harvest": {
+      "min": 35,
+      "max": 50
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "heirloom",
+      "savoyed",
+      "cold-tolerant",
+      "slow-growing"
+    ],
+    "crop_slug": "spinach",
+    "sources": [
+      "https://www.bolster.eu/spinach/c1772",
+      "https://www.bolster.nl/spinazie-renegade-f1-spinacia-oleracea/p10765",
+      "https://www.bolster.nl/herfstgroenten-oogsten/t23661",
+      "https://www.bolster.nl/spinazie-oogsten/t22515",
+      "https://www.welkoop.nl/hortitops-spinazie-spinacia-oleracea-nores-15-gram-spinazie-15gram_1190062",
+      "https://www.intratuin.nl/horti-tops-groentezaad-spinazie-spinacia-oleracea-nores.html",
+      "https://dezaden.nl/product/buzzy-spinazie-zaden-nores/",
+      "https://www.gardenseeds.nl/product/spinazie-nores/",
+      "https://www.intratuin.nl/intratuin-groentezaad-spinazie-rond-zaad-spinacia-oleracea-nores.html",
+      "https://www.vreeken.nl/290300-wilde-spinazie-bloomsdale-riccio-america",
+      "https://www.vreeken.nl/zaden/groenten-fruit/spinazie/p1-2",
+      "https://www.sluisgarden.com/producten/cat/spinach/",
+      "https://www.gardenseeds.nl/product/spinazie-columbia-f1/",
+      "https://www.pokon.nl/tips/spinazie-in-pot-kweken/",
+      "https://www.pestik.cz/nl/a/verse-spinazie-uit-de-tuin"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "spinach-columbia-f1",
+    "names": {
+      "nl": "Spinazie 'Columbia F1'",
+      "en": "Spinach 'Columbia F1'"
+    },
+    "days_to_harvest": {
+      "min": 30,
+      "max": 42
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden",
+      "Gardenseeds.nl"
+    ],
+    "traits": [
+      "hybrid",
+      "fast-growing",
+      "early",
+      "upright",
+      "mildew-resistant"
+    ],
+    "crop_slug": "spinach",
+    "sources": [
+      "https://www.bolster.eu/spinach/c1772",
+      "https://www.bolster.nl/spinazie-renegade-f1-spinacia-oleracea/p10765",
+      "https://www.bolster.nl/herfstgroenten-oogsten/t23661",
+      "https://www.bolster.nl/spinazie-oogsten/t22515",
+      "https://www.welkoop.nl/hortitops-spinazie-spinacia-oleracea-nores-15-gram-spinazie-15gram_1190062",
+      "https://www.intratuin.nl/horti-tops-groentezaad-spinazie-spinacia-oleracea-nores.html",
+      "https://dezaden.nl/product/buzzy-spinazie-zaden-nores/",
+      "https://www.gardenseeds.nl/product/spinazie-nores/",
+      "https://www.intratuin.nl/intratuin-groentezaad-spinazie-rond-zaad-spinacia-oleracea-nores.html",
+      "https://www.vreeken.nl/290300-wilde-spinazie-bloomsdale-riccio-america",
+      "https://www.vreeken.nl/zaden/groenten-fruit/spinazie/p1-2",
+      "https://www.sluisgarden.com/producten/cat/spinach/",
+      "https://www.gardenseeds.nl/product/spinazie-columbia-f1/",
+      "https://www.pokon.nl/tips/spinazie-in-pot-kweken/",
+      "https://www.pestik.cz/nl/a/verse-spinazie-uit-de-tuin"
+    ],
+    "verified": false
+  }
+]

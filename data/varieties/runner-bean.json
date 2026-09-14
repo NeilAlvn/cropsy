@@ -1,0 +1,154 @@
+[
+  {
+    "slug": "runner-bean-hestia",
+    "names": {
+      "nl": "Pronkboon (Stam) 'Hestia'",
+      "en": "Bush Runner Bean 'Hestia'"
+    },
+    "days_to_harvest": {
+      "min": 65,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden",
+      "Zaadhandel Van der Wal"
+    ],
+    "traits": [
+      "bush",
+      "dwarf",
+      "stringless",
+      "wind-tolerant",
+      "ornamental",
+      "bicolour-flowers"
+    ],
+    "crop_slug": "runner-bean",
+    "sources": [
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/bonen-peulvruchten-spinazie/pronkbonen/stampronker-hestia",
+      "https://www.zaadhandelvanderwal.nl/download/41",
+      "https://www.vreeken.nl/zoeken/pronkbonen/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/bonen/p2-25",
+      "https://www.vreeken.nl/042600-pronkbonen-stam-hestia",
+      "https://www.vreeken.nl/041565-pronkbonen-stam-jackpot-queen-hearts",
+      "https://www.vreeken.nl/041570-pronkbonen-stam-jackpot-solitaire",
+      "https://www.vreeken.nl/zaden/groenten-fruit/bonen/p1-50",
+      "https://www.vreeken.nl/042500-pronkbonen-stam-pickwick-hammonds-dwarf-scarlet",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/peulvruchten",
+      "https://nl-nl.bakker.com/products/sperzieboon-altona"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "runner-bean-jackpot-queen-of-hearts",
+    "names": {
+      "nl": "Pronkboon (Stam) 'Jackpot Queen of Hearts'",
+      "en": "Compact Bush Runner Bean 'Jackpot Queen of Hearts'"
+    },
+    "days_to_harvest": {
+      "min": 65,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "bush",
+      "compact",
+      "early-to-mid-season",
+      "stringless",
+      "scarlet-red-flowers"
+    ],
+    "crop_slug": "runner-bean",
+    "sources": [
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/bonen-peulvruchten-spinazie/pronkbonen/stampronker-hestia",
+      "https://www.zaadhandelvanderwal.nl/download/41",
+      "https://www.vreeken.nl/zoeken/pronkbonen/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/bonen/p2-25",
+      "https://www.vreeken.nl/042600-pronkbonen-stam-hestia",
+      "https://www.vreeken.nl/041565-pronkbonen-stam-jackpot-queen-hearts",
+      "https://www.vreeken.nl/041570-pronkbonen-stam-jackpot-solitaire",
+      "https://www.vreeken.nl/zaden/groenten-fruit/bonen/p1-50",
+      "https://www.vreeken.nl/042500-pronkbonen-stam-pickwick-hammonds-dwarf-scarlet",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/peulvruchten",
+      "https://nl-nl.bakker.com/products/sperzieboon-altona"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "runner-bean-jackpot-solitaire",
+    "names": {
+      "nl": "Pronkboon (Stam) 'Jackpot Solitaire'",
+      "en": "Compact Dwarf Runner Bean 'Jackpot Solitaire'"
+    },
+    "days_to_harvest": {
+      "min": 65,
+      "max": 72
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "dwarf",
+      "bush",
+      "compact",
+      "stringless",
+      "white-flowers",
+      "heat-tolerant"
+    ],
+    "crop_slug": "runner-bean",
+    "sources": [
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/bonen-peulvruchten-spinazie/pronkbonen/stampronker-hestia",
+      "https://www.zaadhandelvanderwal.nl/download/41",
+      "https://www.vreeken.nl/zoeken/pronkbonen/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/bonen/p2-25",
+      "https://www.vreeken.nl/042600-pronkbonen-stam-hestia",
+      "https://www.vreeken.nl/041565-pronkbonen-stam-jackpot-queen-hearts",
+      "https://www.vreeken.nl/041570-pronkbonen-stam-jackpot-solitaire",
+      "https://www.vreeken.nl/zaden/groenten-fruit/bonen/p1-50",
+      "https://www.vreeken.nl/042500-pronkbonen-stam-pickwick-hammonds-dwarf-scarlet",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/peulvruchten",
+      "https://nl-nl.bakker.com/products/sperzieboon-altona"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "runner-bean-pickwick",
+    "names": {
+      "nl": "Pronkboon (Stam) 'Pickwick'",
+      "en": "Dwarf Runner Bean 'Hammond's Dwarf Scarlet'"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "bush",
+      "dwarf",
+      "self-supporting",
+      "high-yielding",
+      "scarlet-red-flowers",
+      "wind-tolerant"
+    ],
+    "crop_slug": "runner-bean",
+    "sources": [
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/bonen-peulvruchten-spinazie/pronkbonen/stampronker-hestia",
+      "https://www.zaadhandelvanderwal.nl/download/41",
+      "https://www.vreeken.nl/zoeken/pronkbonen/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/bonen/p2-25",
+      "https://www.vreeken.nl/042600-pronkbonen-stam-hestia",
+      "https://www.vreeken.nl/041565-pronkbonen-stam-jackpot-queen-hearts",
+      "https://www.vreeken.nl/041570-pronkbonen-stam-jackpot-solitaire",
+      "https://www.vreeken.nl/zaden/groenten-fruit/bonen/p1-50",
+      "https://www.vreeken.nl/042500-pronkbonen-stam-pickwick-hammonds-dwarf-scarlet",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/peulvruchten",
+      "https://nl-nl.bakker.com/products/sperzieboon-altona"
+    ],
+    "verified": false
+  }
+]

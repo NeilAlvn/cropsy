@@ -1,0 +1,141 @@
+[
+  {
+    "slug": "cauliflower-amazing",
+    "names": {
+      "nl": "Bloemkool Amazing",
+      "en": "Cauliflower Amazing"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop",
+      "Buzzy Seeds"
+    ],
+    "traits": [
+      "compact",
+      "patio-adapted",
+      "self-wrapping",
+      "resilient"
+    ],
+    "crop_slug": "cauliflower",
+    "sources": [
+      "https://www.welkoop.nl/buzzy-patio-veggies-bloemkool-amazing-groentezaden-20_1418999",
+      "https://www.vreeken.nl/zaden/groenten-fruit/koolsoorten/p1-25",
+      "https://www.vreeken.nl/138350-bloemkool-multi-head-f1",
+      "https://www.vreeken.nl/138600-bloemkool-igloo-mini-type",
+      "https://nl-nl.bakker.com/products/bloemkool-alpha-fortados",
+      "https://www.vreeken.nl/138100-bloemkool-alpha-alpha",
+      "https://nl-nl.bakker.com/collections/kool",
+      "https://de-de.bakker.com/products/blumenkohl-alpha-fortados",
+      "https://www.bolster.nl/moestuinieren-zonder-tuin/t23603"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "cauliflower-multi-head-f1",
+    "names": {
+      "nl": "Bloemkool Multi-Head F1",
+      "en": "Cauliflower Multi-Head F1"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "container-proven",
+      "multiple harvesting",
+      "branching habit",
+      "sun-loving",
+      "vigorous"
+    ],
+    "crop_slug": "cauliflower",
+    "sources": [
+      "https://www.welkoop.nl/buzzy-patio-veggies-bloemkool-amazing-groentezaden-20_1418999",
+      "https://www.vreeken.nl/zaden/groenten-fruit/koolsoorten/p1-25",
+      "https://www.vreeken.nl/138350-bloemkool-multi-head-f1",
+      "https://www.vreeken.nl/138600-bloemkool-igloo-mini-type",
+      "https://nl-nl.bakker.com/products/bloemkool-alpha-fortados",
+      "https://www.vreeken.nl/138100-bloemkool-alpha-alpha",
+      "https://nl-nl.bakker.com/collections/kool",
+      "https://de-de.bakker.com/products/blumenkohl-alpha-fortados",
+      "https://www.bolster.nl/moestuinieren-zonder-tuin/t23603"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "cauliflower-igloo",
+    "names": {
+      "nl": "Bloemkool Igloo (Mini-Type)",
+      "en": "Cauliflower Igloo (Mini-Type)"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "mini",
+      "dwarf habit",
+      "portion-sized heads",
+      "early",
+      "mild"
+    ],
+    "crop_slug": "cauliflower",
+    "sources": [
+      "https://www.welkoop.nl/buzzy-patio-veggies-bloemkool-amazing-groentezaden-20_1418999",
+      "https://www.vreeken.nl/zaden/groenten-fruit/koolsoorten/p1-25",
+      "https://www.vreeken.nl/138350-bloemkool-multi-head-f1",
+      "https://www.vreeken.nl/138600-bloemkool-igloo-mini-type",
+      "https://nl-nl.bakker.com/products/bloemkool-alpha-fortados",
+      "https://www.vreeken.nl/138100-bloemkool-alpha-alpha",
+      "https://nl-nl.bakker.com/collections/kool",
+      "https://de-de.bakker.com/products/blumenkohl-alpha-fortados",
+      "https://www.bolster.nl/moestuinieren-zonder-tuin/t23603"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "cauliflower-alpha-fortados",
+    "names": {
+      "nl": "Bloemkool Alpha Fortados",
+      "en": "Cauliflower Alpha Fortados"
+    },
+    "days_to_harvest": {
+      "min": 65,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker",
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "early maturity",
+      "dense & firm",
+      "manageable root system"
+    ],
+    "crop_slug": "cauliflower",
+    "sources": [
+      "https://www.welkoop.nl/buzzy-patio-veggies-bloemkool-amazing-groentezaden-20_1418999",
+      "https://www.vreeken.nl/zaden/groenten-fruit/koolsoorten/p1-25",
+      "https://www.vreeken.nl/138350-bloemkool-multi-head-f1",
+      "https://www.vreeken.nl/138600-bloemkool-igloo-mini-type",
+      "https://nl-nl.bakker.com/products/bloemkool-alpha-fortados",
+      "https://www.vreeken.nl/138100-bloemkool-alpha-alpha",
+      "https://nl-nl.bakker.com/collections/kool",
+      "https://de-de.bakker.com/products/blumenkohl-alpha-fortados",
+      "https://www.bolster.nl/moestuinieren-zonder-tuin/t23603"
+    ],
+    "verified": false
+  }
+]

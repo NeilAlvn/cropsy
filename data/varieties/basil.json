@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "basil-minette",
+    "names": {
+      "nl": "Basilicum (pot) 'Minette'",
+      "en": "Basil (pot) 'Minette'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden (Gardenseeds.nl)"
+    ],
+    "traits": [
+      "bush",
+      "compact",
+      "fine-leaved"
+    ],
+    "crop_slug": "basil",
+    "sources": [
+      "https://www.gardenseeds.nl/product/basilicum-pot-minette-ocimum-basilicum/",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-basilicum-pot-minette",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2018.pdf",
+      "https://www.vreeken.nl/333100-griekse-basilicum-minette-basito",
+      "https://www.welkoop.nl/hortitops-basilicum-ocimum-basilicum-bascuro-donkergroene-kruidenzaden-1-5gram_1190046",
+      "https://www.bolster.nl/basilicum-dark-opal-ocimum-basilicum-purpureum/p103",
+      "https://www.welkoop.nl/hortitops-basilicum-ocimum-basilicum-purpurascens-rode-dark-opal-kruidenzaden-1-5gram_1109371",
+      "https://www.bolster.nl/basilicum-telen-onze-tips/t22760"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "basil-minette-basito",
+    "names": {
+      "nl": "Griekse Basilicum 'Minette' / 'Basito'",
+      "en": "Greek Basil 'Minette' / 'Basito'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "dwarf",
+      "bush",
+      "climate-adapted"
+    ],
+    "crop_slug": "basil",
+    "sources": [
+      "https://www.gardenseeds.nl/product/basilicum-pot-minette-ocimum-basilicum/",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-basilicum-pot-minette",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2018.pdf",
+      "https://www.vreeken.nl/333100-griekse-basilicum-minette-basito",
+      "https://www.welkoop.nl/hortitops-basilicum-ocimum-basilicum-bascuro-donkergroene-kruidenzaden-1-5gram_1190046",
+      "https://www.bolster.nl/basilicum-dark-opal-ocimum-basilicum-purpureum/p103",
+      "https://www.welkoop.nl/hortitops-basilicum-ocimum-basilicum-purpurascens-rode-dark-opal-kruidenzaden-1-5gram_1109371",
+      "https://www.bolster.nl/basilicum-telen-onze-tips/t22760"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "basil-bascuro",
+    "names": {
+      "nl": "Basilicum 'Bascuro' (Griekse Potbasilicum)",
+      "en": "Basil 'Bascuro' (Greek Pot Basil)"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop (Hortitops)"
+    ],
+    "traits": [
+      "bush",
+      "fine-leaved",
+      "decorative"
+    ],
+    "crop_slug": "basil",
+    "sources": [
+      "https://www.gardenseeds.nl/product/basilicum-pot-minette-ocimum-basilicum/",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-basilicum-pot-minette",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2018.pdf",
+      "https://www.vreeken.nl/333100-griekse-basilicum-minette-basito",
+      "https://www.welkoop.nl/hortitops-basilicum-ocimum-basilicum-bascuro-donkergroene-kruidenzaden-1-5gram_1190046",
+      "https://www.bolster.nl/basilicum-dark-opal-ocimum-basilicum-purpureum/p103",
+      "https://www.welkoop.nl/hortitops-basilicum-ocimum-basilicum-purpurascens-rode-dark-opal-kruidenzaden-1-5gram_1109371",
+      "https://www.bolster.nl/basilicum-telen-onze-tips/t22760"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "basil-dark-opal",
+    "names": {
+      "nl": "Biologische Basilicum 'Dark Opal'",
+      "en": "Organic Basil 'Dark Opal'"
+    },
+    "days_to_harvest": {
+      "min": 65,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster (Biologische Zaden)"
+    ],
+    "traits": [
+      "decorative",
+      "purple foliage",
+      "certified organic"
+    ],
+    "crop_slug": "basil",
+    "sources": [
+      "https://www.gardenseeds.nl/product/basilicum-pot-minette-ocimum-basilicum/",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-basilicum-pot-minette",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2018.pdf",
+      "https://www.vreeken.nl/333100-griekse-basilicum-minette-basito",
+      "https://www.welkoop.nl/hortitops-basilicum-ocimum-basilicum-bascuro-donkergroene-kruidenzaden-1-5gram_1190046",
+      "https://www.bolster.nl/basilicum-dark-opal-ocimum-basilicum-purpureum/p103",
+      "https://www.welkoop.nl/hortitops-basilicum-ocimum-basilicum-purpurascens-rode-dark-opal-kruidenzaden-1-5gram_1109371",
+      "https://www.bolster.nl/basilicum-telen-onze-tips/t22760"
+    ],
+    "verified": false
+  }
+]

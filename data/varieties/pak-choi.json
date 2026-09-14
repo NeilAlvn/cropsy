@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "pak-choi-dwarf-white-stem-f1",
+    "names": {
+      "nl": "Mini Paksoi 'Dwarf White Stem' F1",
+      "en": "Mini Pak Choi 'Dwarf White Stem' F1"
+    },
+    "days_to_harvest": {
+      "min": 40,
+      "max": 40
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "dwarf",
+      "compact",
+      "early",
+      "bolt-resistant"
+    ],
+    "crop_slug": "pak-choi",
+    "sources": [
+      "https://www.vreeken.nl/165250-mini-paksoi-dwarf-white-stem-f1",
+      "https://www.welkoop.nl/buzzy-patio-veggies-pak-choi-green-f1-groentezaden-_1419013",
+      "https://tuinzaden.eu/nl/paksoi-pak-choi-zaden-kopen/922353-green-f1-pak-choi-paksoi-zaden.html",
+      "https://allezadenkopen.nl/products/paksoi-green-fortune-f1",
+      "https://www.gardenseeds.nl/product/paksoi-green-fortune-f1/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.vreeken.nl/165100-mini-paksoi-baby-pak-choi-the-milk-white-pakchoi",
+      "https://www.vreeken.nl/upload/docs/Laat_zaaien_aug-sept.pdf"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "pak-choi-green-f1",
+    "names": {
+      "nl": "Pak Choi 'Green F1'",
+      "en": "Pak Choi 'Green F1'"
+    },
+    "days_to_harvest": {
+      "min": 40,
+      "max": 50
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy Seeds",
+      "Welkoop",
+      "Tuinzaden.eu"
+    ],
+    "traits": [
+      "compact",
+      "dwarf",
+      "upright",
+      "fast-growing"
+    ],
+    "crop_slug": "pak-choi",
+    "sources": [
+      "https://www.vreeken.nl/165250-mini-paksoi-dwarf-white-stem-f1",
+      "https://www.welkoop.nl/buzzy-patio-veggies-pak-choi-green-f1-groentezaden-_1419013",
+      "https://tuinzaden.eu/nl/paksoi-pak-choi-zaden-kopen/922353-green-f1-pak-choi-paksoi-zaden.html",
+      "https://allezadenkopen.nl/products/paksoi-green-fortune-f1",
+      "https://www.gardenseeds.nl/product/paksoi-green-fortune-f1/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.vreeken.nl/165100-mini-paksoi-baby-pak-choi-the-milk-white-pakchoi",
+      "https://www.vreeken.nl/upload/docs/Laat_zaaien_aug-sept.pdf"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "pak-choi-green-fortune-f1",
+    "names": {
+      "nl": "Paksoi 'Green Fortune F1'",
+      "en": "Pak Choi 'Green Fortune F1'"
+    },
+    "days_to_harvest": {
+      "min": 30,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden",
+      "Allezadenkopen.nl",
+      "Garden Seeds"
+    ],
+    "traits": [
+      "semi-compact",
+      "early",
+      "slow-to-bolt"
+    ],
+    "crop_slug": "pak-choi",
+    "sources": [
+      "https://www.vreeken.nl/165250-mini-paksoi-dwarf-white-stem-f1",
+      "https://www.welkoop.nl/buzzy-patio-veggies-pak-choi-green-f1-groentezaden-_1419013",
+      "https://tuinzaden.eu/nl/paksoi-pak-choi-zaden-kopen/922353-green-f1-pak-choi-paksoi-zaden.html",
+      "https://allezadenkopen.nl/products/paksoi-green-fortune-f1",
+      "https://www.gardenseeds.nl/product/paksoi-green-fortune-f1/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.vreeken.nl/165100-mini-paksoi-baby-pak-choi-the-milk-white-pakchoi",
+      "https://www.vreeken.nl/upload/docs/Laat_zaaien_aug-sept.pdf"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "pak-choi-baby-pak-choi",
+    "names": {
+      "nl": "Mini Paksoi 'Baby Pak Choi'",
+      "en": "Mini Pak Choi 'Baby Pak Choi'"
+    },
+    "days_to_harvest": {
+      "min": 35,
+      "max": 45
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "miniature",
+      "dwarf",
+      "fast-growing",
+      "early"
+    ],
+    "crop_slug": "pak-choi",
+    "sources": [
+      "https://www.vreeken.nl/165250-mini-paksoi-dwarf-white-stem-f1",
+      "https://www.welkoop.nl/buzzy-patio-veggies-pak-choi-green-f1-groentezaden-_1419013",
+      "https://tuinzaden.eu/nl/paksoi-pak-choi-zaden-kopen/922353-green-f1-pak-choi-paksoi-zaden.html",
+      "https://allezadenkopen.nl/products/paksoi-green-fortune-f1",
+      "https://www.gardenseeds.nl/product/paksoi-green-fortune-f1/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.vreeken.nl/165100-mini-paksoi-baby-pak-choi-the-milk-white-pakchoi",
+      "https://www.vreeken.nl/upload/docs/Laat_zaaien_aug-sept.pdf"
+    ],
+    "verified": false
+  }
+]

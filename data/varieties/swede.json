@@ -1,0 +1,143 @@
+[
+  {
+    "slug": "swede-wilhelmsburger",
+    "names": {
+      "nl": "Koolraap 'Wilhelmsburger'",
+      "en": "Swede 'Wilhelmsburger'"
+    },
+    "days_to_harvest": {
+      "min": 120,
+      "max": 150
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "frost-resistant",
+      "clubroot-resistant",
+      "sweet",
+      "tender"
+    ],
+    "crop_slug": "swede",
+    "sources": [
+      "https://plukkers.com/blogs/gewasinfo/koolrap",
+      "https://www.bolster.nl/koolraap-wilhelmsburger-brassica-napus/p15096",
+      "https://www.bolster.nl/koolraap/c599",
+      "https://www.vreeken.nl/163120-koolrapen-friese-gele-wilhelmsburger",
+      "https://nl-nl.bakker.com/products/koolraap-champion",
+      "https://www.detuinwinkelonline.nl/product/buzzy-zaden-koolraap-champion-engelse-gele-roodkop",
+      "https://tuinzaden.eu/nl/koolrapen-zaden-kopen/920131-laurentian-koolraap-zaden.html",
+      "https://www.welkoop.nl/hortitops-koolraap-brassica-napus-var-nap-wilhelmsburger-type-friese-kool-5gram_1190050",
+      "https://plukkers.com/blogs/moestuin-kalenders/moestuin-kalender-juli"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "swede-champion",
+    "names": {
+      "nl": "Koolraap 'Champion' (Engelse Gele Roodkop)",
+      "en": "Swede 'Champion'"
+    },
+    "days_to_harvest": {
+      "min": 110,
+      "max": 130
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com",
+      "Buzzy Seeds"
+    ],
+    "traits": [
+      "tender",
+      "creamy",
+      "sweet",
+      "crack-resistant",
+      "reliable"
+    ],
+    "crop_slug": "swede",
+    "sources": [
+      "https://plukkers.com/blogs/gewasinfo/koolrap",
+      "https://www.bolster.nl/koolraap-wilhelmsburger-brassica-napus/p15096",
+      "https://www.bolster.nl/koolraap/c599",
+      "https://www.vreeken.nl/163120-koolrapen-friese-gele-wilhelmsburger",
+      "https://nl-nl.bakker.com/products/koolraap-champion",
+      "https://www.detuinwinkelonline.nl/product/buzzy-zaden-koolraap-champion-engelse-gele-roodkop",
+      "https://tuinzaden.eu/nl/koolrapen-zaden-kopen/920131-laurentian-koolraap-zaden.html",
+      "https://www.welkoop.nl/hortitops-koolraap-brassica-napus-var-nap-wilhelmsburger-type-friese-kool-5gram_1190050",
+      "https://plukkers.com/blogs/moestuin-kalenders/moestuin-kalender-juli"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "swede-laurentian",
+    "names": {
+      "nl": "Koolraap 'Laurentian'",
+      "en": "Swede 'Laurentian'"
+    },
+    "days_to_harvest": {
+      "min": 90,
+      "max": 110
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Tuinzaden.eu",
+      "Buzzy"
+    ],
+    "traits": [
+      "early",
+      "quick-maturing",
+      "mild",
+      "sweet",
+      "disease-resistant"
+    ],
+    "crop_slug": "swede",
+    "sources": [
+      "https://plukkers.com/blogs/gewasinfo/koolrap",
+      "https://www.bolster.nl/koolraap-wilhelmsburger-brassica-napus/p15096",
+      "https://www.bolster.nl/koolraap/c599",
+      "https://www.vreeken.nl/163120-koolrapen-friese-gele-wilhelmsburger",
+      "https://nl-nl.bakker.com/products/koolraap-champion",
+      "https://www.detuinwinkelonline.nl/product/buzzy-zaden-koolraap-champion-engelse-gele-roodkop",
+      "https://tuinzaden.eu/nl/koolrapen-zaden-kopen/920131-laurentian-koolraap-zaden.html",
+      "https://www.welkoop.nl/hortitops-koolraap-brassica-napus-var-nap-wilhelmsburger-type-friese-kool-5gram_1190050",
+      "https://plukkers.com/blogs/moestuin-kalenders/moestuin-kalender-juli"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "swede-friese-gele",
+    "names": {
+      "nl": "Koolraap 'Friese Gele'",
+      "en": "Swede 'Friese Gele'"
+    },
+    "days_to_harvest": {
+      "min": 130,
+      "max": 150
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden",
+      "Welkoop"
+    ],
+    "traits": [
+      "heritage",
+      "winter-hardy",
+      "mild",
+      "aromatic"
+    ],
+    "crop_slug": "swede",
+    "sources": [
+      "https://plukkers.com/blogs/gewasinfo/koolrap",
+      "https://www.bolster.nl/koolraap-wilhelmsburger-brassica-napus/p15096",
+      "https://www.bolster.nl/koolraap/c599",
+      "https://www.vreeken.nl/163120-koolrapen-friese-gele-wilhelmsburger",
+      "https://nl-nl.bakker.com/products/koolraap-champion",
+      "https://www.detuinwinkelonline.nl/product/buzzy-zaden-koolraap-champion-engelse-gele-roodkop",
+      "https://tuinzaden.eu/nl/koolrapen-zaden-kopen/920131-laurentian-koolraap-zaden.html",
+      "https://www.welkoop.nl/hortitops-koolraap-brassica-napus-var-nap-wilhelmsburger-type-friese-kool-5gram_1190050",
+      "https://plukkers.com/blogs/moestuin-kalenders/moestuin-kalender-juli"
+    ],
+    "verified": false
+  }
+]

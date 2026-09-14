@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "oregano-griekse",
+    "names": {
+      "nl": "Griekse Oregano",
+      "en": "Greek Oregano"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "compact",
+      "bush",
+      "aromatic",
+      "white blooms",
+      "perennial",
+      "drought-tolerant"
+    ],
+    "crop_slug": "oregano",
+    "sources": [
+      "https://www.vreeken.nl/356020-oregano-griekse",
+      "https://www.vreeken.nl/356005-oregano",
+      "https://www.vreeken.nl/832790-oregano-pittige-hot-and-spicy",
+      "https://www.vreeken.nl/356000-oregano",
+      "https://www.vreeken.nl/356030-oregano-hop-kirigami",
+      "https://www.bolster.nl/marjolein/c2064",
+      "https://www.bolster.nl/teelttips/t5251",
+      "https://www.bolster.nl/kruiden-drogen/t25036",
+      "https://www.bolster.nl/wilde-marjolein-origanum-vulgare/p118",
+      "https://www.bolster.nl/wat-te-doen-met-wilde-marjolein/t24593",
+      "https://www.bolster.nl/kruiden-in-potten-kweken/t25601",
+      "https://www.bolster.nl/wat-is-mulchen/t23780",
+      "https://www.welkoop.nl/hortitops-marjolein-origanum-vulgare-oreganorosebloeiendovulgare-kruidenzaden-0-25gram_1039948",
+      "https://www.welkoop.nl/advies/van-moestuin-naar-bord.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "oregano-kirigami",
+    "names": {
+      "nl": "Hop-Oregano 'Kirigami'",
+      "en": "Hop Oregano 'Kirigami'"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "dwarf",
+      "spreading",
+      "mounding",
+      "bush",
+      "ornamental",
+      "heat-tolerant",
+      "drought-tolerant"
+    ],
+    "crop_slug": "oregano",
+    "sources": [
+      "https://www.vreeken.nl/356020-oregano-griekse",
+      "https://www.vreeken.nl/356005-oregano",
+      "https://www.vreeken.nl/832790-oregano-pittige-hot-and-spicy",
+      "https://www.vreeken.nl/356000-oregano",
+      "https://www.vreeken.nl/356030-oregano-hop-kirigami",
+      "https://www.bolster.nl/marjolein/c2064",
+      "https://www.bolster.nl/teelttips/t5251",
+      "https://www.bolster.nl/kruiden-drogen/t25036",
+      "https://www.bolster.nl/wilde-marjolein-origanum-vulgare/p118",
+      "https://www.bolster.nl/wat-te-doen-met-wilde-marjolein/t24593",
+      "https://www.bolster.nl/kruiden-in-potten-kweken/t25601",
+      "https://www.bolster.nl/wat-is-mulchen/t23780",
+      "https://www.welkoop.nl/hortitops-marjolein-origanum-vulgare-oreganorosebloeiendovulgare-kruidenzaden-0-25gram_1039948",
+      "https://www.welkoop.nl/advies/van-moestuin-naar-bord.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "oregano-wilde-marjolein",
+    "names": {
+      "nl": "Wilde Marjolein / Biologische Oregano",
+      "en": "Wild Marjoram / Organic Oregano"
+    },
+    "days_to_harvest": {
+      "min": 80,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "clumping",
+      "low-growing",
+      "bush",
+      "organic",
+      "frost-hardy",
+      "perennial"
+    ],
+    "crop_slug": "oregano",
+    "sources": [
+      "https://www.vreeken.nl/356020-oregano-griekse",
+      "https://www.vreeken.nl/356005-oregano",
+      "https://www.vreeken.nl/832790-oregano-pittige-hot-and-spicy",
+      "https://www.vreeken.nl/356000-oregano",
+      "https://www.vreeken.nl/356030-oregano-hop-kirigami",
+      "https://www.bolster.nl/marjolein/c2064",
+      "https://www.bolster.nl/teelttips/t5251",
+      "https://www.bolster.nl/kruiden-drogen/t25036",
+      "https://www.bolster.nl/wilde-marjolein-origanum-vulgare/p118",
+      "https://www.bolster.nl/wat-te-doen-met-wilde-marjolein/t24593",
+      "https://www.bolster.nl/kruiden-in-potten-kweken/t25601",
+      "https://www.bolster.nl/wat-is-mulchen/t23780",
+      "https://www.welkoop.nl/hortitops-marjolein-origanum-vulgare-oreganorosebloeiendovulgare-kruidenzaden-0-25gram_1039948",
+      "https://www.welkoop.nl/advies/van-moestuin-naar-bord.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "oregano-roze-bloeiend",
+    "names": {
+      "nl": "Hortitops Marjolein / Oregano – Roze Bloeiend",
+      "en": "Hortitops Marjoram / Oregano – Pink Flowering"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop",
+      "Hortitops"
+    ],
+    "traits": [
+      "dense",
+      "upright",
+      "bush",
+      "hardy",
+      "perennial"
+    ],
+    "crop_slug": "oregano",
+    "sources": [
+      "https://www.vreeken.nl/356020-oregano-griekse",
+      "https://www.vreeken.nl/356005-oregano",
+      "https://www.vreeken.nl/832790-oregano-pittige-hot-and-spicy",
+      "https://www.vreeken.nl/356000-oregano",
+      "https://www.vreeken.nl/356030-oregano-hop-kirigami",
+      "https://www.bolster.nl/marjolein/c2064",
+      "https://www.bolster.nl/teelttips/t5251",
+      "https://www.bolster.nl/kruiden-drogen/t25036",
+      "https://www.bolster.nl/wilde-marjolein-origanum-vulgare/p118",
+      "https://www.bolster.nl/wat-te-doen-met-wilde-marjolein/t24593",
+      "https://www.bolster.nl/kruiden-in-potten-kweken/t25601",
+      "https://www.bolster.nl/wat-is-mulchen/t23780",
+      "https://www.welkoop.nl/hortitops-marjolein-origanum-vulgare-oreganorosebloeiendovulgare-kruidenzaden-0-25gram_1039948",
+      "https://www.welkoop.nl/advies/van-moestuin-naar-bord.html"
+    ],
+    "verified": false
+  }
+]

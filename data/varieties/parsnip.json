@@ -1,0 +1,135 @@
+[
+  {
+    "slug": "parsnip-white-gem",
+    "names": {
+      "nl": "Pastinaak 'White Gem'",
+      "en": "White Gem"
+    },
+    "days_to_harvest": {
+      "min": 120,
+      "max": 140
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "short/wedge-shaped root",
+      "canker resistant",
+      "sweet flavour",
+      "high yield"
+    ],
+    "crop_slug": "parsnip",
+    "sources": [
+      "https://www.vreeken.nl/207270-pastinaken-white-gem",
+      "https://nl-nl.bakker.com/products/pastinaak-demi-long-de-guernsey",
+      "https://www.welkoop.nl/hortitops-pastinaken-pastinaca-sativa-guernsey-pinksternakel-groentezaden-5gram_1039878",
+      "https://www.vreeken.nl/207100-pastinaken-gladiator-f1-javelin-albion-f1",
+      "https://www.bolster.nl/pastinaak-tender-and-true-pastinaca-sativa/p57",
+      "https://www.bolster.nl/pastinaak-telen-onze-tips/t21822",
+      "https://nl-nl.bakker.com/blogs/moestuin/voorzaaien-begin-binnen-met-de-moestuin",
+      "https://moesmeisje.nl/pastinaak-zaaien/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "parsnip-demi-long-de-guernsey",
+    "names": {
+      "nl": "Pastinaak 'Demi-Long De Guernsey' (Pinksternakel)",
+      "en": "Demi-Long De Guernsey"
+    },
+    "days_to_harvest": {
+      "min": 130,
+      "max": 150
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com",
+      "Welkoop"
+    ],
+    "traits": [
+      "half-long wedge shape",
+      "thick shoulders",
+      "frost-resistant",
+      "sweet and nutty flavour"
+    ],
+    "crop_slug": "parsnip",
+    "sources": [
+      "https://www.vreeken.nl/207270-pastinaken-white-gem",
+      "https://nl-nl.bakker.com/products/pastinaak-demi-long-de-guernsey",
+      "https://www.welkoop.nl/hortitops-pastinaken-pastinaca-sativa-guernsey-pinksternakel-groentezaden-5gram_1039878",
+      "https://www.vreeken.nl/207100-pastinaken-gladiator-f1-javelin-albion-f1",
+      "https://www.bolster.nl/pastinaak-tender-and-true-pastinaca-sativa/p57",
+      "https://www.bolster.nl/pastinaak-telen-onze-tips/t21822",
+      "https://nl-nl.bakker.com/blogs/moestuin/voorzaaien-begin-binnen-met-de-moestuin",
+      "https://moesmeisje.nl/pastinaak-zaaien/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "parsnip-gladiator-f1",
+    "names": {
+      "nl": "Pastinaak 'Gladiator' F1",
+      "en": "Gladiator F1"
+    },
+    "days_to_harvest": {
+      "min": 110,
+      "max": 110
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "early maturing",
+      "high disease/canker resistance",
+      "smooth skin",
+      "uniform tapered shape"
+    ],
+    "crop_slug": "parsnip",
+    "sources": [
+      "https://www.vreeken.nl/207270-pastinaken-white-gem",
+      "https://nl-nl.bakker.com/products/pastinaak-demi-long-de-guernsey",
+      "https://www.welkoop.nl/hortitops-pastinaken-pastinaca-sativa-guernsey-pinksternakel-groentezaden-5gram_1039878",
+      "https://www.vreeken.nl/207100-pastinaken-gladiator-f1-javelin-albion-f1",
+      "https://www.bolster.nl/pastinaak-tender-and-true-pastinaca-sativa/p57",
+      "https://www.bolster.nl/pastinaak-telen-onze-tips/t21822",
+      "https://nl-nl.bakker.com/blogs/moestuin/voorzaaien-begin-binnen-met-de-moestuin",
+      "https://moesmeisje.nl/pastinaak-zaaien/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "parsnip-tender-and-true",
+    "names": {
+      "nl": "Pastinaak 'Tender and True'",
+      "en": "Tender and True"
+    },
+    "days_to_harvest": {
+      "min": 140,
+      "max": 160
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "certified 100% organic",
+      "good canker tolerance",
+      "very sweet flesh",
+      "frost hardy"
+    ],
+    "crop_slug": "parsnip",
+    "sources": [
+      "https://www.vreeken.nl/207270-pastinaken-white-gem",
+      "https://nl-nl.bakker.com/products/pastinaak-demi-long-de-guernsey",
+      "https://www.welkoop.nl/hortitops-pastinaken-pastinaca-sativa-guernsey-pinksternakel-groentezaden-5gram_1039878",
+      "https://www.vreeken.nl/207100-pastinaken-gladiator-f1-javelin-albion-f1",
+      "https://www.bolster.nl/pastinaak-tender-and-true-pastinaca-sativa/p57",
+      "https://www.bolster.nl/pastinaak-telen-onze-tips/t21822",
+      "https://nl-nl.bakker.com/blogs/moestuin/voorzaaien-begin-binnen-met-de-moestuin",
+      "https://moesmeisje.nl/pastinaak-zaaien/"
+    ],
+    "verified": false
+  }
+]

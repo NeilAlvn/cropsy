@@ -1,0 +1,116 @@
+[
+  {
+    "slug": "sweetcorn-earlibird-f1",
+    "names": {
+      "nl": "Suikermaïs 'Earlibird F1'",
+      "en": "Sweetcorn 'Earlibird F1'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden",
+      "Koopzaden.nl"
+    ],
+    "traits": [
+      "compact",
+      "early",
+      "extra sweet",
+      "cold-tolerant"
+    ],
+    "crop_slug": "sweetcorn",
+    "sources": [
+      "https://www.koopzaden.nl/product/suikermais-earlybird-f1-zaden",
+      "https://www.vreeken.nl/195090-suikermais-blue-jade",
+      "https://www.vreeken.nl/195710-suikermais-zoete-jan",
+      "https://www.vreeken.nl/192000-mini-pofmais-tom-thumb"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "sweetcorn-blue-jade",
+    "names": {
+      "nl": "Suikermaïs 'Blue Jade'",
+      "en": "Sweetcorn 'Blue Jade'"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "dwarf",
+      "early",
+      "multi-cob"
+    ],
+    "crop_slug": "sweetcorn",
+    "sources": [
+      "https://www.koopzaden.nl/product/suikermais-earlybird-f1-zaden",
+      "https://www.vreeken.nl/195090-suikermais-blue-jade",
+      "https://www.vreeken.nl/195710-suikermais-zoete-jan",
+      "https://www.vreeken.nl/192000-mini-pofmais-tom-thumb"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "sweetcorn-zoete-jan",
+    "names": {
+      "nl": "Suikermaïs 'Zoete Jan'",
+      "en": "Sweetcorn 'Zoete Jan'"
+    },
+    "days_to_harvest": {
+      "min": 80,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "compact",
+      "open-pollinated",
+      "landrace"
+    ],
+    "crop_slug": "sweetcorn",
+    "sources": [
+      "https://www.koopzaden.nl/product/suikermais-earlybird-f1-zaden",
+      "https://www.vreeken.nl/195090-suikermais-blue-jade",
+      "https://www.vreeken.nl/195710-suikermais-zoete-jan",
+      "https://www.vreeken.nl/192000-mini-pofmais-tom-thumb"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "sweetcorn-tom-thumb",
+    "names": {
+      "nl": "Mini Pofmaïs 'Tom Thumb'",
+      "en": "Mini Popcorn 'Tom Thumb'"
+    },
+    "days_to_harvest": {
+      "min": 90,
+      "max": 100
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "dwarf",
+      "heirloom",
+      "early"
+    ],
+    "crop_slug": "sweetcorn",
+    "sources": [
+      "https://www.koopzaden.nl/product/suikermais-earlybird-f1-zaden",
+      "https://www.vreeken.nl/195090-suikermais-blue-jade",
+      "https://www.vreeken.nl/195710-suikermais-zoete-jan",
+      "https://www.vreeken.nl/192000-mini-pofmais-tom-thumb"
+    ],
+    "verified": false
+  }
+]

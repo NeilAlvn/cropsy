@@ -6,48 +6,63 @@
   },
   "kind": "disorder",
   "parts": [
+    "fruits",
     "leaves",
-    "stems",
-    "fruits"
+    "roots",
+    "stems"
   ],
   "symptoms": {
-    "nl": "Bladeren worden wit uitgeslagen of verbleekt en drogen later op tot doorschijnend, papierachtig of knisperend bruin weefsel, waarbij de plant op het heetst van de dag slap kan hangen. Op vruchten ontstaan bleke, gelige of ingezonken leerachtige witte tot bruine plekken die gevoelig zijn voor secundaire rotting.",
-    "en": "Leaves turn dull, bleached, or chalky white before becoming translucent, papery, or crispy brown, often accompanied by sudden daytime wilting. Direct midday heat causes exposed fruits to develop pale, yellowish, or sunken leathery patches that dry out and risk secondary rot."
+    "nl": "Bladeren vertonen gebleekte, witte of papierachtige vlekken en planten kunnen op hete middagen tijdelijk verslappen en gaan hangen. Op vruchten ontstaan ingevallen, leerachtige plekken aan de zonzijde die gevoelig worden voor secundair rot en schimmels.",
+    "en": "Leaves develop bleached, white, or papery patches, and plants may temporarily droop during hot afternoons. Fruits form sunken, leathery spots facing the sun that become susceptible to secondary fungal rot and mold."
   },
   "treatment": {
-    "nl": "Verplaats potten tijdens piekuren (12:00–16:00) direct naar de schaduw en bewater de grond vroeg in de ochtend of laat in de avond bij de wortels. Behoud deels verbrande bladeren tijdelijk als schaduw en knip pas volledig verdroogd blad weg zodra er nieuwe groei is. Oogst aangetaste vruchten direct en snijd de leerachtige plekken weg voor consumptie.",
-    "en": "Immediately shift containers into light or dappled shade during peak afternoon hours (12:00–16:00) and rehydrate the root zone early in the morning or late in the evening. Keep partially scorched foliage to shade lower growth, only pruning fully dried leaves once new shoots emerge. Promptly harvest affected fruits, cutting away the leathery white patches so the remainder can be consumed."
+    "nl": "Verplaats potten tijdens het heetst van de dag naar de schaduw en geef diep water tijdens de koelere ochtend- of avonduren. Oogst beschadigde vruchten direct om rot aan de plant te voorkomen en knip volledig verdroogde bladeren weg.",
+    "en": "Shift containers out of midday radiation into the shade and soak the root zone deeply during cooler morning or evening hours. Harvest damaged fruits promptly to prevent rot on the vine and trim away completely dried or scorched leaves."
   },
   "prevention": {
-    "nl": "Hard jonge planten gedurende 7–14 dagen geleidelijk af in de halfschaduw en breng bij hittegolven een schaduwdoek of parasol aan boven het balkon. Behoud een beschermend bladerdek rondom vruchten en mulch de potgrond met stro of compost om uitdroging tegen te gaan.",
-    "en": "Gradually harden off seedlings over 7–14 days in partial shade before exposing them to full sun, and use shade netting or parasols during heatwaves. Retain an adequate leaf canopy to shelter developing fruits and mulch container soil to buffer against rapid heat and moisture loss."
+    "nl": "Hard zaailingen geleidelijk af gedurende vijf tot zeven dagen en span tijdens extreme zomerdagen een schaduwdoek of parasol over kwetsbare potten. Behoud een beschermend bladerdek tijdens het dieven en bedek de potgrond met een mulchlaag.",
+    "en": "Harden off seedlings gradually over five to seven days and provide temporary shade using a cloth or parasol during peak midday heat. Retain a protective leaf canopy to shelter developing fruits and mulch container soil to protect roots from direct heat."
   },
   "affects": [
+    "aubergine",
     "basil",
     "chili",
     "coriander",
-    "courgette",
     "cucumber",
     "lettuce",
-    "parsley",
     "pepper",
-    "spinach",
+    "potato",
+    "strawberry",
     "tomato"
   ],
   "image": null,
   "sources": [
-    "https://makkelijkemoestuin.nl/kennisbank/afharden-van-zaailingen-en-ijsheiligen",
-    "https://velt.nu/tip/hoe-bescherm-je-jouw-moestuin-tegen-hitte-langdurige-droogte",
     "https://community.makkelijkemoestuin.nl/posts/vragen-2/puntpaprikas-gaan-rotten",
+    "https://community.makkelijkemoestuin.nl/profiel/ruthmoes",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/wat-gaat-er-niet-goed-met-de-tomaten-deel-twee",
     "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/bramen-zonnebrand/",
+    "https://velt.nu/tip/hoe-bescherm-je-jouw-moestuin-tegen-hitte-langdurige-droogte",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/slappe-pompoenblaadjes",
     "https://community.makkelijkemoestuin.nl/posts/vragen-2/tomaten-afharden-in-de-zon-slap",
-    "https://www.tuinadvies.nl/tuininfo/planten/bomen-heesters/portugese-laurier-bruine-bladeren/",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/paprikaplanten-en-tomatenplanten-in-volle-zon-met-36-graden",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/anti-zonnebrand",
+    "https://makkelijkemoestuin.nl/kennisbank/afharden-van-zaailingen-en-ijsheiligen",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/courgette-afharden-warmte",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/tomaten-beschermen-tegen-de-zon",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/aardappelplant-bloeit-niet/",
+    "https://edepot.wur.nl/297107",
+    "https://research.wur.nl/en/publications/diverse-materialen-beschermen-bomen-tegen-zonnebrand/",
+    "https://www.tuinadvies.nl/tuininfo/planten/sierplanten/hoe-voorkomen-dat-planten-in-de-tuinkas-verbranden/",
     "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-telen-op-schaduwrijke-plaatsen/",
-    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/afharden-met-deze-temperaturen",
-    "https://groei.nl/artikel/tuinklussen-in-april-dingen-die-je-nu-kunt-doen-in-tuin-en-moestuin",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/planten-beschermen-tegen-zon-en-vogels/"
+    "https://groei.nl/artikel/elke-druppel-telt-zo-ga-je-slim-om-met-water-in-de-moestuin",
+    "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-koriander/",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/water-geven-droogte/een-regen-en-hittebestendige-tuin/",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/alle-planten-ziek-vlekken-op-bladeren-dat-elke-dag-meer-wordt",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/tuintip-25",
+    "https://www.ivn.nl/provincies/flevoland/wat-wij-doen/natuur-in-de-buurt/groener-lelystad/diy-tuinkalender/",
+    "https://makkelijkemoestuin.nl/blog/half-mei-afharden-en-tragere-groei",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/planten-beschermen-tegen-zon-en-vogels/",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/de-moestuinkalender-juli",
+    "https://velt.nu/tip/bescherm-de-bodem-van-jouw-moestuin-door-deze-te-bedekken",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/ecomaand10"
   ],
   "verified": false
 }

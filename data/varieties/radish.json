@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "radish-cherry-belle",
+    "names": {
+      "nl": "Radijs ‘Cherry Belle’",
+      "en": "Radish 'Cherry Belle'"
+    },
+    "days_to_harvest": {
+      "min": 25,
+      "max": 30
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "cherry",
+      "round",
+      "early-to-maincrop",
+      "fast germinator",
+      "shallow root",
+      "pith-resistant"
+    ],
+    "crop_slug": "radish",
+    "sources": [
+      "https://www.bolster.nl/radijs-cherry-belle-raphanus-sativus/p67",
+      "https://www.bolster.nl/radijs/c505",
+      "https://moesmeisje.nl/radijs-kweken-van-zaaien-tot-oogsten-stap-voor-stap-uitgelegd/",
+      "https://www.bolster.nl/radijs-oogsten/t25646",
+      "https://plantleven.nl/radijs-kweken-zaaien-oogsten/",
+      "https://www.welkoop.nl/hortitops-radijs-raphanus-sativus-saxa-2-groentezaden-10gram_1039880",
+      "https://www.dutchgardenseeds.com/radijs-zaden-paars/",
+      "https://www.vreeken.nl/228300-ronde-radijs-knacker-saxa-selectie",
+      "https://www.vreeken.nl/228600-ronde-radijs-ronde-rode-witpunt-national-sparkler",
+      "https://www.welkoop.nl/oranjeband-zaden-radijs-national-2-groentezaden-10gram_1300897",
+      "https://www.bolster.nl/radijs-french-breakfast-2-raphanus-sativus/p68",
+      "https://www.bolster.nl/radijs-ijskegel-raphanus-sativus/p7549",
+      "https://www.ftproducts.nl/buzzy-radijs-frenchbreakfast",
+      "https://groei.nl/artikel/hoe-zaai-ik-radijs",
+      "https://www.intratuin.nl/inspiratie/moestuin-radijs"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "radish-saxa-2",
+    "names": {
+      "nl": "Radijs ‘Saxa 2’",
+      "en": "Radish 'Saxa 2'"
+    },
+    "days_to_harvest": {
+      "min": 25,
+      "max": 28
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop",
+      "Hortitops",
+      "Welkoop Bio"
+    ],
+    "traits": [
+      "very early",
+      "globe",
+      "mild",
+      "compact canopy",
+      "cool-tolerant"
+    ],
+    "crop_slug": "radish",
+    "sources": [
+      "https://www.bolster.nl/radijs-cherry-belle-raphanus-sativus/p67",
+      "https://www.bolster.nl/radijs/c505",
+      "https://moesmeisje.nl/radijs-kweken-van-zaaien-tot-oogsten-stap-voor-stap-uitgelegd/",
+      "https://www.bolster.nl/radijs-oogsten/t25646",
+      "https://plantleven.nl/radijs-kweken-zaaien-oogsten/",
+      "https://www.welkoop.nl/hortitops-radijs-raphanus-sativus-saxa-2-groentezaden-10gram_1039880",
+      "https://www.dutchgardenseeds.com/radijs-zaden-paars/",
+      "https://www.vreeken.nl/228300-ronde-radijs-knacker-saxa-selectie",
+      "https://www.vreeken.nl/228600-ronde-radijs-ronde-rode-witpunt-national-sparkler",
+      "https://www.welkoop.nl/oranjeband-zaden-radijs-national-2-groentezaden-10gram_1300897",
+      "https://www.bolster.nl/radijs-french-breakfast-2-raphanus-sativus/p68",
+      "https://www.bolster.nl/radijs-ijskegel-raphanus-sativus/p7549",
+      "https://www.ftproducts.nl/buzzy-radijs-frenchbreakfast",
+      "https://groei.nl/artikel/hoe-zaai-ik-radijs",
+      "https://www.intratuin.nl/inspiratie/moestuin-radijs"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "radish-sparkler-2",
+    "names": {
+      "nl": "Ronde Radijs ‘Sparkler 2’ / ‘National 2’ (Ronde Rode Witpunt)",
+      "en": "Radish 'Sparkler 2' / 'National 2'"
+    },
+    "days_to_harvest": {
+      "min": 28,
+      "max": 35
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "round",
+      "bi-color",
+      "early-to-summer",
+      "vigorous",
+      "spongy-resistant",
+      "peppery",
+      "crisp"
+    ],
+    "crop_slug": "radish",
+    "sources": [
+      "https://www.bolster.nl/radijs-cherry-belle-raphanus-sativus/p67",
+      "https://www.bolster.nl/radijs/c505",
+      "https://moesmeisje.nl/radijs-kweken-van-zaaien-tot-oogsten-stap-voor-stap-uitgelegd/",
+      "https://www.bolster.nl/radijs-oogsten/t25646",
+      "https://plantleven.nl/radijs-kweken-zaaien-oogsten/",
+      "https://www.welkoop.nl/hortitops-radijs-raphanus-sativus-saxa-2-groentezaden-10gram_1039880",
+      "https://www.dutchgardenseeds.com/radijs-zaden-paars/",
+      "https://www.vreeken.nl/228300-ronde-radijs-knacker-saxa-selectie",
+      "https://www.vreeken.nl/228600-ronde-radijs-ronde-rode-witpunt-national-sparkler",
+      "https://www.welkoop.nl/oranjeband-zaden-radijs-national-2-groentezaden-10gram_1300897",
+      "https://www.bolster.nl/radijs-french-breakfast-2-raphanus-sativus/p68",
+      "https://www.bolster.nl/radijs-ijskegel-raphanus-sativus/p7549",
+      "https://www.ftproducts.nl/buzzy-radijs-frenchbreakfast",
+      "https://groei.nl/artikel/hoe-zaai-ik-radijs",
+      "https://www.intratuin.nl/inspiratie/moestuin-radijs"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "radish-french-breakfast-2",
+    "names": {
+      "nl": "Radijs ‘French Breakfast 2’",
+      "en": "Radish 'French Breakfast 2'"
+    },
+    "days_to_harvest": {
+      "min": 25,
+      "max": 35
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "cylindrical",
+      "elongated",
+      "half-long",
+      "early",
+      "fast-growing",
+      "mild"
+    ],
+    "crop_slug": "radish",
+    "sources": [
+      "https://www.bolster.nl/radijs-cherry-belle-raphanus-sativus/p67",
+      "https://www.bolster.nl/radijs/c505",
+      "https://moesmeisje.nl/radijs-kweken-van-zaaien-tot-oogsten-stap-voor-stap-uitgelegd/",
+      "https://www.bolster.nl/radijs-oogsten/t25646",
+      "https://plantleven.nl/radijs-kweken-zaaien-oogsten/",
+      "https://www.welkoop.nl/hortitops-radijs-raphanus-sativus-saxa-2-groentezaden-10gram_1039880",
+      "https://www.dutchgardenseeds.com/radijs-zaden-paars/",
+      "https://www.vreeken.nl/228300-ronde-radijs-knacker-saxa-selectie",
+      "https://www.vreeken.nl/228600-ronde-radijs-ronde-rode-witpunt-national-sparkler",
+      "https://www.welkoop.nl/oranjeband-zaden-radijs-national-2-groentezaden-10gram_1300897",
+      "https://www.bolster.nl/radijs-french-breakfast-2-raphanus-sativus/p68",
+      "https://www.bolster.nl/radijs-ijskegel-raphanus-sativus/p7549",
+      "https://www.ftproducts.nl/buzzy-radijs-frenchbreakfast",
+      "https://groei.nl/artikel/hoe-zaai-ik-radijs",
+      "https://www.intratuin.nl/inspiratie/moestuin-radijs"
+    ],
+    "verified": false
+  }
+]

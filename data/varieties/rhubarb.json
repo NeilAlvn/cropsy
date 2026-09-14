@@ -1,0 +1,151 @@
+[
+  {
+    "slug": "rhubarb-ruby-jack",
+    "names": {
+      "nl": "Rabarber ‘Ruby Jack’",
+      "en": "Rhubarb 'Ruby Jack'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "compact",
+      "bush",
+      "mid-early",
+      "ruby-red",
+      "mild",
+      "bolting-resistant"
+    ],
+    "crop_slug": "rhubarb",
+    "sources": [
+      "https://www.vreeken.nl/832752-rabarber-ruby-jack",
+      "https://www.vreeken.nl/planten-schimmels/eetbare-planten/rest-eetbare-planten/p16-15",
+      "https://nl-nl.bakker.com/products/rabarber",
+      "https://www.koopbloembollen.nl/zomerbloeiers/aardappels-fruit-ui/rabarberplanten",
+      "https://www.vreeken.nl/225895-rabarber-glaskins-perpetual",
+      "https://www.welkoop.nl/hortitops-rabarber-rheum-undulatum-victoria-overige-groenteplanten-1g_1159950",
+      "https://www.garden-select.com/nl/rabarber-victoria-1-plant.html",
+      "https://www.dutchgardenseeds.com/groentezaden-rabarber-victoria-roodstelige/",
+      "https://www.vreeken.nl/832700-rabarber-diamar",
+      "https://www.vreeken.nl/zoeken/832700,832720,832725,832740,832750,832752,832760",
+      "https://www.vreeken.nl/808930-bleekpot-rabarberpot",
+      "https://www.mooiemoestuin.nl/groenteteelt/overig/rabarber/",
+      "https://www.gardenersworldmagazine.nl/planten/rabarber/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "rhubarb-glaskins-perpetual",
+    "names": {
+      "nl": "Rabarber ‘Glaskin’s Perpetual’",
+      "en": "Rhubarb 'Glaskin's Perpetual'"
+    },
+    "days_to_harvest": {
+      "min": 120,
+      "max": 150
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "late-season",
+      "extended-harvest",
+      "low-oxalic-acid",
+      "tender"
+    ],
+    "crop_slug": "rhubarb",
+    "sources": [
+      "https://www.vreeken.nl/832752-rabarber-ruby-jack",
+      "https://www.vreeken.nl/planten-schimmels/eetbare-planten/rest-eetbare-planten/p16-15",
+      "https://nl-nl.bakker.com/products/rabarber",
+      "https://www.koopbloembollen.nl/zomerbloeiers/aardappels-fruit-ui/rabarberplanten",
+      "https://www.vreeken.nl/225895-rabarber-glaskins-perpetual",
+      "https://www.welkoop.nl/hortitops-rabarber-rheum-undulatum-victoria-overige-groenteplanten-1g_1159950",
+      "https://www.garden-select.com/nl/rabarber-victoria-1-plant.html",
+      "https://www.dutchgardenseeds.com/groentezaden-rabarber-victoria-roodstelige/",
+      "https://www.vreeken.nl/832700-rabarber-diamar",
+      "https://www.vreeken.nl/zoeken/832700,832720,832725,832740,832750,832752,832760",
+      "https://www.vreeken.nl/808930-bleekpot-rabarberpot",
+      "https://www.mooiemoestuin.nl/groenteteelt/overig/rabarber/",
+      "https://www.gardenersworldmagazine.nl/planten/rabarber/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "rhubarb-victoria",
+    "names": {
+      "nl": "Hortitops Rabarber ‘Victoria’",
+      "en": "Rhubarb 'Victoria'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "early",
+      "winter-hardy",
+      "disease-resistant"
+    ],
+    "crop_slug": "rhubarb",
+    "sources": [
+      "https://www.vreeken.nl/832752-rabarber-ruby-jack",
+      "https://www.vreeken.nl/planten-schimmels/eetbare-planten/rest-eetbare-planten/p16-15",
+      "https://nl-nl.bakker.com/products/rabarber",
+      "https://www.koopbloembollen.nl/zomerbloeiers/aardappels-fruit-ui/rabarberplanten",
+      "https://www.vreeken.nl/225895-rabarber-glaskins-perpetual",
+      "https://www.welkoop.nl/hortitops-rabarber-rheum-undulatum-victoria-overige-groenteplanten-1g_1159950",
+      "https://www.garden-select.com/nl/rabarber-victoria-1-plant.html",
+      "https://www.dutchgardenseeds.com/groentezaden-rabarber-victoria-roodstelige/",
+      "https://www.vreeken.nl/832700-rabarber-diamar",
+      "https://www.vreeken.nl/zoeken/832700,832720,832725,832740,832750,832752,832760",
+      "https://www.vreeken.nl/808930-bleekpot-rabarberpot",
+      "https://www.mooiemoestuin.nl/groenteteelt/overig/rabarber/",
+      "https://www.gardenersworldmagazine.nl/planten/rabarber/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "rhubarb-diamar",
+    "names": {
+      "nl": "Rabarber ‘Diamar’",
+      "en": "Rhubarb 'Diamar'"
+    },
+    "days_to_harvest": null,
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "mid-season",
+      "cherry-red",
+      "forcing-suitable"
+    ],
+    "crop_slug": "rhubarb",
+    "sources": [
+      "https://www.vreeken.nl/832752-rabarber-ruby-jack",
+      "https://www.vreeken.nl/planten-schimmels/eetbare-planten/rest-eetbare-planten/p16-15",
+      "https://nl-nl.bakker.com/products/rabarber",
+      "https://www.koopbloembollen.nl/zomerbloeiers/aardappels-fruit-ui/rabarberplanten",
+      "https://www.vreeken.nl/225895-rabarber-glaskins-perpetual",
+      "https://www.welkoop.nl/hortitops-rabarber-rheum-undulatum-victoria-overige-groenteplanten-1g_1159950",
+      "https://www.garden-select.com/nl/rabarber-victoria-1-plant.html",
+      "https://www.dutchgardenseeds.com/groentezaden-rabarber-victoria-roodstelige/",
+      "https://www.vreeken.nl/832700-rabarber-diamar",
+      "https://www.vreeken.nl/zoeken/832700,832720,832725,832740,832750,832752,832760",
+      "https://www.vreeken.nl/808930-bleekpot-rabarberpot",
+      "https://www.mooiemoestuin.nl/groenteteelt/overig/rabarber/",
+      "https://www.gardenersworldmagazine.nl/planten/rabarber/"
+    ],
+    "verified": false
+  }
+]

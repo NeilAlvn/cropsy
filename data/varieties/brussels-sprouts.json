@@ -1,0 +1,160 @@
+[
+  {
+    "slug": "brussels-sprouts-long-island-improved",
+    "names": {
+      "nl": "Groene Spruitkool 'Long Island Improved'",
+      "en": "Brussels Sprouts 'Long Island Improved'"
+    },
+    "days_to_harvest": {
+      "min": 90,
+      "max": 110
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "semi-dwarf",
+      "compact",
+      "heirloom",
+      "open-pollinated",
+      "wind-resistant",
+      "frost-tolerant"
+    ],
+    "crop_slug": "brussels-sprouts",
+    "sources": [
+      "https://www.vreeken.nl/181200-groene-spruitkool-long-island-improved",
+      "https://www.vreeken.nl/zaden/groenten-fruit/koolsoorten/p2-90",
+      "https://www.bolster.nl/spruitkool-groninger-brassica-oleracea/p53",
+      "https://www.bolster.nl/spruitkool-telen-onze-tips/t11100",
+      "https://www.bolster.nl/spruitkool-oogsten/t7598",
+      "https://www.bolster.nl/spruitkool-hemera-f1-brassica-oleracea/p12141",
+      "https://www.bolster.nl/echte-wintergroenten/t24676",
+      "https://www.vreeken.nl/zoeken/spruiten",
+      "https://www.vreeken.nl/182100-roosjes-spruitkool-petit-posy-flower-sprouts-autumn-star-kalettes",
+      "https://www.intratuin.nl/intratuin-groentezaad-boerenkoolspruitjes-mix-kalettes.html",
+      "https://tuinzaden.eu/nl/koolgroente-zaden-kopen/923853-autumn-star-f1-boerenkoolspruitjeszaden.html",
+      "https://www.vreeken.nl/zoeken/NIEUW/p1-90",
+      "https://www.vreeken.nl/179000-groene-spruitkool-crispus-f1"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "brussels-sprouts-groninger",
+    "names": {
+      "nl": "Spruitkool 'Groninger' (Biologisch)",
+      "en": "Brussels Sprouts 'Groninger' (Organic)"
+    },
+    "days_to_harvest": {
+      "min": 150,
+      "max": 180
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "heirloom",
+      "organic",
+      "early-to-mid-season",
+      "staggered-harvest",
+      "frost-sweetened",
+      "bushy"
+    ],
+    "crop_slug": "brussels-sprouts",
+    "sources": [
+      "https://www.vreeken.nl/181200-groene-spruitkool-long-island-improved",
+      "https://www.vreeken.nl/zaden/groenten-fruit/koolsoorten/p2-90",
+      "https://www.bolster.nl/spruitkool-groninger-brassica-oleracea/p53",
+      "https://www.bolster.nl/spruitkool-telen-onze-tips/t11100",
+      "https://www.bolster.nl/spruitkool-oogsten/t7598",
+      "https://www.bolster.nl/spruitkool-hemera-f1-brassica-oleracea/p12141",
+      "https://www.bolster.nl/echte-wintergroenten/t24676",
+      "https://www.vreeken.nl/zoeken/spruiten",
+      "https://www.vreeken.nl/182100-roosjes-spruitkool-petit-posy-flower-sprouts-autumn-star-kalettes",
+      "https://www.intratuin.nl/intratuin-groentezaad-boerenkoolspruitjes-mix-kalettes.html",
+      "https://tuinzaden.eu/nl/koolgroente-zaden-kopen/923853-autumn-star-f1-boerenkoolspruitjeszaden.html",
+      "https://www.vreeken.nl/zoeken/NIEUW/p1-90",
+      "https://www.vreeken.nl/179000-groene-spruitkool-crispus-f1"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "brussels-sprouts-petit-posy",
+    "names": {
+      "nl": "Roosjes Spruitkool 'Petit Posy'",
+      "en": "Flower Sprouts 'Petit Posy'"
+    },
+    "days_to_harvest": {
+      "min": 110,
+      "max": 130
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden",
+      "Intratuin"
+    ],
+    "traits": [
+      "bushy",
+      "open-rosette",
+      "ornamental",
+      "interspecific-cross",
+      "sweet"
+    ],
+    "crop_slug": "brussels-sprouts",
+    "sources": [
+      "https://www.vreeken.nl/181200-groene-spruitkool-long-island-improved",
+      "https://www.vreeken.nl/zaden/groenten-fruit/koolsoorten/p2-90",
+      "https://www.bolster.nl/spruitkool-groninger-brassica-oleracea/p53",
+      "https://www.bolster.nl/spruitkool-telen-onze-tips/t11100",
+      "https://www.bolster.nl/spruitkool-oogsten/t7598",
+      "https://www.bolster.nl/spruitkool-hemera-f1-brassica-oleracea/p12141",
+      "https://www.bolster.nl/echte-wintergroenten/t24676",
+      "https://www.vreeken.nl/zoeken/spruiten",
+      "https://www.vreeken.nl/182100-roosjes-spruitkool-petit-posy-flower-sprouts-autumn-star-kalettes",
+      "https://www.intratuin.nl/intratuin-groentezaad-boerenkoolspruitjes-mix-kalettes.html",
+      "https://tuinzaden.eu/nl/koolgroente-zaden-kopen/923853-autumn-star-f1-boerenkoolspruitjeszaden.html",
+      "https://www.vreeken.nl/zoeken/NIEUW/p1-90",
+      "https://www.vreeken.nl/179000-groene-spruitkool-crispus-f1"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "brussels-sprouts-crispus-f1",
+    "names": {
+      "nl": "Groene Spruitkool 'Crispus' F1",
+      "en": "Brussels Sprouts 'Crispus' F1"
+    },
+    "days_to_harvest": {
+      "min": 120,
+      "max": 140
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "f1-hybrid",
+      "early-to-mid-season",
+      "clubroot-resistant",
+      "internal-rot-resistant"
+    ],
+    "crop_slug": "brussels-sprouts",
+    "sources": [
+      "https://www.vreeken.nl/181200-groene-spruitkool-long-island-improved",
+      "https://www.vreeken.nl/zaden/groenten-fruit/koolsoorten/p2-90",
+      "https://www.bolster.nl/spruitkool-groninger-brassica-oleracea/p53",
+      "https://www.bolster.nl/spruitkool-telen-onze-tips/t11100",
+      "https://www.bolster.nl/spruitkool-oogsten/t7598",
+      "https://www.bolster.nl/spruitkool-hemera-f1-brassica-oleracea/p12141",
+      "https://www.bolster.nl/echte-wintergroenten/t24676",
+      "https://www.vreeken.nl/zoeken/spruiten",
+      "https://www.vreeken.nl/182100-roosjes-spruitkool-petit-posy-flower-sprouts-autumn-star-kalettes",
+      "https://www.intratuin.nl/intratuin-groentezaad-boerenkoolspruitjes-mix-kalettes.html",
+      "https://tuinzaden.eu/nl/koolgroente-zaden-kopen/923853-autumn-star-f1-boerenkoolspruitjeszaden.html",
+      "https://www.vreeken.nl/zoeken/NIEUW/p1-90",
+      "https://www.vreeken.nl/179000-groene-spruitkool-crispus-f1"
+    ],
+    "verified": false
+  }
+]

@@ -12,21 +12,20 @@
     "roots"
   ],
   "symptoms": {
-    "nl": "Het hart van de plant schiet snel omhoog tot een lange, stugge bloeistengel, waardoor kroppen niet sluiten of openbarsten. Aan de top verschijnen kleine bloemknoppen en het loof wordt taai, vezelig en merkbaar bitter van smaak.",
-    "en": "The center of the plant rapidly shoots upward into a tall, rigid stalk, causing heading vegetables to fail to close or split open. Small flower buds emerge at the top while the foliage turns tough, fibrous, and noticeably bitter."
+    "nl": "In plaats van compact te blijven schiet het hart van de plant plotseling omhoog in een lange, houtige stengel met bloemknoppen. De bladeren worden kleiner, taai en bitter van smaak, terwijl de wortel- of knolgroei volledig stopt.",
+    "en": "Instead of staying compact, the center of the plant rapidly shoots upward into a tall, woody stalk with emerging flower buds. The leaves become smaller, tougher, and bitter in flavor, while root or bulb development halts completely."
   },
   "treatment": {
-    "nl": "Oogst het gewas onmiddellijk, want de bladeren zijn vaak nog geschikt om te stoven of roerbakken en de bloemen zijn eetbaar. Knip of breek bij rabarber en vaste kruiden opkomende bloemstelen direct weg om uitputting van de plant te voorkomen. Je kunt de bloeiende planten ook laten staan voor bestuivers op het balkon of het zaad laten afrijpen om zelf te oogsten.",
-    "en": "Harvest the crop immediately, as the leaves can still be cooked or stir-fried and the flowers are often edible. In rhubarb and perennial herbs, promptly snap or cut out emerging flower stalks to prevent the plant from exhausting its reserves. Alternatively, leave the blooms to feed balcony pollinators or allow them to set seed for next season."
+    "nl": "Knijp beginnende bloemknoppen direct uit om de bloei tijdelijk te vertragen, of oogst resterende bladeren en wortels meteen om te verwerken in warme gerechten. Eetbare bloemen kun je consumeren of laten bloeien voor bestuivers en zaadwinning. Als de plant niet meer lekker is, kun je deze rooien, composteren en de pot opnieuw inzaaien.",
+    "en": "Pinch out emerging flower buds early to temporarily delay flowering, or harvest the remaining leaves and roots immediately to use in cooked dishes. You can also eat the flowers or leave them for pollinators and future seed saving. If the plant is unpalatable, pull and compost it to re-sow the container with a new crop."
   },
   "prevention": {
-    "nl": "Voorkom droogtestress door potten nooit volledig te laten uitdrogen en zet ze tijdens hittegolven in de halfschaduw. Zaai gevoelige gewassen op het juiste moment, kies schietresistente rassen en gebruik voldoende grote potten.",
-    "en": "Prevent drought stress by keeping containers consistently watered and move pots into semi-shade during heatwaves. Time your sowings carefully to avoid temperature and day-length triggers, choose bolt-resistant varieties, and use sufficiently large containers."
+    "nl": "Voorkom hitte- en droogtestress door grote potten te gebruiken, consequent water te geven en planten op hete dagen in de halfschaduw te zetten. Zaai gevoelige gewassen buiten de warme zomermaanden, kies schietresistente rassen en pluk regelmatig de buitenste bladeren.",
+    "en": "Prevent heat and moisture stress by using large pots, watering consistently, and moving containers to partial shade during peak summer heat. Respect sowing windows by avoiding warm mid-summer plantings for sensitive crops, choose slow-bolting varieties, and harvest outer leaves regularly."
   },
   "affects": [
     "basil",
-    "cabbage",
-    "celery",
+    "chives",
     "coriander",
     "dill",
     "endive",
@@ -39,35 +38,39 @@
     "radish",
     "rhubarb",
     "rocket",
+    "shallot",
     "spinach",
     "swiss-chard"
   ],
   "image": null,
   "sources": [
     "https://community.makkelijkemoestuin.nl/posts/vragen-2/paksoi-doorgeschoten",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/waarom-kropt-mijn-sla-niet/",
+    "https://edepot.wur.nl/347306",
     "https://groei.nl/artikel/hoe-zaai-ik-tuinkers",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/waarom-kropt-mijn-sla-niet/",
     "https://community.makkelijkemoestuin.nl/posts/algemeen-2/doorgeschoten-groenten-door-de-warmte",
-    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/de-moestuinkalender-juli",
     "https://groei.nl/artikel/tips-bij-10-makkelijke-moestuingewassen",
-    "https://groei.nl/artikel/dille",
     "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/doorgeschoten-radijs/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/vroege-groentes-kweken",
     "https://groei.nl/artikel/hoe-kweek-ik-knolvenkel",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/rabarber-telen-moestuin/",
-    "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/moestuintips-voor-oogsten/",
-    "https://beweegt.velt.nu/hamme/1786/zelfzadenkweken",
+    "https://www.ivn.nl/provincies/zeeland/nieuws/doorgeschoten-planten-in-de-schoolmoestuin-3-doe-tips/",
     "https://natuuracademieonline.ivn.nl/resources/natuur-en-mens-moestuinieren/stap-voor-stap-moestuinieren-oogsten/de-laatste-stap-voorbereiden-op-het-volgende-seizoen",
-    "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-rucola/",
+    "https://makkelijkemoestuin.nl/kennisbank/eetbare-bloemen",
+    "https://beweegt.velt.nu/hamme/1786/zelfzadenkweken",
+    "https://makkelijkemoestuin.nl/kennisbank/help-mijn-plantjes-doen-het-niet-goed",
+    "https://groei.nl/artikel/water-geven-in-de-tuin-vragen-die-elke-tuinier-heeft",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/de-moestuinkalender-juli",
+    "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-andijvie/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/spinazie-extra-aandacht-maar-extra-lekker",
     "https://groei.nl/artikel/zaaien-en-planten",
-    "https://groei.nl/artikel/de-moestuin-in-juli-oogsten-verzorgen-en-vooruitdenken",
+    "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-rucola/",
     "https://groei.nl/artikel/hoe-kweek-ik-spinazie",
-    "https://beweegt.velt.nu/braas/download.php?bestand=zadenlijst2013_lr.pdf",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/vroege-groentes-kweken/",
-    "https://www.tuinadvies.nl/planten/kruiden/apium-graveolens-secalinum/groene-selder/",
     "https://velt.nu/system/files/media/documenten/leerkrachtenbundel_minimoestuin_op_school.pdf",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kervel-anthriscus-cerefolium/",
-    "https://community.makkelijkemoestuin.nl/posts/recepten-2/dille-en-koriander-in-een-rolletje",
-    "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-andijvie/"
+    "https://beweegt.velt.nu/braas/download.php?bestand=brief4.pdf",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/rabarber-telen-moestuin/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kervel-anthriscus-cerefolium",
+    "https://groei.nl/artikel/dille",
+    "https://beweegt.velt.nu/braas/download.php?bestand=zadenlijst_20112012.pdf"
   ],
   "verified": false
 }

@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "french-bean-kylian",
+    "names": {
+      "nl": "Stamslaboon 'Kylian'",
+      "en": "Dwarf French Bean 'Kylian'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com"
+    ],
+    "traits": [
+      "bush",
+      "compact",
+      "stringless",
+      "sweet",
+      "drought-tolerant",
+      "productive"
+    ],
+    "crop_slug": "french-bean",
+    "sources": [
+      "https://nl-nl.bakker.com/products/stamslaboon-kylian",
+      "https://www.bolster.nl/stamslaboon-davis-phaseolus-vulgaris/p14134",
+      "https://www.vreeken.nl/046080-stamslabonen-maxi",
+      "https://demoestuinwinkel.nl/products/sluis_garden_stamslaboon_maxi",
+      "https://www.welkoop.nl/oranjeband-zaden-stamslabonen-speedy-groentezaden-100gram_1300928"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "french-bean-davis",
+    "names": {
+      "nl": "Stamslaboon 'Davis'",
+      "en": "Dwarf French Bean 'Davis'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "bush",
+      "compact",
+      "stringless",
+      "tender",
+      "organic",
+      "bcmv-resistant",
+      "halo-blight-resistant",
+      "anthracnose-resistant",
+      "bean-rust-resistant"
+    ],
+    "crop_slug": "french-bean",
+    "sources": [
+      "https://nl-nl.bakker.com/products/stamslaboon-kylian",
+      "https://www.bolster.nl/stamslaboon-davis-phaseolus-vulgaris/p14134",
+      "https://www.vreeken.nl/046080-stamslabonen-maxi",
+      "https://demoestuinwinkel.nl/products/sluis_garden_stamslaboon_maxi",
+      "https://www.welkoop.nl/oranjeband-zaden-stamslabonen-speedy-groentezaden-100gram_1300928"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "french-bean-maxi",
+    "names": {
+      "nl": "Stamslaboon 'Maxi'",
+      "en": "Dwarf French Bean 'Maxi'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "bush",
+      "dwarf",
+      "early",
+      "stringless",
+      "tender",
+      "mosaic-virus-resistant",
+      "bacterial-spot-resistant"
+    ],
+    "crop_slug": "french-bean",
+    "sources": [
+      "https://nl-nl.bakker.com/products/stamslaboon-kylian",
+      "https://www.bolster.nl/stamslaboon-davis-phaseolus-vulgaris/p14134",
+      "https://www.vreeken.nl/046080-stamslabonen-maxi",
+      "https://demoestuinwinkel.nl/products/sluis_garden_stamslaboon_maxi",
+      "https://www.welkoop.nl/oranjeband-zaden-stamslabonen-speedy-groentezaden-100gram_1300928"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "french-bean-speedy",
+    "names": {
+      "nl": "Stamslaboon 'Speedy'",
+      "en": "Dwarf French Bean 'Speedy'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 55
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "bush",
+      "dwarf",
+      "early",
+      "high-yielding",
+      "virus-resistant",
+      "halo-blight-resistant"
+    ],
+    "crop_slug": "french-bean",
+    "sources": [
+      "https://nl-nl.bakker.com/products/stamslaboon-kylian",
+      "https://www.bolster.nl/stamslaboon-davis-phaseolus-vulgaris/p14134",
+      "https://www.vreeken.nl/046080-stamslabonen-maxi",
+      "https://demoestuinwinkel.nl/products/sluis_garden_stamslaboon_maxi",
+      "https://www.welkoop.nl/oranjeband-zaden-stamslabonen-speedy-groentezaden-100gram_1300928"
+    ],
+    "verified": false
+  }
+]

@@ -6,28 +6,27 @@
   },
   "kind": "pest",
   "parts": [
-    "leaves",
     "roots",
     "stems"
   ],
   "symptoms": {
-    "nl": "Kleine donkere mugjes vliegen op rond de potgrond, terwijl doorschijnende larven met een zwarte kop in de aarde aan de wortels en stengelbasis vreten. Zaailingen stoppen plots met groeien of vallen slap om, en jonge planten krijgen vergelende en verwelkende bladeren.",
-    "en": "Small dark gnats flutter around the soil surface, while translucent larvae with black heads feed on the roots and lower stems. Seedlings suddenly stop growing or collapse, and young plants develop yellowing and wilting leaves."
+    "nl": "Kleine, donkergrijze tot zwarte mugjes vliegen wiebelig op of kruipen over de aarde, terwijl glasachtige larven met een zwarte kop in de bovenste compostlaag leven. Aangetaste zaailingen vallen plotseling om en planten vertonen vergeling, groeistilstand en verwelking ondanks vochtige potgrond.",
+    "en": "Tiny, dark grey-to-black gnats fly erratically or crawl over the soil, while translucent larvae with shiny black heads wriggle in the upper compost layer. Seedlings suddenly collapse, and plants display yellowing leaves, stalled growth, and wilting even when the potting mix is moist."
   },
   "treatment": {
-    "nl": "Zet aaltjes (Steinernema feltiae) of bodemroofmijten in via het gietwater om de larven en eitjes in de potgrond biologisch te bestrijden. Gebruik gele vangplaten om volwassen rouwmuggen weg te vangen en zo de voortplantingscyclus te doorbreken. Ook kan afgekoeld water getrokken van kaneel worden gegoten om schimmels te remmen en larven te ontmoedigen.",
-    "en": "Introduce parasitic nematodes (Steinernema feltiae) or predatory mites with the watering can to biologically control larvae and eggs in the soil. Use yellow sticky traps to catch adult fungus gnats and break their reproductive cycle. You can also apply cinnamon-infused water to inhibit fungus and discourage feeding larvae."
+    "nl": "Giet aaltjes (Steinernema feltiae) of een afgekoeld kaneelaftreksel over de potgrond om de larven biologisch te doden, of zet bodemroofmijten in tegen de eitjes en larven. Hang tegelijkertijd gele vangplaten vlak boven de aarde om volwassen vliegjes weg te vangen en de voortplanting te stoppen.",
+    "en": "Apply beneficial nematodes (Steinernema feltiae) or a cooled cinnamon infusion to the soil to eliminate the larvae, or introduce soil predatory mites to feed on eggs and larvae. Place yellow sticky traps right above the soil surface to capture adult gnats and disrupt their breeding cycle."
   },
   "prevention": {
-    "nl": "Laat de bovenste laag potgrond tussen gietbeurten goed opdrogen of geef planten water van onderaf via een schotel. Breng een afdeklaag van grof zand of perliet aan en zorg buiten op het balkon voor goede luchtcirculatie.",
-    "en": "Allow the top layer of potting soil to dry out between waterings or water plants from below via a saucer. Cover the soil with a thin layer of coarse sand or perlite, and ensure good air circulation on the balcony."
+    "nl": "Geef planten van onderaf water via een schotel of laat de toplaag tussen gietbeurten opdrogen zodat vliegjes geen eitjes kunnen leggen. Breng eventueel een barrière van scherp zand of fijn grind aan op de aarde en controleer nieuwe planten zorgvuldig.",
+    "en": "Water pots from below via a saucer or let the topsoil dry out between waterings to deter adults from laying eggs. Mulch the soil surface with a barrier of coarse sand or fine gravel, and inspect newly purchased plants before placing them on the balcony."
   },
   "affects": [
+    "aubergine",
     "basil",
-    "cabbage",
+    "chives",
     "coriander",
-    "courgette",
-    "cucumber",
+    "lettuce",
     "mint",
     "parsley",
     "pepper",
@@ -36,20 +35,19 @@
   "image": null,
   "sources": [
     "https://www.tuinadvies.nl/tuininfo/planten/kamerplanten/springstaartjes-en-rouwvliegen-bij-kamerplanten/",
-    "https://edepot.wur.nl/715654",
-    "https://hoogeveen.groei.nl/nieuwsflits-juli/augustus-2024",
-    "https://edepot.wur.nl/174724",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/vliegjes-basilicum/",
-    "https://edepot.wur.nl/112122",
-    "https://edepot.wur.nl/332388",
-    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/vliegjes-in-mm-mix",
-    "https://edepot.wur.nl/173677",
-    "https://edepot.wur.nl/13246",
     "https://makkelijkemoestuin.nl/kennisbank/rouwvliegjes-of-de-rouwvarenmug",
+    "https://edepot.wur.nl/332388",
+    "https://edepot.wur.nl/173677",
+    "https://edepot.wur.nl/715654",
+    "https://edepot.wur.nl/167082",
+    "https://edepot.wur.nl/454216",
+    "https://edepot.wur.nl/112122",
     "https://community.makkelijkemoestuin.nl/posts/vragen-2/kleine-wormpjes-in-grond",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/vliegjes-16",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/vliegjes-15",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/vliegjes-in-komkommerplant"
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/dierenoverlast/vliegjes-boven-gras/",
+    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/vliegjes-in-mm-mix",
+    "https://www.tuinadvies.be/tuininfo/planten/kamerplanten/springstaartjes-en-rouwvliegen-bij-kamerplanten/",
+    "https://edepot.wur.nl/13246",
+    "https://hoogeveen.groei.nl/nieuwsflits-juli/augustus-2024"
   ],
   "verified": false
 }

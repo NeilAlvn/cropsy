@@ -1,0 +1,159 @@
+[
+  {
+    "slug": "spring-onion-ishikura-long-white",
+    "names": {
+      "nl": "Stengelui 'Ishikura Long White'",
+      "en": "Spring Onion 'Ishikura Long White'"
+    },
+    "days_to_harvest": {
+      "min": 65,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "non-bulbing",
+      "upright",
+      "mild",
+      "tender",
+      "slow-bolting"
+    ],
+    "crop_slug": "spring-onion",
+    "sources": [
+      "https://www.bolster.nl/bosui/c604",
+      "https://www.bolster.nl/stengelui-oogsten/t22422",
+      "https://demoestuinwinkel.nl/products/lente-ui-ishikura-long-white",
+      "https://www.intratuin.nl/intratuin-groentezaad-bosuien-allium-cepa-white-lisbon.html",
+      "https://www.bol.com/nl/nl/p/buzzy-bosuien-rood/9200000075435709/",
+      "https://biezen.nl/ui-white-lisbon-sluis-garden-zaden",
+      "https://www.dutchgardenseeds.com/groentezaden-bosuien-white-lisbon-zaden/",
+      "https://www.welkoop.nl/oranjeband-zaden-bosui-rode-red-ninja-groentezaden-5gram_1300913",
+      "https://www.intratuin.nl/intratuin-groentezaad-bosuien-rood-allium-fistulosum.html",
+      "https://www.vreeken.nl/304200-bosuien-white-lisbon-winter-hardy-evergreen-hardy-white",
+      "https://www.vreeken.nl/zaden/groenten-fruit/ui-tjes-knoflook/p3-2",
+      "https://www.gardenersworldmagazine.nl/groene-school/moestuin/bosui-zaaien-tips/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "spring-onion-white-lisbon",
+    "names": {
+      "nl": "Bosui 'White Lisbon'",
+      "en": "Spring Onion 'White Lisbon'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin",
+      "Buzzy Seeds",
+      "Sluis Garden"
+    ],
+    "traits": [
+      "early",
+      "reliable",
+      "fast",
+      "compact-root-footprint",
+      "crisp",
+      "mildly-pungent"
+    ],
+    "crop_slug": "spring-onion",
+    "sources": [
+      "https://www.bolster.nl/bosui/c604",
+      "https://www.bolster.nl/stengelui-oogsten/t22422",
+      "https://demoestuinwinkel.nl/products/lente-ui-ishikura-long-white",
+      "https://www.intratuin.nl/intratuin-groentezaad-bosuien-allium-cepa-white-lisbon.html",
+      "https://www.bol.com/nl/nl/p/buzzy-bosuien-rood/9200000075435709/",
+      "https://biezen.nl/ui-white-lisbon-sluis-garden-zaden",
+      "https://www.dutchgardenseeds.com/groentezaden-bosuien-white-lisbon-zaden/",
+      "https://www.welkoop.nl/oranjeband-zaden-bosui-rode-red-ninja-groentezaden-5gram_1300913",
+      "https://www.intratuin.nl/intratuin-groentezaad-bosuien-rood-allium-fistulosum.html",
+      "https://www.vreeken.nl/304200-bosuien-white-lisbon-winter-hardy-evergreen-hardy-white",
+      "https://www.vreeken.nl/zaden/groenten-fruit/ui-tjes-knoflook/p3-2",
+      "https://www.gardenersworldmagazine.nl/groene-school/moestuin/bosui-zaaien-tips/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "spring-onion-red-ninja",
+    "names": {
+      "nl": "Bosui Rode 'Red Ninja'",
+      "en": "Spring Onion 'Red Ninja'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop",
+      "Oranjeband",
+      "Buzzy"
+    ],
+    "traits": [
+      "colorful",
+      "decorative",
+      "non-bulbing",
+      "slender",
+      "piquant",
+      "aromatic"
+    ],
+    "crop_slug": "spring-onion",
+    "sources": [
+      "https://www.bolster.nl/bosui/c604",
+      "https://www.bolster.nl/stengelui-oogsten/t22422",
+      "https://demoestuinwinkel.nl/products/lente-ui-ishikura-long-white",
+      "https://www.intratuin.nl/intratuin-groentezaad-bosuien-allium-cepa-white-lisbon.html",
+      "https://www.bol.com/nl/nl/p/buzzy-bosuien-rood/9200000075435709/",
+      "https://biezen.nl/ui-white-lisbon-sluis-garden-zaden",
+      "https://www.dutchgardenseeds.com/groentezaden-bosuien-white-lisbon-zaden/",
+      "https://www.welkoop.nl/oranjeband-zaden-bosui-rode-red-ninja-groentezaden-5gram_1300913",
+      "https://www.intratuin.nl/intratuin-groentezaad-bosuien-rood-allium-fistulosum.html",
+      "https://www.vreeken.nl/304200-bosuien-white-lisbon-winter-hardy-evergreen-hardy-white",
+      "https://www.vreeken.nl/zaden/groenten-fruit/ui-tjes-knoflook/p3-2",
+      "https://www.gardenersworldmagazine.nl/groene-school/moestuin/bosui-zaaien-tips/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "spring-onion-white-lisbon-winter-hardy",
+    "names": {
+      "nl": "Bosui 'White Lisbon - Winter Hardy'",
+      "en": "Spring Onion 'White Lisbon - Winter Hardy'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "cold-hardy",
+      "frost-resistant",
+      "continuous-harvesting",
+      "upright"
+    ],
+    "crop_slug": "spring-onion",
+    "sources": [
+      "https://www.bolster.nl/bosui/c604",
+      "https://www.bolster.nl/stengelui-oogsten/t22422",
+      "https://demoestuinwinkel.nl/products/lente-ui-ishikura-long-white",
+      "https://www.intratuin.nl/intratuin-groentezaad-bosuien-allium-cepa-white-lisbon.html",
+      "https://www.bol.com/nl/nl/p/buzzy-bosuien-rood/9200000075435709/",
+      "https://biezen.nl/ui-white-lisbon-sluis-garden-zaden",
+      "https://www.dutchgardenseeds.com/groentezaden-bosuien-white-lisbon-zaden/",
+      "https://www.welkoop.nl/oranjeband-zaden-bosui-rode-red-ninja-groentezaden-5gram_1300913",
+      "https://www.intratuin.nl/intratuin-groentezaad-bosuien-rood-allium-fistulosum.html",
+      "https://www.vreeken.nl/304200-bosuien-white-lisbon-winter-hardy-evergreen-hardy-white",
+      "https://www.vreeken.nl/zaden/groenten-fruit/ui-tjes-knoflook/p3-2",
+      "https://www.gardenersworldmagazine.nl/groene-school/moestuin/bosui-zaaien-tips/"
+    ],
+    "verified": false
+  }
+]

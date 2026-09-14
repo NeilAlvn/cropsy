@@ -10,16 +10,16 @@
     "stems"
   ],
   "symptoms": {
-    "nl": "De ziekte begint met kleine geelachtige vlekjes die snel veranderen in opvallende oranje tot roodbruine puistjes waaruit een stoffig poeder vrijkomt. Aangetaste bladeren worden geel of bleekgroen, krullen om en sterven vroegtijdig af waardoor de groei van de plant stagneert.",
-    "en": "The disease begins with small yellowish spots that quickly turn into distinctive orange to reddish-brown pustules releasing a dusty powder. Affected leaves turn yellow or pale green, curl, and die off prematurely, causing plant growth to stall."
+    "nl": "In het begin ontstaan er kleine, bleekgele of witachtige vlekken op het loof die snel openbreken tot poederachtige, oranje tot roodbruine puistjes. Bij een gevorderde infectie vloeien deze puistjes samen en verdorren en verdrogen de bladeren, waardoor ze een verbrand uiterlijk krijgen.",
+    "en": "Initially, small pale yellow or whitish spots develop on the foliage and rapidly erupt into powdery, bright orange to reddish-brown pustules. As the infection progresses, the pustules multiply and merge, causing the surrounding leaves to turn yellow, wither, and dry up with a scorched appearance."
   },
   "treatment": {
-    "nl": "Pluk of snijd aangetaste bladeren direct weg en voer ze af via de gft-bak in plaats van de composthoop; aangetaste bieslook kan tot vlak boven de grond worden afgeknipt. Besproei de planten met een heermoesaftreksel of een milde oplossing van baksoda met een drupje zachte zeep om verdere schimmeluitbreiding te remmen.",
-    "en": "Promptly remove affected leaves and dispose of them with green waste rather than on the compost heap; chives can be trimmed right down to soil level. Spray the plants with a horsetail extract or a mild solution of baking soda and a drop of soft soap to inhibit fungal spread."
+    "nl": "Pluk aangetaste bladeren direct af en gooi ze in de vuilnisbak, of knip bieslook tot net boven de grond af zodat er schoon loof teruggroeit. Bespuit het gewas met heermoesthee of natriumbicarbonaat, of bestuif de bladeren met gesteentemeel om de celwanden te versterken. Bij een late aantasting kun je vroegtijdig oogsten; na het verwijderen van de buitenste bladeren zijn de bol en de binnenste schacht gewoon eetbaar.",
+    "en": "Remove infected leaves immediately and dispose of them in household waste, or cut chives down to ground level to allow clean foliage to regrow. Spray foliage with horsetail extract or baking soda, or dust the leaves with rock dust to strengthen cell walls against fungal hyphae. In late-season infections, harvest early, as the inner stems and bulbs remain entirely safe to eat once damaged outer leaves are stripped away."
   },
   "prevention": {
-    "nl": "Zet potten niet te dicht op elkaar voor een goede luchtcirculatie en geef altijd water aan de voet van de plant op de potgrond. Vermijd een overschot aan stikstofbemesting, hergebruik geen besmette potgrond en wied klein kruiskruid in de omgeving.",
-    "en": "Space pots sufficiently to allow good air circulation and always water at the base of the plant directly onto the potting soil. Avoid excessive nitrogen fertilisation, do not reuse contaminated potting soil, and weed out nearby groundsel."
+    "nl": "Zorg voor voldoende plantafstand en luchtcirculatie tussen balkonpotten en geef altijd rechtstreeks water op de potgrond in plaats van op het loof. Ververs potgrond of wissel teeltpotten voor minstens drie tot vier seizoenen af en kies bij aankoop voor resistente rassen.",
+    "en": "Ensure proper spacing and airflow around balcony containers and always water the soil directly rather than wetting the foliage. Rotate allium crops away from the same containers for at least three to four seasons and select rust-resistant varieties."
   },
   "affects": [
     "chives",
@@ -30,11 +30,13 @@
   ],
   "image": null,
   "sources": [
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/roest-op-knoflook/",
     "https://edepot.wur.nl/289485",
+    "https://www.tuinadvies.be/tuininfo/moestuin/groenten/roest-op-knoflook/",
     "https://beweegt.velt.nu/braas/download.php?bestand=MS201009.pdf",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/prei-sproeien-met-soda/",
     "https://community.makkelijkemoestuin.nl/posts/vragen-2/roestige-knoflook",
+    "https://edepot.wur.nl/206535",
+    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/roest-knoflook",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/snijbonen-alweer-ziek",
     "https://www.tuinadvies.be/tuininfo/moestuin/groenten/prei-sproeien-met-soda/",
     "https://community.makkelijkemoestuin.nl/posts/vragen-2/roest-bij-knoflook"
   ],

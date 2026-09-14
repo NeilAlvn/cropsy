@@ -1,0 +1,147 @@
+[
+  {
+    "slug": "aubergine-patio-baby-f1",
+    "names": {
+      "nl": "Aubergine 'Patio Baby' F1",
+      "en": "Eggplant 'Patio Baby' F1"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "bush",
+      "spineless",
+      "early"
+    ],
+    "crop_slug": "aubergine",
+    "sources": [
+      "https://www.vreeken.nl/015220-aubergine-patio-baby-f1",
+      "https://snoekzaden.nl/categorieen/patio-vegetables/buzzy%C2%AE-patio-veggies,-aubergine-patio-baby-f1",
+      "https://moestuinenbloem.nl/potaubergine-f1-tuin-de-bruijn/",
+      "https://zaaikalender.com/zaden/aubergine/",
+      "https://www.welkoop.nl/hortitops-aubergine-solanum-melongena-groentezaden-10stuks_1191005",
+      "https://www.vreeken.nl/014050-aubergine-baby-belle-kono",
+      "https://www.vreeken.nl/zaden/groenten-fruit/aubergines",
+      "https://www.welkoop.nl/buzzy-patio-vegetables-mini-aubergine-groentezaden-6stuks_1418991",
+      "https://tuinplus.nl/en/4/083004/buzzy-patio-veggies-mini-eggplant-patio-baby-f1.aspx",
+      "https://plantenshopzeeland.nl/aubergines-kweken-in-pot/",
+      "https://www.dehobbytuinder.nl/blog/aubergine-kweken-complete-gids-voor-beginners-en-gevorderden/",
+      "https://www.welkoop.nl/hortitops-aubergine-solanum-melongena-groentezaden-2gram_1039831",
+      "https://www.osdorp.nl/product/buzzy-aubergine-black-beauty-bio"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "aubergine-ophelia-f1",
+    "names": {
+      "nl": "Aubergine 'Ophelia' F1",
+      "en": "Aubergine 'Ophelia' F1"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "bush",
+      "early"
+    ],
+    "crop_slug": "aubergine",
+    "sources": [
+      "https://www.vreeken.nl/015220-aubergine-patio-baby-f1",
+      "https://snoekzaden.nl/categorieen/patio-vegetables/buzzy%C2%AE-patio-veggies,-aubergine-patio-baby-f1",
+      "https://moestuinenbloem.nl/potaubergine-f1-tuin-de-bruijn/",
+      "https://zaaikalender.com/zaden/aubergine/",
+      "https://www.welkoop.nl/hortitops-aubergine-solanum-melongena-groentezaden-10stuks_1191005",
+      "https://www.vreeken.nl/014050-aubergine-baby-belle-kono",
+      "https://www.vreeken.nl/zaden/groenten-fruit/aubergines",
+      "https://www.welkoop.nl/buzzy-patio-vegetables-mini-aubergine-groentezaden-6stuks_1418991",
+      "https://tuinplus.nl/en/4/083004/buzzy-patio-veggies-mini-eggplant-patio-baby-f1.aspx",
+      "https://plantenshopzeeland.nl/aubergines-kweken-in-pot/",
+      "https://www.dehobbytuinder.nl/blog/aubergine-kweken-complete-gids-voor-beginners-en-gevorderden/",
+      "https://www.welkoop.nl/hortitops-aubergine-solanum-melongena-groentezaden-2gram_1039831",
+      "https://www.osdorp.nl/product/buzzy-aubergine-black-beauty-bio"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "aubergine-baby-belle",
+    "names": {
+      "nl": "Aubergine 'Baby Belle'",
+      "en": "Aubergine 'Baby Belle'"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "cherry",
+      "bush",
+      "early"
+    ],
+    "crop_slug": "aubergine",
+    "sources": [
+      "https://www.vreeken.nl/015220-aubergine-patio-baby-f1",
+      "https://snoekzaden.nl/categorieen/patio-vegetables/buzzy%C2%AE-patio-veggies,-aubergine-patio-baby-f1",
+      "https://moestuinenbloem.nl/potaubergine-f1-tuin-de-bruijn/",
+      "https://zaaikalender.com/zaden/aubergine/",
+      "https://www.welkoop.nl/hortitops-aubergine-solanum-melongena-groentezaden-10stuks_1191005",
+      "https://www.vreeken.nl/014050-aubergine-baby-belle-kono",
+      "https://www.vreeken.nl/zaden/groenten-fruit/aubergines",
+      "https://www.welkoop.nl/buzzy-patio-vegetables-mini-aubergine-groentezaden-6stuks_1418991",
+      "https://tuinplus.nl/en/4/083004/buzzy-patio-veggies-mini-eggplant-patio-baby-f1.aspx",
+      "https://plantenshopzeeland.nl/aubergines-kweken-in-pot/",
+      "https://www.dehobbytuinder.nl/blog/aubergine-kweken-complete-gids-voor-beginners-en-gevorderden/",
+      "https://www.welkoop.nl/hortitops-aubergine-solanum-melongena-groentezaden-2gram_1039831",
+      "https://www.osdorp.nl/product/buzzy-aubergine-black-beauty-bio"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "aubergine-buzzy-patio-vegetables-mini",
+    "names": {
+      "nl": "Buzzy Patio Vegetables Mini Aubergine",
+      "en": "Buzzy Patio Vegetables Mini Aubergine"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "spineless"
+    ],
+    "crop_slug": "aubergine",
+    "sources": [
+      "https://www.vreeken.nl/015220-aubergine-patio-baby-f1",
+      "https://snoekzaden.nl/categorieen/patio-vegetables/buzzy%C2%AE-patio-veggies,-aubergine-patio-baby-f1",
+      "https://moestuinenbloem.nl/potaubergine-f1-tuin-de-bruijn/",
+      "https://zaaikalender.com/zaden/aubergine/",
+      "https://www.welkoop.nl/hortitops-aubergine-solanum-melongena-groentezaden-10stuks_1191005",
+      "https://www.vreeken.nl/014050-aubergine-baby-belle-kono",
+      "https://www.vreeken.nl/zaden/groenten-fruit/aubergines",
+      "https://www.welkoop.nl/buzzy-patio-vegetables-mini-aubergine-groentezaden-6stuks_1418991",
+      "https://tuinplus.nl/en/4/083004/buzzy-patio-veggies-mini-eggplant-patio-baby-f1.aspx",
+      "https://plantenshopzeeland.nl/aubergines-kweken-in-pot/",
+      "https://www.dehobbytuinder.nl/blog/aubergine-kweken-complete-gids-voor-beginners-en-gevorderden/",
+      "https://www.welkoop.nl/hortitops-aubergine-solanum-melongena-groentezaden-2gram_1039831",
+      "https://www.osdorp.nl/product/buzzy-aubergine-black-beauty-bio"
+    ],
+    "verified": false
+  }
+]

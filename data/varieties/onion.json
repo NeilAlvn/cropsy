@@ -1,0 +1,160 @@
+[
+  {
+    "slug": "onion-white-lisbon",
+    "names": {
+      "nl": "Bosui 'White Lisbon'",
+      "en": "White Lisbon"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin",
+      "De Bolster"
+    ],
+    "traits": [
+      "very early",
+      "slender upright growth",
+      "mild crisp flavor",
+      "forms a small tender white base"
+    ],
+    "crop_slug": "onion",
+    "sources": [
+      "https://www.intratuin.nl/intratuin-groentezaad-bosuien-allium-cepa-white-lisbon.html",
+      "https://www.bolster.nl/bosui-white-lisbon-allium-cepa/p3995",
+      "https://www.bolster.nl/uien-telen-onze-tips/t22705",
+      "https://www.bolster.nl/bosui/c604",
+      "https://www.bolster.nl/stengelui-ishikura-long-white-allium-fistulosum/p2592",
+      "https://www.intratuin.nl/intratuin-groentezaad-stengel-ui-allium-fistulosum-ishikura.html",
+      "https://tuinzaden.eu/nl/uien-zaden-kopen/502883-ishikura-stengelui-lente-ui-zaden.html",
+      "https://www.vreeken.nl/zoeken/307040,307045",
+      "https://www.bolster.nl/bosui-en-stengelui-kweken-onze-tips/t21695",
+      "https://www.bolster.nl/ui/c540",
+      "https://www.welkoop.nl/oranjeband-zaden-bosui-rode-red-ninja-groentezaden-5gram_1300913",
+      "https://tuinzaden.eu/nl/uien-zaden-kopen/920979-red-ninja-rode-bosui-zaden.html",
+      "https://www.gardenseeds.nl/product/rode-stengelui-apache/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "onion-ishikura-long-white",
+    "names": {
+      "nl": "Stengelui 'Ishikura Long White'",
+      "en": "Ishikura Long White"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "non-bulbing",
+      "long pure-white thick shafts",
+      "erect green foliage",
+      "cold-hardy",
+      "pest-tolerant"
+    ],
+    "crop_slug": "onion",
+    "sources": [
+      "https://www.intratuin.nl/intratuin-groentezaad-bosuien-allium-cepa-white-lisbon.html",
+      "https://www.bolster.nl/bosui-white-lisbon-allium-cepa/p3995",
+      "https://www.bolster.nl/uien-telen-onze-tips/t22705",
+      "https://www.bolster.nl/bosui/c604",
+      "https://www.bolster.nl/stengelui-ishikura-long-white-allium-fistulosum/p2592",
+      "https://www.intratuin.nl/intratuin-groentezaad-stengel-ui-allium-fistulosum-ishikura.html",
+      "https://tuinzaden.eu/nl/uien-zaden-kopen/502883-ishikura-stengelui-lente-ui-zaden.html",
+      "https://www.vreeken.nl/zoeken/307040,307045",
+      "https://www.bolster.nl/bosui-en-stengelui-kweken-onze-tips/t21695",
+      "https://www.bolster.nl/ui/c540",
+      "https://www.welkoop.nl/oranjeband-zaden-bosui-rode-red-ninja-groentezaden-5gram_1300913",
+      "https://tuinzaden.eu/nl/uien-zaden-kopen/920979-red-ninja-rode-bosui-zaden.html",
+      "https://www.gardenseeds.nl/product/rode-stengelui-apache/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "onion-red-ninja",
+    "names": {
+      "nl": "Bosui Rode 'Red Ninja'",
+      "en": "Red Ninja"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop",
+      "Oranjeband Zaden",
+      "Buzzy Seeds"
+    ],
+    "traits": [
+      "decorative deep red/purple stems",
+      "non-bulbing",
+      "fast upright growth",
+      "slightly spicier and punchier flavor"
+    ],
+    "crop_slug": "onion",
+    "sources": [
+      "https://www.intratuin.nl/intratuin-groentezaad-bosuien-allium-cepa-white-lisbon.html",
+      "https://www.bolster.nl/bosui-white-lisbon-allium-cepa/p3995",
+      "https://www.bolster.nl/uien-telen-onze-tips/t22705",
+      "https://www.bolster.nl/bosui/c604",
+      "https://www.bolster.nl/stengelui-ishikura-long-white-allium-fistulosum/p2592",
+      "https://www.intratuin.nl/intratuin-groentezaad-stengel-ui-allium-fistulosum-ishikura.html",
+      "https://tuinzaden.eu/nl/uien-zaden-kopen/502883-ishikura-stengelui-lente-ui-zaden.html",
+      "https://www.vreeken.nl/zoeken/307040,307045",
+      "https://www.bolster.nl/bosui-en-stengelui-kweken-onze-tips/t21695",
+      "https://www.bolster.nl/ui/c540",
+      "https://www.welkoop.nl/oranjeband-zaden-bosui-rode-red-ninja-groentezaden-5gram_1300913",
+      "https://tuinzaden.eu/nl/uien-zaden-kopen/920979-red-ninja-rode-bosui-zaden.html",
+      "https://www.gardenseeds.nl/product/rode-stengelui-apache/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "onion-apache",
+    "names": {
+      "nl": "Rode Stengelui 'Apache'",
+      "en": "Apache"
+    },
+    "days_to_harvest": {
+      "min": 65,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden"
+    ],
+    "traits": [
+      "early",
+      "dual-purpose salad/spring onion",
+      "glossy reddish-purple miniature oval bulbs",
+      "mild sweet taste",
+      "compact foliage",
+      "well adapted to containers"
+    ],
+    "crop_slug": "onion",
+    "sources": [
+      "https://www.intratuin.nl/intratuin-groentezaad-bosuien-allium-cepa-white-lisbon.html",
+      "https://www.bolster.nl/bosui-white-lisbon-allium-cepa/p3995",
+      "https://www.bolster.nl/uien-telen-onze-tips/t22705",
+      "https://www.bolster.nl/bosui/c604",
+      "https://www.bolster.nl/stengelui-ishikura-long-white-allium-fistulosum/p2592",
+      "https://www.intratuin.nl/intratuin-groentezaad-stengel-ui-allium-fistulosum-ishikura.html",
+      "https://tuinzaden.eu/nl/uien-zaden-kopen/502883-ishikura-stengelui-lente-ui-zaden.html",
+      "https://www.vreeken.nl/zoeken/307040,307045",
+      "https://www.bolster.nl/bosui-en-stengelui-kweken-onze-tips/t21695",
+      "https://www.bolster.nl/ui/c540",
+      "https://www.welkoop.nl/oranjeband-zaden-bosui-rode-red-ninja-groentezaden-5gram_1300913",
+      "https://tuinzaden.eu/nl/uien-zaden-kopen/920979-red-ninja-rode-bosui-zaden.html",
+      "https://www.gardenseeds.nl/product/rode-stengelui-apache/"
+    ],
+    "verified": false
+  }
+]

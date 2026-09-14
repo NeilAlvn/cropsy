@@ -1,0 +1,159 @@
+[
+  {
+    "slug": "gherkin-h-19-little-leaf",
+    "names": {
+      "nl": "Augurk 'H-19 Little Leaf'",
+      "en": "Gherkin 'H-19 Little Leaf'"
+    },
+    "days_to_harvest": {
+      "min": 55,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "compact",
+      "small-leaf",
+      "parthenocarpic",
+      "powdery-mildew-resistant",
+      "downy-mildew-resistant",
+      "scab-resistant",
+      "dual-use"
+    ],
+    "crop_slug": "gherkin",
+    "sources": [
+      "https://www.vreeken.nl/017050-augurken-19-little-leaf",
+      "https://www.vreeken.nl/zoeken/nieuwe/introducties/2015",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p7-15",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p2-80",
+      "https://www.bolster.nl/augurk-adam-f1-cucumis-sativus/p10794",
+      "https://www.bolster.nl/augurken-inmaken/t5362",
+      "https://www.welkoop.nl/hortitops-augurken-cucumis-sativus-profi-f1-groentezaden-10stuks_1092976",
+      "https://www.dutchgardenseeds.com/hoe-kweek-ik-groente/augurk-kweken/",
+      "https://www.pokon.nl/plant/item/augurken/",
+      "https://www.tuincollectie.nl/product/22168/buzzy-augurk-hokus-zaden",
+      "https://www.intratuin.nl/intratuin-groentezaad-augurken-cucumis-sativus-hokus.html",
+      "https://www.dutchgardenseeds.com/augurken-zaden-hokus/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "gherkin-adam-f1",
+    "names": {
+      "nl": "Augurk 'Adam F1'",
+      "en": "Gherkin 'Adam F1'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "early",
+      "prolific",
+      "parthenocarpic",
+      "seedless",
+      "mildew-resistant",
+      "organic"
+    ],
+    "crop_slug": "gherkin",
+    "sources": [
+      "https://www.vreeken.nl/017050-augurken-19-little-leaf",
+      "https://www.vreeken.nl/zoeken/nieuwe/introducties/2015",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p7-15",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p2-80",
+      "https://www.bolster.nl/augurk-adam-f1-cucumis-sativus/p10794",
+      "https://www.bolster.nl/augurken-inmaken/t5362",
+      "https://www.welkoop.nl/hortitops-augurken-cucumis-sativus-profi-f1-groentezaden-10stuks_1092976",
+      "https://www.dutchgardenseeds.com/hoe-kweek-ik-groente/augurk-kweken/",
+      "https://www.pokon.nl/plant/item/augurken/",
+      "https://www.tuincollectie.nl/product/22168/buzzy-augurk-hokus-zaden",
+      "https://www.intratuin.nl/intratuin-groentezaad-augurken-cucumis-sativus-hokus.html",
+      "https://www.dutchgardenseeds.com/augurken-zaden-hokus/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "gherkin-profi-f1",
+    "names": {
+      "nl": "Augurk 'Profi F1'",
+      "en": "Gherkin 'Profi F1'"
+    },
+    "days_to_harvest": {
+      "min": 55,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "all-female",
+      "gynoecious",
+      "bitter-free",
+      "seedless",
+      "mildew-resistant",
+      "compact"
+    ],
+    "crop_slug": "gherkin",
+    "sources": [
+      "https://www.vreeken.nl/017050-augurken-19-little-leaf",
+      "https://www.vreeken.nl/zoeken/nieuwe/introducties/2015",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p7-15",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p2-80",
+      "https://www.bolster.nl/augurk-adam-f1-cucumis-sativus/p10794",
+      "https://www.bolster.nl/augurken-inmaken/t5362",
+      "https://www.welkoop.nl/hortitops-augurken-cucumis-sativus-profi-f1-groentezaden-10stuks_1092976",
+      "https://www.dutchgardenseeds.com/hoe-kweek-ik-groente/augurk-kweken/",
+      "https://www.pokon.nl/plant/item/augurken/",
+      "https://www.tuincollectie.nl/product/22168/buzzy-augurk-hokus-zaden",
+      "https://www.intratuin.nl/intratuin-groentezaad-augurken-cucumis-sativus-hokus.html",
+      "https://www.dutchgardenseeds.com/augurken-zaden-hokus/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "gherkin-hokus",
+    "names": {
+      "nl": "Augurk 'Hokus'",
+      "en": "Gherkin 'Hokus'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin",
+      "Buzzy Seeds",
+      "Sluis Garden"
+    ],
+    "traits": [
+      "heritage",
+      "scab-resistant",
+      "mosaic-virus-tolerant",
+      "dual-use"
+    ],
+    "crop_slug": "gherkin",
+    "sources": [
+      "https://www.vreeken.nl/017050-augurken-19-little-leaf",
+      "https://www.vreeken.nl/zoeken/nieuwe/introducties/2015",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p7-15",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p2-80",
+      "https://www.bolster.nl/augurk-adam-f1-cucumis-sativus/p10794",
+      "https://www.bolster.nl/augurken-inmaken/t5362",
+      "https://www.welkoop.nl/hortitops-augurken-cucumis-sativus-profi-f1-groentezaden-10stuks_1092976",
+      "https://www.dutchgardenseeds.com/hoe-kweek-ik-groente/augurk-kweken/",
+      "https://www.pokon.nl/plant/item/augurken/",
+      "https://www.tuincollectie.nl/product/22168/buzzy-augurk-hokus-zaden",
+      "https://www.intratuin.nl/intratuin-groentezaad-augurken-cucumis-sativus-hokus.html",
+      "https://www.dutchgardenseeds.com/augurken-zaden-hokus/"
+    ],
+    "verified": false
+  }
+]

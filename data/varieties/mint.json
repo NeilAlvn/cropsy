@@ -1,0 +1,159 @@
+[
+  {
+    "slug": "mint-kruizemunt",
+    "names": {
+      "nl": "Kruizemunt",
+      "en": "Spearmint"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "bushy",
+      "upright",
+      "perennial",
+      "winter-hardy"
+    ],
+    "crop_slug": "mint",
+    "sources": [
+      "https://nl-nl.bakker.com/collections/munt",
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed/kruidenzaden",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-kruizemunt-mentha-spicata.html",
+      "https://dezaden.nl/product/buzzy-kruizemunt-zaden/",
+      "https://nl-be.bakker.com/products/groene-munt-1",
+      "https://www.vreeken.nl/832020-munt-marokkaanse-maroc-nana",
+      "https://www.vreeken.nl/zoeken/831900,832020",
+      "https://www.vreeken.nl/",
+      "https://www.vreeken.nl/zoeken/eco/oke/zaden/p12",
+      "https://www.dutchgardenseeds.com/pepermunt/",
+      "https://www.dutchgardenseeds.com/kruizemunt-zaden/",
+      "https://tuinplus.nl/nl/4/001170/buzzy-pepermunt.aspx",
+      "https://www.dutchgardenseeds.com/kruidenzaden-kruizemunt/",
+      "https://www.welkoop.nl/welkoop-moestuin-magie-munt-zaden_1431868"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "mint-maroc-nana",
+    "names": {
+      "nl": "Marokkaanse Munt 'Maroc Nana'",
+      "en": "Moroccan Mint 'Maroc Nana'"
+    },
+    "days_to_harvest": {
+      "min": 20,
+      "max": 35
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "compact",
+      "bushy",
+      "hardy",
+      "perennial"
+    ],
+    "crop_slug": "mint",
+    "sources": [
+      "https://nl-nl.bakker.com/collections/munt",
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed/kruidenzaden",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-kruizemunt-mentha-spicata.html",
+      "https://dezaden.nl/product/buzzy-kruizemunt-zaden/",
+      "https://nl-be.bakker.com/products/groene-munt-1",
+      "https://www.vreeken.nl/832020-munt-marokkaanse-maroc-nana",
+      "https://www.vreeken.nl/zoeken/831900,832020",
+      "https://www.vreeken.nl/",
+      "https://www.vreeken.nl/zoeken/eco/oke/zaden/p12",
+      "https://www.dutchgardenseeds.com/pepermunt/",
+      "https://www.dutchgardenseeds.com/kruizemunt-zaden/",
+      "https://tuinplus.nl/nl/4/001170/buzzy-pepermunt.aspx",
+      "https://www.dutchgardenseeds.com/kruidenzaden-kruizemunt/",
+      "https://www.welkoop.nl/welkoop-moestuin-magie-munt-zaden_1431868"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "mint-pepermunt",
+    "names": {
+      "nl": "Pepermunt",
+      "en": "Peppermint"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy Seeds",
+      "Dutch Garden Seeds"
+    ],
+    "traits": [
+      "upright",
+      "bushy",
+      "perennial",
+      "pest-deterrent"
+    ],
+    "crop_slug": "mint",
+    "sources": [
+      "https://nl-nl.bakker.com/collections/munt",
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed/kruidenzaden",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-kruizemunt-mentha-spicata.html",
+      "https://dezaden.nl/product/buzzy-kruizemunt-zaden/",
+      "https://nl-be.bakker.com/products/groene-munt-1",
+      "https://www.vreeken.nl/832020-munt-marokkaanse-maroc-nana",
+      "https://www.vreeken.nl/zoeken/831900,832020",
+      "https://www.vreeken.nl/",
+      "https://www.vreeken.nl/zoeken/eco/oke/zaden/p12",
+      "https://www.dutchgardenseeds.com/pepermunt/",
+      "https://www.dutchgardenseeds.com/kruizemunt-zaden/",
+      "https://tuinplus.nl/nl/4/001170/buzzy-pepermunt.aspx",
+      "https://www.dutchgardenseeds.com/kruidenzaden-kruizemunt/",
+      "https://www.welkoop.nl/welkoop-moestuin-magie-munt-zaden_1431868"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "mint-welkoop-moestuin-magie",
+    "names": {
+      "nl": "Welkoop Moestuin Magie – Munt",
+      "en": "Welkoop Moestuin Magie – Peppermint"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "dense",
+      "bushy",
+      "perennial",
+      "cut-and-come-again"
+    ],
+    "crop_slug": "mint",
+    "sources": [
+      "https://nl-nl.bakker.com/collections/munt",
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed/kruidenzaden",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-kruizemunt-mentha-spicata.html",
+      "https://dezaden.nl/product/buzzy-kruizemunt-zaden/",
+      "https://nl-be.bakker.com/products/groene-munt-1",
+      "https://www.vreeken.nl/832020-munt-marokkaanse-maroc-nana",
+      "https://www.vreeken.nl/zoeken/831900,832020",
+      "https://www.vreeken.nl/",
+      "https://www.vreeken.nl/zoeken/eco/oke/zaden/p12",
+      "https://www.dutchgardenseeds.com/pepermunt/",
+      "https://www.dutchgardenseeds.com/kruizemunt-zaden/",
+      "https://tuinplus.nl/nl/4/001170/buzzy-pepermunt.aspx",
+      "https://www.dutchgardenseeds.com/kruidenzaden-kruizemunt/",
+      "https://www.welkoop.nl/welkoop-moestuin-magie-munt-zaden_1431868"
+    ],
+    "verified": false
+  }
+]

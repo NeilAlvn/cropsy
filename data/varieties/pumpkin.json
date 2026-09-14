@@ -1,0 +1,135 @@
+[
+  {
+    "slug": "pumpkin-amoro-f1",
+    "names": {
+      "nl": "Pompoen 'Amoro F1'",
+      "en": "Pumpkin 'Amoro F1'"
+    },
+    "days_to_harvest": {
+      "min": 85,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "bush",
+      "early",
+      "high-yielding",
+      "organic"
+    ],
+    "crop_slug": "pumpkin",
+    "sources": [
+      "https://www.bolster.nl/pompoen-amoro-f1-cucurbita-maxima/p3998",
+      "https://www.bolster.nl/zoeken?zoekwoord=cucurbita+maxima",
+      "https://www.vreeken.nl/213880-pompoenen-gold-nugget-golden-nugget",
+      "https://www.vreeken.nl/213540-pompoenen-bush-delicata-jester-f1",
+      "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-50",
+      "https://www.vreeken.nl/213280-pompoenen-baby-boo",
+      "https://dezaden.nl/product/buzzy-ornamental-pompoen-zaden-baby-boo/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-70",
+      "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-15"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "pumpkin-gold-nugget",
+    "names": {
+      "nl": "Pompoen 'Gold Nugget'",
+      "en": "Pumpkin 'Gold Nugget'"
+    },
+    "days_to_harvest": {
+      "min": 85,
+      "max": 95
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken’s Zaden"
+    ],
+    "traits": [
+      "bush",
+      "early",
+      "space-saving"
+    ],
+    "crop_slug": "pumpkin",
+    "sources": [
+      "https://www.bolster.nl/pompoen-amoro-f1-cucurbita-maxima/p3998",
+      "https://www.bolster.nl/zoeken?zoekwoord=cucurbita+maxima",
+      "https://www.vreeken.nl/213880-pompoenen-gold-nugget-golden-nugget",
+      "https://www.vreeken.nl/213540-pompoenen-bush-delicata-jester-f1",
+      "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-50",
+      "https://www.vreeken.nl/213280-pompoenen-baby-boo",
+      "https://dezaden.nl/product/buzzy-ornamental-pompoen-zaden-baby-boo/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-70",
+      "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-15"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "pumpkin-bush-delicata",
+    "names": {
+      "nl": "Pompoen 'Bush Delicata'",
+      "en": "Pumpkin 'Bush Delicata'"
+    },
+    "days_to_harvest": {
+      "min": 95,
+      "max": 100
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken’s Zaden"
+    ],
+    "traits": [
+      "bush",
+      "semi-compact",
+      "mildew-resistant"
+    ],
+    "crop_slug": "pumpkin",
+    "sources": [
+      "https://www.bolster.nl/pompoen-amoro-f1-cucurbita-maxima/p3998",
+      "https://www.bolster.nl/zoeken?zoekwoord=cucurbita+maxima",
+      "https://www.vreeken.nl/213880-pompoenen-gold-nugget-golden-nugget",
+      "https://www.vreeken.nl/213540-pompoenen-bush-delicata-jester-f1",
+      "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-50",
+      "https://www.vreeken.nl/213280-pompoenen-baby-boo",
+      "https://dezaden.nl/product/buzzy-ornamental-pompoen-zaden-baby-boo/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-70",
+      "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-15"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "pumpkin-baby-boo",
+    "names": {
+      "nl": "Mini-Pompoen 'Baby Boo'",
+      "en": "Mini Pumpkin 'Baby Boo'"
+    },
+    "days_to_harvest": {
+      "min": 90,
+      "max": 100
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken’s Zaden",
+      "Buzzy Seeds"
+    ],
+    "traits": [
+      "miniature",
+      "virus-resistant"
+    ],
+    "crop_slug": "pumpkin",
+    "sources": [
+      "https://www.bolster.nl/pompoen-amoro-f1-cucurbita-maxima/p3998",
+      "https://www.bolster.nl/zoeken?zoekwoord=cucurbita+maxima",
+      "https://www.vreeken.nl/213880-pompoenen-gold-nugget-golden-nugget",
+      "https://www.vreeken.nl/213540-pompoenen-bush-delicata-jester-f1",
+      "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-50",
+      "https://www.vreeken.nl/213280-pompoenen-baby-boo",
+      "https://dezaden.nl/product/buzzy-ornamental-pompoen-zaden-baby-boo/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-70",
+      "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-15"
+    ],
+    "verified": false
+  }
+]

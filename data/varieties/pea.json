@@ -1,0 +1,145 @@
+[
+  {
+    "slug": "pea-kelvedon-wonder",
+    "names": {
+      "nl": "Stamdoperwt 'Kelvedon Wonder'",
+      "en": "Kelvedon Wonder"
+    },
+    "days_to_harvest": {
+      "min": 65,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "bush",
+      "stam",
+      "wrinkled seed",
+      "early to mid-early",
+      "sweet",
+      "self-supporting",
+      "pest-resistant",
+      "disease-resistant"
+    ],
+    "crop_slug": "pea",
+    "sources": [
+      "https://www.facebook.com/DeBolsterBiologischeZaden/photos/mmm-verse-doperwtjes-uit-eigen-tuin-dat-duurt-nog-even-maar-je-kunt-ze-deze-maan/1214605780797812/",
+      "https://www.bolster.nl/stamdoperwt-kelvedon-wonder-pisum-sativum/p23",
+      "https://www.bolster.nl/rijsdoperwt-senator-pisum-sativum/p26",
+      "https://www.vreeken.nl/item/groenten-fruit/erwten-peulen/p1-90",
+      "https://www.vreeken.nl/091800-doperwten-stam-half-pint",
+      "https://dezaden.nl/product/buzzy-doperwten-zaden-wonder-van-amerika/",
+      "https://www.intratuin.nl/groentezaad-doperwt-pisum-sativum-wonder-van-amerika.html",
+      "https://www.welkoop.nl/oranjeband-zaden-doperwten-karina-groentezaden-100gram_1300933"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "pea-half-pint",
+    "names": {
+      "nl": "Doperwten-Stam 'Half Pint'",
+      "en": "Half Pint"
+    },
+    "days_to_harvest": {
+      "min": 55,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "ultra-dwarf",
+      "bush",
+      "early",
+      "sweet",
+      "self-supporting",
+      "cold-hardy"
+    ],
+    "crop_slug": "pea",
+    "sources": [
+      "https://www.facebook.com/DeBolsterBiologischeZaden/photos/mmm-verse-doperwtjes-uit-eigen-tuin-dat-duurt-nog-even-maar-je-kunt-ze-deze-maan/1214605780797812/",
+      "https://www.bolster.nl/stamdoperwt-kelvedon-wonder-pisum-sativum/p23",
+      "https://www.bolster.nl/rijsdoperwt-senator-pisum-sativum/p26",
+      "https://www.vreeken.nl/item/groenten-fruit/erwten-peulen/p1-90",
+      "https://www.vreeken.nl/091800-doperwten-stam-half-pint",
+      "https://dezaden.nl/product/buzzy-doperwten-zaden-wonder-van-amerika/",
+      "https://www.intratuin.nl/groentezaad-doperwt-pisum-sativum-wonder-van-amerika.html",
+      "https://www.welkoop.nl/oranjeband-zaden-doperwten-karina-groentezaden-100gram_1300933"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "pea-wonder-van-amerika",
+    "names": {
+      "nl": "Doperwt 'Wonder van Amerika'",
+      "en": "Little Marvel"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "bush",
+      "wrinkled seed",
+      "early",
+      "sweet",
+      "decorative white blossoms",
+      "blight-resistant"
+    ],
+    "crop_slug": "pea",
+    "sources": [
+      "https://www.facebook.com/DeBolsterBiologischeZaden/photos/mmm-verse-doperwtjes-uit-eigen-tuin-dat-duurt-nog-even-maar-je-kunt-ze-deze-maan/1214605780797812/",
+      "https://www.bolster.nl/stamdoperwt-kelvedon-wonder-pisum-sativum/p23",
+      "https://www.bolster.nl/rijsdoperwt-senator-pisum-sativum/p26",
+      "https://www.vreeken.nl/item/groenten-fruit/erwten-peulen/p1-90",
+      "https://www.vreeken.nl/091800-doperwten-stam-half-pint",
+      "https://dezaden.nl/product/buzzy-doperwten-zaden-wonder-van-amerika/",
+      "https://www.intratuin.nl/groentezaad-doperwt-pisum-sativum-wonder-van-amerika.html",
+      "https://www.welkoop.nl/oranjeband-zaden-doperwten-karina-groentezaden-100gram_1300933"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "pea-karina",
+    "names": {
+      "nl": "Doperwten 'Karina'",
+      "en": "Karina"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "bush",
+      "stam",
+      "wrinkled seed",
+      "extra-early",
+      "cold-tolerant",
+      "high sugar",
+      "heavy producer"
+    ],
+    "crop_slug": "pea",
+    "sources": [
+      "https://www.facebook.com/DeBolsterBiologischeZaden/photos/mmm-verse-doperwtjes-uit-eigen-tuin-dat-duurt-nog-even-maar-je-kunt-ze-deze-maan/1214605780797812/",
+      "https://www.bolster.nl/stamdoperwt-kelvedon-wonder-pisum-sativum/p23",
+      "https://www.bolster.nl/rijsdoperwt-senator-pisum-sativum/p26",
+      "https://www.vreeken.nl/item/groenten-fruit/erwten-peulen/p1-90",
+      "https://www.vreeken.nl/091800-doperwten-stam-half-pint",
+      "https://dezaden.nl/product/buzzy-doperwten-zaden-wonder-van-amerika/",
+      "https://www.intratuin.nl/groentezaad-doperwt-pisum-sativum-wonder-van-amerika.html",
+      "https://www.welkoop.nl/oranjeband-zaden-doperwten-karina-groentezaden-100gram_1300933"
+    ],
+    "verified": false
+  }
+]

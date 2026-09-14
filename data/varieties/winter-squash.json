@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "winter-squash-meteor-f1",
+    "names": {
+      "nl": "Pompoen 'Meteor F1'",
+      "en": "Squash 'Meteor F1'"
+    },
+    "days_to_harvest": {
+      "min": 95,
+      "max": 105
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "bush",
+      "organic"
+    ],
+    "crop_slug": "winter-squash",
+    "sources": [
+      "https://www.vreeken.nl/213545-pompoenen-butterbush-f1",
+      "https://nl-be.bakker.com/products/pompoen-delicata-delica-moretti",
+      "https://www.bolster.nl/pompoen-meteor-f1-cucurbita-maxima/p14755",
+      "https://www.bolster.nl/pompoen/c535",
+      "https://www.startpagina.nl/blog/pompoenen-wanneer-rijp",
+      "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p2-20",
+      "https://www.vreeken.nl/213880-pompoenen-gold-nugget-golden-nugget",
+      "https://nl-nl.bakker.com/products/pompoen-delicata-delica-moretti",
+      "https://fr-be.bakker.com/products/courge-delicata",
+      "https://de-de.bakker.com/products/kurbis-delica-moretti"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "winter-squash-butterbush-f1",
+    "names": {
+      "nl": "Pompoen 'Butterbush' F1",
+      "en": "Squash 'Butterbush' F1"
+    },
+    "days_to_harvest": {
+      "min": 80,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "bush",
+      "early"
+    ],
+    "crop_slug": "winter-squash",
+    "sources": [
+      "https://www.vreeken.nl/213545-pompoenen-butterbush-f1",
+      "https://nl-be.bakker.com/products/pompoen-delicata-delica-moretti",
+      "https://www.bolster.nl/pompoen-meteor-f1-cucurbita-maxima/p14755",
+      "https://www.bolster.nl/pompoen/c535",
+      "https://www.startpagina.nl/blog/pompoenen-wanneer-rijp",
+      "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p2-20",
+      "https://www.vreeken.nl/213880-pompoenen-gold-nugget-golden-nugget",
+      "https://nl-nl.bakker.com/products/pompoen-delicata-delica-moretti",
+      "https://fr-be.bakker.com/products/courge-delicata",
+      "https://de-de.bakker.com/products/kurbis-delica-moretti"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "winter-squash-gold-nugget",
+    "names": {
+      "nl": "Pompoen 'Gold Nugget'",
+      "en": "Squash 'Gold Nugget'"
+    },
+    "days_to_harvest": {
+      "min": 85,
+      "max": 95
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "bush",
+      "early"
+    ],
+    "crop_slug": "winter-squash",
+    "sources": [
+      "https://www.vreeken.nl/213545-pompoenen-butterbush-f1",
+      "https://nl-be.bakker.com/products/pompoen-delicata-delica-moretti",
+      "https://www.bolster.nl/pompoen-meteor-f1-cucurbita-maxima/p14755",
+      "https://www.bolster.nl/pompoen/c535",
+      "https://www.startpagina.nl/blog/pompoenen-wanneer-rijp",
+      "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p2-20",
+      "https://www.vreeken.nl/213880-pompoenen-gold-nugget-golden-nugget",
+      "https://nl-nl.bakker.com/products/pompoen-delicata-delica-moretti",
+      "https://fr-be.bakker.com/products/courge-delicata",
+      "https://de-de.bakker.com/products/kurbis-delica-moretti"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "winter-squash-delica-moretti",
+    "names": {
+      "nl": "Pompoen Delicata 'Delica Moretti'",
+      "en": "Squash Delicata 'Delica Moretti'"
+    },
+    "days_to_harvest": {
+      "min": 85,
+      "max": 100
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com"
+    ],
+    "traits": [
+      "climbing",
+      "early"
+    ],
+    "crop_slug": "winter-squash",
+    "sources": [
+      "https://www.vreeken.nl/213545-pompoenen-butterbush-f1",
+      "https://nl-be.bakker.com/products/pompoen-delicata-delica-moretti",
+      "https://www.bolster.nl/pompoen-meteor-f1-cucurbita-maxima/p14755",
+      "https://www.bolster.nl/pompoen/c535",
+      "https://www.startpagina.nl/blog/pompoenen-wanneer-rijp",
+      "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p2-20",
+      "https://www.vreeken.nl/213880-pompoenen-gold-nugget-golden-nugget",
+      "https://nl-nl.bakker.com/products/pompoen-delicata-delica-moretti",
+      "https://fr-be.bakker.com/products/courge-delicata",
+      "https://de-de.bakker.com/products/kurbis-delica-moretti"
+    ],
+    "verified": false
+  }
+]

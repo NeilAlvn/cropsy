@@ -1,0 +1,140 @@
+[
+  {
+    "slug": "sage-fanni",
+    "names": {
+      "nl": "Salie 'Fanni'",
+      "en": "Garden Sage 'Fanni'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden",
+      "Koopzaden"
+    ],
+    "traits": [
+      "compact",
+      "bushy",
+      "drought-resistant",
+      "aromatic",
+      "pollinator-attracting"
+    ],
+    "crop_slug": "sage",
+    "sources": [
+      "https://www.sluisgarden.com/product/garden-sage-culinary-sage-fanni/",
+      "https://www.koopzaden.nl/product/salie-zaden-fanni-salvia-bio",
+      "https://www.vreeken.nl/832777-salie-paarse-purpurascens",
+      "https://www.bolster.nl/salie-salvia-officinalis/p123",
+      "https://www.bolster.eu/sage-salvia-officinalis/p123",
+      "https://www.bolster.nl/salie-telen-dit-kun-je-ermee-doen/t24037",
+      "https://www.intratuin.nl/salie-salvia-officinalis-tricolor-d-9-h-10-cm.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "sage-purpurascens",
+    "names": {
+      "nl": "Paarse Salie 'Purpurascens'",
+      "en": "Purple Sage 'Purpurascens'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "dwarf",
+      "bushy",
+      "ornamental",
+      "winter-hardy",
+      "perennial",
+      "pest-resistant",
+      "low-water"
+    ],
+    "crop_slug": "sage",
+    "sources": [
+      "https://www.sluisgarden.com/product/garden-sage-culinary-sage-fanni/",
+      "https://www.koopzaden.nl/product/salie-zaden-fanni-salvia-bio",
+      "https://www.vreeken.nl/832777-salie-paarse-purpurascens",
+      "https://www.bolster.nl/salie-salvia-officinalis/p123",
+      "https://www.bolster.eu/sage-salvia-officinalis/p123",
+      "https://www.bolster.nl/salie-telen-dit-kun-je-ermee-doen/t24037",
+      "https://www.intratuin.nl/salie-salvia-officinalis-tricolor-d-9-h-10-cm.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "sage-bio",
+    "names": {
+      "nl": "Biologische Salie",
+      "en": "Organic Sage"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "upright",
+      "bushy",
+      "certified-organic",
+      "non-gmo",
+      "open-pollinated",
+      "heirloom",
+      "drought-tolerant"
+    ],
+    "crop_slug": "sage",
+    "sources": [
+      "https://www.sluisgarden.com/product/garden-sage-culinary-sage-fanni/",
+      "https://www.koopzaden.nl/product/salie-zaden-fanni-salvia-bio",
+      "https://www.vreeken.nl/832777-salie-paarse-purpurascens",
+      "https://www.bolster.nl/salie-salvia-officinalis/p123",
+      "https://www.bolster.eu/sage-salvia-officinalis/p123",
+      "https://www.bolster.nl/salie-telen-dit-kun-je-ermee-doen/t24037",
+      "https://www.intratuin.nl/salie-salvia-officinalis-tricolor-d-9-h-10-cm.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "sage-tricolor",
+    "names": {
+      "nl": "Bonte Salie 'Tricolor'",
+      "en": "Tricolor Sage"
+    },
+    "days_to_harvest": {
+      "min": 0,
+      "max": 45
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "ultra-compact",
+      "low-spreading",
+      "ornamental",
+      "evergreen",
+      "heat-loving",
+      "drought-tolerant"
+    ],
+    "crop_slug": "sage",
+    "sources": [
+      "https://www.sluisgarden.com/product/garden-sage-culinary-sage-fanni/",
+      "https://www.koopzaden.nl/product/salie-zaden-fanni-salvia-bio",
+      "https://www.vreeken.nl/832777-salie-paarse-purpurascens",
+      "https://www.bolster.nl/salie-salvia-officinalis/p123",
+      "https://www.bolster.eu/sage-salvia-officinalis/p123",
+      "https://www.bolster.nl/salie-telen-dit-kun-je-ermee-doen/t24037",
+      "https://www.intratuin.nl/salie-salvia-officinalis-tricolor-d-9-h-10-cm.html"
+    ],
+    "verified": false
+  }
+]

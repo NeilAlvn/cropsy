@@ -1,0 +1,153 @@
+[
+  {
+    "slug": "swiss-chard-fireworks",
+    "names": {
+      "nl": "Snijbiet 'Fireworks'",
+      "en": "Swiss Chard 'Fireworks'"
+    },
+    "days_to_harvest": {
+      "min": 30,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "organic",
+      "compact",
+      "upright",
+      "multi-colored",
+      "bolt-resistant",
+      "tolerates partial shade",
+      "cut-and-come-again"
+    ],
+    "crop_slug": "swiss-chard",
+    "sources": [
+      "https://www.bolster.nl/snijbiet-fireworks-beta-vulgaris-subsp-cicla/p3214",
+      "https://www.bolster.nl/snijbiet/c582",
+      "https://www.vreeken.nl/282440-snijbiet-peppermint",
+      "https://www.intratuin.nl/intratuin-groentezaad-regenboog-snijbiet-beta-vulgares-bright-lights.html",
+      "https://www.intratuin.nl/inspiratie/moestuin-snijbiet",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-snijbiet-rainbow-mix",
+      "https://www.bolster.nl/snijbiet-rhubarb-chard-beta-vulgaris-subsp-cicla/p84",
+      "https://www.welkoop.nl/oranjeband-zaden-snijbiet-rhubarb-chard-groentezaden-3gram_1300915",
+      "https://vliegstopper.com/product/snijbiet-donkergr-gladde-witribbige-3/",
+      "https://www.snijbiet.nl/in-de-tuin/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "swiss-chard-peppermint",
+    "names": {
+      "nl": "Snijbiet 'Peppermint'",
+      "en": "Swiss Chard 'Peppermint'"
+    },
+    "days_to_harvest": {
+      "min": 28,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "pot cultivation",
+      "decorative",
+      "pink-striped stems",
+      "tender",
+      "cut-and-come-again"
+    ],
+    "crop_slug": "swiss-chard",
+    "sources": [
+      "https://www.bolster.nl/snijbiet-fireworks-beta-vulgaris-subsp-cicla/p3214",
+      "https://www.bolster.nl/snijbiet/c582",
+      "https://www.vreeken.nl/282440-snijbiet-peppermint",
+      "https://www.intratuin.nl/intratuin-groentezaad-regenboog-snijbiet-beta-vulgares-bright-lights.html",
+      "https://www.intratuin.nl/inspiratie/moestuin-snijbiet",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-snijbiet-rainbow-mix",
+      "https://www.bolster.nl/snijbiet-rhubarb-chard-beta-vulgaris-subsp-cicla/p84",
+      "https://www.welkoop.nl/oranjeband-zaden-snijbiet-rhubarb-chard-groentezaden-3gram_1300915",
+      "https://vliegstopper.com/product/snijbiet-donkergr-gladde-witribbige-3/",
+      "https://www.snijbiet.nl/in-de-tuin/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "swiss-chard-bright-lights",
+    "names": {
+      "nl": "Snijbiet 'Bright Lights'",
+      "en": "Swiss Chard 'Bright Lights'"
+    },
+    "days_to_harvest": {
+      "min": 30,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "upright",
+      "bushy",
+      "rainbow mix",
+      "vigorous",
+      "heat-tolerant",
+      "bolt-tolerant",
+      "ornamental"
+    ],
+    "crop_slug": "swiss-chard",
+    "sources": [
+      "https://www.bolster.nl/snijbiet-fireworks-beta-vulgaris-subsp-cicla/p3214",
+      "https://www.bolster.nl/snijbiet/c582",
+      "https://www.vreeken.nl/282440-snijbiet-peppermint",
+      "https://www.intratuin.nl/intratuin-groentezaad-regenboog-snijbiet-beta-vulgares-bright-lights.html",
+      "https://www.intratuin.nl/inspiratie/moestuin-snijbiet",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-snijbiet-rainbow-mix",
+      "https://www.bolster.nl/snijbiet-rhubarb-chard-beta-vulgaris-subsp-cicla/p84",
+      "https://www.welkoop.nl/oranjeband-zaden-snijbiet-rhubarb-chard-groentezaden-3gram_1300915",
+      "https://vliegstopper.com/product/snijbiet-donkergr-gladde-witribbige-3/",
+      "https://www.snijbiet.nl/in-de-tuin/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "swiss-chard-rhubarb-chard",
+    "names": {
+      "nl": "Snijbiet 'Rhubarb Chard'",
+      "en": "Swiss Chard 'Rhubarb Chard'"
+    },
+    "days_to_harvest": {
+      "min": 30,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster",
+      "Welkoop"
+    ],
+    "traits": [
+      "organic",
+      "compact",
+      "ruby-red stalks",
+      "cold-tolerant",
+      "frost-tolerant",
+      "vigorous regrowth",
+      "savoyed leaves"
+    ],
+    "crop_slug": "swiss-chard",
+    "sources": [
+      "https://www.bolster.nl/snijbiet-fireworks-beta-vulgaris-subsp-cicla/p3214",
+      "https://www.bolster.nl/snijbiet/c582",
+      "https://www.vreeken.nl/282440-snijbiet-peppermint",
+      "https://www.intratuin.nl/intratuin-groentezaad-regenboog-snijbiet-beta-vulgares-bright-lights.html",
+      "https://www.intratuin.nl/inspiratie/moestuin-snijbiet",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-snijbiet-rainbow-mix",
+      "https://www.bolster.nl/snijbiet-rhubarb-chard-beta-vulgaris-subsp-cicla/p84",
+      "https://www.welkoop.nl/oranjeband-zaden-snijbiet-rhubarb-chard-groentezaden-3gram_1300915",
+      "https://vliegstopper.com/product/snijbiet-donkergr-gladde-witribbige-3/",
+      "https://www.snijbiet.nl/in-de-tuin/"
+    ],
+    "verified": false
+  }
+]

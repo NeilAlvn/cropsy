@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "red-cabbage-tete-noire",
+    "names": {
+      "nl": "Rode kool 'Tête Noire'",
+      "en": "Red cabbage 'Tête Noire'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker"
+    ],
+    "traits": [
+      "compact heads",
+      "deep crimson/dark red pigmentation",
+      "cold-tolerant"
+    ],
+    "crop_slug": "red-cabbage",
+    "sources": [
+      "https://www.vreeken.nl/166610-rode-kool-rodeo-f1",
+      "https://www.welkoop.nl/hortitops-rode-kool-brassica-oleracea-langedijker-vroege-zomer-groentezaden-2gram_1039850",
+      "https://nl-nl.bakker.com/products/rode-kool-tete-noire",
+      "https://www.welkoop.nl/hortitops-rode-kool-kalibos-groentezaden-1g_1312946",
+      "https://moestuinland.nl/rode-kool-zaden-kopen-biologisch-klimaro",
+      "https://www.vreeken.nl/166200-rode-kool-langedijker-vroege",
+      "https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/sluitkool-algemeen/rode-kool/",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=147"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "red-cabbage-kalibos",
+    "names": {
+      "nl": "Rode spitskool 'Kalibos'",
+      "en": "Red cabbage 'Kalibos'"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop (Hortitops)"
+    ],
+    "traits": [
+      "pointed head",
+      "spitskool type",
+      "mild and sweet flavour",
+      "tender structure",
+      "vibrant conical purple head",
+      "narrow, upright growth habit"
+    ],
+    "crop_slug": "red-cabbage",
+    "sources": [
+      "https://www.vreeken.nl/166610-rode-kool-rodeo-f1",
+      "https://www.welkoop.nl/hortitops-rode-kool-brassica-oleracea-langedijker-vroege-zomer-groentezaden-2gram_1039850",
+      "https://nl-nl.bakker.com/products/rode-kool-tete-noire",
+      "https://www.welkoop.nl/hortitops-rode-kool-kalibos-groentezaden-1g_1312946",
+      "https://moestuinland.nl/rode-kool-zaden-kopen-biologisch-klimaro",
+      "https://www.vreeken.nl/166200-rode-kool-langedijker-vroege",
+      "https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/sluitkool-algemeen/rode-kool/",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=147"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "red-cabbage-rodeo-f1",
+    "names": {
+      "nl": "Rode kool 'Rodeo' F1",
+      "en": "Red cabbage 'Rodeo' F1"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "F1 hybrid vigour",
+      "early-maturing",
+      "smaller/medium-sized heads",
+      "waxy, decorative purple-blue foliage",
+      "sweet flavour"
+    ],
+    "crop_slug": "red-cabbage",
+    "sources": [
+      "https://www.vreeken.nl/166610-rode-kool-rodeo-f1",
+      "https://www.welkoop.nl/hortitops-rode-kool-brassica-oleracea-langedijker-vroege-zomer-groentezaden-2gram_1039850",
+      "https://nl-nl.bakker.com/products/rode-kool-tete-noire",
+      "https://www.welkoop.nl/hortitops-rode-kool-kalibos-groentezaden-1g_1312946",
+      "https://moestuinland.nl/rode-kool-zaden-kopen-biologisch-klimaro",
+      "https://www.vreeken.nl/166200-rode-kool-langedijker-vroege",
+      "https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/sluitkool-algemeen/rode-kool/",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=147"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "red-cabbage-langedijker-vroege-zomer",
+    "names": {
+      "nl": "Rode kool 'Langedijker Vroege' (Zomer)",
+      "en": "Red cabbage 'Langedijker Vroege' (Zomer)"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop (Hortitops)",
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "fast-growing summer variety",
+      "sparse outer wrapper foliage",
+      "tender leaves",
+      "lighter red/violet hue"
+    ],
+    "crop_slug": "red-cabbage",
+    "sources": [
+      "https://www.vreeken.nl/166610-rode-kool-rodeo-f1",
+      "https://www.welkoop.nl/hortitops-rode-kool-brassica-oleracea-langedijker-vroege-zomer-groentezaden-2gram_1039850",
+      "https://nl-nl.bakker.com/products/rode-kool-tete-noire",
+      "https://www.welkoop.nl/hortitops-rode-kool-kalibos-groentezaden-1g_1312946",
+      "https://moestuinland.nl/rode-kool-zaden-kopen-biologisch-klimaro",
+      "https://www.vreeken.nl/166200-rode-kool-langedijker-vroege",
+      "https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/sluitkool-algemeen/rode-kool/",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=147"
+    ],
+    "verified": false
+  }
+]

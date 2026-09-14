@@ -1,0 +1,159 @@
+[
+  {
+    "slug": "asparagus-mary-washington",
+    "names": {
+      "nl": "Asperge 'Mary Washington'",
+      "en": "Asparagus 'Mary Washington'"
+    },
+    "days_to_harvest": {
+      "min": 700,
+      "max": 1000
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "green",
+      "purple-tinged tips",
+      "rust-resistant",
+      "open-pollinated",
+      "heirloom",
+      "vigorous"
+    ],
+    "crop_slug": "asparagus",
+    "sources": [
+      "https://dezaden.nl/categorie/groentezaden/asperge-zaden/",
+      "https://www.welkoop.nl/hortitops-asperges-asparagus-officinalis-l-argenteuil-groentezaden-3gram_1039830",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p7-15",
+      "https://www.hobbytuinpuurnatuur.nl/product/17792841/asperge-eco-asparagus-officinalis-subsp-officinalis-20-zaden",
+      "https://www.vreeken.nl/013300-asperge-mary-washington",
+      "https://www.vreeken.nl/zoeken/groene/asperges",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=99",
+      "https://tuinzaden.eu/nl/asperges-zaden-kopen/920083-vroege-van-argenteuil-asperge-zaden.html",
+      "https://www.bol.com/nl/nl/p/asperge-zaden-precoce-de-argentuil/9300000129824917/",
+      "https://nl-nl.bakker.com/products/asperge-argenteuil",
+      "https://www.vreeken.nl/collectie/aspergeplanten",
+      "https://nl-nl.bakker.com/products/paarse-asperge-rosalie",
+      "https://fr-be.bakker.com/products/asperge-rouges-rosalie"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "asparagus-argenteuil",
+    "names": {
+      "nl": "Asperge 'Argenteuil'",
+      "en": "Asparagus 'Argenteuil'"
+    },
+    "days_to_harvest": {
+      "min": 700,
+      "max": 1000
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "early",
+      "pale green",
+      "violet-rose tips",
+      "low fiber",
+      "sweet",
+      "tender"
+    ],
+    "crop_slug": "asparagus",
+    "sources": [
+      "https://dezaden.nl/categorie/groentezaden/asperge-zaden/",
+      "https://www.welkoop.nl/hortitops-asperges-asparagus-officinalis-l-argenteuil-groentezaden-3gram_1039830",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p7-15",
+      "https://www.hobbytuinpuurnatuur.nl/product/17792841/asperge-eco-asparagus-officinalis-subsp-officinalis-20-zaden",
+      "https://www.vreeken.nl/013300-asperge-mary-washington",
+      "https://www.vreeken.nl/zoeken/groene/asperges",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=99",
+      "https://tuinzaden.eu/nl/asperges-zaden-kopen/920083-vroege-van-argenteuil-asperge-zaden.html",
+      "https://www.bol.com/nl/nl/p/asperge-zaden-precoce-de-argentuil/9300000129824917/",
+      "https://nl-nl.bakker.com/products/asperge-argenteuil",
+      "https://www.vreeken.nl/collectie/aspergeplanten",
+      "https://nl-nl.bakker.com/products/paarse-asperge-rosalie",
+      "https://fr-be.bakker.com/products/asperge-rouges-rosalie"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "asparagus-vitalim",
+    "names": {
+      "nl": "Asperge 'Vitalim'",
+      "en": "Asparagus 'Vitalim'"
+    },
+    "days_to_harvest": {
+      "min": 365,
+      "max": 700
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "very early",
+      "f1 hybrid",
+      "all-male",
+      "hybrid vigor"
+    ],
+    "crop_slug": "asparagus",
+    "sources": [
+      "https://dezaden.nl/categorie/groentezaden/asperge-zaden/",
+      "https://www.welkoop.nl/hortitops-asperges-asparagus-officinalis-l-argenteuil-groentezaden-3gram_1039830",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p7-15",
+      "https://www.hobbytuinpuurnatuur.nl/product/17792841/asperge-eco-asparagus-officinalis-subsp-officinalis-20-zaden",
+      "https://www.vreeken.nl/013300-asperge-mary-washington",
+      "https://www.vreeken.nl/zoeken/groene/asperges",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=99",
+      "https://tuinzaden.eu/nl/asperges-zaden-kopen/920083-vroege-van-argenteuil-asperge-zaden.html",
+      "https://www.bol.com/nl/nl/p/asperge-zaden-precoce-de-argentuil/9300000129824917/",
+      "https://nl-nl.bakker.com/products/asperge-argenteuil",
+      "https://www.vreeken.nl/collectie/aspergeplanten",
+      "https://nl-nl.bakker.com/products/paarse-asperge-rosalie",
+      "https://fr-be.bakker.com/products/asperge-rouges-rosalie"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "asparagus-rosalie",
+    "names": {
+      "nl": "Paarse Asperge 'Rosalie'",
+      "en": "Purple Asparagus 'Rosalie'"
+    },
+    "days_to_harvest": {
+      "min": 365,
+      "max": 700
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com"
+    ],
+    "traits": [
+      "purple",
+      "high sugar",
+      "low fiber",
+      "tender",
+      "ornamental"
+    ],
+    "crop_slug": "asparagus",
+    "sources": [
+      "https://dezaden.nl/categorie/groentezaden/asperge-zaden/",
+      "https://www.welkoop.nl/hortitops-asperges-asparagus-officinalis-l-argenteuil-groentezaden-3gram_1039830",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p7-15",
+      "https://www.hobbytuinpuurnatuur.nl/product/17792841/asperge-eco-asparagus-officinalis-subsp-officinalis-20-zaden",
+      "https://www.vreeken.nl/013300-asperge-mary-washington",
+      "https://www.vreeken.nl/zoeken/groene/asperges",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=99",
+      "https://tuinzaden.eu/nl/asperges-zaden-kopen/920083-vroege-van-argenteuil-asperge-zaden.html",
+      "https://www.bol.com/nl/nl/p/asperge-zaden-precoce-de-argentuil/9300000129824917/",
+      "https://nl-nl.bakker.com/products/asperge-argenteuil",
+      "https://www.vreeken.nl/collectie/aspergeplanten",
+      "https://nl-nl.bakker.com/products/paarse-asperge-rosalie",
+      "https://fr-be.bakker.com/products/asperge-rouges-rosalie"
+    ],
+    "verified": false
+  }
+]

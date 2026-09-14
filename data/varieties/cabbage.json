@@ -1,0 +1,149 @@
+[
+  {
+    "slug": "cabbage-roem-van-enkhuizen",
+    "names": {
+      "nl": "Witte Kool 'Roem van Enkhuizen'",
+      "en": "White Cabbage 'Roem van Enkhuizen'"
+    },
+    "days_to_harvest": {
+      "min": 65,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "early",
+      "compact",
+      "organic"
+    ],
+    "crop_slug": "cabbage",
+    "sources": [
+      "https://www.bolster.nl/witte-kool-telen/t23033",
+      "https://www.vreeken.nl/185200-witte-kool-roem-van-enkhuizen",
+      "https://nl-nl.bakker.com/products/spitskool-express",
+      "https://www.welkoop.nl/hortitops-spitskool-brassica-oleracea-express-vroege-spitse-groentezaden-2gram_1039857",
+      "https://www.vreeken.nl/185400-witte-kool-minicole-f1",
+      "https://www.intratuin.nl/intratuin-groentezaad-witte-kool-vroege-spitskool-brassica-oleracea-express.html",
+      "https://www.welkoop.nl/hortitops-witte-kool-brassica-oleracea-caraflex-vh-capricorn-groentezaden-75stuks_1040236",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/koolsoorten",
+      "https://www.mooiemoestuin.nl/moestuin/tuinieren-overig/tuinieren-in-potten/groenten-in-potten/",
+      "https://www.welkoop.nl/oranjeband-zaden-spitskool-cape-horn-f1-groentezaden-0-4gram_1300875",
+      "https://www.welkoop.nl/advies/groenten-oogsten-en-bewaren.html",
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed/groentezaden/koolzaden?offset=24"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "cabbage-minicole-f1",
+    "names": {
+      "nl": "Witte Kool 'Minicole' F1",
+      "en": "White Cabbage 'Minicole' F1"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "mini",
+      "split-resistant",
+      "storage",
+      "hybrid"
+    ],
+    "crop_slug": "cabbage",
+    "sources": [
+      "https://www.bolster.nl/witte-kool-telen/t23033",
+      "https://www.vreeken.nl/185200-witte-kool-roem-van-enkhuizen",
+      "https://nl-nl.bakker.com/products/spitskool-express",
+      "https://www.welkoop.nl/hortitops-spitskool-brassica-oleracea-express-vroege-spitse-groentezaden-2gram_1039857",
+      "https://www.vreeken.nl/185400-witte-kool-minicole-f1",
+      "https://www.intratuin.nl/intratuin-groentezaad-witte-kool-vroege-spitskool-brassica-oleracea-express.html",
+      "https://www.welkoop.nl/hortitops-witte-kool-brassica-oleracea-caraflex-vh-capricorn-groentezaden-75stuks_1040236",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/koolsoorten",
+      "https://www.mooiemoestuin.nl/moestuin/tuinieren-overig/tuinieren-in-potten/groenten-in-potten/",
+      "https://www.welkoop.nl/oranjeband-zaden-spitskool-cape-horn-f1-groentezaden-0-4gram_1300875",
+      "https://www.welkoop.nl/advies/groenten-oogsten-en-bewaren.html",
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed/groentezaden/koolzaden?offset=24"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "cabbage-express",
+    "names": {
+      "nl": "Spitskool 'Express'",
+      "en": "Pointed Cabbage 'Express'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker",
+      "Intratuin"
+    ],
+    "traits": [
+      "early",
+      "pointed",
+      "compact"
+    ],
+    "crop_slug": "cabbage",
+    "sources": [
+      "https://www.bolster.nl/witte-kool-telen/t23033",
+      "https://www.vreeken.nl/185200-witte-kool-roem-van-enkhuizen",
+      "https://nl-nl.bakker.com/products/spitskool-express",
+      "https://www.welkoop.nl/hortitops-spitskool-brassica-oleracea-express-vroege-spitse-groentezaden-2gram_1039857",
+      "https://www.vreeken.nl/185400-witte-kool-minicole-f1",
+      "https://www.intratuin.nl/intratuin-groentezaad-witte-kool-vroege-spitskool-brassica-oleracea-express.html",
+      "https://www.welkoop.nl/hortitops-witte-kool-brassica-oleracea-caraflex-vh-capricorn-groentezaden-75stuks_1040236",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/koolsoorten",
+      "https://www.mooiemoestuin.nl/moestuin/tuinieren-overig/tuinieren-in-potten/groenten-in-potten/",
+      "https://www.welkoop.nl/oranjeband-zaden-spitskool-cape-horn-f1-groentezaden-0-4gram_1300875",
+      "https://www.welkoop.nl/advies/groenten-oogsten-en-bewaren.html",
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed/groentezaden/koolzaden?offset=24"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "cabbage-caraflex-f1",
+    "names": {
+      "nl": "Spitskool 'Caraflex' F1",
+      "en": "Pointed Cabbage 'Caraflex' F1"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop",
+      "Hortitops"
+    ],
+    "traits": [
+      "hybrid",
+      "pointed",
+      "split-resistant"
+    ],
+    "crop_slug": "cabbage",
+    "sources": [
+      "https://www.bolster.nl/witte-kool-telen/t23033",
+      "https://www.vreeken.nl/185200-witte-kool-roem-van-enkhuizen",
+      "https://nl-nl.bakker.com/products/spitskool-express",
+      "https://www.welkoop.nl/hortitops-spitskool-brassica-oleracea-express-vroege-spitse-groentezaden-2gram_1039857",
+      "https://www.vreeken.nl/185400-witte-kool-minicole-f1",
+      "https://www.intratuin.nl/intratuin-groentezaad-witte-kool-vroege-spitskool-brassica-oleracea-express.html",
+      "https://www.welkoop.nl/hortitops-witte-kool-brassica-oleracea-caraflex-vh-capricorn-groentezaden-75stuks_1040236",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/koolsoorten",
+      "https://www.mooiemoestuin.nl/moestuin/tuinieren-overig/tuinieren-in-potten/groenten-in-potten/",
+      "https://www.welkoop.nl/oranjeband-zaden-spitskool-cape-horn-f1-groentezaden-0-4gram_1300875",
+      "https://www.welkoop.nl/advies/groenten-oogsten-en-bewaren.html",
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed/groentezaden/koolzaden?offset=24"
+    ],
+    "verified": false
+  }
+]

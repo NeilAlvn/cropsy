@@ -1,0 +1,143 @@
+[
+  {
+    "slug": "lambs-lettuce-vit",
+    "names": {
+      "nl": "Veldsla 'Vit'",
+      "en": "Lamb's lettuce 'Vit'"
+    },
+    "days_to_harvest": {
+      "min": 40,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "compact",
+      "upright",
+      "frost-hardy",
+      "slow-bolting"
+    ],
+    "crop_slug": "lambs-lettuce",
+    "sources": [
+      "https://www.facebook.com/DeBolsterBiologischeZaden/photos/ook-in-de-herfst-en-winter-genieten-van-verse-sla-uit-eigen-tuin-dan-is-veldsla-/1352796313645424/",
+      "https://demoestuinwinkel.nl/products/de_bolster_veldsla_vit",
+      "https://plukkers.com/products/veldsla-vit",
+      "https://nl-nl.bakker.com/products/veldsla-bio",
+      "https://www.gardenseeds.nl/product/veldsla-favor/",
+      "https://www.deoosteindeonline.nl/product/veldsla-zaden-favor",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-veldsla-grote-noordhollandse",
+      "https://www.welkoop.nl/oranjeband-zaden-veldsla-elan-groentezaden-8gram_1300910",
+      "https://www.vreeken.nl/310240-veldsla-ronde-maraichere-coquille-louviers",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p6-90"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lambs-lettuce-favor",
+    "names": {
+      "nl": "Veldsla 'Favor'",
+      "en": "Lamb's lettuce 'Favor'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden",
+      "Gardenseeds"
+    ],
+    "traits": [
+      "upright",
+      "fungal-rot-tolerant",
+      "heat-tolerant"
+    ],
+    "crop_slug": "lambs-lettuce",
+    "sources": [
+      "https://www.facebook.com/DeBolsterBiologischeZaden/photos/ook-in-de-herfst-en-winter-genieten-van-verse-sla-uit-eigen-tuin-dan-is-veldsla-/1352796313645424/",
+      "https://demoestuinwinkel.nl/products/de_bolster_veldsla_vit",
+      "https://plukkers.com/products/veldsla-vit",
+      "https://nl-nl.bakker.com/products/veldsla-bio",
+      "https://www.gardenseeds.nl/product/veldsla-favor/",
+      "https://www.deoosteindeonline.nl/product/veldsla-zaden-favor",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-veldsla-grote-noordhollandse",
+      "https://www.welkoop.nl/oranjeband-zaden-veldsla-elan-groentezaden-8gram_1300910",
+      "https://www.vreeken.nl/310240-veldsla-ronde-maraichere-coquille-louviers",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p6-90"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lambs-lettuce-elan",
+    "names": {
+      "nl": "Veldsla 'Elan'",
+      "en": "Lamb's lettuce 'Elan'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop",
+      "Oranjeband Zaden"
+    ],
+    "traits": [
+      "round-leaved",
+      "dense",
+      "mildew-resistant",
+      "downy-mildew-resistant"
+    ],
+    "crop_slug": "lambs-lettuce",
+    "sources": [
+      "https://www.facebook.com/DeBolsterBiologischeZaden/photos/ook-in-de-herfst-en-winter-genieten-van-verse-sla-uit-eigen-tuin-dan-is-veldsla-/1352796313645424/",
+      "https://demoestuinwinkel.nl/products/de_bolster_veldsla_vit",
+      "https://plukkers.com/products/veldsla-vit",
+      "https://nl-nl.bakker.com/products/veldsla-bio",
+      "https://www.gardenseeds.nl/product/veldsla-favor/",
+      "https://www.deoosteindeonline.nl/product/veldsla-zaden-favor",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-veldsla-grote-noordhollandse",
+      "https://www.welkoop.nl/oranjeband-zaden-veldsla-elan-groentezaden-8gram_1300910",
+      "https://www.vreeken.nl/310240-veldsla-ronde-maraichere-coquille-louviers",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p6-90"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lambs-lettuce-ronde-maraichere",
+    "names": {
+      "nl": "Veldsla 'Ronde Maraîchère' / 'Coquille de Louviers'",
+      "en": "Lamb's lettuce 'Ronde Maraîchère' / 'Coquille de Louviers'"
+    },
+    "days_to_harvest": {
+      "min": 55,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "miniature",
+      "erect",
+      "heirloom",
+      "cold-resistant"
+    ],
+    "crop_slug": "lambs-lettuce",
+    "sources": [
+      "https://www.facebook.com/DeBolsterBiologischeZaden/photos/ook-in-de-herfst-en-winter-genieten-van-verse-sla-uit-eigen-tuin-dan-is-veldsla-/1352796313645424/",
+      "https://demoestuinwinkel.nl/products/de_bolster_veldsla_vit",
+      "https://plukkers.com/products/veldsla-vit",
+      "https://nl-nl.bakker.com/products/veldsla-bio",
+      "https://www.gardenseeds.nl/product/veldsla-favor/",
+      "https://www.deoosteindeonline.nl/product/veldsla-zaden-favor",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-veldsla-grote-noordhollandse",
+      "https://www.welkoop.nl/oranjeband-zaden-veldsla-elan-groentezaden-8gram_1300910",
+      "https://www.vreeken.nl/310240-veldsla-ronde-maraichere-coquille-louviers",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p6-90"
+    ],
+    "verified": false
+  }
+]

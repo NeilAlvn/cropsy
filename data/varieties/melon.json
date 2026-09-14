@@ -1,0 +1,148 @@
+[
+  {
+    "slug": "melon-golden-midget",
+    "names": {
+      "nl": "Watermeloen 'Golden Midget'",
+      "en": "Watermelon 'Golden Midget'"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "extra early",
+      "compact vine",
+      "icebox"
+    ],
+    "crop_slug": "melon",
+    "sources": [
+      "https://www.vreeken.nl/312110-watermeloenen-golden-midget",
+      "https://www.gardenseeds.nl/product/meloen-outdoor-wonder-f1/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://moestuinland.nl/meloen-zaden-kopen-outdoor-wonder-f1",
+      "https://www.bolster.nl/watermeloen-sugar-baby-citrullus-lanatus/p3212",
+      "https://www.bloomling.nl/de-bolster/watermeloen-sugar-baby",
+      "https://tuinzaden.eu/nl/meloen-watermeloen-zaden-kopen/923040-tigrimini-f1-mini-watermeloen-zaden.html",
+      "https://www.tuinplus.nl/en/4/002433/buzzy-watermelon-tigrimini.aspx",
+      "https://www.kwekerijhofste.nl/product/13126905/buzzy-mini-watermeloen-tigrimini-f1",
+      "https://www.mooiemoestuin.nl/fruit/meloen/",
+      "https://www.jansenzaden.nl/products/cucumis-melo-minnesota-midget-47190",
+      "https://www.moestuinforum.nl/topic/23755-watermeloen-in-pot/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "melon-outdoor-wonder-f1",
+    "names": {
+      "nl": "Meloen 'Outdoor Wonder F1'",
+      "en": "Melon 'Outdoor Wonder F1'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden"
+    ],
+    "traits": [
+      "early ripening",
+      "compact vine",
+      "mini",
+      "f1 hybrid"
+    ],
+    "crop_slug": "melon",
+    "sources": [
+      "https://www.vreeken.nl/312110-watermeloenen-golden-midget",
+      "https://www.gardenseeds.nl/product/meloen-outdoor-wonder-f1/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://moestuinland.nl/meloen-zaden-kopen-outdoor-wonder-f1",
+      "https://www.bolster.nl/watermeloen-sugar-baby-citrullus-lanatus/p3212",
+      "https://www.bloomling.nl/de-bolster/watermeloen-sugar-baby",
+      "https://tuinzaden.eu/nl/meloen-watermeloen-zaden-kopen/923040-tigrimini-f1-mini-watermeloen-zaden.html",
+      "https://www.tuinplus.nl/en/4/002433/buzzy-watermelon-tigrimini.aspx",
+      "https://www.kwekerijhofste.nl/product/13126905/buzzy-mini-watermeloen-tigrimini-f1",
+      "https://www.mooiemoestuin.nl/fruit/meloen/",
+      "https://www.jansenzaden.nl/products/cucumis-melo-minnesota-midget-47190",
+      "https://www.moestuinforum.nl/topic/23755-watermeloen-in-pot/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "melon-sugar-baby",
+    "names": {
+      "nl": "Watermeloen 'Sugar Baby'",
+      "en": "Watermelon 'Sugar Baby'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "icebox",
+      "organic"
+    ],
+    "crop_slug": "melon",
+    "sources": [
+      "https://www.vreeken.nl/312110-watermeloenen-golden-midget",
+      "https://www.gardenseeds.nl/product/meloen-outdoor-wonder-f1/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://moestuinland.nl/meloen-zaden-kopen-outdoor-wonder-f1",
+      "https://www.bolster.nl/watermeloen-sugar-baby-citrullus-lanatus/p3212",
+      "https://www.bloomling.nl/de-bolster/watermeloen-sugar-baby",
+      "https://tuinzaden.eu/nl/meloen-watermeloen-zaden-kopen/923040-tigrimini-f1-mini-watermeloen-zaden.html",
+      "https://www.tuinplus.nl/en/4/002433/buzzy-watermelon-tigrimini.aspx",
+      "https://www.kwekerijhofste.nl/product/13126905/buzzy-mini-watermeloen-tigrimini-f1",
+      "https://www.mooiemoestuin.nl/fruit/meloen/",
+      "https://www.jansenzaden.nl/products/cucumis-melo-minnesota-midget-47190",
+      "https://www.moestuinforum.nl/topic/23755-watermeloen-in-pot/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "melon-tigrimini-f1",
+    "names": {
+      "nl": "Mini-Watermeloen 'Tigrimini' F1",
+      "en": "Mini Watermelon 'Tigrimini' F1"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy Seeds"
+    ],
+    "traits": [
+      "fast-growing",
+      "compact",
+      "mini",
+      "f1 hybrid",
+      "micro-seeded"
+    ],
+    "crop_slug": "melon",
+    "sources": [
+      "https://www.vreeken.nl/312110-watermeloenen-golden-midget",
+      "https://www.gardenseeds.nl/product/meloen-outdoor-wonder-f1/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://moestuinland.nl/meloen-zaden-kopen-outdoor-wonder-f1",
+      "https://www.bolster.nl/watermeloen-sugar-baby-citrullus-lanatus/p3212",
+      "https://www.bloomling.nl/de-bolster/watermeloen-sugar-baby",
+      "https://tuinzaden.eu/nl/meloen-watermeloen-zaden-kopen/923040-tigrimini-f1-mini-watermeloen-zaden.html",
+      "https://www.tuinplus.nl/en/4/002433/buzzy-watermelon-tigrimini.aspx",
+      "https://www.kwekerijhofste.nl/product/13126905/buzzy-mini-watermeloen-tigrimini-f1",
+      "https://www.mooiemoestuin.nl/fruit/meloen/",
+      "https://www.jansenzaden.nl/products/cucumis-melo-minnesota-midget-47190",
+      "https://www.moestuinforum.nl/topic/23755-watermeloen-in-pot/"
+    ],
+    "verified": false
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "slug": "coriander-lemon",
+    "names": {
+      "nl": "Koriander 'Lemon'",
+      "en": "Coriander 'Lemon'"
+    },
+    "days_to_harvest": {
+      "min": 40,
+      "max": 50
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "compact",
+      "bush",
+      "dwarf",
+      "citrus-flavor",
+      "attracts beneficial insects"
+    ],
+    "crop_slug": "coriander",
+    "sources": [
+      "https://www.vreeken.nl/347950-koriander-lemon",
+      "https://demoestuinwinkel.nl/products/sluis_garden_koriander_marino",
+      "https://www.tuincentrumdemooij.nl/product/32949/koriander-marino",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-koriander-marino",
+      "https://www.deoosteindeonline.nl/product/biologische-koriander-zaden-marino-bio",
+      "https://www.vreeken.nl/347920-koriander-slowbolt-santo",
+      "https://www.vreeken.nl/zaden/kruiden-specerijen/eenjarige-kruiden",
+      "https://www.vreeken.nl/zaden/kruiden-specerijen/groepen",
+      "https://www.welkoop.nl/hortitops-koriander-coriandrum-sativum-fijnzadig-traagschietend-kruidenzaden-3gram_1039943",
+      "https://nl-nl.bakker.com/products/korianderzaden",
+      "https://www.intratuin.nl/biologische-intratuin-kruidenzaad-koriander-coriandrum-sativum.html",
+      "https://nl-nl.bakker.com/products/koriander-1",
+      "https://www.bolster.nl/dille-en-koriander-kweken-onze-tips/t10432"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "coriander-marino",
+    "names": {
+      "nl": "Koriander 'Marino' (Bio)",
+      "en": "Coriander 'Marino' (Organic)"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden",
+      "De Moestuinwinkel",
+      "Tuincentrum de Mooij"
+    ],
+    "traits": [
+      "bushy",
+      "slow-bolting",
+      "heat-tolerant",
+      "organic"
+    ],
+    "crop_slug": "coriander",
+    "sources": [
+      "https://www.vreeken.nl/347950-koriander-lemon",
+      "https://demoestuinwinkel.nl/products/sluis_garden_koriander_marino",
+      "https://www.tuincentrumdemooij.nl/product/32949/koriander-marino",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-koriander-marino",
+      "https://www.deoosteindeonline.nl/product/biologische-koriander-zaden-marino-bio",
+      "https://www.vreeken.nl/347920-koriander-slowbolt-santo",
+      "https://www.vreeken.nl/zaden/kruiden-specerijen/eenjarige-kruiden",
+      "https://www.vreeken.nl/zaden/kruiden-specerijen/groepen",
+      "https://www.welkoop.nl/hortitops-koriander-coriandrum-sativum-fijnzadig-traagschietend-kruidenzaden-3gram_1039943",
+      "https://nl-nl.bakker.com/products/korianderzaden",
+      "https://www.intratuin.nl/biologische-intratuin-kruidenzaad-koriander-coriandrum-sativum.html",
+      "https://nl-nl.bakker.com/products/koriander-1",
+      "https://www.bolster.nl/dille-en-koriander-kweken-onze-tips/t10432"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "coriander-slowbolt-santo",
+    "names": {
+      "nl": "Koriander 'Slowbolt' / 'Santo'",
+      "en": "Coriander 'Slowbolt' / 'Santo'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "broadleaf",
+      "slow-bolting",
+      "heat-tolerant",
+      "cut-and-come-again"
+    ],
+    "crop_slug": "coriander",
+    "sources": [
+      "https://www.vreeken.nl/347950-koriander-lemon",
+      "https://demoestuinwinkel.nl/products/sluis_garden_koriander_marino",
+      "https://www.tuincentrumdemooij.nl/product/32949/koriander-marino",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-koriander-marino",
+      "https://www.deoosteindeonline.nl/product/biologische-koriander-zaden-marino-bio",
+      "https://www.vreeken.nl/347920-koriander-slowbolt-santo",
+      "https://www.vreeken.nl/zaden/kruiden-specerijen/eenjarige-kruiden",
+      "https://www.vreeken.nl/zaden/kruiden-specerijen/groepen",
+      "https://www.welkoop.nl/hortitops-koriander-coriandrum-sativum-fijnzadig-traagschietend-kruidenzaden-3gram_1039943",
+      "https://nl-nl.bakker.com/products/korianderzaden",
+      "https://www.intratuin.nl/biologische-intratuin-kruidenzaad-koriander-coriandrum-sativum.html",
+      "https://nl-nl.bakker.com/products/koriander-1",
+      "https://www.bolster.nl/dille-en-koriander-kweken-onze-tips/t10432"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "coriander-fijnzadig-traagschietend",
+    "names": {
+      "nl": "Hortitops Koriander (Fijnzadig Traagschietend)",
+      "en": "Hortitops Coriander (Fine-seeded Slow-bolting)"
+    },
+    "days_to_harvest": {
+      "min": 45,
+      "max": 55
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "slow-bolting",
+      "small-seeded",
+      "fragrant"
+    ],
+    "crop_slug": "coriander",
+    "sources": [
+      "https://www.vreeken.nl/347950-koriander-lemon",
+      "https://demoestuinwinkel.nl/products/sluis_garden_koriander_marino",
+      "https://www.tuincentrumdemooij.nl/product/32949/koriander-marino",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-koriander-marino",
+      "https://www.deoosteindeonline.nl/product/biologische-koriander-zaden-marino-bio",
+      "https://www.vreeken.nl/347920-koriander-slowbolt-santo",
+      "https://www.vreeken.nl/zaden/kruiden-specerijen/eenjarige-kruiden",
+      "https://www.vreeken.nl/zaden/kruiden-specerijen/groepen",
+      "https://www.welkoop.nl/hortitops-koriander-coriandrum-sativum-fijnzadig-traagschietend-kruidenzaden-3gram_1039943",
+      "https://nl-nl.bakker.com/products/korianderzaden",
+      "https://www.intratuin.nl/biologische-intratuin-kruidenzaad-koriander-coriandrum-sativum.html",
+      "https://nl-nl.bakker.com/products/koriander-1",
+      "https://www.bolster.nl/dille-en-koriander-kweken-onze-tips/t10432"
+    ],
+    "verified": false
+  }
+]

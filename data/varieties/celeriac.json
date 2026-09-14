@@ -1,0 +1,173 @@
+[
+  {
+    "slug": "celeriac-roem-van-zwijndrecht",
+    "names": {
+      "nl": "Knolselderij 'Roem van Zwijndrecht'",
+      "en": "Celeriac 'Roem van Zwijndrecht'"
+    },
+    "days_to_harvest": {
+      "min": 160,
+      "max": 180
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden",
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "compact root size",
+      "heirloom",
+      "open-pollinated",
+      "fine culinary flavor",
+      "certified organic"
+    ],
+    "crop_slug": "celeriac",
+    "sources": [
+      "https://stadstuinieren.nl/artikel/knolselderij-kweken/",
+      "https://nl-nl.bakker.com/products/knolselderij-goliath",
+      "https://www.bolster.nl/knolselderij-roem-van-zwijndrecht-apium-graveolens/p36",
+      "https://www.vreeken.nl/246110-knolselderij-roem-van-zwijndrecht",
+      "https://www.moestuinforum.nl/topic/225-knolselderie-en-grondvorst/",
+      "https://plukkers.com/products/knolselderij-roem-van-zwijndrecht",
+      "https://www.vreeken.nl/245900-knolselderij-balena-f1",
+      "https://www.gardenseeds.nl/product/knolselderij-goliath/",
+      "https://www.bol.com/nl/nl/p/sluis-garden-knolselderij-goliath/9200000011224956/",
+      "https://www.tuinplus.nl/nl/4/002720/buzzy-knolselderij-dolvi.aspx",
+      "https://www.intratuin.nl/intratuin-groentezaad-knolselderij-apium-graveolens-dolvi-prager-reus.html",
+      "http://www.permacultuurnederland.org/planten.php?zoek=&laag=9&functieSER=Tjs=&pid=420&page=1&sort=naz",
+      "https://dezaden.nl/categorie/groentezaden/knolselderij-zaden/",
+      "https://www.bol.com/nl/nl/p/buzzy-zaden-knolselderie-dolvi-apium-graveolens/9200000054252534/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.mooiemoestuin.nl/kruiden/selderij/",
+      "https://zadenhof.nl/knolselderijzaden/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "celeriac-balena-f1",
+    "names": {
+      "nl": "Knolselderij 'Balena' F1",
+      "en": "Celeriac 'Balena' F1"
+    },
+    "days_to_harvest": {
+      "min": 140,
+      "max": 150
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "compact foliage",
+      "bolt-resistant",
+      "smooth skin",
+      "uniform round root shape"
+    ],
+    "crop_slug": "celeriac",
+    "sources": [
+      "https://stadstuinieren.nl/artikel/knolselderij-kweken/",
+      "https://nl-nl.bakker.com/products/knolselderij-goliath",
+      "https://www.bolster.nl/knolselderij-roem-van-zwijndrecht-apium-graveolens/p36",
+      "https://www.vreeken.nl/246110-knolselderij-roem-van-zwijndrecht",
+      "https://www.moestuinforum.nl/topic/225-knolselderie-en-grondvorst/",
+      "https://plukkers.com/products/knolselderij-roem-van-zwijndrecht",
+      "https://www.vreeken.nl/245900-knolselderij-balena-f1",
+      "https://www.gardenseeds.nl/product/knolselderij-goliath/",
+      "https://www.bol.com/nl/nl/p/sluis-garden-knolselderij-goliath/9200000011224956/",
+      "https://www.tuinplus.nl/nl/4/002720/buzzy-knolselderij-dolvi.aspx",
+      "https://www.intratuin.nl/intratuin-groentezaad-knolselderij-apium-graveolens-dolvi-prager-reus.html",
+      "http://www.permacultuurnederland.org/planten.php?zoek=&laag=9&functieSER=Tjs=&pid=420&page=1&sort=naz",
+      "https://dezaden.nl/categorie/groentezaden/knolselderij-zaden/",
+      "https://www.bol.com/nl/nl/p/buzzy-zaden-knolselderie-dolvi-apium-graveolens/9200000054252534/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.mooiemoestuin.nl/kruiden/selderij/",
+      "https://zadenhof.nl/knolselderijzaden/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "celeriac-goliath",
+    "names": {
+      "nl": "Knolselderij 'Goliath'",
+      "en": "Celeriac 'Goliath'"
+    },
+    "days_to_harvest": {
+      "min": 150,
+      "max": 165
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com",
+      "Sluis Garden"
+    ],
+    "traits": [
+      "bolt-resistant",
+      "disease-tolerant",
+      "solid non-discolouring white flesh"
+    ],
+    "crop_slug": "celeriac",
+    "sources": [
+      "https://stadstuinieren.nl/artikel/knolselderij-kweken/",
+      "https://nl-nl.bakker.com/products/knolselderij-goliath",
+      "https://www.bolster.nl/knolselderij-roem-van-zwijndrecht-apium-graveolens/p36",
+      "https://www.vreeken.nl/246110-knolselderij-roem-van-zwijndrecht",
+      "https://www.moestuinforum.nl/topic/225-knolselderie-en-grondvorst/",
+      "https://plukkers.com/products/knolselderij-roem-van-zwijndrecht",
+      "https://www.vreeken.nl/245900-knolselderij-balena-f1",
+      "https://www.gardenseeds.nl/product/knolselderij-goliath/",
+      "https://www.bol.com/nl/nl/p/sluis-garden-knolselderij-goliath/9200000011224956/",
+      "https://www.tuinplus.nl/nl/4/002720/buzzy-knolselderij-dolvi.aspx",
+      "https://www.intratuin.nl/intratuin-groentezaad-knolselderij-apium-graveolens-dolvi-prager-reus.html",
+      "http://www.permacultuurnederland.org/planten.php?zoek=&laag=9&functieSER=Tjs=&pid=420&page=1&sort=naz",
+      "https://dezaden.nl/categorie/groentezaden/knolselderij-zaden/",
+      "https://www.bol.com/nl/nl/p/buzzy-zaden-knolselderie-dolvi-apium-graveolens/9200000054252534/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.mooiemoestuin.nl/kruiden/selderij/",
+      "https://zadenhof.nl/knolselderijzaden/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "celeriac-dolvi",
+    "names": {
+      "nl": "Knolselderij 'Dolvi'",
+      "en": "Celeriac 'Dolvi'"
+    },
+    "days_to_harvest": {
+      "min": 150,
+      "max": 170
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy Seeds / Tuinplus",
+      "Intratuin"
+    ],
+    "traits": [
+      "dual-purpose",
+      "aromatic cut-and-come-again foliage",
+      "reliable tuber formation",
+      "cold-hardy"
+    ],
+    "crop_slug": "celeriac",
+    "sources": [
+      "https://stadstuinieren.nl/artikel/knolselderij-kweken/",
+      "https://nl-nl.bakker.com/products/knolselderij-goliath",
+      "https://www.bolster.nl/knolselderij-roem-van-zwijndrecht-apium-graveolens/p36",
+      "https://www.vreeken.nl/246110-knolselderij-roem-van-zwijndrecht",
+      "https://www.moestuinforum.nl/topic/225-knolselderie-en-grondvorst/",
+      "https://plukkers.com/products/knolselderij-roem-van-zwijndrecht",
+      "https://www.vreeken.nl/245900-knolselderij-balena-f1",
+      "https://www.gardenseeds.nl/product/knolselderij-goliath/",
+      "https://www.bol.com/nl/nl/p/sluis-garden-knolselderij-goliath/9200000011224956/",
+      "https://www.tuinplus.nl/nl/4/002720/buzzy-knolselderij-dolvi.aspx",
+      "https://www.intratuin.nl/intratuin-groentezaad-knolselderij-apium-graveolens-dolvi-prager-reus.html",
+      "http://www.permacultuurnederland.org/planten.php?zoek=&laag=9&functieSER=Tjs=&pid=420&page=1&sort=naz",
+      "https://dezaden.nl/categorie/groentezaden/knolselderij-zaden/",
+      "https://www.bol.com/nl/nl/p/buzzy-zaden-knolselderie-dolvi-apium-graveolens/9200000054252534/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.mooiemoestuin.nl/kruiden/selderij/",
+      "https://zadenhof.nl/knolselderijzaden/"
+    ],
+    "verified": false
+  }
+]

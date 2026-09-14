@@ -3,75 +3,72 @@ crop: tomato
 lang: nl
 verified: false
 sources:
-  - https://groei.nl/artikel/succesvol-tomaten-zaaien-en-uitplanten
-  - https://velt.nu/groente/tomaten
-  - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/tomatenzaaien-en-opkweken/
-  - https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-tomaat/
-  - https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/heerlijke-tomaten-zaai-je-zelf
-  - https://makkelijkemoestuin.nl/kennisbank/tomaten-verpotten
-  - https://groei.nl/artikel/moestuin-mei-tips
-  - https://wageningen.groei.nl/groeninfo/standaard-titel-1
+  - https://makkelijkemoestuin.nl/kennisbank/hoe-hou-je-voor-gezaaide-plantjes-goed-op-de-vensterbank
   - https://groei.nl/artikel/cherrytomaat-kweken
-  - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/ecomaand10
-  - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/zelf-tomaten-kweken
-  - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/moestuin-in-pot/
-  - https://makkelijkemoestuin.nl/kennisbank/eind-mei-begin-juni-oogsten-en-voeding-aanvullen
-  - https://velt.nu/tip/wat-doe-je-tegen-de-aardappelplaag-en-tomatenziekte
-  - https://makkelijkemoestuin.nl/kennisbank/hoge-kers-tomaten-zaaien-en-kweken
-  - https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/water-geven-droogte/tomaten-water-geven-via-petfles/
-  - https://velt.nu/tip/tips-voor-lentedagen-de-serre-kas
-  - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/tips-voor-tomaten-voor-een-geslaagde-rijke-oogst/
-  - https://groei.nl/artikel/in-7-stappen-naar-lekkere-tomaatjes
-  - https://groei.nl/artikel/tomaten-dieven
-  - https://makkelijkemoestuin.nl/kennisbank/je-moestuinbak-en-op-vakantie
-  - https://makkelijkemoestuin.nl/kennisbank/dieven-van-tomaten-komkommer-en-pompoen
+  - https://makkelijkemoestuin.nl/kennisbank/binnen-voorzaaien-hoe-doe-je-dat
   - https://makkelijkemoestuin.nl/kennisbank/balkontomaat-zaaien-en-kweken
-  - https://makkelijkemoestuin.nl/kennisbank/tomaten-toppen-rond-eind-augustus
-  - https://groei.nl/artikel/moestuin-in-september-oogsten-plukken-en-stekken
+  - https://natuuracademieonline.ivn.nl/resources/schooltuinieren/zaaien/aan-de-slag-de-zaden-van-een-tomaat-zaaien
+  - https://makkelijkemoestuin.nl/blog/druk-in-de-weer-met-de-zomergroentes
+  - https://groei.nl/artikel/in-7-stappen-naar-lekkere-tomaatjes
+  - https://makkelijkemoestuin.nl/blog/begin-mei-druk-met-de-zomergroentes
+  - https://groei.nl/artikel/moestuin-mei-tips
+  - https://www.ivn.nl/provincies/friesland/aanbod/zaaiplezier/leren-over-de-natuur/wat-is-nou-afharden/
+  - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/ecomaand10
+  - https://groei.nl/artikel/water-geven-in-de-tuin-vragen-die-elke-tuinier-heeft
+  - https://beweegt.velt.nu/zadenwerkgroep/2819/houjetomatengezond
+  - https://velt.nu/tip/wat-doe-je-tegen-de-aardappelplaag-en-tomatenziekte
+  - https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-tomaat/
+  - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/tomaten-dieven/
+  - https://www.tuinadvies.nl/planten/kruiden/lycopersicon-esculentum-trostomaten/trostomaat/
+  - https://www.tuinadvies.nl/planten/kruiden/lycopersicon-lycopersicum-noir-de-crimee/tomaat-zwarte-tomaat/
+  - https://beweegt.velt.nu/braas/files/VELT%20Asse-Tuintje%20201404.pdf
+  - https://velt.nu/groente/tomaten
+  - https://groei.nl/artikel/moestuin-in-oktober-oogsten-snoeien-en-opruimen
   - https://velt.nu/nieuws/deel-1-het-kan-wel-ziektevrije-buitentomaten
-  - https://velt.nu/robuuste-tomaten-deel-2
-  - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/tomatenplant-te-veel-water/
-  - https://velt.nu/activiteit/tomaten-kweken-een-passie-door-veltdocent-herman-de-waele
+  - https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-vruchtgewassen/
 ---
 ## Starting
-Begin binnenshuis tussen half maart en begin april. Zaai niet te vroeg in februari zonder groeilampen, want te weinig natuurlijk licht veroorzaakt lange, slappe kiemplanten. Gebruik zaai- en stekgrond, eventueel gemengd met perliet. Dek de zaaibakjes af met een transparante kap of huishoudfolie. Houd de aarde vochtig met een plantenspuit. Voor een vlotte kieming is een warme plek van 20 tot 25 °C ideaal. De zaden ontkiemen doorgaans binnen zeven tot veertien dagen. Zodra het groen verschijnt, hebben de jonge plantjes meteen veel daglicht nodig voor een gezonde start op je vensterbank.
+Begin binnenshuis of in een verwarmde kas van half maart tot begin april. Voor beginners is eind maart of begin april ideaal. Gebruik voedselarme zaaigrond of kokosvezel in kleine potjes. Zo ontwikkelen de prille wortels zich optimaal zonder te verbranden. Houd de grond goed vochtig en zorg voor een warme bodemtemperatuur tussen twintig en tweeëntwintig graden. De kieming volgt meestal binnen zes tot tien dagen. Leuk voor kinderen: je kunt zelfs een vers schijfje rijpe tomaat in een potje leggen. Tomaten hebben in Nederland vier warme maanden nodig om goed af te rijpen.
 
 ## Seedling
-Verspeen zaailingen zodra de eerste echte blaadjes verschijnen, meestal na twee tot drie weken. Til ze voorzichtig op met een verspeenstokje om de wortels te beschermen. Verpot naar aparte potten van 9 tot 12 centimeter met voedzame potgrond. Plant de stengel lekker diep, tot aan de onderste kiemblaadjes. De begraven stengel vormt extra wortels voor een stevige basis. Zet de potjes daarna op een iets koelere plek van 18 tot 20 °C in vol zonlicht. Zo voorkom je slungelige groei.
+Na drie tot vier weken verschijnen de eerste echte blaadjes. Verspeen de zaailingen dan naar eigen potjes met rijkere potgrond. Plant ze direct lekker diep, tot aan de onderste bladeren. De steel vormt dan extra wortels voor een stevige basis. Geef ze een lichte vensterbank op het zuiden rond vijftien tot achttien graden. Hard ze een week voor IJsheiligen af bij mild weer in de halfschaduw. Plant ze pas na half mei definitief buiten.
 
 ## Vegetative
-Plant tomaten nooit buiten voor IJsheiligen tussen 11 en 15 mei. Laat planten een week vooraf geleidelijk wennen aan het buitenklimaat tijdens zachte lentedagen. Kies buiten voor ruime potten van minstens 15 tot 20 liter met afwateringsgaten. Plastic of textielen potten houden vocht uitstekend vast. Geef ze de warmste plek met minimaal vijf tot zes uur directe zon, bij voorkeur beschut onder een afdakje tegen regen. Giet altijd rechtstreeks bij de wortels en houd de bladeren droog. Voed de planten iedere twee tot drie weken met organische tomatenmeststof rijk aan kalium voor stevige celwanden.
+Kies voor klimmers een ruime pot van vijftien tot twintig liter met goede afwateringsgaten. Voor compacte struiktomaten volstaat tien tot vijftien liter. Geef altijd water bij de wortels en houd het blad strikt droog. Bij zomerse hitte geef je dagelijks water. Een mulchlaag van stro, grasmaaisel of compost houdt vocht vast. Zodra de bloei start, geef je wekelijks kaliumrijke biologische tomatenvoeding. Steun klimmende planten met een stok of spiraal en bind de hoofdstam losjes op. Breek wekelijks de kleine okselscheuten met de hand weg. Struiktomaten hoef je niet te dieven.
 
 ## Flowering
-Ondersteun klimmende rassen stevig met lange bamboestokken of spiraalstokken. Bind de hoofdstam regelmatig losjes vast. Breek wekelijks de jonge zijscheutjes in de bladoksels weg. Dit dieven zorgt voor een open gewas en richt alle energie op de trossen. Struik- en balkontomaten hoef je niet te dieven. Top eind augustus de hoofdtop boven de hoogste bloeiende tros. Nieuwe bloemen rijpen in onze korte herfst toch niet meer af. Zo rijpen de gevormde vruchten veel beter af.
+Tomatenbloemen bestuiven zichzelf met behulp van wind en hommels. Op een beschut balkon geef je rond elf uur in de ochtend een zacht tikje tegen de bloemtrossen om stuifmeel los te maken. In ons klimaat rijpen late trossen buiten nauwelijks meer. Top de hoofdstam daarom eind juli of begin augustus. Knip de top twee bladeren boven de vierde of vijfde bloemtros af. Zo gaat alle resterende energie en zonkracht naar de groeiende vruchten.
 
 ## Harvest
-Buiten loopt de oogstperiode van juli tot in oktober. Pluk de vruchten wanneer ze egaal gekleurd zijn en zachtjes meegeven bij lichte druk. Knip ze af met een stukje steel voor een langere houdbaarheid. Verwijder in de nazomer vergeelde bladeren om trossen extra zon te geven. Bewaar verse tomaten nooit in de koelkast. Temperaturen onder de 10 °C tasten de smaakstoffen en textuur onherstelbaar aan. Een koele kamertemperatuur tussen 12 en 18 °C is perfect. Oogst voor de eerste herfstvorst alle groene vruchten. Laat ze binnenshuis narijpen in een kartonnen doos met een rijpe banaan of appel.
+Oogst je tomaten zodra ze egaal gekleurd zijn en licht meegeven bij een zachte druk. Door regelmatig te plukken stimuleer je de overige vruchten om sneller te rijpen. Bewaar geoogste tomaten nooit in de koelkast. Onder tien graden verliezen ze onherstelbaar hun geur en smaak. Een schaal op kamertemperatuur rond twaalf tot achttien graden is perfect. Pluk voor de eerste nachtvorst alle overgebleven groene tomaten. Leg ze binnen op een zonnige vensterbank. Of stop ze in een papieren zak met een banaan of appel om ze snel na te laten rijpen.
 
 ## FAQ
-### Waarom mogen tomaten niet voor IJsheiligen naar buiten?
-Tomatenplanten kunnen absoluut geen vorst verdragen. IJsheiligen, tussen 11 en 15 mei, markeert traditioneel het einde van mogelijke nachtvorst. Zet je planten te vroeg definitief buiten, dan raken ze onherstelbaar beschadigd door kou. Laat ze pas in de week voor deze data voorzichtig overdag buiten afharden.
+### Hoe voorkom ik de tomatenziekte (Phytophthora)?
+De schimmel Phytophthora veroorzaakt bruine vlekken op blad en vruchten. Zorg altijd voor een afdakje zodat de bladeren kurkdroog blijven. Houd voldoende tussenruimte voor een goede luchtcirculatie. Kies daarnaast voor resistente rassen zoals Philamina, Resibella of Primabella. Geef uitsluitend water aan de voet van de plant.
 
-### Hoe voorkom ik de aardappelziekte op mijn balkon?
-Bescherm je tomaten tegen regen door ze onder een afdakje of een transparant tomatendakje te plaatsen. De schimmel slaat vooral toe op natte bladeren. Geef daarom altijd uitsluitend water op de potgrond en nooit op het blad. Zorg voor voldoende luchtcirculatie rond de planten en kies eventueel resistente rassen zoals Philamina of Primabella.
+### Waarom krijgen mijn tomaten zwarte plekken aan de onderkant?
+Dit heet neusrot en herken je aan ingezonken, zwarte plekken. Het ontstaat door een calciumtekort in de vruchtcellen. De hoofdoorzaak is vrijwel altijd een onregelmatige watergift, waarbij de potgrond eerst uitdroogt en daarna kletsnat wordt. Zorg voor een constante, gelijkmatige bodemvochtigheid om dit probleem effectief te voorkomen.
 
-### Wat is neusrot en hoe los ik het op?
-Neusrot herken je aan zwarte, leerachtige plekken aan de onderkant van de vruchten. Dit ontstaat door een lokaal calciumgebrek in de plant. Vrijwel altijd is onregelmatig water geven de boosdoener, zoals droogte gevolgd door een grote plons water. Houd de potgrond daarom constant gelijkmatig vochtig en laat de aarde nooit compleet uitdrogen.
+### Waarom barsten mijn tomaten open vlak voor de oogst?
+Barsten ontstaat wanneer een plant na een droge periode plotseling heel veel water opneemt. Het vruchtvlees zet dan sneller uit dan het velletje kan meerekken. Geef tomaten in potten daarom consequent en gelijkmatig water. Een beschermend afdakje tegen plotselinge stortbuien helpt ook om scheuren te vermijden.
 
-### Waarom barsten mijn tomaten plotseling open?
-Vruchtbarsten ontstaan wanneer planten na een droge periode opeens te veel water opnemen, bijvoorbeeld door zware regenval of overmatig gieten. De vrucht vult zich dan sneller met water dan de schil kan uitrekken. Zorg voor een stabiele, regelmatige watergift bij de wortels en breng een laagje mulch aan om vochtschommelingen in potten tegen te gaan.
+### Wanneer mogen mijn tomatenplanten definitief naar buiten?
+Tomaten kunnen absoluut niet tegen vorst. Wacht daarom altijd tot na IJsheiligen, rond half mei, voordat je ze permanent buiten neerzet. Laat de planten in de week daarvoor alvast rustig wennen aan de buitenlucht. Zet ze op milde dagen in de halfschaduw en haal ze 's nachts nog binnen.
 
-### Moet ik elke tomatenplant dieven?
-Nee, dat hangt af van het type tomaat. Alleen klimmende rassen moeten wekelijks gediefd worden. Je haalt dan de kleine scheutjes in de bladoksels weg om woekering te voorkomen. Struiktomaten en speciale dwerg- of balkontomaten hoef je juist niet te dieven. Deze compacte planten hebben al hun vertakkingen nodig om volop vruchten te produceren.
+### Waarom moet ik zaailingen zo diep planten bij het verspenen?
+Het diep ingraven tot aan de eerste echte blaadjes stimuleert de stengel om bijwortels aan te maken. Hierdoor ontwikkelt de plant ondergronds een veel groter en sterker wortelgestel. Dit levert een stabielere plant op die later in het seizoen veel efficiënter water en voedingsstoffen uit de pot opneemt.
 
-### Waarom mag ik tomaten niet in de koelkast bewaren?
-Bij temperaturen onder de 10 °C breken de aromatische smaakstoffen in tomaten permanent af. Bovendien verandert de frisse, sappige textuur snel in een melige structuur. Bewaar vers geplukte vruchten daarom altijd buiten de koelkast op een koele plek tussen 12 en 18 °C. Zo blijven hun natuurlijke zoetheid en geur optimaal behouden.
+### Hoe en waarom moet ik tomaten dieven?
+Dieven zijn de kleine zijscheuten die in de bladoksels groeien. Breek ze wekelijks met je vingers weg zolang ze kleiner zijn dan tien centimeter. Zo blijft alle energie naar de hoofdtros en vruchtopbouw gaan. Let op: compacte struiktomaten en balkonsoorten hoef je nooit te dieven.
 
-### Waarom moet ik tomaten in augustus toppen?
-Eind augustus is het verstandig om de hoofdtop boven de hoogste bloeiende tros af te knippen. In ons korte najaar hebben nieuwe bloemetjes geen tijd meer om voor de herfstkou uit te groeien tot rijpe tomaten. Door het toppen stopt de groei en steekt de plant alle energie in het afrijpen van bestaande vruchten.
+### Hoe zorg ik voor bestuiving op een beschut balkon?
+Buiten helpen wind en hommels bij de bestuiving van de gele bloempjes. Op een windstil, overdekt balkon help je een handje mee. Tik rond elf uur in de ochtend zachtjes tegen de bloemtrossen of de steunstok. Bij die luchtvochtigheid laat het stuifmeel gemakkelijk los voor een goede vruchtzetting.
 
-### Hoe rijp ik groene tomaten aan het einde van het seizoen na?
-Pluk voor de eerste nachtvorst in oktober alle resterende groene tomaten van de struik. Leg ze binnen in een papieren zak of kartonnen doos. Voeg daar een rijpe banaan of appel aan toe. Deze vruchten stoten natuurlijk ethyleengas uit, waardoor de groene tomaten binnenshuis binnen enkele weken alsnog prachtig rood en rijp kleuren.
+### Wat doe ik met groene tomaten aan het einde van het seizoen?
+Pluk alle onrijpe vruchten voor de eerste nachtvorst van de plant. Leg ze binnen op een lichte vensterbank om na te rijpen. Je kunt ze ook samen met een rijpe banaan of appel in een kartonnen doos of papieren zak stoppen. Het vrijkomende ethyleengas versnelt het rijpingsproces aanzienlijk.
+
+### Welk formaat pot heeft een tomatenplant minimaal nodig?
+Voor klimmende rassen gebruik je een pot van dertig tot vijfendertig centimeter doorsnee met minimaal vijftien tot twintig liter grond. Een te kleine pot droogt te snel uit. Compacte struiktomaten hebben minder ruimte nodig. Die doen het prima in een kleinere pot van tien tot vijftien liter met royale afwateringsgaten.
 
 ## Benefits
-Zelfgekweekte tomaten uit eigen tuin of pot smaken veel zoeter en aromatischer dan waterige supermarkttomaten. De verse oogst is bijzonder veelzijdig in de keuken. Kleine snack- en kerstomaten zijn heerlijk om direct uit het vuistje te eten, te roosteren of door verse salades te mengen. Vlezige pruimtomaten en grote vleestomaten vormen de ideale basis voor rijke, langzaam sudderende pastasauzen, verse soepen en geconcentreerde passata. Ook laten stevige tomaten zich perfect drogen in de oven om langdurig in te maken.
+Zelfgekweekte tomaten uit eigen tuin of balkon zijn ongeëvenaard van smaak. Ze bevatten veel meer suikers en een dieper aroma dan exemplaren uit de supermarkt. Eet ze vers in een klassieke salade met mozzarella, snijd ze dik op brood, of rooster ze langzaam voor een volle pastasaus en geurige soep. Blijven er laat in het najaar toch groene exemplaren over? Verwerk deze onrijpe tomaten dan tot een hartige chutney, smaakvolle relish of gebakken groene tomaten.

@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "celery-gimli-f1",
+    "names": {
+      "nl": "Bleekselderij 'Gimli' F1",
+      "en": "Celery 'Gimli' F1"
+    },
+    "days_to_harvest": {
+      "min": 85,
+      "max": 100
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "compact",
+      "dwarf",
+      "stringless",
+      "rich aroma",
+      "crisp",
+      "dual-use"
+    ],
+    "crop_slug": "celery",
+    "sources": [
+      "https://www.vreeken.nl/247150-bleekselderij-gimli-f1",
+      "https://www.bolster.nl/bleekselderij-tango-f1-apium-graveolens/p9155",
+      "https://www.bolster.nl/bleekselderij-oogsten/t22279",
+      "https://www.bolster.nl/nieuwste-rassen/c5",
+      "https://www.bolster.nl/bleekselderij-telen-onze-tips/t11091",
+      "https://www.bolster.nl/teelttips/t5251",
+      "https://www.bolster.nl/bleekselderij-mambo-f1-apium-graveolens/p12984",
+      "https://www.welkoop.nl/hortitops-bleekselderie-apium-graveolens-goudgele-zelfblekende-2-groentezaden-1g_1039888",
+      "https://tuinzaden.eu/nl/selderij-zaden-kopen/502710-goudgele-zelfblekende-bleekselderie-zaden-.html",
+      "https://www.dutchgardenseeds.com/hoe-kweek-ik-groente/bleekselderij-kweken/",
+      "https://www.intratuin.nl/biologische-intratuin-groentezaad-bleekselderij-apium-graveolens-tall-utah-52-70.html",
+      "https://www.bolster.nl/groenselderij-telen/t23236"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "celery-tango-f1",
+    "names": {
+      "nl": "Bleekselderij 'Tango' F1",
+      "en": "Celery 'Tango' F1"
+    },
+    "days_to_harvest": {
+      "min": 80,
+      "max": 95
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "black-heart-tolerant",
+      "bolt-resistant",
+      "self-blanching",
+      "high-yield"
+    ],
+    "crop_slug": "celery",
+    "sources": [
+      "https://www.vreeken.nl/247150-bleekselderij-gimli-f1",
+      "https://www.bolster.nl/bleekselderij-tango-f1-apium-graveolens/p9155",
+      "https://www.bolster.nl/bleekselderij-oogsten/t22279",
+      "https://www.bolster.nl/nieuwste-rassen/c5",
+      "https://www.bolster.nl/bleekselderij-telen-onze-tips/t11091",
+      "https://www.bolster.nl/teelttips/t5251",
+      "https://www.bolster.nl/bleekselderij-mambo-f1-apium-graveolens/p12984",
+      "https://www.welkoop.nl/hortitops-bleekselderie-apium-graveolens-goudgele-zelfblekende-2-groentezaden-1g_1039888",
+      "https://tuinzaden.eu/nl/selderij-zaden-kopen/502710-goudgele-zelfblekende-bleekselderie-zaden-.html",
+      "https://www.dutchgardenseeds.com/hoe-kweek-ik-groente/bleekselderij-kweken/",
+      "https://www.intratuin.nl/biologische-intratuin-groentezaad-bleekselderij-apium-graveolens-tall-utah-52-70.html",
+      "https://www.bolster.nl/groenselderij-telen/t23236"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "celery-mambo-f1",
+    "names": {
+      "nl": "Bleekselderij 'Mambo' F1",
+      "en": "Celery 'Mambo' F1"
+    },
+    "days_to_harvest": {
+      "min": 85,
+      "max": 100
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "leaf-spot-resistant",
+      "bolt-resistant",
+      "wind-resistant",
+      "uniform",
+      "tender"
+    ],
+    "crop_slug": "celery",
+    "sources": [
+      "https://www.vreeken.nl/247150-bleekselderij-gimli-f1",
+      "https://www.bolster.nl/bleekselderij-tango-f1-apium-graveolens/p9155",
+      "https://www.bolster.nl/bleekselderij-oogsten/t22279",
+      "https://www.bolster.nl/nieuwste-rassen/c5",
+      "https://www.bolster.nl/bleekselderij-telen-onze-tips/t11091",
+      "https://www.bolster.nl/teelttips/t5251",
+      "https://www.bolster.nl/bleekselderij-mambo-f1-apium-graveolens/p12984",
+      "https://www.welkoop.nl/hortitops-bleekselderie-apium-graveolens-goudgele-zelfblekende-2-groentezaden-1g_1039888",
+      "https://tuinzaden.eu/nl/selderij-zaden-kopen/502710-goudgele-zelfblekende-bleekselderie-zaden-.html",
+      "https://www.dutchgardenseeds.com/hoe-kweek-ik-groente/bleekselderij-kweken/",
+      "https://www.intratuin.nl/biologische-intratuin-groentezaad-bleekselderij-apium-graveolens-tall-utah-52-70.html",
+      "https://www.bolster.nl/groenselderij-telen/t23236"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "celery-goudgele-zelfblekende-2",
+    "names": {
+      "nl": "Bleekselderie 'Goudgele Zelfblekende 2'",
+      "en": "Celery 'Goudgele Zelfblekende 2'"
+    },
+    "days_to_harvest": {
+      "min": 90,
+      "max": 105
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop",
+      "Hortitops",
+      "Buzzy Seeds",
+      "Tuinzaden.eu"
+    ],
+    "traits": [
+      "self-blanching",
+      "compact",
+      "mild",
+      "sweet",
+      "crisp"
+    ],
+    "crop_slug": "celery",
+    "sources": [
+      "https://www.vreeken.nl/247150-bleekselderij-gimli-f1",
+      "https://www.bolster.nl/bleekselderij-tango-f1-apium-graveolens/p9155",
+      "https://www.bolster.nl/bleekselderij-oogsten/t22279",
+      "https://www.bolster.nl/nieuwste-rassen/c5",
+      "https://www.bolster.nl/bleekselderij-telen-onze-tips/t11091",
+      "https://www.bolster.nl/teelttips/t5251",
+      "https://www.bolster.nl/bleekselderij-mambo-f1-apium-graveolens/p12984",
+      "https://www.welkoop.nl/hortitops-bleekselderie-apium-graveolens-goudgele-zelfblekende-2-groentezaden-1g_1039888",
+      "https://tuinzaden.eu/nl/selderij-zaden-kopen/502710-goudgele-zelfblekende-bleekselderie-zaden-.html",
+      "https://www.dutchgardenseeds.com/hoe-kweek-ik-groente/bleekselderij-kweken/",
+      "https://www.intratuin.nl/biologische-intratuin-groentezaad-bleekselderij-apium-graveolens-tall-utah-52-70.html",
+      "https://www.bolster.nl/groenselderij-telen/t23236"
+    ],
+    "verified": false
+  }
+]

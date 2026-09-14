@@ -1,0 +1,139 @@
+[
+  {
+    "slug": "sorrel-red-stripe",
+    "names": {
+      "nl": "Bloedzuring 'Red Stripe'",
+      "en": "Red Stripe Blood Sorrel"
+    },
+    "days_to_harvest": {
+      "min": 25,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "compact",
+      "bushy",
+      "winterhardy",
+      "perennial",
+      "ornamental-edible"
+    ],
+    "crop_slug": "sorrel",
+    "sources": [
+      "https://www.bolster.nl/bloedzuring-red-stripe-rumex-sanguineus/p13374",
+      "https://www.vreeken.nl/329820-franse-spaanse-zuring",
+      "https://www.tuinplus.nl/nl/4/11252/ht-bloedzuring.aspx",
+      "https://www.gardenseeds.nl/product/zuring-bloody-dock-bloedzuring/",
+      "https://www.dutchgardenseeds.com/microgreens-zaden-bloedzuring/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2017.pdf",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.intratuin.nl/intratuin-groentezaad-zuring-rumex-acetosa.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "sorrel-schildzuring",
+    "names": {
+      "nl": "Franse- of Spaanse Schildzuring",
+      "en": "French Sorrel"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "dwarf",
+      "low-spreading",
+      "semi-trailing",
+      "bush",
+      "drought-resistant",
+      "heat-resistant"
+    ],
+    "crop_slug": "sorrel",
+    "sources": [
+      "https://www.bolster.nl/bloedzuring-red-stripe-rumex-sanguineus/p13374",
+      "https://www.vreeken.nl/329820-franse-spaanse-zuring",
+      "https://www.tuinplus.nl/nl/4/11252/ht-bloedzuring.aspx",
+      "https://www.gardenseeds.nl/product/zuring-bloody-dock-bloedzuring/",
+      "https://www.dutchgardenseeds.com/microgreens-zaden-bloedzuring/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2017.pdf",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.intratuin.nl/intratuin-groentezaad-zuring-rumex-acetosa.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "sorrel-bloody-dock",
+    "names": {
+      "nl": "Bloedzuring 'Bloody Dock'",
+      "en": "Bloody Dock"
+    },
+    "days_to_harvest": {
+      "min": 30,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden"
+    ],
+    "traits": [
+      "clumping",
+      "bush",
+      "semi-shade-tolerant"
+    ],
+    "crop_slug": "sorrel",
+    "sources": [
+      "https://www.bolster.nl/bloedzuring-red-stripe-rumex-sanguineus/p13374",
+      "https://www.vreeken.nl/329820-franse-spaanse-zuring",
+      "https://www.tuinplus.nl/nl/4/11252/ht-bloedzuring.aspx",
+      "https://www.gardenseeds.nl/product/zuring-bloody-dock-bloedzuring/",
+      "https://www.dutchgardenseeds.com/microgreens-zaden-bloedzuring/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2017.pdf",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.intratuin.nl/intratuin-groentezaad-zuring-rumex-acetosa.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "sorrel-breedbladige-zuring",
+    "names": {
+      "nl": "Breedbladige Zuring / Veldzuring",
+      "en": "Broadleaf Sorrel"
+    },
+    "days_to_harvest": {
+      "min": 45,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "early",
+      "vigorous",
+      "clumping",
+      "perennial",
+      "frost-hardy",
+      "heirloom",
+      "bushy"
+    ],
+    "crop_slug": "sorrel",
+    "sources": [
+      "https://www.bolster.nl/bloedzuring-red-stripe-rumex-sanguineus/p13374",
+      "https://www.vreeken.nl/329820-franse-spaanse-zuring",
+      "https://www.tuinplus.nl/nl/4/11252/ht-bloedzuring.aspx",
+      "https://www.gardenseeds.nl/product/zuring-bloody-dock-bloedzuring/",
+      "https://www.dutchgardenseeds.com/microgreens-zaden-bloedzuring/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2017.pdf",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.intratuin.nl/intratuin-groentezaad-zuring-rumex-acetosa.html"
+    ],
+    "verified": false
+  }
+]

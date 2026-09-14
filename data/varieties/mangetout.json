@@ -1,0 +1,160 @@
+[
+  {
+    "slug": "mangetout-norli",
+    "names": {
+      "nl": "Stampeul 'Norli'",
+      "en": "Mangetout 'Norli'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "dwarf",
+      "bush",
+      "stringless",
+      "parchmentless",
+      "early",
+      "high-yielding"
+    ],
+    "crop_slug": "mangetout",
+    "sources": [
+      "https://www.bolster.nl/stampeul-norli-pisum-sativum/p27",
+      "https://www.vreeken.nl/zoeken/Verhoogd/plantenbed/en",
+      "https://www.deduurzametuin.nl/winkel/tuin/zaden/peul-norli-bio/",
+      "https://tuinzaden.eu/nl/peulen-zaden-kopen/920862-norli-stampeul-zaden.html",
+      "https://moestuinland.nl/peulen-zaden-kopen-norli-kortstro-bio",
+      "https://www.vreeken.nl/115250-peulen-zweedse-lage-vroege-lag-tidig-sockerart",
+      "https://www.vreeken.nl/115000-peulen-stam-grace",
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed/groentezaden/peulvruchtzaden?offset=25",
+      "https://www.vreeken.nl/zaden/groenten-fruit/erwten-peulen/p1-70",
+      "https://www.compo.be/nl/advies/planten/kruiden-groenten-fruit/erwten",
+      "https://www.intratuin.nl/groentezaad-peul-pisum-sativum-oregon-sugar.html",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/peulvruchten",
+      "https://www.intratuin.nl/inspiratie/moestuin-tuinboon"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "mangetout-zweedse-lage-vroege",
+    "names": {
+      "nl": "Peulen 'Zweedse Lage Vroege'",
+      "en": "Låg Tidig Sockerärt"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "ultra-dwarf",
+      "early",
+      "cold-tolerant",
+      "ornamental-flowers"
+    ],
+    "crop_slug": "mangetout",
+    "sources": [
+      "https://www.bolster.nl/stampeul-norli-pisum-sativum/p27",
+      "https://www.vreeken.nl/zoeken/Verhoogd/plantenbed/en",
+      "https://www.deduurzametuin.nl/winkel/tuin/zaden/peul-norli-bio/",
+      "https://tuinzaden.eu/nl/peulen-zaden-kopen/920862-norli-stampeul-zaden.html",
+      "https://moestuinland.nl/peulen-zaden-kopen-norli-kortstro-bio",
+      "https://www.vreeken.nl/115250-peulen-zweedse-lage-vroege-lag-tidig-sockerart",
+      "https://www.vreeken.nl/115000-peulen-stam-grace",
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed/groentezaden/peulvruchtzaden?offset=25",
+      "https://www.vreeken.nl/zaden/groenten-fruit/erwten-peulen/p1-70",
+      "https://www.compo.be/nl/advies/planten/kruiden-groenten-fruit/erwten",
+      "https://www.intratuin.nl/groentezaad-peul-pisum-sativum-oregon-sugar.html",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/peulvruchten",
+      "https://www.intratuin.nl/inspiratie/moestuin-tuinboon"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "mangetout-stam-de-grace",
+    "names": {
+      "nl": "Peulen 'Stam De Grace'",
+      "en": "Mangetout 'Stam De Grace'"
+    },
+    "days_to_harvest": {
+      "min": 55,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden",
+      "Hortitops",
+      "Welkoop"
+    ],
+    "traits": [
+      "bush",
+      "compact",
+      "heirloom",
+      "stringless",
+      "early"
+    ],
+    "crop_slug": "mangetout",
+    "sources": [
+      "https://www.bolster.nl/stampeul-norli-pisum-sativum/p27",
+      "https://www.vreeken.nl/zoeken/Verhoogd/plantenbed/en",
+      "https://www.deduurzametuin.nl/winkel/tuin/zaden/peul-norli-bio/",
+      "https://tuinzaden.eu/nl/peulen-zaden-kopen/920862-norli-stampeul-zaden.html",
+      "https://moestuinland.nl/peulen-zaden-kopen-norli-kortstro-bio",
+      "https://www.vreeken.nl/115250-peulen-zweedse-lage-vroege-lag-tidig-sockerart",
+      "https://www.vreeken.nl/115000-peulen-stam-grace",
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed/groentezaden/peulvruchtzaden?offset=25",
+      "https://www.vreeken.nl/zaden/groenten-fruit/erwten-peulen/p1-70",
+      "https://www.compo.be/nl/advies/planten/kruiden-groenten-fruit/erwten",
+      "https://www.intratuin.nl/groentezaad-peul-pisum-sativum-oregon-sugar.html",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/peulvruchten",
+      "https://www.intratuin.nl/inspiratie/moestuin-tuinboon"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "mangetout-oregon-sugar",
+    "names": {
+      "nl": "Peul 'Oregon Sugar'",
+      "en": "Oregon Sugar Pod"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 68
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "semi-dwarf",
+      "bush",
+      "mildew-resistant",
+      "stringless",
+      "double-podded"
+    ],
+    "crop_slug": "mangetout",
+    "sources": [
+      "https://www.bolster.nl/stampeul-norli-pisum-sativum/p27",
+      "https://www.vreeken.nl/zoeken/Verhoogd/plantenbed/en",
+      "https://www.deduurzametuin.nl/winkel/tuin/zaden/peul-norli-bio/",
+      "https://tuinzaden.eu/nl/peulen-zaden-kopen/920862-norli-stampeul-zaden.html",
+      "https://moestuinland.nl/peulen-zaden-kopen-norli-kortstro-bio",
+      "https://www.vreeken.nl/115250-peulen-zweedse-lage-vroege-lag-tidig-sockerart",
+      "https://www.vreeken.nl/115000-peulen-stam-grace",
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed/groentezaden/peulvruchtzaden?offset=25",
+      "https://www.vreeken.nl/zaden/groenten-fruit/erwten-peulen/p1-70",
+      "https://www.compo.be/nl/advies/planten/kruiden-groenten-fruit/erwten",
+      "https://www.intratuin.nl/groentezaad-peul-pisum-sativum-oregon-sugar.html",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/peulvruchten",
+      "https://www.intratuin.nl/inspiratie/moestuin-tuinboon"
+    ],
+    "verified": false
+  }
+]

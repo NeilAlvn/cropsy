@@ -1,0 +1,173 @@
+[
+  {
+    "slug": "endive-romanesca-da-taglio",
+    "names": {
+      "nl": "Andijvie 'Romanesca da Taglio'",
+      "en": "Cutting Endive 'Romanesca da Taglio'"
+    },
+    "days_to_harvest": {
+      "min": 35,
+      "max": 45
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "early",
+      "cutting",
+      "curly",
+      "fast-regrowth"
+    ],
+    "crop_slug": "endive",
+    "sources": [
+      "https://groei.nl/artikel/andijvie-kweken",
+      "https://www.dutchgardenseeds.com/hoe-kweek-ik-groente/andijvie-kweken/",
+      "https://www.bol.com/nl/nl/p/protecta-groente-zaden-snijandijvie-met-fijne-krul/9300000027569044/",
+      "https://www.bolster.nl/babyleaf/c707",
+      "https://horta.org/p/Snijandijvie-Altijd-Witte/HQ000324743",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p6-15",
+      "https://www.vreeken.nl/",
+      "https://www.bolster.nl/krulandijvie-wallonne-cichorium-endivia/p3",
+      "https://demoestuinwinkel.nl/collections/onze-zadenmerken-1",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=97",
+      "https://www.bolster.nl/andijvie-oogsten/t22389",
+      "https://www.intratuin.nl/intratuin-groentezaad-snijandijvie-cichorium-endivia-altijd-witte.html",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden?p=4",
+      "https://www.dutchgardenseeds.com/groentezaden-andijvie-zaden-nuance/",
+      "https://www.deoosteindeonline.nl/product/andijvie-zaden-breedblad-nuance-bio",
+      "https://makkelijkemoestuin.nl/kennisbank/andijvie-zaaien-en-kweken",
+      "https://www.bolster.nl/andijvie-nummer-vijf2-cichorium-endivia/p2"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "endive-wallonne",
+    "names": {
+      "nl": "Krulandijvie 'Wallonne'",
+      "en": "Curly Endive 'Wallonne'"
+    },
+    "days_to_harvest": {
+      "min": 30,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "organic",
+      "frisee",
+      "curly",
+      "cold-hardy",
+      "bolt-resistant"
+    ],
+    "crop_slug": "endive",
+    "sources": [
+      "https://groei.nl/artikel/andijvie-kweken",
+      "https://www.dutchgardenseeds.com/hoe-kweek-ik-groente/andijvie-kweken/",
+      "https://www.bol.com/nl/nl/p/protecta-groente-zaden-snijandijvie-met-fijne-krul/9300000027569044/",
+      "https://www.bolster.nl/babyleaf/c707",
+      "https://horta.org/p/Snijandijvie-Altijd-Witte/HQ000324743",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p6-15",
+      "https://www.vreeken.nl/",
+      "https://www.bolster.nl/krulandijvie-wallonne-cichorium-endivia/p3",
+      "https://demoestuinwinkel.nl/collections/onze-zadenmerken-1",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=97",
+      "https://www.bolster.nl/andijvie-oogsten/t22389",
+      "https://www.intratuin.nl/intratuin-groentezaad-snijandijvie-cichorium-endivia-altijd-witte.html",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden?p=4",
+      "https://www.dutchgardenseeds.com/groentezaden-andijvie-zaden-nuance/",
+      "https://www.deoosteindeonline.nl/product/andijvie-zaden-breedblad-nuance-bio",
+      "https://makkelijkemoestuin.nl/kennisbank/andijvie-zaaien-en-kweken",
+      "https://www.bolster.nl/andijvie-nummer-vijf2-cichorium-endivia/p2"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "endive-altijd-witte",
+    "names": {
+      "nl": "Snijandijvie 'Altijd Witte'",
+      "en": "Cutting Endive 'Altijd Witte'"
+    },
+    "days_to_harvest": {
+      "min": 35,
+      "max": 45
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "non-heading",
+      "cut-and-come-again",
+      "early",
+      "shade-tolerant"
+    ],
+    "crop_slug": "endive",
+    "sources": [
+      "https://groei.nl/artikel/andijvie-kweken",
+      "https://www.dutchgardenseeds.com/hoe-kweek-ik-groente/andijvie-kweken/",
+      "https://www.bol.com/nl/nl/p/protecta-groente-zaden-snijandijvie-met-fijne-krul/9300000027569044/",
+      "https://www.bolster.nl/babyleaf/c707",
+      "https://horta.org/p/Snijandijvie-Altijd-Witte/HQ000324743",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p6-15",
+      "https://www.vreeken.nl/",
+      "https://www.bolster.nl/krulandijvie-wallonne-cichorium-endivia/p3",
+      "https://demoestuinwinkel.nl/collections/onze-zadenmerken-1",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=97",
+      "https://www.bolster.nl/andijvie-oogsten/t22389",
+      "https://www.intratuin.nl/intratuin-groentezaad-snijandijvie-cichorium-endivia-altijd-witte.html",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden?p=4",
+      "https://www.dutchgardenseeds.com/groentezaden-andijvie-zaden-nuance/",
+      "https://www.deoosteindeonline.nl/product/andijvie-zaden-breedblad-nuance-bio",
+      "https://makkelijkemoestuin.nl/kennisbank/andijvie-zaaien-en-kweken",
+      "https://www.bolster.nl/andijvie-nummer-vijf2-cichorium-endivia/p2"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "endive-breedblad-nuance",
+    "names": {
+      "nl": "Andijvie 'Breedblad Nuance'",
+      "en": "Broadleaf Endive 'Nuance'"
+    },
+    "days_to_harvest": {
+      "min": 30,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy Seeds",
+      "Dutch Garden Seeds",
+      "Sluis Garden Bio"
+    ],
+    "traits": [
+      "broadleaf",
+      "compact",
+      "bolt-resistant",
+      "rot-resistant"
+    ],
+    "crop_slug": "endive",
+    "sources": [
+      "https://groei.nl/artikel/andijvie-kweken",
+      "https://www.dutchgardenseeds.com/hoe-kweek-ik-groente/andijvie-kweken/",
+      "https://www.bol.com/nl/nl/p/protecta-groente-zaden-snijandijvie-met-fijne-krul/9300000027569044/",
+      "https://www.bolster.nl/babyleaf/c707",
+      "https://horta.org/p/Snijandijvie-Altijd-Witte/HQ000324743",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p6-15",
+      "https://www.vreeken.nl/",
+      "https://www.bolster.nl/krulandijvie-wallonne-cichorium-endivia/p3",
+      "https://demoestuinwinkel.nl/collections/onze-zadenmerken-1",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=97",
+      "https://www.bolster.nl/andijvie-oogsten/t22389",
+      "https://www.intratuin.nl/intratuin-groentezaad-snijandijvie-cichorium-endivia-altijd-witte.html",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden?p=4",
+      "https://www.dutchgardenseeds.com/groentezaden-andijvie-zaden-nuance/",
+      "https://www.deoosteindeonline.nl/product/andijvie-zaden-breedblad-nuance-bio",
+      "https://makkelijkemoestuin.nl/kennisbank/andijvie-zaaien-en-kweken",
+      "https://www.bolster.nl/andijvie-nummer-vijf2-cichorium-endivia/p2"
+    ],
+    "verified": false
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "slug": "courgette-patio-star-f1",
+    "names": {
+      "nl": "Courgette 'Patio Star' F1",
+      "en": "Courgette 'Patio Star' F1"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop",
+      "Buzzy Seeds"
+    ],
+    "traits": [
+      "bush",
+      "compact",
+      "non-trailing",
+      "disease-tolerant"
+    ],
+    "crop_slug": "courgette",
+    "sources": [
+      "https://www.welkoop.nl/buzzy-patio-veggies-courgette-patio-star-f1-groentezaden-6_1419007",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.bolster.nl/bolcourgette-ola-redonda-cucurbita-pepo/p11499",
+      "https://www.bolster.nl/klimcourgette-ola-escaladora-cucurbita-pepo/p8306",
+      "https://www.bolster.nl/klimcourgette-zaden/t25470",
+      "https://www.vreeken.nl/075050-courgette-eight-ball-f1",
+      "https://www.gardenseeds.nl/product/courgette-eight-ball-f1/",
+      "https://www.youtube.com/watch?v=IaU-2kY9JKg",
+      "https://www.mooiemoestuin.nl/groenteteelt/vruchtgewassen/courgette/",
+      "https://www.dutchgardenseeds.com/courgette-zaden/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "courgette-ola-redonda",
+    "names": {
+      "nl": "Bolcourgette 'Ola Redonda'",
+      "en": "Round Courgette 'Ola Redonda'"
+    },
+    "days_to_harvest": {
+      "min": 40,
+      "max": 50
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "round",
+      "bush",
+      "compact",
+      "non-trailing",
+      "early",
+      "open-pollinated"
+    ],
+    "crop_slug": "courgette",
+    "sources": [
+      "https://www.welkoop.nl/buzzy-patio-veggies-courgette-patio-star-f1-groentezaden-6_1419007",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.bolster.nl/bolcourgette-ola-redonda-cucurbita-pepo/p11499",
+      "https://www.bolster.nl/klimcourgette-ola-escaladora-cucurbita-pepo/p8306",
+      "https://www.bolster.nl/klimcourgette-zaden/t25470",
+      "https://www.vreeken.nl/075050-courgette-eight-ball-f1",
+      "https://www.gardenseeds.nl/product/courgette-eight-ball-f1/",
+      "https://www.youtube.com/watch?v=IaU-2kY9JKg",
+      "https://www.mooiemoestuin.nl/groenteteelt/vruchtgewassen/courgette/",
+      "https://www.dutchgardenseeds.com/courgette-zaden/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "courgette-ola-escaladora",
+    "names": {
+      "nl": "Klimcourgette 'Ola Escaladora'",
+      "en": "Climbing Courgette 'Ola Escaladora'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "climbing",
+      "mildew-resistant"
+    ],
+    "crop_slug": "courgette",
+    "sources": [
+      "https://www.welkoop.nl/buzzy-patio-veggies-courgette-patio-star-f1-groentezaden-6_1419007",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.bolster.nl/bolcourgette-ola-redonda-cucurbita-pepo/p11499",
+      "https://www.bolster.nl/klimcourgette-ola-escaladora-cucurbita-pepo/p8306",
+      "https://www.bolster.nl/klimcourgette-zaden/t25470",
+      "https://www.vreeken.nl/075050-courgette-eight-ball-f1",
+      "https://www.gardenseeds.nl/product/courgette-eight-ball-f1/",
+      "https://www.youtube.com/watch?v=IaU-2kY9JKg",
+      "https://www.mooiemoestuin.nl/groenteteelt/vruchtgewassen/courgette/",
+      "https://www.dutchgardenseeds.com/courgette-zaden/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "courgette-eight-ball-f1",
+    "names": {
+      "nl": "Courgette 'Eight Ball' F1",
+      "en": "Courgette 'Eight Ball' F1"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 55
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden",
+      "Sluis Garden"
+    ],
+    "traits": [
+      "round",
+      "cherry",
+      "bush",
+      "non-trailing",
+      "early"
+    ],
+    "crop_slug": "courgette",
+    "sources": [
+      "https://www.welkoop.nl/buzzy-patio-veggies-courgette-patio-star-f1-groentezaden-6_1419007",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.bolster.nl/bolcourgette-ola-redonda-cucurbita-pepo/p11499",
+      "https://www.bolster.nl/klimcourgette-ola-escaladora-cucurbita-pepo/p8306",
+      "https://www.bolster.nl/klimcourgette-zaden/t25470",
+      "https://www.vreeken.nl/075050-courgette-eight-ball-f1",
+      "https://www.gardenseeds.nl/product/courgette-eight-ball-f1/",
+      "https://www.youtube.com/watch?v=IaU-2kY9JKg",
+      "https://www.mooiemoestuin.nl/groenteteelt/vruchtgewassen/courgette/",
+      "https://www.dutchgardenseeds.com/courgette-zaden/"
+    ],
+    "verified": false
+  }
+]

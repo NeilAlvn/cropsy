@@ -1,0 +1,150 @@
+[
+  {
+    "slug": "thyme-zomertijm",
+    "names": {
+      "nl": "Zomertijm",
+      "en": "Summer Thyme"
+    },
+    "days_to_harvest": {
+      "min": 90,
+      "max": 110
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "upright",
+      "bushy",
+      "early",
+      "fast-growing",
+      "aromatic",
+      "drought-resistant",
+      "heat-resistant"
+    ],
+    "crop_slug": "thyme",
+    "sources": [
+      "https://www.bolster.nl/zomertijm-thymus-vulgaris/p9791",
+      "https://www.bolster.nl/kruiden-in-potten-kweken/t25601",
+      "https://nl-nl.bakker.com/products/tijm-compactus",
+      "https://nl-nl.bakker.com/products/echte-tijm-1",
+      "https://www.vreeken.nl/363070-tijm-wilde",
+      "https://nl-nl.bakker.com/products/wilde-tijm",
+      "https://www.vreeken.nl/zaden/kruiden-specerijen/keukenkruiden/p5-60",
+      "https://www.vreeken.nl/833180-tijm-wilde",
+      "https://www.welkoop.nl/buzzy-tijm-thymus-vulgaris-tijm-kruidenzaden-0-15gram_1189993",
+      "https://www.welkoop.nl/advies/moestuin-slakken-bestrijden.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "thyme-compactus",
+    "names": {
+      "nl": "Tijm 'Compactus'",
+      "en": "Thyme 'Compactus'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com"
+    ],
+    "traits": [
+      "dwarf",
+      "bush",
+      "cushion",
+      "evergreen",
+      "drought-tolerant",
+      "frost-resistant"
+    ],
+    "crop_slug": "thyme",
+    "sources": [
+      "https://www.bolster.nl/zomertijm-thymus-vulgaris/p9791",
+      "https://www.bolster.nl/kruiden-in-potten-kweken/t25601",
+      "https://nl-nl.bakker.com/products/tijm-compactus",
+      "https://nl-nl.bakker.com/products/echte-tijm-1",
+      "https://www.vreeken.nl/363070-tijm-wilde",
+      "https://nl-nl.bakker.com/products/wilde-tijm",
+      "https://www.vreeken.nl/zaden/kruiden-specerijen/keukenkruiden/p5-60",
+      "https://www.vreeken.nl/833180-tijm-wilde",
+      "https://www.welkoop.nl/buzzy-tijm-thymus-vulgaris-tijm-kruidenzaden-0-15gram_1189993",
+      "https://www.welkoop.nl/advies/moestuin-slakken-bestrijden.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "thyme-wilde-tijm",
+    "names": {
+      "nl": "Wilde Tijm / Kruiptijm",
+      "en": "Wild Thyme / Creeping Thyme"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "creeping",
+      "carpet",
+      "mat-forming",
+      "winter-hardy",
+      "drought-tolerant",
+      "aromatic"
+    ],
+    "crop_slug": "thyme",
+    "sources": [
+      "https://www.bolster.nl/zomertijm-thymus-vulgaris/p9791",
+      "https://www.bolster.nl/kruiden-in-potten-kweken/t25601",
+      "https://nl-nl.bakker.com/products/tijm-compactus",
+      "https://nl-nl.bakker.com/products/echte-tijm-1",
+      "https://www.vreeken.nl/363070-tijm-wilde",
+      "https://nl-nl.bakker.com/products/wilde-tijm",
+      "https://www.vreeken.nl/zaden/kruiden-specerijen/keukenkruiden/p5-60",
+      "https://www.vreeken.nl/833180-tijm-wilde",
+      "https://www.welkoop.nl/buzzy-tijm-thymus-vulgaris-tijm-kruidenzaden-0-15gram_1189993",
+      "https://www.welkoop.nl/advies/moestuin-slakken-bestrijden.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "thyme-buzzy-keukentijm",
+    "names": {
+      "nl": "Buzzy Keukentijm",
+      "en": "Buzzy Kitchen Thyme"
+    },
+    "days_to_harvest": {
+      "min": 80,
+      "max": 100
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "low-growing",
+      "woody",
+      "aromatic",
+      "drought-tolerant",
+      "pest-resistant"
+    ],
+    "crop_slug": "thyme",
+    "sources": [
+      "https://www.bolster.nl/zomertijm-thymus-vulgaris/p9791",
+      "https://www.bolster.nl/kruiden-in-potten-kweken/t25601",
+      "https://nl-nl.bakker.com/products/tijm-compactus",
+      "https://nl-nl.bakker.com/products/echte-tijm-1",
+      "https://www.vreeken.nl/363070-tijm-wilde",
+      "https://nl-nl.bakker.com/products/wilde-tijm",
+      "https://www.vreeken.nl/zaden/kruiden-specerijen/keukenkruiden/p5-60",
+      "https://www.vreeken.nl/833180-tijm-wilde",
+      "https://www.welkoop.nl/buzzy-tijm-thymus-vulgaris-tijm-kruidenzaden-0-15gram_1189993",
+      "https://www.welkoop.nl/advies/moestuin-slakken-bestrijden.html"
+    ],
+    "verified": false
+  }
+]

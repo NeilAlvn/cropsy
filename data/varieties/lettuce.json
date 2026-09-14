@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "lettuce-tom-thumb",
+    "names": {
+      "nl": "Kropsla 'Tom Thumb' (Klein Duimpje)",
+      "en": "Tom Thumb"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "dwarf",
+      "miniature head",
+      "butterhead",
+      "heirloom",
+      "tender",
+      "soft",
+      "sweet",
+      "mild"
+    ],
+    "crop_slug": "lettuce",
+    "sources": [
+      "https://www.vreeken.nl/252700-kropsla-tom-thumb-klein-duimpje-sla",
+      "https://www.bolster.nl/eikenbladsla-salad-bowl-lactuca-sativa/p1420",
+      "https://www.bolster.nl/zoeken?zoekwoord=salad+bowl&378=&391=7&430=",
+      "https://www.bolster.nl/sla-telen/t5476",
+      "https://www.bolster.nl/hoe-moet-je-pluksla-oogsten/t24992",
+      "https://www.bolster.nl/pluksla-zaden/t25448",
+      "https://www.bolster.nl/groenten-in-potten-kweken/t25604",
+      "https://tuinzaden.eu/en/romeinse-mini-sla-seeds/502604-little-gem-cos-lettuce-seeds.html",
+      "https://tuinzaden.eu/nl/romeinse-mini-sla-zaden-kopen/502604-little-gem-romeinse-sla-zaden.html",
+      "https://tuinzaden.eu/nl/romeinse-mini-sla-zaden-kopen/922485-lattuga-little-gem-slazaden-franchi-sementi.html",
+      "https://tuinzaden.eu/nl/romeinse-mini-sla-zaden-kopen/922349-maanrode-en-groene-little-gem-romeinse-mini-sla-zaden.html",
+      "https://www.welkoop.nl/welkoop-moestuin-magie-baby-leaf-sla-zaden-2-gram_1431877",
+      "https://www.welkoop.nl/advies/moestuinieren-met-kinderen.html",
+      "https://www.welkoop.nl/advies/moestuinkalender/moestuin-in-mei.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lettuce-salad-bowl",
+    "names": {
+      "nl": "Eikenbladsla 'Salad Bowl'",
+      "en": "Salad Bowl"
+    },
+    "days_to_harvest": {
+      "min": 45,
+      "max": 55
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "cut-and-come-again",
+      "pluksla",
+      "loose-leaf",
+      "bolt-resistant",
+      "vigorous",
+      "shallow root system"
+    ],
+    "crop_slug": "lettuce",
+    "sources": [
+      "https://www.vreeken.nl/252700-kropsla-tom-thumb-klein-duimpje-sla",
+      "https://www.bolster.nl/eikenbladsla-salad-bowl-lactuca-sativa/p1420",
+      "https://www.bolster.nl/zoeken?zoekwoord=salad+bowl&378=&391=7&430=",
+      "https://www.bolster.nl/sla-telen/t5476",
+      "https://www.bolster.nl/hoe-moet-je-pluksla-oogsten/t24992",
+      "https://www.bolster.nl/pluksla-zaden/t25448",
+      "https://www.bolster.nl/groenten-in-potten-kweken/t25604",
+      "https://tuinzaden.eu/en/romeinse-mini-sla-seeds/502604-little-gem-cos-lettuce-seeds.html",
+      "https://tuinzaden.eu/nl/romeinse-mini-sla-zaden-kopen/502604-little-gem-romeinse-sla-zaden.html",
+      "https://tuinzaden.eu/nl/romeinse-mini-sla-zaden-kopen/922485-lattuga-little-gem-slazaden-franchi-sementi.html",
+      "https://tuinzaden.eu/nl/romeinse-mini-sla-zaden-kopen/922349-maanrode-en-groene-little-gem-romeinse-mini-sla-zaden.html",
+      "https://www.welkoop.nl/welkoop-moestuin-magie-baby-leaf-sla-zaden-2-gram_1431877",
+      "https://www.welkoop.nl/advies/moestuinieren-met-kinderen.html",
+      "https://www.welkoop.nl/advies/moestuinkalender/moestuin-in-mei.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lettuce-little-gem",
+    "names": {
+      "nl": "Romeinse Mini Sla 'Little Gem'",
+      "en": "Little Gem"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy Seeds",
+      "Tuinzaden.eu"
+    ],
+    "traits": [
+      "early",
+      "fast-maturing",
+      "compact",
+      "upright",
+      "mini-cos",
+      "disease-resistant",
+      "mildew-resistant",
+      "sweet",
+      "crunchy"
+    ],
+    "crop_slug": "lettuce",
+    "sources": [
+      "https://www.vreeken.nl/252700-kropsla-tom-thumb-klein-duimpje-sla",
+      "https://www.bolster.nl/eikenbladsla-salad-bowl-lactuca-sativa/p1420",
+      "https://www.bolster.nl/zoeken?zoekwoord=salad+bowl&378=&391=7&430=",
+      "https://www.bolster.nl/sla-telen/t5476",
+      "https://www.bolster.nl/hoe-moet-je-pluksla-oogsten/t24992",
+      "https://www.bolster.nl/pluksla-zaden/t25448",
+      "https://www.bolster.nl/groenten-in-potten-kweken/t25604",
+      "https://tuinzaden.eu/en/romeinse-mini-sla-seeds/502604-little-gem-cos-lettuce-seeds.html",
+      "https://tuinzaden.eu/nl/romeinse-mini-sla-zaden-kopen/502604-little-gem-romeinse-sla-zaden.html",
+      "https://tuinzaden.eu/nl/romeinse-mini-sla-zaden-kopen/922485-lattuga-little-gem-slazaden-franchi-sementi.html",
+      "https://tuinzaden.eu/nl/romeinse-mini-sla-zaden-kopen/922349-maanrode-en-groene-little-gem-romeinse-mini-sla-zaden.html",
+      "https://www.welkoop.nl/welkoop-moestuin-magie-baby-leaf-sla-zaden-2-gram_1431877",
+      "https://www.welkoop.nl/advies/moestuinieren-met-kinderen.html",
+      "https://www.welkoop.nl/advies/moestuinkalender/moestuin-in-mei.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lettuce-welkoop-moestuin-magie-baby-leaf",
+    "names": {
+      "nl": "Welkoop Moestuin Magie - Baby Leaf Sla",
+      "en": "Welkoop Moestuin Magie - Baby Leaf Lettuce"
+    },
+    "days_to_harvest": {
+      "min": 25,
+      "max": 30
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "ultra-early",
+      "rapid-growing",
+      "pluksla",
+      "snijsla",
+      "tender",
+      "baby leaf"
+    ],
+    "crop_slug": "lettuce",
+    "sources": [
+      "https://www.vreeken.nl/252700-kropsla-tom-thumb-klein-duimpje-sla",
+      "https://www.bolster.nl/eikenbladsla-salad-bowl-lactuca-sativa/p1420",
+      "https://www.bolster.nl/zoeken?zoekwoord=salad+bowl&378=&391=7&430=",
+      "https://www.bolster.nl/sla-telen/t5476",
+      "https://www.bolster.nl/hoe-moet-je-pluksla-oogsten/t24992",
+      "https://www.bolster.nl/pluksla-zaden/t25448",
+      "https://www.bolster.nl/groenten-in-potten-kweken/t25604",
+      "https://tuinzaden.eu/en/romeinse-mini-sla-seeds/502604-little-gem-cos-lettuce-seeds.html",
+      "https://tuinzaden.eu/nl/romeinse-mini-sla-zaden-kopen/502604-little-gem-romeinse-sla-zaden.html",
+      "https://tuinzaden.eu/nl/romeinse-mini-sla-zaden-kopen/922485-lattuga-little-gem-slazaden-franchi-sementi.html",
+      "https://tuinzaden.eu/nl/romeinse-mini-sla-zaden-kopen/922349-maanrode-en-groene-little-gem-romeinse-mini-sla-zaden.html",
+      "https://www.welkoop.nl/welkoop-moestuin-magie-baby-leaf-sla-zaden-2-gram_1431877",
+      "https://www.welkoop.nl/advies/moestuinieren-met-kinderen.html",
+      "https://www.welkoop.nl/advies/moestuinkalender/moestuin-in-mei.html"
+    ],
+    "verified": false
+  }
+]

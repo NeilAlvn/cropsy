@@ -1,0 +1,166 @@
+[
+  {
+    "slug": "broad-bean-the-sutton",
+    "names": {
+      "nl": "Tuinboon 'The Sutton'",
+      "en": "Broad Bean 'The Sutton'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "dwarf",
+      "compact",
+      "bush",
+      "cold-tolerant"
+    ],
+    "crop_slug": "broad-bean",
+    "sources": [
+      "https://www.vreeken.nl/050300-tuinbonen-the-sutton-scorpio",
+      "https://www.123zaden.nl/tuinboon-sutton-dwarf",
+      "https://www.welkoop.nl/oranjeband-zaden-tuinbonen-listra-groentezaden-100gram_1300932",
+      "https://www.vreeken.nl/050100-tuinbonen-listra",
+      "https://www.bolster.nl/tuinboon-eleonora-vicia-faba/p20",
+      "https://www.bolster.nl/tuinbonen-telen-onze-tips/t7645",
+      "https://www.bolster.nl/media/docs/pro-de.pdf",
+      "https://www.bolster.nl/peulscheuten-telen/t7672",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/biologisch-geteelde-zaden/biologisch-geteelde-groentezaden?groep=&pagina=8",
+      "https://www.vreeken.nl/049940-tuinbonen-crimson-flowered",
+      "https://www.vreeken.nl/zaden/groenten-fruit/bonen/p6-60",
+      "https://www.tuinsmakelijk.nl/Tuinbonen.html",
+      "https://www.intratuin.nl/inspiratie/moestuin-snijbiet",
+      "https://www.intratuin.nl/inspiratie/moestuin-tuinboon",
+      "https://www.welkoop.nl/hortitops-tuinboon-driemaal-wit-vicia-faba-groentezaden-20gram_1206392"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "broad-bean-listra",
+    "names": {
+      "nl": "Tuinboon 'Listra'",
+      "en": "Broad Bean 'Listra'"
+    },
+    "days_to_harvest": {
+      "min": 80,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop",
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "compact",
+      "bush",
+      "upright-pods",
+      "witkiem",
+      "witkokend",
+      "high-yielding"
+    ],
+    "crop_slug": "broad-bean",
+    "sources": [
+      "https://www.vreeken.nl/050300-tuinbonen-the-sutton-scorpio",
+      "https://www.123zaden.nl/tuinboon-sutton-dwarf",
+      "https://www.welkoop.nl/oranjeband-zaden-tuinbonen-listra-groentezaden-100gram_1300932",
+      "https://www.vreeken.nl/050100-tuinbonen-listra",
+      "https://www.bolster.nl/tuinboon-eleonora-vicia-faba/p20",
+      "https://www.bolster.nl/tuinbonen-telen-onze-tips/t7645",
+      "https://www.bolster.nl/media/docs/pro-de.pdf",
+      "https://www.bolster.nl/peulscheuten-telen/t7672",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/biologisch-geteelde-zaden/biologisch-geteelde-groentezaden?groep=&pagina=8",
+      "https://www.vreeken.nl/049940-tuinbonen-crimson-flowered",
+      "https://www.vreeken.nl/zaden/groenten-fruit/bonen/p6-60",
+      "https://www.tuinsmakelijk.nl/Tuinbonen.html",
+      "https://www.intratuin.nl/inspiratie/moestuin-snijbiet",
+      "https://www.intratuin.nl/inspiratie/moestuin-tuinboon",
+      "https://www.welkoop.nl/hortitops-tuinboon-driemaal-wit-vicia-faba-groentezaden-20gram_1206392"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "broad-bean-eleonora",
+    "names": {
+      "nl": "Tuinboon 'Eleonora'",
+      "en": "Broad Bean 'Eleonora'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "compact",
+      "bush",
+      "organic",
+      "early",
+      "wind-resistant"
+    ],
+    "crop_slug": "broad-bean",
+    "sources": [
+      "https://www.vreeken.nl/050300-tuinbonen-the-sutton-scorpio",
+      "https://www.123zaden.nl/tuinboon-sutton-dwarf",
+      "https://www.welkoop.nl/oranjeband-zaden-tuinbonen-listra-groentezaden-100gram_1300932",
+      "https://www.vreeken.nl/050100-tuinbonen-listra",
+      "https://www.bolster.nl/tuinboon-eleonora-vicia-faba/p20",
+      "https://www.bolster.nl/tuinbonen-telen-onze-tips/t7645",
+      "https://www.bolster.nl/media/docs/pro-de.pdf",
+      "https://www.bolster.nl/peulscheuten-telen/t7672",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/biologisch-geteelde-zaden/biologisch-geteelde-groentezaden?groep=&pagina=8",
+      "https://www.vreeken.nl/049940-tuinbonen-crimson-flowered",
+      "https://www.vreeken.nl/zaden/groenten-fruit/bonen/p6-60",
+      "https://www.tuinsmakelijk.nl/Tuinbonen.html",
+      "https://www.intratuin.nl/inspiratie/moestuin-snijbiet",
+      "https://www.intratuin.nl/inspiratie/moestuin-tuinboon",
+      "https://www.welkoop.nl/hortitops-tuinboon-driemaal-wit-vicia-faba-groentezaden-20gram_1206392"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "broad-bean-crimson-flowered",
+    "names": {
+      "nl": "Tuinboon 'Crimson Flowered'",
+      "en": "Broad Bean 'Crimson Flowered'"
+    },
+    "days_to_harvest": {
+      "min": 85,
+      "max": 95
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "bush",
+      "ornamental",
+      "heritage",
+      "edible-flowers"
+    ],
+    "crop_slug": "broad-bean",
+    "sources": [
+      "https://www.vreeken.nl/050300-tuinbonen-the-sutton-scorpio",
+      "https://www.123zaden.nl/tuinboon-sutton-dwarf",
+      "https://www.welkoop.nl/oranjeband-zaden-tuinbonen-listra-groentezaden-100gram_1300932",
+      "https://www.vreeken.nl/050100-tuinbonen-listra",
+      "https://www.bolster.nl/tuinboon-eleonora-vicia-faba/p20",
+      "https://www.bolster.nl/tuinbonen-telen-onze-tips/t7645",
+      "https://www.bolster.nl/media/docs/pro-de.pdf",
+      "https://www.bolster.nl/peulscheuten-telen/t7672",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/biologisch-geteelde-zaden/biologisch-geteelde-groentezaden?groep=&pagina=8",
+      "https://www.vreeken.nl/049940-tuinbonen-crimson-flowered",
+      "https://www.vreeken.nl/zaden/groenten-fruit/bonen/p6-60",
+      "https://www.tuinsmakelijk.nl/Tuinbonen.html",
+      "https://www.intratuin.nl/inspiratie/moestuin-snijbiet",
+      "https://www.intratuin.nl/inspiratie/moestuin-tuinboon",
+      "https://www.welkoop.nl/hortitops-tuinboon-driemaal-wit-vicia-faba-groentezaden-20gram_1206392"
+    ],
+    "verified": false
+  }
+]

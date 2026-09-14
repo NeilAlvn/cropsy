@@ -1,0 +1,70 @@
+{
+  "slug": "nitrogen-deficiency",
+  "names": {
+    "nl": "Stikstofgebrek",
+    "en": "Nitrogen deficiency"
+  },
+  "kind": "disorder",
+  "parts": [
+    "leaves",
+    "stems",
+    "flowers",
+    "fruits"
+  ],
+  "symptoms": {
+    "nl": "Het blad kleurt van onderaf egaal lichtgroen tot geel en kan bij aanhoudend gebrek slap worden, verdrogen en vroegtijdig afvallen. De algemene groei stagneert met dunne, zwakke stengels en het voortijdig afstoten van bloemen en vruchten.",
+    "en": "The foliage turns uniformly pale-green to yellow starting from the lower leaves, eventually turning limp, drying out, and dropping prematurely. Overall plant growth stalls with thin, spindly stems alongside premature flower and fruit drop."
+  },
+  "treatment": {
+    "nl": "Dien direct biologische vloeibare plantenvoeding, verdunde brandnetelgier (1:10) of wormenpercolaat toe via het gietwater voor een snelle opname door de wortels. Werk bloedmeel of een toplaag van goed verteerde compost door de bovenlaag van de potgrond om de stikstofvoorraad aan te vullen.",
+    "en": "Apply organic liquid plant food, diluted stinging nettle tea (1:10), or liquid worm casting tea via watering for fast root uptake. Scratch blood meal or a topdressing of well-ripened organic compost into the top layer of pot soil to replenish nitrogen reserves."
+  },
+  "prevention": {
+    "nl": "Meng bij het aanplanten rijpe compost of organische korrels door de potgrond en vermijd ruwe houtsnippers die stikstof vastleggen. Voorkom overmatig water geven om uitspoeling te beperken en bescherm potten tegen koude voorjaarsgrond.",
+    "en": "Mix mature compost or organic fertilizer granules into potting soil before planting and avoid raw woody mulches that cause nitrogen lockup. Avoid overwatering to prevent nutrient leaching through drainage holes and protect containers from cold spring soil temperatures."
+  },
+  "affects": [
+    "aubergine",
+    "basil",
+    "broccoli",
+    "cabbage",
+    "coriander",
+    "courgette",
+    "cucumber",
+    "kale",
+    "parsley",
+    "pea",
+    "rocket",
+    "spinach",
+    "swiss-chard",
+    "tomato"
+  ],
+  "image": null,
+  "sources": [
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/stokbonen-gele-bladeren/",
+    "https://edepot.wur.nl/292716",
+    "https://edepot.wur.nl/478434",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/aubergine-plant-hangt-slap/",
+    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/onderste-bladeren-tomatenplanten-geel-en-krullen",
+    "https://makkelijkemoestuin.nl/kennisbank/waarom-worden-mijn-planten-geel",
+    "https://natuuracademieonline.ivn.nl/resources/natuur-en-mens-natuurlijk-moestuinieren/herfst/inzoomen-op-de-bodem/",
+    "https://velt.nu/tip/gier-gebruiken-de-moestuin",
+    "https://velt.nu/tip/wat-doe-je-tegen-bladluizen-de-moestuin",
+    "https://beweegt.velt.nu/braas/download.php?bestand=Informatiebiomeststoffen.pdf",
+    "https://velt.nu/system/files/media/documenten/Handboek%20Schooltuinen%20H5.pdf",
+    "https://makkelijkemoestuin.nl/kennisbank/help-mijn-plantjes-doen-het-niet-goed",
+    "https://groei.nl/artikel/bedek-de-bodem-voor-een-gezond-evenwicht",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/bodem-bemesting/grond-aanvoeren/",
+    "https://natuuracademieonline.ivn.nl/resources/natuur-en-mens-moestuinieren/stap-voor-stap-moestuinieren/stap-1-kies-een-locatie",
+    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/is-dit-normaal-8",
+    "https://makkelijkemoestuin.nl/blog/half-mei-afharden-en-tragere-groei",
+    "https://natuuracademieonline.ivn.nl/resources/natuur-en-mens-natuurlijk-moestuinieren/winter/waarom-een-plan-voor-wisselteelt",
+    "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-peulvruchten/",
+    "https://edepot.wur.nl/115263",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/sugarsnap-geel-en-niet-blij",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/gele-bladeren-komkommer-verwijderen",
+    "http://chemieleerkracht.blackbox.website/wp-content/uploads/2018/08/Bundel_Aquaphonics_Versie_definitief-1.pdf",
+    "https://deventer.groei.nl/groentips-info/groeifactoren/bemestingsadviezen"
+  ],
+  "verified": false
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "beetroot-egyptische-platronde",
+    "names": {
+      "nl": "Rode Biet 'Egyptische Platronde'",
+      "en": "Beetroot 'Egyptische Platronde'"
+    },
+    "days_to_harvest": {
+      "min": 55,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster",
+      "Sluis Garden",
+      "Buzzy"
+    ],
+    "traits": [
+      "flat-round",
+      "extra-early",
+      "bolt-resistant",
+      "heirloom",
+      "sweet"
+    ],
+    "crop_slug": "beetroot",
+    "sources": [
+      "https://www.bolster.nl/rode-biet-egyptische-platronde-beta-vulgaris-subsp-conditiva/p5",
+      "https://m.moestuintje.nl/rode-biet-biologische-zaden-egyptische-platronde",
+      "https://www.bolster.eu/beetroot-egyptische-platronde-beta-vulgaris-subsp-conditiva/p5",
+      "https://www.natuurenpuur.nl/products/rode-biet-egyptische-platronde-bio",
+      "https://degroenemakers.nl/products/rode-biet-egyptische-platronde-bio",
+      "https://groei.nl/artikel/hoe-zaai-ik-rode-biet",
+      "https://www.vreeken.nl/020700-roodbladige-kroten-bull-blood",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p2-90",
+      "https://www.vreeken.nl/020300-rode-kroten-boro-f1",
+      "https://www.bolster.eu/beetroot/c1790",
+      "https://www.bolster.nl/rode-biet-boro-f1-beta-vulgaris-subsp-conditiva/p12988",
+      "https://www.welkoop.nl/hortitops-bieten-beta-vulgaris-kogel-2-groentezaden-5gram_1082121",
+      "https://www.intratuin.nl/intratuin-groentezaad-bieten-beta-vulgaris-vuurrode-kogel-2.html",
+      "https://www.vreeken.nl/019950-rode-kroten-kogel-bluta"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "beetroot-bulls-blood",
+    "names": {
+      "nl": "Roodbladige Kroten 'Bull's Blood'",
+      "en": "Beetroot 'Bull's Blood'"
+    },
+    "days_to_harvest": {
+      "min": 35,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "ornamental foliage",
+      "dual-purpose",
+      "baby beet",
+      "cold-tolerant",
+      "early"
+    ],
+    "crop_slug": "beetroot",
+    "sources": [
+      "https://www.bolster.nl/rode-biet-egyptische-platronde-beta-vulgaris-subsp-conditiva/p5",
+      "https://m.moestuintje.nl/rode-biet-biologische-zaden-egyptische-platronde",
+      "https://www.bolster.eu/beetroot-egyptische-platronde-beta-vulgaris-subsp-conditiva/p5",
+      "https://www.natuurenpuur.nl/products/rode-biet-egyptische-platronde-bio",
+      "https://degroenemakers.nl/products/rode-biet-egyptische-platronde-bio",
+      "https://groei.nl/artikel/hoe-zaai-ik-rode-biet",
+      "https://www.vreeken.nl/020700-roodbladige-kroten-bull-blood",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p2-90",
+      "https://www.vreeken.nl/020300-rode-kroten-boro-f1",
+      "https://www.bolster.eu/beetroot/c1790",
+      "https://www.bolster.nl/rode-biet-boro-f1-beta-vulgaris-subsp-conditiva/p12988",
+      "https://www.welkoop.nl/hortitops-bieten-beta-vulgaris-kogel-2-groentezaden-5gram_1082121",
+      "https://www.intratuin.nl/intratuin-groentezaad-bieten-beta-vulgaris-vuurrode-kogel-2.html",
+      "https://www.vreeken.nl/019950-rode-kroten-kogel-bluta"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "beetroot-boro-f1",
+    "names": {
+      "nl": "Rode Kroten 'Boro' F1",
+      "en": "Beetroot 'Boro' F1"
+    },
+    "days_to_harvest": {
+      "min": 55,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden",
+      "De Bolster"
+    ],
+    "traits": [
+      "hybrid vigour",
+      "disease-resistant",
+      "powdery mildew-resistant",
+      "bolt-resistant",
+      "baby beet"
+    ],
+    "crop_slug": "beetroot",
+    "sources": [
+      "https://www.bolster.nl/rode-biet-egyptische-platronde-beta-vulgaris-subsp-conditiva/p5",
+      "https://m.moestuintje.nl/rode-biet-biologische-zaden-egyptische-platronde",
+      "https://www.bolster.eu/beetroot-egyptische-platronde-beta-vulgaris-subsp-conditiva/p5",
+      "https://www.natuurenpuur.nl/products/rode-biet-egyptische-platronde-bio",
+      "https://degroenemakers.nl/products/rode-biet-egyptische-platronde-bio",
+      "https://groei.nl/artikel/hoe-zaai-ik-rode-biet",
+      "https://www.vreeken.nl/020700-roodbladige-kroten-bull-blood",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p2-90",
+      "https://www.vreeken.nl/020300-rode-kroten-boro-f1",
+      "https://www.bolster.eu/beetroot/c1790",
+      "https://www.bolster.nl/rode-biet-boro-f1-beta-vulgaris-subsp-conditiva/p12988",
+      "https://www.welkoop.nl/hortitops-bieten-beta-vulgaris-kogel-2-groentezaden-5gram_1082121",
+      "https://www.intratuin.nl/intratuin-groentezaad-bieten-beta-vulgaris-vuurrode-kogel-2.html",
+      "https://www.vreeken.nl/019950-rode-kroten-kogel-bluta"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "beetroot-vuurrode-kogel-2",
+    "names": {
+      "nl": "Bieten 'Vuurrode Kogel 2'",
+      "en": "Beetroot 'Vuurrode Kogel 2'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin",
+      "Welkoop",
+      "Hortitops"
+    ],
+    "traits": [
+      "round globe",
+      "early",
+      "sweet",
+      "disease tolerance",
+      "versatile"
+    ],
+    "crop_slug": "beetroot",
+    "sources": [
+      "https://www.bolster.nl/rode-biet-egyptische-platronde-beta-vulgaris-subsp-conditiva/p5",
+      "https://m.moestuintje.nl/rode-biet-biologische-zaden-egyptische-platronde",
+      "https://www.bolster.eu/beetroot-egyptische-platronde-beta-vulgaris-subsp-conditiva/p5",
+      "https://www.natuurenpuur.nl/products/rode-biet-egyptische-platronde-bio",
+      "https://degroenemakers.nl/products/rode-biet-egyptische-platronde-bio",
+      "https://groei.nl/artikel/hoe-zaai-ik-rode-biet",
+      "https://www.vreeken.nl/020700-roodbladige-kroten-bull-blood",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p2-90",
+      "https://www.vreeken.nl/020300-rode-kroten-boro-f1",
+      "https://www.bolster.eu/beetroot/c1790",
+      "https://www.bolster.nl/rode-biet-boro-f1-beta-vulgaris-subsp-conditiva/p12988",
+      "https://www.welkoop.nl/hortitops-bieten-beta-vulgaris-kogel-2-groentezaden-5gram_1082121",
+      "https://www.intratuin.nl/intratuin-groentezaad-bieten-beta-vulgaris-vuurrode-kogel-2.html",
+      "https://www.vreeken.nl/019950-rode-kroten-kogel-bluta"
+    ],
+    "verified": false
+  }
+]

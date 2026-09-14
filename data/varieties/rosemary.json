@@ -1,0 +1,141 @@
+[
+  {
+    "slug": "rosemary-prostratus",
+    "names": {
+      "nl": "Kruiprozemarijn 'Prostratus'",
+      "en": "Creeping Rosemary 'Prostratus'"
+    },
+    "days_to_harvest": null,
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "trailing",
+      "creeping",
+      "low-growing",
+      "drought-tolerant",
+      "heat-tolerant"
+    ],
+    "crop_slug": "rosemary",
+    "sources": [
+      "https://www.intratuin.nl/kruip-rozemarijn-rosmarinus-officinalis-prostratus-d-9-h-15-cm.html",
+      "https://www.intratuin.nl/kruip-rozemarijn-rosmarinus-officinalis-prostratus-d-18-h-30-cm.html",
+      "https://www.intratuin.nl/plantengids/rozemarijn-rosmarinus-officinalis-snoeien-verzorging",
+      "https://www.intratuin.nl/biologische-rozemarijn-rosmarinus-officinalis-blue-winter-d-13-h-15-cm.html",
+      "https://www.vreeken.nl/358000-rozemarijn-rosy",
+      "https://nl-nl.bakker.com/products/rozemarijn-rosmarinus-officinalis-biologisch-2-m-kruidenzaden",
+      "https://www.plantsome.nl/products/rozemarijn-zaden-bio",
+      "https://www.vreeken.nl/832767-rozemarijn",
+      "https://www.dutchgardenseeds.com/kruiden-kweken/rozemarijn-stekken/",
+      "https://www.welkoop.nl/hortitops-rozemarijn-rosmarinus-officinalis-kruidenzaden-0-15gram_1039953"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "rosemary-blue-winter",
+    "names": {
+      "nl": "Biologische Rozemarijn 'Blue Winter'",
+      "en": "Organic Rosemary 'Blue Winter'"
+    },
+    "days_to_harvest": null,
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "compact",
+      "upright",
+      "bush",
+      "cold-resistant",
+      "organic"
+    ],
+    "crop_slug": "rosemary",
+    "sources": [
+      "https://www.intratuin.nl/kruip-rozemarijn-rosmarinus-officinalis-prostratus-d-9-h-15-cm.html",
+      "https://www.intratuin.nl/kruip-rozemarijn-rosmarinus-officinalis-prostratus-d-18-h-30-cm.html",
+      "https://www.intratuin.nl/plantengids/rozemarijn-rosmarinus-officinalis-snoeien-verzorging",
+      "https://www.intratuin.nl/biologische-rozemarijn-rosmarinus-officinalis-blue-winter-d-13-h-15-cm.html",
+      "https://www.vreeken.nl/358000-rozemarijn-rosy",
+      "https://nl-nl.bakker.com/products/rozemarijn-rosmarinus-officinalis-biologisch-2-m-kruidenzaden",
+      "https://www.plantsome.nl/products/rozemarijn-zaden-bio",
+      "https://www.vreeken.nl/832767-rozemarijn",
+      "https://www.dutchgardenseeds.com/kruiden-kweken/rozemarijn-stekken/",
+      "https://www.welkoop.nl/hortitops-rozemarijn-rosmarinus-officinalis-kruidenzaden-0-15gram_1039953"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "rosemary-rosy",
+    "names": {
+      "nl": "Rozemarijn 'Rosy'",
+      "en": "Rosemary 'Rosy'"
+    },
+    "days_to_harvest": {
+      "min": 120,
+      "max": 150
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken’s Zaden"
+    ],
+    "traits": [
+      "shrubby",
+      "bush",
+      "perennial",
+      "drought-tolerant",
+      "heat-tolerant"
+    ],
+    "crop_slug": "rosemary",
+    "sources": [
+      "https://www.intratuin.nl/kruip-rozemarijn-rosmarinus-officinalis-prostratus-d-9-h-15-cm.html",
+      "https://www.intratuin.nl/kruip-rozemarijn-rosmarinus-officinalis-prostratus-d-18-h-30-cm.html",
+      "https://www.intratuin.nl/plantengids/rozemarijn-rosmarinus-officinalis-snoeien-verzorging",
+      "https://www.intratuin.nl/biologische-rozemarijn-rosmarinus-officinalis-blue-winter-d-13-h-15-cm.html",
+      "https://www.vreeken.nl/358000-rozemarijn-rosy",
+      "https://nl-nl.bakker.com/products/rozemarijn-rosmarinus-officinalis-biologisch-2-m-kruidenzaden",
+      "https://www.plantsome.nl/products/rozemarijn-zaden-bio",
+      "https://www.vreeken.nl/832767-rozemarijn",
+      "https://www.dutchgardenseeds.com/kruiden-kweken/rozemarijn-stekken/",
+      "https://www.welkoop.nl/hortitops-rozemarijn-rosmarinus-officinalis-kruidenzaden-0-15gram_1039953"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "rosemary-buzzy-bio",
+    "names": {
+      "nl": "Buzzy Rozemarijn (BIO)",
+      "en": "Buzzy Rosemary (BIO)"
+    },
+    "days_to_harvest": {
+      "min": 110,
+      "max": 140
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop",
+      "Buzzy Seeds"
+    ],
+    "traits": [
+      "upright",
+      "branching",
+      "bush",
+      "organic",
+      "drought-tolerant"
+    ],
+    "crop_slug": "rosemary",
+    "sources": [
+      "https://www.intratuin.nl/kruip-rozemarijn-rosmarinus-officinalis-prostratus-d-9-h-15-cm.html",
+      "https://www.intratuin.nl/kruip-rozemarijn-rosmarinus-officinalis-prostratus-d-18-h-30-cm.html",
+      "https://www.intratuin.nl/plantengids/rozemarijn-rosmarinus-officinalis-snoeien-verzorging",
+      "https://www.intratuin.nl/biologische-rozemarijn-rosmarinus-officinalis-blue-winter-d-13-h-15-cm.html",
+      "https://www.vreeken.nl/358000-rozemarijn-rosy",
+      "https://nl-nl.bakker.com/products/rozemarijn-rosmarinus-officinalis-biologisch-2-m-kruidenzaden",
+      "https://www.plantsome.nl/products/rozemarijn-zaden-bio",
+      "https://www.vreeken.nl/832767-rozemarijn",
+      "https://www.dutchgardenseeds.com/kruiden-kweken/rozemarijn-stekken/",
+      "https://www.welkoop.nl/hortitops-rozemarijn-rosmarinus-officinalis-kruidenzaden-0-15gram_1039953"
+    ],
+    "verified": false
+  }
+]

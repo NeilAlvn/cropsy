@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "garlic-messidrome",
+    "names": {
+      "nl": "Knoflook 'Messidrome'",
+      "en": "Garlic 'Messidrome'"
+    },
+    "days_to_harvest": {
+      "min": 130,
+      "max": 270
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com"
+    ],
+    "traits": [
+      "softneck",
+      "artichoke",
+      "mild",
+      "sweet",
+      "frost-tolerant",
+      "good-storage",
+      "upright-foliage"
+    ],
+    "crop_slug": "garlic",
+    "sources": [
+      "https://www.floorsmoestuin.nl/post/knoflook-kweken-doe-je-zo/",
+      "https://www.vreeken.nl/306324-spiraalknoflook-sameroc",
+      "https://nl-nl.bakker.com/products/knoflook-messidrome",
+      "https://www.vreeken.nl/collectie/knoflook/p1-20",
+      "https://www.vreeken.nl/306154-knoflook-violet-cadours-germidour",
+      "https://www.vreeken.nl/img/pdf/306274%20Knoflook%20uitgebreide%20teelt.pdf",
+      "https://www.vreeken.nl/zoeken/306050,306091,306093,306110,306115,306127,306134,306135,306151,306153,306154,306321,306335,306349,306350",
+      "https://www.vreeken.nl/zaden/groenten-fruit/ui-tjes-knoflook/p4-25",
+      "https://vreeken.nl/upload/docs/Knoflook_uitgebreide_teelt_2019.pdf",
+      "https://www.vreeken.nl/306134-knoflook-thermidrome",
+      "https://www.vreeken.nl/collectie/knoflook/p1-50",
+      "https://www.intratuin.nl/biologische-knoflook-allium-sativum-d-13-h-10-cm.html",
+      "http://www.permacultuurnederland.org/planten.php?zoek=&laag=&functieSER=Z24=&pid=253&page=17"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "garlic-violet-de-cadours-germidour",
+    "names": {
+      "nl": "Knoflook 'Violet de Cadours' / 'Germidour'",
+      "en": "Garlic 'Violet de Cadours' / 'Germidour'"
+    },
+    "days_to_harvest": {
+      "min": 220,
+      "max": 250
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "softneck",
+      "creole",
+      "silverskin",
+      "early",
+      "aromatic",
+      "vigorous",
+      "high-yield"
+    ],
+    "crop_slug": "garlic",
+    "sources": [
+      "https://www.floorsmoestuin.nl/post/knoflook-kweken-doe-je-zo/",
+      "https://www.vreeken.nl/306324-spiraalknoflook-sameroc",
+      "https://nl-nl.bakker.com/products/knoflook-messidrome",
+      "https://www.vreeken.nl/collectie/knoflook/p1-20",
+      "https://www.vreeken.nl/306154-knoflook-violet-cadours-germidour",
+      "https://www.vreeken.nl/img/pdf/306274%20Knoflook%20uitgebreide%20teelt.pdf",
+      "https://www.vreeken.nl/zoeken/306050,306091,306093,306110,306115,306127,306134,306135,306151,306153,306154,306321,306335,306349,306350",
+      "https://www.vreeken.nl/zaden/groenten-fruit/ui-tjes-knoflook/p4-25",
+      "https://vreeken.nl/upload/docs/Knoflook_uitgebreide_teelt_2019.pdf",
+      "https://www.vreeken.nl/306134-knoflook-thermidrome",
+      "https://www.vreeken.nl/collectie/knoflook/p1-50",
+      "https://www.intratuin.nl/biologische-knoflook-allium-sativum-d-13-h-10-cm.html",
+      "http://www.permacultuurnederland.org/planten.php?zoek=&laag=&functieSER=Z24=&pid=253&page=17"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "garlic-thermidrome",
+    "names": {
+      "nl": "Knoflook 'Thermidrome'",
+      "en": "Garlic 'Thermidrome'"
+    },
+    "days_to_harvest": {
+      "min": 230,
+      "max": 260
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "softneck",
+      "early-to-mid",
+      "disease-tolerant",
+      "moisture-tolerant",
+      "compact-root"
+    ],
+    "crop_slug": "garlic",
+    "sources": [
+      "https://www.floorsmoestuin.nl/post/knoflook-kweken-doe-je-zo/",
+      "https://www.vreeken.nl/306324-spiraalknoflook-sameroc",
+      "https://nl-nl.bakker.com/products/knoflook-messidrome",
+      "https://www.vreeken.nl/collectie/knoflook/p1-20",
+      "https://www.vreeken.nl/306154-knoflook-violet-cadours-germidour",
+      "https://www.vreeken.nl/img/pdf/306274%20Knoflook%20uitgebreide%20teelt.pdf",
+      "https://www.vreeken.nl/zoeken/306050,306091,306093,306110,306115,306127,306134,306135,306151,306153,306154,306321,306335,306349,306350",
+      "https://www.vreeken.nl/zaden/groenten-fruit/ui-tjes-knoflook/p4-25",
+      "https://vreeken.nl/upload/docs/Knoflook_uitgebreide_teelt_2019.pdf",
+      "https://www.vreeken.nl/306134-knoflook-thermidrome",
+      "https://www.vreeken.nl/collectie/knoflook/p1-50",
+      "https://www.intratuin.nl/biologische-knoflook-allium-sativum-d-13-h-10-cm.html",
+      "http://www.permacultuurnederland.org/planten.php?zoek=&laag=&functieSER=Z24=&pid=253&page=17"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "garlic-biologische-knoflookplant",
+    "names": {
+      "nl": "Biologische Knoflookplant",
+      "en": "Organic Garlic Plant"
+    },
+    "days_to_harvest": {
+      "min": 30,
+      "max": 120
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "organic",
+      "skal-gecertificeerd",
+      "pest-repelling",
+      "continuous-harvest",
+      "compact"
+    ],
+    "crop_slug": "garlic",
+    "sources": [
+      "https://www.floorsmoestuin.nl/post/knoflook-kweken-doe-je-zo/",
+      "https://www.vreeken.nl/306324-spiraalknoflook-sameroc",
+      "https://nl-nl.bakker.com/products/knoflook-messidrome",
+      "https://www.vreeken.nl/collectie/knoflook/p1-20",
+      "https://www.vreeken.nl/306154-knoflook-violet-cadours-germidour",
+      "https://www.vreeken.nl/img/pdf/306274%20Knoflook%20uitgebreide%20teelt.pdf",
+      "https://www.vreeken.nl/zoeken/306050,306091,306093,306110,306115,306127,306134,306135,306151,306153,306154,306321,306335,306349,306350",
+      "https://www.vreeken.nl/zaden/groenten-fruit/ui-tjes-knoflook/p4-25",
+      "https://vreeken.nl/upload/docs/Knoflook_uitgebreide_teelt_2019.pdf",
+      "https://www.vreeken.nl/306134-knoflook-thermidrome",
+      "https://www.vreeken.nl/collectie/knoflook/p1-50",
+      "https://www.intratuin.nl/biologische-knoflook-allium-sativum-d-13-h-10-cm.html",
+      "http://www.permacultuurnederland.org/planten.php?zoek=&laag=&functieSER=Z24=&pid=253&page=17"
+    ],
+    "verified": false
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "slug": "carrot-parijse-markt-4",
+    "names": {
+      "nl": "Wortel 'Parijse Markt 4'",
+      "en": "Carrot 'Paris Market 4'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "miniature",
+      "round",
+      "radish-like",
+      "early",
+      "tender-skin",
+      "sweet",
+      "juicy"
+    ],
+    "crop_slug": "carrot",
+    "sources": [
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed",
+      "https://www.welkoop.nl/buzzy-patio-veggies-wortel-parijse-markt-groentezaden-1g_1419010",
+      "https://www.vreeken.nl/zaden/groenten-fruit/wortelen/p1-90",
+      "https://www.vreeken.nl/324800-zomerwortelen-parijse-markt-parijse-vroege-ronde",
+      "https://www.vreeken.nl/zaden/groenten-fruit/wortelen/p2-20",
+      "https://www.intratuin.nl/intratuin-groentezaad-wortelen-vroege-ronde-daucus-carota-parijse-vroege-ronde.html",
+      "https://www.gardenseeds.nl/product/wortel-amsterdamse-bak-2-amfine/",
+      "https://www.koopzaden.nl/product/wortel-zaden-amsterdamse-bak-2-amfine",
+      "https://biezen.nl/wortel-amsterdamse-bak-2-amfine-sluis-garden-zaden"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "carrot-parijse-vroege-ronde",
+    "names": {
+      "nl": "Zomerwortelen 'Parijse Markt 4' / 'Parijse Vroege Ronde'",
+      "en": "Summer Carrots 'Paris Market 4' / 'Paris Early Round'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "spherical",
+      "early",
+      "sweet",
+      "compact-foliage"
+    ],
+    "crop_slug": "carrot",
+    "sources": [
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed",
+      "https://www.welkoop.nl/buzzy-patio-veggies-wortel-parijse-markt-groentezaden-1g_1419010",
+      "https://www.vreeken.nl/zaden/groenten-fruit/wortelen/p1-90",
+      "https://www.vreeken.nl/324800-zomerwortelen-parijse-markt-parijse-vroege-ronde",
+      "https://www.vreeken.nl/zaden/groenten-fruit/wortelen/p2-20",
+      "https://www.intratuin.nl/intratuin-groentezaad-wortelen-vroege-ronde-daucus-carota-parijse-vroege-ronde.html",
+      "https://www.gardenseeds.nl/product/wortel-amsterdamse-bak-2-amfine/",
+      "https://www.koopzaden.nl/product/wortel-zaden-amsterdamse-bak-2-amfine",
+      "https://biezen.nl/wortel-amsterdamse-bak-2-amfine-sluis-garden-zaden"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "carrot-intratuin-vroege-ronde",
+    "names": {
+      "nl": "Wortelen vroege ronde ('Parijse vroege ronde')",
+      "en": "Early Round Carrots ('Paris Early Round')"
+    },
+    "days_to_harvest": {
+      "min": 65,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "round",
+      "early",
+      "sweet",
+      "crisp"
+    ],
+    "crop_slug": "carrot",
+    "sources": [
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed",
+      "https://www.welkoop.nl/buzzy-patio-veggies-wortel-parijse-markt-groentezaden-1g_1419010",
+      "https://www.vreeken.nl/zaden/groenten-fruit/wortelen/p1-90",
+      "https://www.vreeken.nl/324800-zomerwortelen-parijse-markt-parijse-vroege-ronde",
+      "https://www.vreeken.nl/zaden/groenten-fruit/wortelen/p2-20",
+      "https://www.intratuin.nl/intratuin-groentezaad-wortelen-vroege-ronde-daucus-carota-parijse-vroege-ronde.html",
+      "https://www.gardenseeds.nl/product/wortel-amsterdamse-bak-2-amfine/",
+      "https://www.koopzaden.nl/product/wortel-zaden-amsterdamse-bak-2-amfine",
+      "https://biezen.nl/wortel-amsterdamse-bak-2-amfine-sluis-garden-zaden"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "carrot-amsterdamse-bak-2-amfine",
+    "names": {
+      "nl": "Wortel 'Amsterdamse Bak 2 Amfine'",
+      "en": "Carrot 'Amsterdamse Bak 2 Amfine'"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden"
+    ],
+    "traits": [
+      "short",
+      "cylindrical",
+      "early",
+      "sweet"
+    ],
+    "crop_slug": "carrot",
+    "sources": [
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed",
+      "https://www.welkoop.nl/buzzy-patio-veggies-wortel-parijse-markt-groentezaden-1g_1419010",
+      "https://www.vreeken.nl/zaden/groenten-fruit/wortelen/p1-90",
+      "https://www.vreeken.nl/324800-zomerwortelen-parijse-markt-parijse-vroege-ronde",
+      "https://www.vreeken.nl/zaden/groenten-fruit/wortelen/p2-20",
+      "https://www.intratuin.nl/intratuin-groentezaad-wortelen-vroege-ronde-daucus-carota-parijse-vroege-ronde.html",
+      "https://www.gardenseeds.nl/product/wortel-amsterdamse-bak-2-amfine/",
+      "https://www.koopzaden.nl/product/wortel-zaden-amsterdamse-bak-2-amfine",
+      "https://biezen.nl/wortel-amsterdamse-bak-2-amfine-sluis-garden-zaden"
+    ],
+    "verified": false
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "slug": "leek-king-richard",
+    "names": {
+      "nl": "Prei 'King Richard'",
+      "en": "Leek 'King Richard'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 100
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "early",
+      "fast-maturing",
+      "stocky-shaft"
+    ],
+    "crop_slug": "leek",
+    "sources": [
+      "https://www.vreeken.nl/222230-prei-king-richard",
+      "https://nl-nl.bakker.com/products/prei-carentan-2",
+      "https://www.vreeken.nl/222400-prei-carentan",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden?p=6",
+      "https://www.bolster.nl/prei-blauwgroene-herfst-allium-porrum/p63",
+      "https://www.bolster.nl/verschil-zomer-herfst-en-winterprei/t10971",
+      "https://tuinzaden.eu/nl/prei-overige-kopen/922709-blauwgroene-herfst-prei-biologische-zaden.html",
+      "https://marvygreen.com/products/prei-blauwgroene-herfst-de-bolster",
+      "https://www.bolster.nl/prei-telen-onze-tips/t21701",
+      "https://www.bolster.nl/prei/c581",
+      "https://www.vreeken.nl/306065-oerprei",
+      "https://www.plantaardig.com/groenteninfo/berichten/de-teelt-van-doorlevende-prei-in-zeven-foto-stappen/",
+      "https://www.facebook.com/vreekenszaden/photos/net-binnen-oerprei-bolletjes-deze-bijzondere-bollen-lijken-op-knoflook-maar-smak/1105469025123486/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "leek-carentan-2",
+    "names": {
+      "nl": "Prei 'Carentan 2'",
+      "en": "Leek 'Carentan 2'"
+    },
+    "days_to_harvest": {
+      "min": 120,
+      "max": 150
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com",
+      "Vreeken's Zaden",
+      "Intratuin"
+    ],
+    "traits": [
+      "heritage",
+      "cold-tolerant",
+      "winterhard",
+      "bolt-resistant"
+    ],
+    "crop_slug": "leek",
+    "sources": [
+      "https://www.vreeken.nl/222230-prei-king-richard",
+      "https://nl-nl.bakker.com/products/prei-carentan-2",
+      "https://www.vreeken.nl/222400-prei-carentan",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden?p=6",
+      "https://www.bolster.nl/prei-blauwgroene-herfst-allium-porrum/p63",
+      "https://www.bolster.nl/verschil-zomer-herfst-en-winterprei/t10971",
+      "https://tuinzaden.eu/nl/prei-overige-kopen/922709-blauwgroene-herfst-prei-biologische-zaden.html",
+      "https://marvygreen.com/products/prei-blauwgroene-herfst-de-bolster",
+      "https://www.bolster.nl/prei-telen-onze-tips/t21701",
+      "https://www.bolster.nl/prei/c581",
+      "https://www.vreeken.nl/306065-oerprei",
+      "https://www.plantaardig.com/groenteninfo/berichten/de-teelt-van-doorlevende-prei-in-zeven-foto-stappen/",
+      "https://www.facebook.com/vreekenszaden/photos/net-binnen-oerprei-bolletjes-deze-bijzondere-bollen-lijken-op-knoflook-maar-smak/1105469025123486/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "leek-blauwgroene-herfst",
+    "names": {
+      "nl": "Prei 'Blauwgroene Herfst'",
+      "en": "Leek 'Blauwgroene Herfst'"
+    },
+    "days_to_harvest": {
+      "min": 100,
+      "max": 120
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "organic",
+      "frost-tolerant",
+      "compact"
+    ],
+    "crop_slug": "leek",
+    "sources": [
+      "https://www.vreeken.nl/222230-prei-king-richard",
+      "https://nl-nl.bakker.com/products/prei-carentan-2",
+      "https://www.vreeken.nl/222400-prei-carentan",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden?p=6",
+      "https://www.bolster.nl/prei-blauwgroene-herfst-allium-porrum/p63",
+      "https://www.bolster.nl/verschil-zomer-herfst-en-winterprei/t10971",
+      "https://tuinzaden.eu/nl/prei-overige-kopen/922709-blauwgroene-herfst-prei-biologische-zaden.html",
+      "https://marvygreen.com/products/prei-blauwgroene-herfst-de-bolster",
+      "https://www.bolster.nl/prei-telen-onze-tips/t21701",
+      "https://www.bolster.nl/prei/c581",
+      "https://www.vreeken.nl/306065-oerprei",
+      "https://www.plantaardig.com/groenteninfo/berichten/de-teelt-van-doorlevende-prei-in-zeven-foto-stappen/",
+      "https://www.facebook.com/vreekenszaden/photos/net-binnen-oerprei-bolletjes-deze-bijzondere-bollen-lijken-op-knoflook-maar-smak/1105469025123486/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "leek-oerprei",
+    "names": {
+      "nl": "Oerprei / Doorlevende Prei",
+      "en": "Perennial Leek"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "perennial",
+      "pest-resistant",
+      "rust-resistant",
+      "clumping"
+    ],
+    "crop_slug": "leek",
+    "sources": [
+      "https://www.vreeken.nl/222230-prei-king-richard",
+      "https://nl-nl.bakker.com/products/prei-carentan-2",
+      "https://www.vreeken.nl/222400-prei-carentan",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden?p=6",
+      "https://www.bolster.nl/prei-blauwgroene-herfst-allium-porrum/p63",
+      "https://www.bolster.nl/verschil-zomer-herfst-en-winterprei/t10971",
+      "https://tuinzaden.eu/nl/prei-overige-kopen/922709-blauwgroene-herfst-prei-biologische-zaden.html",
+      "https://marvygreen.com/products/prei-blauwgroene-herfst-de-bolster",
+      "https://www.bolster.nl/prei-telen-onze-tips/t21701",
+      "https://www.bolster.nl/prei/c581",
+      "https://www.vreeken.nl/306065-oerprei",
+      "https://www.plantaardig.com/groenteninfo/berichten/de-teelt-van-doorlevende-prei-in-zeven-foto-stappen/",
+      "https://www.facebook.com/vreekenszaden/photos/net-binnen-oerprei-bolletjes-deze-bijzondere-bollen-lijken-op-knoflook-maar-smak/1105469025123486/"
+    ],
+    "verified": false
+  }
+]

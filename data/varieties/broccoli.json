@@ -1,0 +1,153 @@
+[
+  {
+    "slug": "broccoli-belstar-f1",
+    "names": {
+      "nl": "Broccoli 'Belstar F1'",
+      "en": "Broccoli 'Belstar F1'"
+    },
+    "days_to_harvest": {
+      "min": 68,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "early",
+      "mid-season",
+      "uniform",
+      "organic",
+      "compact",
+      "bushy",
+      "side-shoots"
+    ],
+    "crop_slug": "broccoli",
+    "sources": [
+      "https://www.bolster.nl/media/docs/indeling_zadendisplay_2023_frank.pdf",
+      "https://www.bolster.nl/broccoli/c517",
+      "https://www.bolster.nl/broccoli-belstar-f1-brassica-oleracea/p7541",
+      "https://nl-nl.bakker.com/products/broccoli-calabrese-natalino",
+      "https://nl-be.bakker.com/products/broccoli-calabrese-natalino",
+      "https://fr-fr.bakker.com/products/chou-brocoli-calabrese-natalino",
+      "https://www.vreeken.nl/145140-bladbroccoli-minestra-nera",
+      "https://www.welkoop.nl/hortitops-broccoli-brassica-oleracea-marathon-f1-groentezaden-75stuks_1040231",
+      "https://www.welkoop.nl/advies/vierkante-meter-moestuin.html",
+      "https://www.bolster.nl/wat-betekent-het-als-groenten-doorschieten/t24971",
+      "https://www.intratuin.nl/inspiratie/moestuin-broccoli"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "broccoli-calabrese-natalino",
+    "names": {
+      "nl": "Broccoli 'Calabrese Natalino'",
+      "en": "Broccoli 'Calabrese Natalino'"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com"
+    ],
+    "traits": [
+      "early",
+      "heirloom",
+      "upright",
+      "side-shoots",
+      "extended-harvest"
+    ],
+    "crop_slug": "broccoli",
+    "sources": [
+      "https://www.bolster.nl/media/docs/indeling_zadendisplay_2023_frank.pdf",
+      "https://www.bolster.nl/broccoli/c517",
+      "https://www.bolster.nl/broccoli-belstar-f1-brassica-oleracea/p7541",
+      "https://nl-nl.bakker.com/products/broccoli-calabrese-natalino",
+      "https://nl-be.bakker.com/products/broccoli-calabrese-natalino",
+      "https://fr-fr.bakker.com/products/chou-brocoli-calabrese-natalino",
+      "https://www.vreeken.nl/145140-bladbroccoli-minestra-nera",
+      "https://www.welkoop.nl/hortitops-broccoli-brassica-oleracea-marathon-f1-groentezaden-75stuks_1040231",
+      "https://www.welkoop.nl/advies/vierkante-meter-moestuin.html",
+      "https://www.bolster.nl/wat-betekent-het-als-groenten-doorschieten/t24971",
+      "https://www.intratuin.nl/inspiratie/moestuin-broccoli"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "broccoli-minestra-nera",
+    "names": {
+      "nl": "Bladbroccoli 'Minestra Nera'",
+      "en": "Leaf Broccoli 'Minestra Nera'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "cut-and-come-again",
+      "leaf-broccoli",
+      "sprouting",
+      "ornamental",
+      "cold-hardy",
+      "frost-resistant"
+    ],
+    "crop_slug": "broccoli",
+    "sources": [
+      "https://www.bolster.nl/media/docs/indeling_zadendisplay_2023_frank.pdf",
+      "https://www.bolster.nl/broccoli/c517",
+      "https://www.bolster.nl/broccoli-belstar-f1-brassica-oleracea/p7541",
+      "https://nl-nl.bakker.com/products/broccoli-calabrese-natalino",
+      "https://nl-be.bakker.com/products/broccoli-calabrese-natalino",
+      "https://fr-fr.bakker.com/products/chou-brocoli-calabrese-natalino",
+      "https://www.vreeken.nl/145140-bladbroccoli-minestra-nera",
+      "https://www.welkoop.nl/hortitops-broccoli-brassica-oleracea-marathon-f1-groentezaden-75stuks_1040231",
+      "https://www.welkoop.nl/advies/vierkante-meter-moestuin.html",
+      "https://www.bolster.nl/wat-betekent-het-als-groenten-doorschieten/t24971",
+      "https://www.intratuin.nl/inspiratie/moestuin-broccoli"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "broccoli-marathon-f1",
+    "names": {
+      "nl": "Hortitops Broccoli 'Marathon F1'",
+      "en": "Hortitops Broccoli 'Marathon F1'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "compact",
+      "hybrid",
+      "vigorous",
+      "disease-tolerant",
+      "uniform"
+    ],
+    "crop_slug": "broccoli",
+    "sources": [
+      "https://www.bolster.nl/media/docs/indeling_zadendisplay_2023_frank.pdf",
+      "https://www.bolster.nl/broccoli/c517",
+      "https://www.bolster.nl/broccoli-belstar-f1-brassica-oleracea/p7541",
+      "https://nl-nl.bakker.com/products/broccoli-calabrese-natalino",
+      "https://nl-be.bakker.com/products/broccoli-calabrese-natalino",
+      "https://fr-fr.bakker.com/products/chou-brocoli-calabrese-natalino",
+      "https://www.vreeken.nl/145140-bladbroccoli-minestra-nera",
+      "https://www.welkoop.nl/hortitops-broccoli-brassica-oleracea-marathon-f1-groentezaden-75stuks_1040231",
+      "https://www.welkoop.nl/advies/vierkante-meter-moestuin.html",
+      "https://www.bolster.nl/wat-betekent-het-als-groenten-doorschieten/t24971",
+      "https://www.intratuin.nl/inspiratie/moestuin-broccoli"
+    ],
+    "verified": false
+  }
+]

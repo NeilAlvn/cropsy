@@ -7,58 +7,55 @@
   "kind": "pest",
   "parts": [
     "leaves",
-    "stems",
-    "roots"
+    "stems"
   ],
   "symptoms": {
-    "nl": "Op het blad verschijnen bleke, kronkelende gangen of blaasvormige plekken met daarin zichtbare donkere uitwerpselen. Daarnaast ontstaan er lichte voedings- of eiprikjes op het blad en kunnen stengels en bladeren vervormen of gaan rotten.",
-    "en": "Pale, serpentine tunnels or blister-like patches containing tiny dark droppings appear across the leaves. Light-green to white puncture spots also mark the foliage, and infested leaves or stems can curl and rot."
+    "nl": "De larven vreten kronkelende, bleke of bruine gangen en doorzichtige vlekken in het bladmoes. Aangetaste bladeren kunnen vervormen of stipjes vertonen van voedende vliegen, waarbij de maden en pophullen vaak zichtbaar zijn in het blad.",
+    "en": "Larvae tunnel through the leaf tissue, leaving winding pale or brownish mines and transparent blotches. Infested leaves may show tiny puncture spots or curled blades, with small maggots and pupae often visible inside."
   },
   "treatment": {
-    "nl": "Druk de larve aan het einde van de gang plat tussen duim en wijsvinger zodat het blad behouden blijft. Pluk zwaar aangetast blad af en gooi dit bij het gft-afval of vernietig het, maar gooi het niet op een koude composthoop. Zet eventueel natuurlijke vijanden in zoals sluipwespen of roofwantsen om de larven te bestrijden.",
-    "en": "Squash the larva at the end of its tunnel between your thumb and index finger so the leaf can remain on the plant. Remove heavily damaged leaves and dispose of them with municipal green waste rather than a cold compost pile. Alternatively, release biological controls such as parasitic wasps or predatory bugs to eliminate the larvae."
+    "nl": "Knijp de larven in de gangen handmatig plat met duim en wijsvinger zonder het hele blad te hoeven verwijderen. Knip zwaar aangetaste bladeren af en doe ze in de gft-bak of een hete composthoop zodat poppen niet overleven. Zet eventueel natuurlijke vijanden zoals sluipwespen in om de larven in de gangen te parasiteren.",
+    "en": "Carefully crush larvae inside their tunnels between your thumb and forefinger to spare the foliage. Strip off heavily damaged leaves and dispose of them in the municipal green bin or a hot compost pile. Natural predators like parasitic wasps can also be released to control the larvae inside the leaf mines."
   },
   "prevention": {
-    "nl": "Span vanaf het begin van het seizoen fijnmazig insectengaas met een maaswijdte kleiner dan 0,8 mm over de planten om de vliegjes te weren. Breng mulch van sterk geurende planten zoals boerenwormkruid aan en ruim alle gewasresten na de oogst grondig op.",
-    "en": "Cover planters with fine-mesh insect netting smaller than 0.8 mm from early in the season to prevent egg laying. Mulching with strongly scented plants like tansy and clearing away crop residues after harvest will also protect your plants."
+    "nl": "Dek gewassen vanaf het zaaien af met insectengaas met een maaswijdte kleiner dan 0,8 mm. Besproei planten met knoflookspray om de geur te maskeren, mulch met boerenwormkruid en verwijder plantenresten aan het einde van het seizoen.",
+    "en": "Cover crops from sowing until harvest with insect netting that has a mesh size smaller than 0.8 mm. Mask plant scents using a garlic spray, mulch with tansy, and clear plant debris at the end of the season."
   },
   "affects": [
     "beetroot",
     "chives",
-    "courgette",
+    "cucumber",
     "garlic",
     "leek",
     "lettuce",
+    "mangetout",
     "onion",
-    "pak-choi",
     "pea",
     "pepper",
     "shallot",
     "spinach",
+    "spring-onion",
     "swiss-chard",
     "tomato"
   ],
   "image": null,
   "sources": [
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/help-wat-is-er-hier-aan-de-hand",
     "https://community.makkelijkemoestuin.nl/posts/vragen-2/help-18",
-    "https://makkelijkemoestuin.nl/kennisbank/van-luis-tot-engerling-in-de-moestuin",
-    "https://www.ivn.nl/afdeling/valkenswaard-waalre/nieuws/bladmineerders/",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/help-mineervliegen",
+    "https://velt.nu/nieuws/oproep-zoek-mee-naar-de-tomatenmineervlieg",
     "https://velt.nu/tip/wat-doe-je-tegen-de-preimineervlieg",
     "https://community.makkelijkemoestuin.nl/posts/vragen-2/gele-eitjes-mineervlieg-of-iets-anders",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/mineerders-of-iets-anders",
+    "https://makkelijkemoestuin.nl/kennisbank/van-luis-tot-engerling-in-de-moestuin",
+    "https://edepot.wur.nl/307793",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/snijbiet-18",
     "https://beweegt.velt.nu/zuidwestpajottenland/919/tuintips",
-    "https://velt.nu/node/136",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/mineervlieg-bestrijden",
-    "https://velt.nu/nieuws/oproep-zoek-mee-naar-de-tomatenmineervlieg",
     "https://edepot.wur.nl/255753",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/help-wat-is-er-hier-aan-de-hand",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/mineerders-en-snijbiet",
-    "https://edepot.wur.nl/455853",
     "https://edepot.wur.nl/136197",
-    "https://edepot.wur.nl/13279",
-    "https://velt.nu/tip/insectengaas-gebruiken-de-moestuin",
-    "https://velt.nu/system/files/media/documenten/flyer%20bloembollensamenaankoop2025%20def.pdf",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/prei-wortel-en-koolvlieg"
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/mineerderlarven",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/mineerders-en-snijbiet",
+    "https://velt.nu/node/136",
+    "https://www.tuinadvies.nl/planten/kruiden/lycopersicon-esculentum-trostomaten/trostomaat/"
   ],
   "verified": false
 }

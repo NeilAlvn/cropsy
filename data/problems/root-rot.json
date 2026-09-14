@@ -6,68 +6,66 @@
   },
   "kind": "disease",
   "parts": [
-    "roots",
-    "stems",
+    "fruits",
     "leaves",
-    "flowers",
-    "fruits"
+    "roots",
+    "stems"
   ],
   "symptoms": {
-    "nl": "Planten gaan slap hangen en verwelken terwijl de potgrond kletsnat is en een zure of muffe geur verspreidt. De wortels worden bruin, papperig en breken snel af, terwijl bladeren vergelen en jonge vruchten of scheuten verschrompelen.",
-    "en": "Plants paradoxically wilt and droop while the potting soil is soaking wet and gives off a musty or sour smell. The roots turn brown, mushy, and break off easily, while foliage yellows and young fruits or shoots shrivel."
+    "nl": "Aangetaste planten vertonen slappe of verwelkte bladeren ondanks een kletsnatte kluit, waarbij het loof vergeelt, de groei stopt en er een muffe geur uit de grond komt. Ondergronds sterven wortels af tot een donkerbruine, slijmerige massa en kan ook de stengelbasis zacht en donker worden.",
+    "en": "Affected plants show wilting or droopy leaves despite waterlogged soil, accompanied by yellowing foliage, halted growth, and a foul, musty soil smell. Underground, roots die off and turn into a dark brown, slimy mass, while the base of the stem can also become soft and dark."
   },
   "treatment": {
-    "nl": "Haal de plant direct uit de pot, spoel de kletsnatte grond weg en snijd alle bruine en papperige wortels weg met een ontsmette schaar. Verpot de plant in schone, luchtige potgrond en snoei een deel van het bovengrondse loof terug om de verdamping in evenwicht te brengen. Voeg eventueel rijpe biologische compost of nuttige bodemmicro-organismen zoals Trichoderma toe om infecties op natuurlijke wijze te onderdrukken.",
-    "en": "Immediately remove the plant from its container, gently wash off the soggy soil, and prune away all rotten, brown roots with sterilized shears. Repot into fresh, airy potting soil and trim back some foliage to reduce the demand on the reduced root system. You can also mix in mature organic compost or beneficial microorganisms like Trichoderma to naturally suppress fungal pathogens."
+    "nl": "Stop direct met water geven, neem de plant voorzichtig uit de pot en knip alle bruine, rottende wortels met een ontsmette schaar weg tot in het gezonde weefsel. Verpot de plant in verse, luchtige biologische potgrond en gooi de oude, kletsnatte aarde weg. Snoei aangetast blad en een deel van het gezonde loof terug om verdamping te verminderen tijdens het wortelherstel.",
+    "en": "Stop watering immediately, gently remove the plant from its container, and use disinfected shears to cut away all brown, rotting roots back to healthy tissue. Repot the plant into fresh, airy organic potting soil and discard the old, soggy earth. Prune away damaged leaves and a portion of the healthy foliage to reduce moisture loss while the roots recover."
   },
   "prevention": {
-    "nl": "Gebruik altijd potten met ruime afwateringsgaten, zet ze op potvoetjes en zorg voor een luchtig substraat met bijvoorbeeld perliet of grof zand. Geef pas water als de bovenste laag aarde droog aanvoelt en leeg volgelopen onderschotels binnen een half uur.",
-    "en": "Always use containers with ample drainage holes elevated on pot feet, and plant in an airy substrate mixed with perlite or coarse sand. Only water when the top few centimeters of soil feel dry, and empty filled saucers within half an hour."
+    "nl": "Zorg voor ruime afwateringsgaten en een drainagelaag van hydrokorrels of scherven in potten met luchtige, goed doorlatende potgrond. Giet overtollig water uit lekschotels binnen 20 tot 30 minuten weg en controleer eerst met een vinger of de aarde nog vochtig aanvoelt.",
+    "en": "Ensure pots have ample drainage holes and a drainage layer of clay pebbles or potsherds filled with airy, well-draining potting mix. Empty excess water from saucers within 20 to 30 minutes and always check with a finger whether the soil is still moist before watering."
   },
   "affects": [
+    "carrot",
     "courgette",
     "cucumber",
+    "fennel",
     "french-bean",
     "garlic",
-    "lettuce",
     "onion",
     "oregano",
+    "pepper",
     "pumpkin",
     "rosemary",
     "sage",
-    "shallot",
-    "spinach",
+    "strawberry",
     "thyme",
     "tomato"
   ],
   "image": null,
   "sources": [
-    "https://makkelijkemoestuin.nl/kennisbank/koop-of-maak-een-moestuinbak",
-    "https://groei.nl/artikel/water-geven-in-de-tuin-vragen-die-elke-tuinier-heeft",
-    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/natuurlijke-bestrijding/hoe-snel-groeit-vinca-minor-dicht/",
-    "https://www.tuinadvies.nl/tuininfo/planten/sierplanten/oleander-slappe-bladeren/",
-    "https://edepot.wur.nl/292719",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/bladeren-worden-geel",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/rozemarijn-wordt-bruin/",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/slappe-blaadjes-4",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/tomatenplant-te-veel-water/",
+    "https://edepot.wur.nl/249753",
+    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/aardbei-wat-is-er-aan-de-hand",
     "https://www.tuinadvies.nl/tuininfo/planten/kamerplanten/plant-verpotten-wortels-losmaken/",
-    "https://groei.nl/artikel/orchidee-knippen-en-verpotten",
-    "https://www.tuinadvies.nl/tuininfo/planten/kamerplanten/cactus-verhouten/",
-    "https://groei.nl/artikel/kruiden-terugknippen",
-    "https://velt.nu/tip/een-geslaagde-fruittuin-de-juiste-plant-op-de-juiste-plaats",
-    "https://edepot.wur.nl/273584",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/potje-voor-tomaten",
-    "https://groei.nl/artikel/trogbeplanten",
-    "https://groei.nl/artikel/framboos-kweken-in-een-pot",
-    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/knoflook-90",
-    "https://groei.nl/artikel/potten-beschermen-vorst",
-    "https://velt.nu/system/files/media/documenten/leerkrachtenbundel_minimoestuin_op_school.pdf",
-    "https://groei.nl/artikel/hoe-zaai-ik-citroenverbena",
+    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/rotte-tomaten-iemand-een-idee",
+    "https://edepot.wur.nl/294230",
+    "https://edepot.wur.nl/41310",
     "https://community.makkelijkemoestuin.nl/posts/vragen-2/komt-dit-goed",
+    "https://www.tuinadvies.nl/tuininfo/planten/kamerplanten/cactus-verhouten/",
+    "https://www.tuinadvies.nl/tuininfo/planten/bomen-heesters/flamboyant-boom/",
+    "https://www.tuinadvies.nl/tuininfo/planten/sierplanten/oleander-slappe-bladeren/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/salak-pit/",
+    "https://makkelijkemoestuin.nl/kennisbank/koop-of-maak-een-moestuinbak",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/potje-voor-tomaten",
+    "https://velt.nu/system/files/media/documenten/leerkrachtenbundel_minimoestuin_op_school.pdf",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/rozemarijn-verplanten/",
+    "https://groei.nl/artikel/water-geven-in-de-tuin-vragen-die-elke-tuinier-heeft",
+    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/knoflook-90",
+    "https://westland.groei.nl/activiteiten/tuintips-door-het-jaar-heen-uit-52-weken-tuinplezier",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/tijm-plant-dood/",
     "https://makkelijkemoestuin.nl/blog/mei-in-de-moestuin-we-starten-nog-een-keer",
-    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/spekbonen-de-bak-in",
-    "https://groei.nl/artikel/moestuin-in-oktober-oogsten-snoeien-en-opruimen",
-    "https://edepot.wur.nl/329839",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/wortels-sla-opgegeten/"
+    "https://edepot.wur.nl/252307",
+    "https://edepot.wur.nl/252148"
   ],
   "verified": false
 }

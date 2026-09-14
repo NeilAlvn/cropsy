@@ -1,0 +1,165 @@
+[
+  {
+    "slug": "pepper-redskin-f1",
+    "names": {
+      "nl": "Paprika 'Redskin' F1",
+      "en": "Pepper 'Redskin' F1"
+    },
+    "days_to_harvest": {
+      "min": 65,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden",
+      "Welkoop"
+    ],
+    "traits": [
+      "early",
+      "dwarf bush",
+      "bell pepper",
+      "sweet",
+      "juicy",
+      "aromatic",
+      "heavy-yielding"
+    ],
+    "crop_slug": "pepper",
+    "sources": [
+      "https://plukkers.com/blogs/gewasinfo/paprika-zaaien-en-kweken-complete-gids-voor-een-rijke-oogst",
+      "https://www.vreeken.nl/206040-paprika-redskin-f1",
+      "https://www.welkoop.nl/oranjeband-zaden-paprika-redskin-f1-groentezaden-0-07gram_1300886",
+      "https://www.vreeken.nl/zaden/groenten-fruit/paprika",
+      "https://www.vreeken.nl/zaden/groenten-fruit/paprika/p2-15",
+      "https://www.vreeken.nl/zaden/groenten-fruit/paprika/p2-20",
+      "https://www.bolster.nl/snackpaprika-flynn-capsicum-annuum/p7546",
+      "https://www.intratuin.nl/intratuin-biologisch-groentezaad-snack-paprika-capsicum-annuum-flyn-oranje-18608801.html",
+      "https://www.bolster.nl/",
+      "https://tuinplus.nl/nl/4/083010/buzzy-patio-veggies-paprika-snacking-red.aspx",
+      "https://dezaden.nl/product/buzzy-patio-vegetables-snack-paprika-zaden-snacking-red/",
+      "https://hermie.com/en/201799807/buzzy-patio-veggies-paprika-snacking-red",
+      "https://stadstuinieren.nl/artikel/paprika-zaaien-en-kweken/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "pepper-kolobok",
+    "names": {
+      "nl": "Paprika 'Kolobok'",
+      "en": "Pepper 'Kolobok'"
+    },
+    "days_to_harvest": {
+      "min": 65,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "early",
+      "compact bush",
+      "cherry",
+      "round",
+      "thick-walled",
+      "fleshy",
+      "cool-tolerant"
+    ],
+    "crop_slug": "pepper",
+    "sources": [
+      "https://plukkers.com/blogs/gewasinfo/paprika-zaaien-en-kweken-complete-gids-voor-een-rijke-oogst",
+      "https://www.vreeken.nl/206040-paprika-redskin-f1",
+      "https://www.welkoop.nl/oranjeband-zaden-paprika-redskin-f1-groentezaden-0-07gram_1300886",
+      "https://www.vreeken.nl/zaden/groenten-fruit/paprika",
+      "https://www.vreeken.nl/zaden/groenten-fruit/paprika/p2-15",
+      "https://www.vreeken.nl/zaden/groenten-fruit/paprika/p2-20",
+      "https://www.bolster.nl/snackpaprika-flynn-capsicum-annuum/p7546",
+      "https://www.intratuin.nl/intratuin-biologisch-groentezaad-snack-paprika-capsicum-annuum-flyn-oranje-18608801.html",
+      "https://www.bolster.nl/",
+      "https://tuinplus.nl/nl/4/083010/buzzy-patio-veggies-paprika-snacking-red.aspx",
+      "https://dezaden.nl/product/buzzy-patio-vegetables-snack-paprika-zaden-snacking-red/",
+      "https://hermie.com/en/201799807/buzzy-patio-veggies-paprika-snacking-red",
+      "https://stadstuinieren.nl/artikel/paprika-zaaien-en-kweken/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "pepper-flynn",
+    "names": {
+      "nl": "Snackpaprika 'Flynn'",
+      "en": "Snack Pepper 'Flynn'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden",
+      "Intratuin"
+    ],
+    "traits": [
+      "mid-early",
+      "short",
+      "robust",
+      "snack pepper",
+      "sweet",
+      "few seeds",
+      "organic"
+    ],
+    "crop_slug": "pepper",
+    "sources": [
+      "https://plukkers.com/blogs/gewasinfo/paprika-zaaien-en-kweken-complete-gids-voor-een-rijke-oogst",
+      "https://www.vreeken.nl/206040-paprika-redskin-f1",
+      "https://www.welkoop.nl/oranjeband-zaden-paprika-redskin-f1-groentezaden-0-07gram_1300886",
+      "https://www.vreeken.nl/zaden/groenten-fruit/paprika",
+      "https://www.vreeken.nl/zaden/groenten-fruit/paprika/p2-15",
+      "https://www.vreeken.nl/zaden/groenten-fruit/paprika/p2-20",
+      "https://www.bolster.nl/snackpaprika-flynn-capsicum-annuum/p7546",
+      "https://www.intratuin.nl/intratuin-biologisch-groentezaad-snack-paprika-capsicum-annuum-flyn-oranje-18608801.html",
+      "https://www.bolster.nl/",
+      "https://tuinplus.nl/nl/4/083010/buzzy-patio-veggies-paprika-snacking-red.aspx",
+      "https://dezaden.nl/product/buzzy-patio-vegetables-snack-paprika-zaden-snacking-red/",
+      "https://hermie.com/en/201799807/buzzy-patio-veggies-paprika-snacking-red",
+      "https://stadstuinieren.nl/artikel/paprika-zaaien-en-kweken/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "pepper-snacking-red",
+    "names": {
+      "nl": "Snack Paprika 'Snacking Red'",
+      "en": "Snack Pepper 'Snacking Red'"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy Seeds / Tuinplus"
+    ],
+    "traits": [
+      "snack pepper",
+      "prolific",
+      "sweet",
+      "crisp"
+    ],
+    "crop_slug": "pepper",
+    "sources": [
+      "https://plukkers.com/blogs/gewasinfo/paprika-zaaien-en-kweken-complete-gids-voor-een-rijke-oogst",
+      "https://www.vreeken.nl/206040-paprika-redskin-f1",
+      "https://www.welkoop.nl/oranjeband-zaden-paprika-redskin-f1-groentezaden-0-07gram_1300886",
+      "https://www.vreeken.nl/zaden/groenten-fruit/paprika",
+      "https://www.vreeken.nl/zaden/groenten-fruit/paprika/p2-15",
+      "https://www.vreeken.nl/zaden/groenten-fruit/paprika/p2-20",
+      "https://www.bolster.nl/snackpaprika-flynn-capsicum-annuum/p7546",
+      "https://www.intratuin.nl/intratuin-biologisch-groentezaad-snack-paprika-capsicum-annuum-flyn-oranje-18608801.html",
+      "https://www.bolster.nl/",
+      "https://tuinplus.nl/nl/4/083010/buzzy-patio-veggies-paprika-snacking-red.aspx",
+      "https://dezaden.nl/product/buzzy-patio-vegetables-snack-paprika-zaden-snacking-red/",
+      "https://hermie.com/en/201799807/buzzy-patio-veggies-paprika-snacking-red",
+      "https://stadstuinieren.nl/artikel/paprika-zaaien-en-kweken/"
+    ],
+    "verified": false
+  }
+]

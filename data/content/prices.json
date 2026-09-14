@@ -1,280 +1,333 @@
 [
   {
     "crop_slug": "asparagus",
-    "eur": 11.98,
-    "unit": "kg"
+    "eur": 5.49,
+    "unit": "pcs",
+    "source": "https://www.jumbo.com/nl-be/recepten/groente/asperges"
   },
   {
     "crop_slug": "aubergine",
     "eur": 0.99,
-    "unit": "pcs"
+    "unit": "pcs",
+    "source": "https://www.supermarktscanner.nl/product-vergelijken/aubergine"
   },
   {
     "crop_slug": "basil",
-    "eur": 1.69,
-    "unit": "pcs"
+    "eur": 1.29,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi611642/ah-basilicum"
   },
   {
     "crop_slug": "beetroot",
     "eur": 1.98,
-    "unit": "kg"
+    "unit": "kg",
+    "source": "https://www.ah.nl/producten/2710/rode-bieten"
   },
   {
     "crop_slug": "broad-bean",
-    "eur": 3.99,
-    "unit": "kg"
+    "eur": 4.98,
+    "unit": "kg",
+    "source": "https://www.ah.nl/producten/product/wi361436/ah-tuinbonen"
   },
   {
     "crop_slug": "broccoli",
-    "eur": 2.5,
-    "unit": "kg"
+    "eur": 1.25,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi4177/ah-broccoli"
   },
   {
     "crop_slug": "brussels-sprouts",
-    "eur": 2.78,
-    "unit": "kg"
+    "eur": 3.98,
+    "unit": "kg",
+    "source": "https://www.ah.nl/producten/product/wi4095/ah-spruitjes"
   },
   {
     "crop_slug": "cabbage",
-    "eur": 1.49,
-    "unit": "pcs"
+    "eur": 1.99,
+    "unit": "pcs",
+    "source": "https://allesupers.nl/browse/aardappelen-groente-en-fruit/verse-groente/witte-kool"
   },
   {
     "crop_slug": "carrot",
-    "eur": 1.19,
-    "unit": "kg"
+    "eur": 1.39,
+    "unit": "kg",
+    "source": "https://www.jumbo.com/producten/jumbo-wortelen-1-kg-196113ZK"
   },
   {
     "crop_slug": "cauliflower",
-    "eur": 1.85,
-    "unit": "pcs"
+    "eur": 1.49,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi4183/ah-bloemkool"
   },
   {
     "crop_slug": "celeriac",
     "eur": 1.59,
-    "unit": "pcs"
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/1245/knolselderij"
   },
   {
     "crop_slug": "celery",
     "eur": 1.39,
-    "unit": "pcs"
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi4178/ah-bleekselderij"
   },
   {
     "crop_slug": "chili",
     "eur": 0.49,
-    "unit": "pcs"
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi387770/ah-rode-peper"
   },
   {
     "crop_slug": "chives",
-    "eur": 1.69,
-    "unit": "pcs"
+    "eur": 49.55,
+    "unit": "kg",
+    "source": "https://www.jumbo.com/producten/jumbo-bieslook-20-g-689594ZK"
   },
   {
     "crop_slug": "coriander",
-    "eur": 1.69,
-    "unit": "pcs"
+    "eur": 1.49,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi611644/ah-koriander-grootverpakking"
   },
   {
     "crop_slug": "courgette",
     "eur": 0.89,
-    "unit": "pcs"
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi4164/ah-courgette"
   },
   {
     "crop_slug": "cucumber",
     "eur": 0.79,
-    "unit": "pcs"
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi54074/ah-komkommer"
   },
   {
     "crop_slug": "dill",
-    "eur": 1.69,
-    "unit": "pcs"
+    "eur": 1.16,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi611643/ah-dille"
   },
   {
     "crop_slug": "endive",
-    "eur": 1.29,
-    "unit": "pcs"
+    "eur": 1.09,
+    "unit": "pcs",
+    "source": "https://www.jumbo.com/producten/jumbo-andijvie-1-stuk-741610STK"
   },
   {
     "crop_slug": "fennel",
     "eur": 1.09,
-    "unit": "pcs"
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi226181/ah-venkel"
   },
   {
     "crop_slug": "french-bean",
-    "eur": 3.58,
-    "unit": "kg"
+    "eur": 3.98,
+    "unit": "kg",
+    "source": "https://www.garantzaden.nl/bonen-peulen-spinazie/stamslabonen"
   },
   {
     "crop_slug": "garlic",
-    "eur": 1.39,
-    "unit": "pcs"
+    "eur": 10.36,
+    "unit": "kg",
+    "source": "https://www.ah.nl/producten/10151/ui-prei-en-knoflook"
   },
   {
     "crop_slug": "gherkin",
-    "eur": 3.99,
-    "unit": "kg"
+    "eur": 3.31,
+    "unit": "kg",
+    "source": "https://www.ah.nl/allerhande/informatie/augurk"
   },
   {
     "crop_slug": "kale",
-    "eur": 4.38,
-    "unit": "kg"
+    "eur": 7.3,
+    "unit": "kg",
+    "source": "https://www.ah.nl/producten/product/wi160718/ah-boerenkool-grootverpakking"
   },
   {
     "crop_slug": "kohlrabi",
-    "eur": 1.19,
-    "unit": "pcs"
+    "eur": 1.15,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi165851/ah-koolrabi"
   },
   {
     "crop_slug": "lambs-lettuce",
-    "eur": 13.9,
-    "unit": "kg"
+    "eur": 15.18,
+    "unit": "kg",
+    "source": "https://www.supermarktscanner.nl/product/33103/ah-veldsla"
   },
   {
     "crop_slug": "leek",
-    "eur": 0.65,
-    "unit": "pcs"
+    "eur": 0.69,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi171425/ah-prei"
   },
   {
     "crop_slug": "lettuce",
     "eur": 0.79,
     "unit": "pcs",
-    "source": "https://www.ah.nl/producten/product/wi382984/ah-kropsla"
+    "source": "https://www.ah.nl/producten/product/wi4107/ah-kropsla"
   },
   {
     "crop_slug": "mangetout",
-    "eur": 10.95,
-    "unit": "kg"
+    "eur": 11.56,
+    "unit": "kg",
+    "source": "https://www.ah.nl/producten/6314/peultjes"
   },
   {
     "crop_slug": "melon",
-    "eur": 2.49,
-    "unit": "pcs"
+    "eur": 2.29,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/1321/meloenen"
   },
   {
     "crop_slug": "mint",
-    "eur": 1.69,
-    "unit": "pcs"
+    "eur": 1.29,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi238969/ah-munt"
   },
   {
     "crop_slug": "onion",
-    "eur": 1.29,
-    "unit": "kg"
+    "eur": 0.95,
+    "unit": "kg",
+    "source": "https://www.ah.nl/producten/product/wi189479/ah-gele-uien"
   },
   {
     "crop_slug": "oregano",
-    "eur": 1.69,
-    "unit": "pcs"
+    "eur": 1.29,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi404122/ah-oregano"
   },
   {
     "crop_slug": "pak-choi",
-    "eur": 1.39,
-    "unit": "pcs"
+    "eur": 1.49,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/1390/paksoi"
   },
   {
     "crop_slug": "parsley",
-    "eur": 1.69,
-    "unit": "pcs"
+    "eur": 1.09,
+    "unit": "pcs",
+    "source": "https://www.jumbo.com/producten/aardappelen,-groente-en-fruit/verse-kruiden,-gember-en-pepers/peterselie/"
   },
   {
     "crop_slug": "parsnip",
-    "eur": 3.38,
-    "unit": "kg"
+    "eur": 4.98,
+    "unit": "kg",
+    "source": "https://www.ah.nl/producten/6137/pastinaak"
   },
   {
     "crop_slug": "pea",
-    "eur": 3.99,
-    "unit": "kg"
+    "eur": 14.95,
+    "unit": "kg",
+    "source": "https://www.jumbo.com/producten/jumbo-doperwten-200g-212185STK"
   },
   {
     "crop_slug": "pepper",
-    "eur": 1.09,
-    "unit": "pcs"
+    "eur": 0.99,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi4117/ah-paprika-rood"
   },
   {
     "crop_slug": "pointed-cabbage",
-    "eur": 1.39,
-    "unit": "pcs"
+    "eur": 1.89,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi239451/ah-spitskool"
   },
   {
     "crop_slug": "potato",
-    "eur": 1.39,
-    "unit": "kg"
+    "eur": 1.29,
+    "unit": "kg",
+    "source": "https://www.ah.nl/producten/product/wi111388/ah-iets-kruimige-aardappelen"
   },
   {
     "crop_slug": "pumpkin",
-    "eur": 1.99,
-    "unit": "pcs"
+    "eur": 3.58,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/2507/pompoen"
   },
   {
     "crop_slug": "radish",
-    "eur": 0.99,
-    "unit": "pcs"
+    "eur": 3.95,
+    "unit": "kg",
+    "source": "https://www.ah.nl/producten/product/wi441049/ah-radijs"
   },
   {
     "crop_slug": "red-cabbage",
-    "eur": 1.49,
-    "unit": "pcs"
+    "eur": 1.99,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/2689/rode-kool"
   },
   {
     "crop_slug": "rhubarb",
-    "eur": 4.98,
-    "unit": "kg"
+    "eur": 3.99,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/allerhande/informatie/rabarber"
   },
   {
     "crop_slug": "rocket",
-    "eur": 12.9,
-    "unit": "kg"
+    "eur": 12.82,
+    "unit": "kg",
+    "source": "https://www.ah.nl/producten/product/wi111767/ah-rucola"
   },
   {
     "crop_slug": "rosemary",
-    "eur": 1.69,
-    "unit": "pcs"
+    "eur": 1.29,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/5800/verse-kruiden"
   },
   {
     "crop_slug": "runner-bean",
-    "eur": 4.98,
-    "unit": "kg"
+    "eur": 5.73,
+    "unit": "kg",
+    "source": "https://nl.wikipedia.org/wiki/Pronkboon"
   },
   {
     "crop_slug": "sage",
-    "eur": 1.69,
-    "unit": "pcs"
+    "eur": 1.29,
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi200547/ah-salie"
   },
   {
     "crop_slug": "shallot",
-    "eur": 2.98,
-    "unit": "kg"
+    "eur": 3.88,
+    "unit": "kg",
+    "source": "https://www.ah.nl/producten/product/wi525846/ah-sjalotten"
   },
   {
     "crop_slug": "sorrel",
-    "eur": 1.69,
-    "unit": "pcs",
-    "source": "https://www.jumbo.com/producten/jumbo-zuring-vers-kruid"
+    "eur": null,
+    "unit": null,
+    "source": "https://www.reddit.com/r/nederlands/comments/1k0igfm/waar_kan_je_veldzuring_kopen/"
   },
   {
     "crop_slug": "spinach",
-    "eur": 4.73,
-    "unit": "kg"
+    "eur": 4.87,
+    "unit": "kg",
+    "source": "https://www.ah.nl/producten/product/wi395960/ah-spinazie"
   },
   {
     "crop_slug": "spring-onion",
     "eur": 0.99,
-    "unit": "pcs"
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/product/wi169813/ah-bosui"
   },
   {
     "crop_slug": "strawberry",
     "eur": 9.98,
-    "unit": "kg"
+    "unit": "kg",
+    "source": "https://www.ah.nl/producten/2551/aardbeien"
   },
   {
     "crop_slug": "swede",
-    "eur": 1.79,
-    "unit": "pcs"
+    "eur": 4.98,
+    "unit": "kg",
+    "source": "https://www.ah.nl/producten/product/wi395958/ah-koolraap"
   },
   {
     "crop_slug": "sweetcorn",
     "eur": 1.19,
-    "unit": "pcs"
+    "unit": "pcs",
+    "source": "https://www.ah.nl/producten/2684/maiskolven"
   },
   {
     "crop_slug": "swiss-chard",
@@ -284,8 +337,9 @@
   },
   {
     "crop_slug": "thyme",
-    "eur": 1.69,
-    "unit": "pcs"
+    "eur": 83.33,
+    "unit": "kg",
+    "source": "https://www.ah.nl/producten/product/wi238974/ah-tijm"
   },
   {
     "crop_slug": "tomato",
@@ -295,12 +349,14 @@
   },
   {
     "crop_slug": "turnip",
-    "eur": 2.49,
-    "unit": "kg"
+    "eur": 4.58,
+    "unit": "kg",
+    "source": "https://www.ah.nl/allerhande/informatie/meiraap"
   },
   {
     "crop_slug": "winter-squash",
-    "eur": 1.99,
-    "unit": "pcs"
+    "eur": 8.73,
+    "unit": "kg",
+    "source": "https://www.ah.nl/producten/2507/pompoen"
   }
 ]

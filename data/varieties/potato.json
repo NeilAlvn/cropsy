@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "potato-soltastic-f1",
+    "names": {
+      "nl": "Aardappel 'Soltastic F1'",
+      "en": "Potato 'Soltastic F1'"
+    },
+    "days_to_harvest": {
+      "min": 90,
+      "max": 100
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "compact",
+      "bush",
+      "firm-cooking",
+      "disease-resistant"
+    ],
+    "crop_slug": "potato",
+    "sources": [
+      "https://www.intratuin.nl/intratuin-biologisch-groentezaden-aardappel-solanum-tuberosum-soltastic-f1.html",
+      "https://www.vreeken.nl/407981-aardappels-annabelle",
+      "https://www.vreeken.nl/bloembollen-knollen/aardappels-eetbare-knollen/pootaardappels/p3-80",
+      "https://www.vreeken.nl/401200-aardappels-frieslander",
+      "https://www.intratuin.nl/florex-biologische-pootaardappelen-alouette-5-stuks.html",
+      "https://www.intratuin.nl/florex?p=2",
+      "https://bio.bolster.nl/100-gmo-vrij/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "potato-annabelle",
+    "names": {
+      "nl": "Aardappel 'Annabelle'",
+      "en": "Potato 'Annabelle'"
+    },
+    "days_to_harvest": {
+      "min": 80,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "very early",
+      "salad",
+      "waxy",
+      "firm-cooking"
+    ],
+    "crop_slug": "potato",
+    "sources": [
+      "https://www.intratuin.nl/intratuin-biologisch-groentezaden-aardappel-solanum-tuberosum-soltastic-f1.html",
+      "https://www.vreeken.nl/407981-aardappels-annabelle",
+      "https://www.vreeken.nl/bloembollen-knollen/aardappels-eetbare-knollen/pootaardappels/p3-80",
+      "https://www.vreeken.nl/401200-aardappels-frieslander",
+      "https://www.intratuin.nl/florex-biologische-pootaardappelen-alouette-5-stuks.html",
+      "https://www.intratuin.nl/florex?p=2",
+      "https://bio.bolster.nl/100-gmo-vrij/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "potato-frieslander",
+    "names": {
+      "nl": "Aardappel 'Frieslander'",
+      "en": "Potato 'Frieslander'"
+    },
+    "days_to_harvest": {
+      "min": 80,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "very early",
+      "floury",
+      "nematode-resistant",
+      "phytophthora-resistant"
+    ],
+    "crop_slug": "potato",
+    "sources": [
+      "https://www.intratuin.nl/intratuin-biologisch-groentezaden-aardappel-solanum-tuberosum-soltastic-f1.html",
+      "https://www.vreeken.nl/407981-aardappels-annabelle",
+      "https://www.vreeken.nl/bloembollen-knollen/aardappels-eetbare-knollen/pootaardappels/p3-80",
+      "https://www.vreeken.nl/401200-aardappels-frieslander",
+      "https://www.intratuin.nl/florex-biologische-pootaardappelen-alouette-5-stuks.html",
+      "https://www.intratuin.nl/florex?p=2",
+      "https://bio.bolster.nl/100-gmo-vrij/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "potato-alouette",
+    "names": {
+      "nl": "Aardappel 'Alouette'",
+      "en": "Potato 'Alouette'"
+    },
+    "days_to_harvest": {
+      "min": 100,
+      "max": 110
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "compact",
+      "mid-early",
+      "firm-cooking",
+      "blight-resistant"
+    ],
+    "crop_slug": "potato",
+    "sources": [
+      "https://www.intratuin.nl/intratuin-biologisch-groentezaden-aardappel-solanum-tuberosum-soltastic-f1.html",
+      "https://www.vreeken.nl/407981-aardappels-annabelle",
+      "https://www.vreeken.nl/bloembollen-knollen/aardappels-eetbare-knollen/pootaardappels/p3-80",
+      "https://www.vreeken.nl/401200-aardappels-frieslander",
+      "https://www.intratuin.nl/florex-biologische-pootaardappelen-alouette-5-stuks.html",
+      "https://www.intratuin.nl/florex?p=2",
+      "https://bio.bolster.nl/100-gmo-vrij/"
+    ],
+    "verified": false
+  }
+]

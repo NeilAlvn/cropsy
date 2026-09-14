@@ -6,56 +6,57 @@
   },
   "kind": "disorder",
   "parts": [
-    "fruits"
+    "fruits",
+    "roots"
   ],
   "symptoms": {
-    "nl": "Radiale of concentrische scheuren barsten open over de schil en het vruchtvlees, waardoor het binnenste pulp bloot komt te liggen. Deze open wonden worden snel aangetast door schimmelsporen, insecten en secundair rot.",
-    "en": "Radial or concentric tears split open across the fruit skin and outer flesh, exposing the internal pulp to the air. These open cracks quickly become vulnerable to secondary rotting, fungal moulds, and insect infestations."
+    "nl": "Er ontstaan diepe lengte- of ringvormige scheuren in de schil van (bijna) rijpe vruchten waarbij het binnenste vruchtvlees bloot komt te liggen. Deze open wonden trekken snel schimmels en plagen aan, waardoor de vruchten snel zacht worden en gaan rotten.",
+    "en": "Deep longitudinal or concentric cracks develop in the skin of ripening fruits, leaving the inner flesh exposed. These open wounds quickly attract fungi and pests, causing the fruit flesh to rapidly soften and rot."
   },
   "treatment": {
-    "nl": "Oogst gebarsten vruchten direct om te voorkomen dat plagen en schimmels binnendringen. Snijd het gescheurde deel weg als er nog geen rot is om de rest veilig te consumeren. Pluk bijna rijpe vruchten vroegtijdig en laat ze binnen op een zonnige vensterbank narijpen als er zware regenbuien worden voorspeld.",
-    "en": "Harvest cracked fruits immediately before insect pests invade and rot or mould sets in. If no mould has developed, cut away the split section so the remainder of the fruit can be safely eaten. Pick unripe fruits that are changing colour early and ripen them indoors on a sunny windowsill if heavy rain is forecast."
+    "nl": "Pluk aangetaste vruchten direct van de plant en snijd het gescheurde deel weg om het gezonde vruchtvlees meteen te verwerken. Ruim afgevallen, rottende vruchten direct uit de potten op om schimmels en ongedierte te weren. Biologische bestrijdingsmiddelen werken niet genezend, aangezien het om een fysiologische groeistoornis gaat.",
+    "en": "Pick affected fruits immediately and cut away the cracked sections so the undamaged flesh can be consumed or processed right away. Promptly clear fallen and rotting fruits from the pots to keep fungi and pests away. Organic sprays or treatments will not cure the condition, as this is a physiological growth disorder."
   },
   "prevention": {
-    "nl": "Houd potgrond gelijkmatig vochtig door regelmatig water te geven, mulch de aarde en plaats potten onder een afdak tegen zware stortbuien. Zorg voor evenwichtige voeding met kalium en calcium en kies barstresistente rassen.",
-    "en": "Keep container soil consistently moist to prevent sudden water uptake shock, and add an organic mulch layer to buffer moisture swings. Protect pots from heavy downpours under a shelter, provide balanced calcium and potassium feeding, and select crack-resistant cultivars."
+    "nl": "Geef gelijkmatig water aan de voet van de plant, breng een mulchlaag aan en gebruik eventueel waterreservoirs om vochtschokken te vermijden. Zorg voor evenwichtige voeding met calcium en kalium, kies scheurvaste rassen en snoei bladeren niet te drastisch weg.",
+    "en": "Water evenly at the base of the plant, apply a mulch layer, and consider water reservoirs to avoid sudden moisture shocks. Ensure balanced nutrition with calcium and potassium, choose crack-resistant varieties, and avoid pruning leaves too aggressively."
   },
   "affects": [
-    "aubergine",
+    "carrot",
     "chili",
-    "coriander",
-    "courgette",
-    "cucumber",
-    "dill",
+    "kohlrabi",
     "pepper",
+    "radish",
     "strawberry",
     "tomato"
   ],
   "image": null,
   "sources": [
     "https://edepot.wur.nl/420651",
-    "https://www.tuinadvies.nl/fr-BE/informations-sur-le-jardin/potager/baies-fruitieres/dechirure-de-fraise/",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/water-geven-hoe-vaak-en-hoe-veel",
-    "https://wageningen.groei.nl/groeninfo/plant-in-beeld",
-    "https://edepot.wur.nl/393301",
-    "https://makkelijkemoestuin.nl/kennisbank/welke-groentes-kunnen-tegen-kou",
     "https://makkelijkemoestuin.nl/kennisbank/zaaien-in-augustus-voor-de-herfst",
+    "https://edepot.wur.nl/308646",
     "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/de-moestuinkalender-juli/",
-    "https://meierijstad.groei.nl/groeninfo/tuinkalender/augustus",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/neusrot-2",
-    "https://www.tuinadvies.nl/planten/kruiden/lycopersicon-esculentum-trostomaten/trostomaat/",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/meer-of-minder-water",
-    "https://makkelijkemoestuin.nl/kennisbank/juli-tomaat-courgette-en-komkommer",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/hoe-vaak-moet-je-tomaten-water-geven",
-    "https://velt.nu/tip/hoeveel-water-heeft-jouw-moestuin-nodig",
-    "https://velt.nu/tip/tips-voor-lentedagen-de-serre-kas",
-    "https://velt.nu/tip/ideale-teelten-achter-glas",
+    "https://makkelijkemoestuin.nl/blog/makkelijke-moestuin-augustus",
+    "https://wageningen.groei.nl/groeninfo/plant-in-beeld",
+    "https://makkelijkemoestuin.nl/kennisbank/welke-groentes-kunnen-tegen-kou",
+    "https://edepot.wur.nl/287108",
+    "https://makkelijkemoestuin.nl/kennisbank/tomatenziekte-herkennen-en-ingrijpen",
+    "https://edepot.wur.nl/386701",
     "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/planten-bemesten/",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/neusrot-2",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/de-moestuinkalender-juli",
+    "https://makkelijkemoestuin.nl/kennisbank/juli-tomaat-courgette-en-komkommer",
+    "https://velt.nu/tip/tips-voor-lentedagen-de-serre-kas",
+    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/tomaten-plant",
+    "https://velt.nu/tip/hoeveel-water-heeft-jouw-moestuin-nodig",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/water-geven-hoe-vaak-en-hoe-veel",
+    "https://www.tuinadvies.nl/planten/kruiden/lycopersicon-esculentum-trostomaten/trostomaat/",
+    "https://velt.nu/tip/hoe-bescherm-je-jouw-moestuin-tegen-hitte-langdurige-droogte",
     "https://velt.nu/nieuws/deel-1-het-kan-wel-ziektevrije-buitentomaten",
-    "https://community.makkelijkemoestuin.nl/posts/testzaden-2024/gele-snacktomaat-dattolime-24-maart",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/vijf-tinten-groenten-en-fruit/",
-    "https://velt.nu/tip/spintmijten-voorkomen-en-bestrijden",
-    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/natuurlijke-bestrijding/echte-of-valse-meeldauw/"
+    "https://velt.nu/nieuws/deel-4-de-selectie",
+    "https://meierijstad.groei.nl/groeninfo/tuinkalender/augustus",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/natuurlijke-bestrijding/echte-of-valse-meeldauw/",
+    "https://velt.nu/tip/fruit-oogsten-en-bewaren"
   ],
   "verified": false
 }

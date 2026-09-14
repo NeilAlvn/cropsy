@@ -1,0 +1,140 @@
+[
+  {
+    "slug": "dill-fernleaf-compatto",
+    "names": {
+      "nl": "Dille 'Fernleaf' / 'Compatto'",
+      "en": "Dill 'Fernleaf' / 'Compatto'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "dwarf",
+      "bush",
+      "slow-bolting"
+    ],
+    "crop_slug": "dill",
+    "sources": [
+      "https://www.vreeken.nl/341900-dille-fernleaf-compatto",
+      "https://tuinplus.nl/nl/4/083018/buzzy-patio-veggies-dille-nano.aspx",
+      "https://www.welkoop.nl/acties?offset=2568",
+      "https://www.tuinplus.nl/nl/4/001055/buzzy-dille.aspx",
+      "https://groei.nl/artikel/dille",
+      "https://nl-nl.bakker.com/products/dille-bouquet-compatto",
+      "https://www.gardenseeds.nl/product/dille-compatto/",
+      "https://www.koopbloembollen.nl/product/dille-zaden-compatto",
+      "https://www.koopzaden.nl/product/dille-zaden-compatto",
+      "https://moestuinenbloem.nl/dille-tuin-de-bruijn/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "dill-nano",
+    "names": {
+      "nl": "Dille 'Nano'",
+      "en": "Dill 'Nano'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy Seeds",
+      "Tuinplus",
+      "Welkoop"
+    ],
+    "traits": [
+      "dwarf",
+      "bushy",
+      "low-growing"
+    ],
+    "crop_slug": "dill",
+    "sources": [
+      "https://www.vreeken.nl/341900-dille-fernleaf-compatto",
+      "https://tuinplus.nl/nl/4/083018/buzzy-patio-veggies-dille-nano.aspx",
+      "https://www.welkoop.nl/acties?offset=2568",
+      "https://www.tuinplus.nl/nl/4/001055/buzzy-dille.aspx",
+      "https://groei.nl/artikel/dille",
+      "https://nl-nl.bakker.com/products/dille-bouquet-compatto",
+      "https://www.gardenseeds.nl/product/dille-compatto/",
+      "https://www.koopbloembollen.nl/product/dille-zaden-compatto",
+      "https://www.koopzaden.nl/product/dille-zaden-compatto",
+      "https://moestuinenbloem.nl/dille-tuin-de-bruijn/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "dill-bouquet-compatto",
+    "names": {
+      "nl": "Dille 'Bouquet Compatto'",
+      "en": "Dill 'Bouquet Compatto'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com"
+    ],
+    "traits": [
+      "compact",
+      "bush",
+      "wind-resistant",
+      "non-lodging"
+    ],
+    "crop_slug": "dill",
+    "sources": [
+      "https://www.vreeken.nl/341900-dille-fernleaf-compatto",
+      "https://tuinplus.nl/nl/4/083018/buzzy-patio-veggies-dille-nano.aspx",
+      "https://www.welkoop.nl/acties?offset=2568",
+      "https://www.tuinplus.nl/nl/4/001055/buzzy-dille.aspx",
+      "https://groei.nl/artikel/dille",
+      "https://nl-nl.bakker.com/products/dille-bouquet-compatto",
+      "https://www.gardenseeds.nl/product/dille-compatto/",
+      "https://www.koopbloembollen.nl/product/dille-zaden-compatto",
+      "https://www.koopzaden.nl/product/dille-zaden-compatto",
+      "https://moestuinenbloem.nl/dille-tuin-de-bruijn/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "dill-compatto",
+    "names": {
+      "nl": "Dille 'Compatto'",
+      "en": "Dill 'Compatto'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden (Garden Seeds)"
+    ],
+    "traits": [
+      "compact",
+      "dwarf"
+    ],
+    "crop_slug": "dill",
+    "sources": [
+      "https://www.vreeken.nl/341900-dille-fernleaf-compatto",
+      "https://tuinplus.nl/nl/4/083018/buzzy-patio-veggies-dille-nano.aspx",
+      "https://www.welkoop.nl/acties?offset=2568",
+      "https://www.tuinplus.nl/nl/4/001055/buzzy-dille.aspx",
+      "https://groei.nl/artikel/dille",
+      "https://nl-nl.bakker.com/products/dille-bouquet-compatto",
+      "https://www.gardenseeds.nl/product/dille-compatto/",
+      "https://www.koopbloembollen.nl/product/dille-zaden-compatto",
+      "https://www.koopzaden.nl/product/dille-zaden-compatto",
+      "https://moestuinenbloem.nl/dille-tuin-de-bruijn/"
+    ],
+    "verified": false
+  }
+]

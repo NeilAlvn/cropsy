@@ -1,0 +1,141 @@
+[
+  {
+    "slug": "tomato-tiny-tim",
+    "names": {
+      "nl": "Kerstomaat 'Tiny Tim'",
+      "en": "Cherry Tomato 'Tiny Tim'"
+    },
+    "days_to_harvest": {
+      "min": 55,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop",
+      "Hortitops",
+      "Oranjeband Zaden"
+    ],
+    "traits": [
+      "cherry",
+      "dwarf bush",
+      "determinate",
+      "compact",
+      "sweet"
+    ],
+    "crop_slug": "tomato",
+    "sources": [
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed/groentezaden/tomatenzaden",
+      "https://www.welkoop.nl/hortitops-kerstomaat-solanum-lycopersicum-tiny-tim-groentezaden-0-5gram_1092980",
+      "https://tuinzaden.eu/nl/cherry-kerstomaten-zaden-zaden-kopen/502854-tiny-tim-lage-kerstomaat-zaden.html",
+      "https://www.welkoop.nl/oranjeband-zaden-tomaat-tiny-tim-groentezaden-0-25gram_1301205",
+      "https://tuinzaden.eu/nl/balkontomaten-zaden-zaden-kopen/502858-maja-balkontomaat-zaden.html",
+      "https://www.vreeken.nl/293150-middenmaat-dwergtomaat-balkonstar",
+      "https://www.koopzaden.nl/product/tomaat-zaden-tiny-temptations-orange-f1-snacktomaat",
+      "https://www.sluisgarden.com/nieuws/artikel/33/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "tomato-maja",
+    "names": {
+      "nl": "Balkontomaat 'Maja'",
+      "en": "Balcony Tomato 'Maja'"
+    },
+    "days_to_harvest": {
+      "min": 65,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy Seeds",
+      "Tuinzaden.eu"
+    ],
+    "traits": [
+      "patio bush",
+      "determinate",
+      "early-season",
+      "saladette",
+      "cocktail"
+    ],
+    "crop_slug": "tomato",
+    "sources": [
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed/groentezaden/tomatenzaden",
+      "https://www.welkoop.nl/hortitops-kerstomaat-solanum-lycopersicum-tiny-tim-groentezaden-0-5gram_1092980",
+      "https://tuinzaden.eu/nl/cherry-kerstomaten-zaden-zaden-kopen/502854-tiny-tim-lage-kerstomaat-zaden.html",
+      "https://www.welkoop.nl/oranjeband-zaden-tomaat-tiny-tim-groentezaden-0-25gram_1301205",
+      "https://tuinzaden.eu/nl/balkontomaten-zaden-zaden-kopen/502858-maja-balkontomaat-zaden.html",
+      "https://www.vreeken.nl/293150-middenmaat-dwergtomaat-balkonstar",
+      "https://www.koopzaden.nl/product/tomaat-zaden-tiny-temptations-orange-f1-snacktomaat",
+      "https://www.sluisgarden.com/nieuws/artikel/33/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "tomato-balkonstar",
+    "names": {
+      "nl": "Middenmaat Dwergtomaat 'Balkonstar'",
+      "en": "Medium Dwarf Tomato 'Balkonstar'"
+    },
+    "days_to_harvest": {
+      "min": 65,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "dwarf bush",
+      "early to mid-season",
+      "salad",
+      "compact"
+    ],
+    "crop_slug": "tomato",
+    "sources": [
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed/groentezaden/tomatenzaden",
+      "https://www.welkoop.nl/hortitops-kerstomaat-solanum-lycopersicum-tiny-tim-groentezaden-0-5gram_1092980",
+      "https://tuinzaden.eu/nl/cherry-kerstomaten-zaden-zaden-kopen/502854-tiny-tim-lage-kerstomaat-zaden.html",
+      "https://www.welkoop.nl/oranjeband-zaden-tomaat-tiny-tim-groentezaden-0-25gram_1301205",
+      "https://tuinzaden.eu/nl/balkontomaten-zaden-zaden-kopen/502858-maja-balkontomaat-zaden.html",
+      "https://www.vreeken.nl/293150-middenmaat-dwergtomaat-balkonstar",
+      "https://www.koopzaden.nl/product/tomaat-zaden-tiny-temptations-orange-f1-snacktomaat",
+      "https://www.sluisgarden.com/nieuws/artikel/33/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "tomato-tiny-temptations-orange-f1",
+    "names": {
+      "nl": "Snacktomaat 'Tiny Temptations Orange F1'",
+      "en": "Snack Tomato 'Tiny Temptations Orange F1'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden",
+      "Koopzaden.nl"
+    ],
+    "traits": [
+      "cherry",
+      "snack",
+      "bush",
+      "blight-tolerant",
+      "mildew-resistant"
+    ],
+    "crop_slug": "tomato",
+    "sources": [
+      "https://www.welkoop.nl/tuin/zaden-en-pootgoed/groentezaden/tomatenzaden",
+      "https://www.welkoop.nl/hortitops-kerstomaat-solanum-lycopersicum-tiny-tim-groentezaden-0-5gram_1092980",
+      "https://tuinzaden.eu/nl/cherry-kerstomaten-zaden-zaden-kopen/502854-tiny-tim-lage-kerstomaat-zaden.html",
+      "https://www.welkoop.nl/oranjeband-zaden-tomaat-tiny-tim-groentezaden-0-25gram_1301205",
+      "https://tuinzaden.eu/nl/balkontomaten-zaden-zaden-kopen/502858-maja-balkontomaat-zaden.html",
+      "https://www.vreeken.nl/293150-middenmaat-dwergtomaat-balkonstar",
+      "https://www.koopzaden.nl/product/tomaat-zaden-tiny-temptations-orange-f1-snacktomaat",
+      "https://www.sluisgarden.com/nieuws/artikel/33/"
+    ],
+    "verified": false
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "kohlrabi-lanro",
+    "names": {
+      "nl": "Witte Koolrabi 'Lanro'",
+      "en": "Kohlrabi 'Lanro'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "compact",
+      "early",
+      "tender",
+      "resistant to woodiness"
+    ],
+    "crop_slug": "kohlrabi",
+    "sources": [
+      "https://www.vreeken.nl/162140-witte-koolrabi-lanro",
+      "https://tuinzaden.eu/nl/koolrabi-zaden-kopen/502390-lanro-koolrabi-zaden.html",
+      "https://www.bolster.nl/koolrabi-delikatess-blauwe-brassica-oleracea/p43",
+      "https://www.bolster.nl/koolrabi/c519",
+      "https://www.bolster.nl/koolrabi-oogsten/t22836",
+      "https://www.welkoop.nl/oranjeband-zaden-koolrabi-quickstar-f1-groentezaden-0-65gram_1300880",
+      "https://nl-nl.bakker.com/products/koolrabi-blaro-bio",
+      "https://www.deoosteindeonline.nl/product/koolrabi-blaro-bio-zaden",
+      "https://nl-nl.bakker.com/products/boerenkool-westlandse-winter",
+      "https://www.vreeken.nl/162000-blauwe-koolrabi-delikatess-blauer-wener-blauwe"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "kohlrabi-delikatess-blauwe",
+    "names": {
+      "nl": "Koolrabi 'Delikatess Blauwe'",
+      "en": "Kohlrabi 'Delikatess Blauwe'"
+    },
+    "days_to_harvest": {
+      "min": 55,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "early",
+      "fast-growing",
+      "bolting-resistant",
+      "ornamental"
+    ],
+    "crop_slug": "kohlrabi",
+    "sources": [
+      "https://www.vreeken.nl/162140-witte-koolrabi-lanro",
+      "https://tuinzaden.eu/nl/koolrabi-zaden-kopen/502390-lanro-koolrabi-zaden.html",
+      "https://www.bolster.nl/koolrabi-delikatess-blauwe-brassica-oleracea/p43",
+      "https://www.bolster.nl/koolrabi/c519",
+      "https://www.bolster.nl/koolrabi-oogsten/t22836",
+      "https://www.welkoop.nl/oranjeband-zaden-koolrabi-quickstar-f1-groentezaden-0-65gram_1300880",
+      "https://nl-nl.bakker.com/products/koolrabi-blaro-bio",
+      "https://www.deoosteindeonline.nl/product/koolrabi-blaro-bio-zaden",
+      "https://nl-nl.bakker.com/products/boerenkool-westlandse-winter",
+      "https://www.vreeken.nl/162000-blauwe-koolrabi-delikatess-blauer-wener-blauwe"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "kohlrabi-quickstar-f1",
+    "names": {
+      "nl": "Koolrabi 'Quickstar F1'",
+      "en": "Kohlrabi 'Quickstar F1'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop (Oranjeband zaden)"
+    ],
+    "traits": [
+      "early",
+      "compact",
+      "hybrid",
+      "uniform"
+    ],
+    "crop_slug": "kohlrabi",
+    "sources": [
+      "https://www.vreeken.nl/162140-witte-koolrabi-lanro",
+      "https://tuinzaden.eu/nl/koolrabi-zaden-kopen/502390-lanro-koolrabi-zaden.html",
+      "https://www.bolster.nl/koolrabi-delikatess-blauwe-brassica-oleracea/p43",
+      "https://www.bolster.nl/koolrabi/c519",
+      "https://www.bolster.nl/koolrabi-oogsten/t22836",
+      "https://www.welkoop.nl/oranjeband-zaden-koolrabi-quickstar-f1-groentezaden-0-65gram_1300880",
+      "https://nl-nl.bakker.com/products/koolrabi-blaro-bio",
+      "https://www.deoosteindeonline.nl/product/koolrabi-blaro-bio-zaden",
+      "https://nl-nl.bakker.com/products/boerenkool-westlandse-winter",
+      "https://www.vreeken.nl/162000-blauwe-koolrabi-delikatess-blauer-wener-blauwe"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "kohlrabi-blaro",
+    "names": {
+      "nl": "Koolrabi 'Blaro' (BIO)",
+      "en": "Kohlrabi 'Blaro' (BIO)"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com",
+      "Sluis Garden BIO"
+    ],
+    "traits": [
+      "bush",
+      "compact",
+      "sweet"
+    ],
+    "crop_slug": "kohlrabi",
+    "sources": [
+      "https://www.vreeken.nl/162140-witte-koolrabi-lanro",
+      "https://tuinzaden.eu/nl/koolrabi-zaden-kopen/502390-lanro-koolrabi-zaden.html",
+      "https://www.bolster.nl/koolrabi-delikatess-blauwe-brassica-oleracea/p43",
+      "https://www.bolster.nl/koolrabi/c519",
+      "https://www.bolster.nl/koolrabi-oogsten/t22836",
+      "https://www.welkoop.nl/oranjeband-zaden-koolrabi-quickstar-f1-groentezaden-0-65gram_1300880",
+      "https://nl-nl.bakker.com/products/koolrabi-blaro-bio",
+      "https://www.deoosteindeonline.nl/product/koolrabi-blaro-bio-zaden",
+      "https://nl-nl.bakker.com/products/boerenkool-westlandse-winter",
+      "https://www.vreeken.nl/162000-blauwe-koolrabi-delikatess-blauer-wener-blauwe"
+    ],
+    "verified": false
+  }
+]

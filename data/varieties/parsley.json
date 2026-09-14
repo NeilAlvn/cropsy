@@ -1,0 +1,177 @@
+[
+  {
+    "slug": "parsley-moskrul-2",
+    "names": {
+      "nl": "Moskrul 2",
+      "en": "Curled Parsley"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "dwarf",
+      "compact",
+      "bush",
+      "moss-curled",
+      "cut-and-come-again"
+    ],
+    "crop_slug": "parsley",
+    "sources": [
+      "https://www.bolster.nl/peterselie-moskrul-2-petroselinum-crispum/p119",
+      "https://puur-mieke.com/product/de-bolster-kruidenpeterselie-moskrul-2-2g-bio/",
+      "https://www.bolster.nl/kruiden-in-potten-kweken/t25601",
+      "https://www.welkoop.nl/hortitops-peterselie-petroselinum-crispum-thujade-orig-donkergroene-kruidenzaden-3gram_1040254",
+      "https://www.welkoop.nl/hortitops-peterselie-petroselinum-crispum-gekrulde-donkergroene-kruidenzaden-5gram_1039951",
+      "https://www.vreeken.nl/210005-gladde-bladpeterselie-gewone-snij",
+      "https://www.bolster.nl/peterselie-gewone-snij-3-petroselinum-crispum/p983",
+      "https://marvygreen.com/products/peterselie-gewone-snij-3-de-bolster",
+      "https://www.intratuin.nl/tuinplanten/zaden",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden",
+      "https://www.tuinen-shop.nl/p/buzzy-organic-peterselie-gigante-ditalia-bio/",
+      "https://sherriesestates.com/product/buzzy-organic-parsley-gigante-ditaliabio/",
+      "https://www.vreeken.nl/210500-grote-gladde-bladpeterselie-gigante-italia",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/kruidenzaden",
+      "https://www.bolster.nl/peterselie-gigante-ditalia-petroselinum-crispum/p579",
+      "https://www.tuinwinkel.gardenersworldmagazine.nl/p/buzzy-organic-peterselie-gekrulde-bio/",
+      "https://www.bolster.nl/peterselie-kweken-en-gebruiken/t22798",
+      "https://www.welkoop.nl/advies/van-moestuin-naar-bord.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "parsley-thujade-orig-donkergroene",
+    "names": {
+      "nl": "Thujade Orig. Donkergroene",
+      "en": "Dark Green Curled"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "low-growing",
+      "compact",
+      "curled",
+      "cold-tolerant"
+    ],
+    "crop_slug": "parsley",
+    "sources": [
+      "https://www.bolster.nl/peterselie-moskrul-2-petroselinum-crispum/p119",
+      "https://puur-mieke.com/product/de-bolster-kruidenpeterselie-moskrul-2-2g-bio/",
+      "https://www.bolster.nl/kruiden-in-potten-kweken/t25601",
+      "https://www.welkoop.nl/hortitops-peterselie-petroselinum-crispum-thujade-orig-donkergroene-kruidenzaden-3gram_1040254",
+      "https://www.welkoop.nl/hortitops-peterselie-petroselinum-crispum-gekrulde-donkergroene-kruidenzaden-5gram_1039951",
+      "https://www.vreeken.nl/210005-gladde-bladpeterselie-gewone-snij",
+      "https://www.bolster.nl/peterselie-gewone-snij-3-petroselinum-crispum/p983",
+      "https://marvygreen.com/products/peterselie-gewone-snij-3-de-bolster",
+      "https://www.intratuin.nl/tuinplanten/zaden",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden",
+      "https://www.tuinen-shop.nl/p/buzzy-organic-peterselie-gigante-ditalia-bio/",
+      "https://sherriesestates.com/product/buzzy-organic-parsley-gigante-ditaliabio/",
+      "https://www.vreeken.nl/210500-grote-gladde-bladpeterselie-gigante-italia",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/kruidenzaden",
+      "https://www.bolster.nl/peterselie-gigante-ditalia-petroselinum-crispum/p579",
+      "https://www.tuinwinkel.gardenersworldmagazine.nl/p/buzzy-organic-peterselie-gekrulde-bio/",
+      "https://www.bolster.nl/peterselie-kweken-en-gebruiken/t22798",
+      "https://www.welkoop.nl/advies/van-moestuin-naar-bord.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "parsley-gewone-snij",
+    "names": {
+      "nl": "Gewone Snij",
+      "en": "Flat-Leaf Cutting Parsley"
+    },
+    "days_to_harvest": {
+      "min": 65,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "upright",
+      "bush",
+      "flat-leaf",
+      "fast-growing"
+    ],
+    "crop_slug": "parsley",
+    "sources": [
+      "https://www.bolster.nl/peterselie-moskrul-2-petroselinum-crispum/p119",
+      "https://puur-mieke.com/product/de-bolster-kruidenpeterselie-moskrul-2-2g-bio/",
+      "https://www.bolster.nl/kruiden-in-potten-kweken/t25601",
+      "https://www.welkoop.nl/hortitops-peterselie-petroselinum-crispum-thujade-orig-donkergroene-kruidenzaden-3gram_1040254",
+      "https://www.welkoop.nl/hortitops-peterselie-petroselinum-crispum-gekrulde-donkergroene-kruidenzaden-5gram_1039951",
+      "https://www.vreeken.nl/210005-gladde-bladpeterselie-gewone-snij",
+      "https://www.bolster.nl/peterselie-gewone-snij-3-petroselinum-crispum/p983",
+      "https://marvygreen.com/products/peterselie-gewone-snij-3-de-bolster",
+      "https://www.intratuin.nl/tuinplanten/zaden",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden",
+      "https://www.tuinen-shop.nl/p/buzzy-organic-peterselie-gigante-ditalia-bio/",
+      "https://sherriesestates.com/product/buzzy-organic-parsley-gigante-ditaliabio/",
+      "https://www.vreeken.nl/210500-grote-gladde-bladpeterselie-gigante-italia",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/kruidenzaden",
+      "https://www.bolster.nl/peterselie-gigante-ditalia-petroselinum-crispum/p579",
+      "https://www.tuinwinkel.gardenersworldmagazine.nl/p/buzzy-organic-peterselie-gekrulde-bio/",
+      "https://www.bolster.nl/peterselie-kweken-en-gebruiken/t22798",
+      "https://www.welkoop.nl/advies/van-moestuin-naar-bord.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "parsley-gigante-d-italia",
+    "names": {
+      "nl": "Gigante d'Italia",
+      "en": "Giant Italian Flat Leaf"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin",
+      "Buzzy Seeds"
+    ],
+    "traits": [
+      "vigorous",
+      "bush",
+      "flat-leaf",
+      "heat-tolerant",
+      "drought-tolerant"
+    ],
+    "crop_slug": "parsley",
+    "sources": [
+      "https://www.bolster.nl/peterselie-moskrul-2-petroselinum-crispum/p119",
+      "https://puur-mieke.com/product/de-bolster-kruidenpeterselie-moskrul-2-2g-bio/",
+      "https://www.bolster.nl/kruiden-in-potten-kweken/t25601",
+      "https://www.welkoop.nl/hortitops-peterselie-petroselinum-crispum-thujade-orig-donkergroene-kruidenzaden-3gram_1040254",
+      "https://www.welkoop.nl/hortitops-peterselie-petroselinum-crispum-gekrulde-donkergroene-kruidenzaden-5gram_1039951",
+      "https://www.vreeken.nl/210005-gladde-bladpeterselie-gewone-snij",
+      "https://www.bolster.nl/peterselie-gewone-snij-3-petroselinum-crispum/p983",
+      "https://marvygreen.com/products/peterselie-gewone-snij-3-de-bolster",
+      "https://www.intratuin.nl/tuinplanten/zaden",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden",
+      "https://www.tuinen-shop.nl/p/buzzy-organic-peterselie-gigante-ditalia-bio/",
+      "https://sherriesestates.com/product/buzzy-organic-parsley-gigante-ditaliabio/",
+      "https://www.vreeken.nl/210500-grote-gladde-bladpeterselie-gigante-italia",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/kruidenzaden",
+      "https://www.bolster.nl/peterselie-gigante-ditalia-petroselinum-crispum/p579",
+      "https://www.tuinwinkel.gardenersworldmagazine.nl/p/buzzy-organic-peterselie-gekrulde-bio/",
+      "https://www.bolster.nl/peterselie-kweken-en-gebruiken/t22798",
+      "https://www.welkoop.nl/advies/van-moestuin-naar-bord.html"
+    ],
+    "verified": false
+  }
+]

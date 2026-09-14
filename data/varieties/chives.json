@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "chives-staro",
+    "names": {
+      "nl": "Bieslook 'Staro' (Grofbladig)",
+      "en": "Chives 'Staro'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden",
+      "Gardenseeds.nl"
+    ],
+    "traits": [
+      "coarse",
+      "upright",
+      "sturdy",
+      "winter-hardy",
+      "perennial",
+      "vigorous regrowth"
+    ],
+    "crop_slug": "chives",
+    "sources": [
+      "https://www.sluisgarden.com/sitemap/",
+      "https://seedo.nl/sluis-garden?sort=pd.name&order=ASC&limit=15&page=4",
+      "https://www.gardenseeds.nl/product/bieslook-staro-grofbladige/",
+      "https://www.vreeken.nl/zoeken/bieslook",
+      "https://www.jansenzaden.nl/products/allium-schoenoprasum-bieslook-10254",
+      "https://www.pokon.nl/plant/item/bieslook-kweken/",
+      "https://groei.nl/artikel/hoe-zaai-ik-bieslook",
+      "https://www.tekenjetuin.nl/en/blog/zelf-verse-kruiden-kweken-bieslook/",
+      "https://www.vreeken.nl/334600-bieslook-fijne",
+      "https://www.tuinplus.nl/nl/4/080410/buzzy-xotica-chinese-bieslook.aspx",
+      "https://www.mooiemoestuin.nl/kruiden/bieslook/",
+      "https://www.welkoop.nl/hortitops-bieslook-allium-fistulosum-grove-allium-fistulosum-kruidenzaden-2gram_1039931",
+      "https://nl-nl.bakker.com/products/grof-bieslook",
+      "https://www.welkoop.nl/advies/moestuin-slakken-bestrijden.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "chives-fijne",
+    "names": {
+      "nl": "Bieslook 'Fijne'",
+      "en": "Chives 'Fijne'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "fine",
+      "slender",
+      "compact",
+      "frost-hardy",
+      "perennial",
+      "edible blossoms",
+      "pollinator-attracting",
+      "rapid regeneration"
+    ],
+    "crop_slug": "chives",
+    "sources": [
+      "https://www.sluisgarden.com/sitemap/",
+      "https://seedo.nl/sluis-garden?sort=pd.name&order=ASC&limit=15&page=4",
+      "https://www.gardenseeds.nl/product/bieslook-staro-grofbladige/",
+      "https://www.vreeken.nl/zoeken/bieslook",
+      "https://www.jansenzaden.nl/products/allium-schoenoprasum-bieslook-10254",
+      "https://www.pokon.nl/plant/item/bieslook-kweken/",
+      "https://groei.nl/artikel/hoe-zaai-ik-bieslook",
+      "https://www.tekenjetuin.nl/en/blog/zelf-verse-kruiden-kweken-bieslook/",
+      "https://www.vreeken.nl/334600-bieslook-fijne",
+      "https://www.tuinplus.nl/nl/4/080410/buzzy-xotica-chinese-bieslook.aspx",
+      "https://www.mooiemoestuin.nl/kruiden/bieslook/",
+      "https://www.welkoop.nl/hortitops-bieslook-allium-fistulosum-grove-allium-fistulosum-kruidenzaden-2gram_1039931",
+      "https://nl-nl.bakker.com/products/grof-bieslook",
+      "https://www.welkoop.nl/advies/moestuin-slakken-bestrijden.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "chives-chinese-bieslook",
+    "names": {
+      "nl": "Chinese Bieslook / Knoflookbieslook",
+      "en": "Chinese Chives"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy Seeds",
+      "Tuinplus"
+    ],
+    "traits": [
+      "flat leaves",
+      "mild garlic flavour",
+      "heat-tolerant",
+      "cold-hardy",
+      "perennial",
+      "edible flowers",
+      "fragrant flowers"
+    ],
+    "crop_slug": "chives",
+    "sources": [
+      "https://www.sluisgarden.com/sitemap/",
+      "https://seedo.nl/sluis-garden?sort=pd.name&order=ASC&limit=15&page=4",
+      "https://www.gardenseeds.nl/product/bieslook-staro-grofbladige/",
+      "https://www.vreeken.nl/zoeken/bieslook",
+      "https://www.jansenzaden.nl/products/allium-schoenoprasum-bieslook-10254",
+      "https://www.pokon.nl/plant/item/bieslook-kweken/",
+      "https://groei.nl/artikel/hoe-zaai-ik-bieslook",
+      "https://www.tekenjetuin.nl/en/blog/zelf-verse-kruiden-kweken-bieslook/",
+      "https://www.vreeken.nl/334600-bieslook-fijne",
+      "https://www.tuinplus.nl/nl/4/080410/buzzy-xotica-chinese-bieslook.aspx",
+      "https://www.mooiemoestuin.nl/kruiden/bieslook/",
+      "https://www.welkoop.nl/hortitops-bieslook-allium-fistulosum-grove-allium-fistulosum-kruidenzaden-2gram_1039931",
+      "https://nl-nl.bakker.com/products/grof-bieslook",
+      "https://www.welkoop.nl/advies/moestuin-slakken-bestrijden.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "chives-grove-bieslook",
+    "names": {
+      "nl": "Grove Bieslook / Pijplook",
+      "en": "Grove Chives"
+    },
+    "days_to_harvest": {
+      "min": 65,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop",
+      "Hortitops"
+    ],
+    "traits": [
+      "thick tubular stems",
+      "robust",
+      "hardy perennial",
+      "pest-resistant",
+      "aphid-deterrent",
+      "slug-deterrent"
+    ],
+    "crop_slug": "chives",
+    "sources": [
+      "https://www.sluisgarden.com/sitemap/",
+      "https://seedo.nl/sluis-garden?sort=pd.name&order=ASC&limit=15&page=4",
+      "https://www.gardenseeds.nl/product/bieslook-staro-grofbladige/",
+      "https://www.vreeken.nl/zoeken/bieslook",
+      "https://www.jansenzaden.nl/products/allium-schoenoprasum-bieslook-10254",
+      "https://www.pokon.nl/plant/item/bieslook-kweken/",
+      "https://groei.nl/artikel/hoe-zaai-ik-bieslook",
+      "https://www.tekenjetuin.nl/en/blog/zelf-verse-kruiden-kweken-bieslook/",
+      "https://www.vreeken.nl/334600-bieslook-fijne",
+      "https://www.tuinplus.nl/nl/4/080410/buzzy-xotica-chinese-bieslook.aspx",
+      "https://www.mooiemoestuin.nl/kruiden/bieslook/",
+      "https://www.welkoop.nl/hortitops-bieslook-allium-fistulosum-grove-allium-fistulosum-kruidenzaden-2gram_1039931",
+      "https://nl-nl.bakker.com/products/grof-bieslook",
+      "https://www.welkoop.nl/advies/moestuin-slakken-bestrijden.html"
+    ],
+    "verified": false
+  }
+]

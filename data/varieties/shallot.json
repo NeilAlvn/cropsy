@@ -1,0 +1,147 @@
+[
+  {
+    "slug": "shallot-red-sun",
+    "names": {
+      "nl": "Rode Sjalot 'Red Sun'",
+      "en": "Red Shallot 'Red Sun'"
+    },
+    "days_to_harvest": {
+      "min": 90,
+      "max": 110
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin",
+      "Bakker"
+    ],
+    "traits": [
+      "early",
+      "mid-season",
+      "bolt-resistant",
+      "rot-resistant",
+      "compact"
+    ],
+    "crop_slug": "shallot",
+    "sources": [
+      "https://www.intratuin.nl/florex-biologische-sjalotten-red-sun-125-gram.html",
+      "https://nl-nl.bakker.com/products/rode-sjalot-red-sun",
+      "https://www.vreeken.nl/308310-ronde-witte-sjalotten-hermine",
+      "https://www.vreeken.nl/zoeken/sjalotten",
+      "https://www.gardenseeds.nl/informatie/",
+      "https://www.gardenseeds.nl/product/plantsjalot-yellow-moon-500-gram/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "http://www.permacultuurnederland.org/planten.php?zoek=uien&laag=&functieSER=Tjs=&page=0&pid=300&sort=naz",
+      "https://www.vreeken.nl/308110-sjalotten-conservor-f1",
+      "https://www.seedvalley.nl/posts/de-sjalot-uit-zaad-verovert-de-wereld",
+      "https://demoestuinwinkel.nl/products/sjalot-poitou-kipdij"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "shallot-yellow-moon",
+    "names": {
+      "nl": "Plantsjalot 'Yellow Moon'",
+      "en": "Shallot Set 'Yellow Moon'"
+    },
+    "days_to_harvest": {
+      "min": 90,
+      "max": 105
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden",
+      "Gardenseeds.nl"
+    ],
+    "traits": [
+      "early",
+      "mold-resistant",
+      "upright"
+    ],
+    "crop_slug": "shallot",
+    "sources": [
+      "https://www.intratuin.nl/florex-biologische-sjalotten-red-sun-125-gram.html",
+      "https://nl-nl.bakker.com/products/rode-sjalot-red-sun",
+      "https://www.vreeken.nl/308310-ronde-witte-sjalotten-hermine",
+      "https://www.vreeken.nl/zoeken/sjalotten",
+      "https://www.gardenseeds.nl/informatie/",
+      "https://www.gardenseeds.nl/product/plantsjalot-yellow-moon-500-gram/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "http://www.permacultuurnederland.org/planten.php?zoek=uien&laag=&functieSER=Tjs=&page=0&pid=300&sort=naz",
+      "https://www.vreeken.nl/308110-sjalotten-conservor-f1",
+      "https://www.seedvalley.nl/posts/de-sjalot-uit-zaad-verovert-de-wereld",
+      "https://demoestuinwinkel.nl/products/sjalot-poitou-kipdij"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "shallot-conservor-f1",
+    "names": {
+      "nl": "Zaaisjalot 'Conservor' F1",
+      "en": "Seed Shallot 'Conservor' F1"
+    },
+    "days_to_harvest": {
+      "min": 110,
+      "max": 120
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "hybrid",
+      "disease-resistant",
+      "bolt-resistant",
+      "fast-growing"
+    ],
+    "crop_slug": "shallot",
+    "sources": [
+      "https://www.intratuin.nl/florex-biologische-sjalotten-red-sun-125-gram.html",
+      "https://nl-nl.bakker.com/products/rode-sjalot-red-sun",
+      "https://www.vreeken.nl/308310-ronde-witte-sjalotten-hermine",
+      "https://www.vreeken.nl/zoeken/sjalotten",
+      "https://www.gardenseeds.nl/informatie/",
+      "https://www.gardenseeds.nl/product/plantsjalot-yellow-moon-500-gram/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "http://www.permacultuurnederland.org/planten.php?zoek=uien&laag=&functieSER=Tjs=&page=0&pid=300&sort=naz",
+      "https://www.vreeken.nl/308110-sjalotten-conservor-f1",
+      "https://www.seedvalley.nl/posts/de-sjalot-uit-zaad-verovert-de-wereld",
+      "https://demoestuinwinkel.nl/products/sjalot-poitou-kipdij"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "shallot-hermine",
+    "names": {
+      "nl": "Ronde Witte Sjalot 'Hermine'",
+      "en": "Round White Shallot 'Hermine'"
+    },
+    "days_to_harvest": {
+      "min": 90,
+      "max": 100
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "early",
+      "compact",
+      "ornamental"
+    ],
+    "crop_slug": "shallot",
+    "sources": [
+      "https://www.intratuin.nl/florex-biologische-sjalotten-red-sun-125-gram.html",
+      "https://nl-nl.bakker.com/products/rode-sjalot-red-sun",
+      "https://www.vreeken.nl/308310-ronde-witte-sjalotten-hermine",
+      "https://www.vreeken.nl/zoeken/sjalotten",
+      "https://www.gardenseeds.nl/informatie/",
+      "https://www.gardenseeds.nl/product/plantsjalot-yellow-moon-500-gram/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "http://www.permacultuurnederland.org/planten.php?zoek=uien&laag=&functieSER=Tjs=&page=0&pid=300&sort=naz",
+      "https://www.vreeken.nl/308110-sjalotten-conservor-f1",
+      "https://www.seedvalley.nl/posts/de-sjalot-uit-zaad-verovert-de-wereld",
+      "https://demoestuinwinkel.nl/products/sjalot-poitou-kipdij"
+    ],
+    "verified": false
+  }
+]

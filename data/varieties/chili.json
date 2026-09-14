@@ -1,0 +1,141 @@
+[
+  {
+    "slug": "chili-koh-chang",
+    "names": {
+      "nl": "Peper 'Koh Chang'",
+      "en": "Chili Pepper 'Koh Chang'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster",
+      "De Moestuinwinkel"
+    ],
+    "traits": [
+      "early",
+      "compact",
+      "bush",
+      "tobamovirus-resistant"
+    ],
+    "crop_slug": "chili",
+    "sources": [
+      "https://sprinklr.co/products/peper-westlandse-lange-rode-zaden",
+      "https://www.bolster.nl/peper-koh-chang-capsicum-annuum/p7547",
+      "https://demoestuinwinkel.nl/products/de_bolster_peper_koh_chang",
+      "https://www.bolster.nl/media/docs/pro-de.pdf",
+      "https://www.vreeken.nl/209344-peper-red-coyote-zan",
+      "https://tuinzaden.eu/nl/peper-zaden-kopen/922072-peppino-f1-hete-peperzaden.html",
+      "https://www.vreeken.nl/208460-peper-madre-vieja",
+      "https://moestuinenbloem.nl/pot-peperplant-1-plant/",
+      "https://www.bol.com/be/nl/p/buzzy-seeds-culinary-peppers-caloro/9300000265606647/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "chili-red-coyote-zan",
+    "names": {
+      "nl": "Peper 'Red Coyote Zan'",
+      "en": "Chili Pepper 'Red Coyote Zan'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken’s Zaden"
+    ],
+    "traits": [
+      "dwarf",
+      "bush",
+      "cherry",
+      "decorative",
+      "easy-to-grow",
+      "low-maintenance"
+    ],
+    "crop_slug": "chili",
+    "sources": [
+      "https://sprinklr.co/products/peper-westlandse-lange-rode-zaden",
+      "https://www.bolster.nl/peper-koh-chang-capsicum-annuum/p7547",
+      "https://demoestuinwinkel.nl/products/de_bolster_peper_koh_chang",
+      "https://www.bolster.nl/media/docs/pro-de.pdf",
+      "https://www.vreeken.nl/209344-peper-red-coyote-zan",
+      "https://tuinzaden.eu/nl/peper-zaden-kopen/922072-peppino-f1-hete-peperzaden.html",
+      "https://www.vreeken.nl/208460-peper-madre-vieja",
+      "https://moestuinenbloem.nl/pot-peperplant-1-plant/",
+      "https://www.bol.com/be/nl/p/buzzy-seeds-culinary-peppers-caloro/9300000265606647/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "chili-peppino-f1",
+    "names": {
+      "nl": "Peper 'Peppino F1'",
+      "en": "Chili Pepper 'Peppino F1'"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Oranjeband Zaden",
+      "Tuinzaden.eu"
+    ],
+    "traits": [
+      "bushy",
+      "compact",
+      "cherry",
+      "f1-hybrid"
+    ],
+    "crop_slug": "chili",
+    "sources": [
+      "https://sprinklr.co/products/peper-westlandse-lange-rode-zaden",
+      "https://www.bolster.nl/peper-koh-chang-capsicum-annuum/p7547",
+      "https://demoestuinwinkel.nl/products/de_bolster_peper_koh_chang",
+      "https://www.bolster.nl/media/docs/pro-de.pdf",
+      "https://www.vreeken.nl/209344-peper-red-coyote-zan",
+      "https://tuinzaden.eu/nl/peper-zaden-kopen/922072-peppino-f1-hete-peperzaden.html",
+      "https://www.vreeken.nl/208460-peper-madre-vieja",
+      "https://moestuinenbloem.nl/pot-peperplant-1-plant/",
+      "https://www.bol.com/be/nl/p/buzzy-seeds-culinary-peppers-caloro/9300000265606647/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "chili-madre-vieja",
+    "names": {
+      "nl": "Peper 'Madre Vieja'",
+      "en": "Chili Pepper 'Madre Vieja'"
+    },
+    "days_to_harvest": {
+      "min": 80,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken’s Zaden"
+    ],
+    "traits": [
+      "compact",
+      "bush",
+      "hardy"
+    ],
+    "crop_slug": "chili",
+    "sources": [
+      "https://sprinklr.co/products/peper-westlandse-lange-rode-zaden",
+      "https://www.bolster.nl/peper-koh-chang-capsicum-annuum/p7547",
+      "https://demoestuinwinkel.nl/products/de_bolster_peper_koh_chang",
+      "https://www.bolster.nl/media/docs/pro-de.pdf",
+      "https://www.vreeken.nl/209344-peper-red-coyote-zan",
+      "https://tuinzaden.eu/nl/peper-zaden-kopen/922072-peppino-f1-hete-peperzaden.html",
+      "https://www.vreeken.nl/208460-peper-madre-vieja",
+      "https://moestuinenbloem.nl/pot-peperplant-1-plant/",
+      "https://www.bol.com/be/nl/p/buzzy-seeds-culinary-peppers-caloro/9300000265606647/"
+    ],
+    "verified": false
+  }
+]

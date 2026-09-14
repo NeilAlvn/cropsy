@@ -1,0 +1,109 @@
+[
+  {
+    "slug": "turnip-milanese-witte-roodkop",
+    "names": {
+      "nl": "Milanese Witte Roodkop",
+      "en": "Purple Top Milan"
+    },
+    "days_to_harvest": {
+      "min": 42,
+      "max": 56
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "very early",
+      "compact",
+      "flat-round",
+      "mild",
+      "sweet",
+      "juicy"
+    ],
+    "crop_slug": "turnip",
+    "sources": [
+      "https://www.bolster.nl/meiraap-milanese-witte-roodkop-brassica-rapa/p3633",
+      "https://tuinzaden.eu/en/turnip-seeds/502597-de-nancy-turnip-seeds.html",
+      "https://www.bolster.nl/meiraap-goldana-brassica-rapa/p65",
+      "https://www.bolster.nl/meiraap/c538",
+      "https://www.bolster.nl/meiraap-platte-witte-mei-brassica-rapa/p64",
+      "https://tuinzaden.eu/nl/meiraap-overige-kopen/922883-milanese-witte-roodkop-meiraap-biologische-zaden.html",
+      "https://www.vreeken.nl/240160-rapen-hakurei-f1",
+      "https://www.vreeken.nl/240300-rapen-platte-witte-mei",
+      "https://tuinzaden.eu/nl/rapen-zaden-kopen/502597-nancy-ronde-witte-roodkop-tuinraap-zaden.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "turnip-hakurei-f1",
+    "names": {
+      "nl": "Hakurei F1",
+      "en": "Tokyo Turnip"
+    },
+    "days_to_harvest": {
+      "min": 35,
+      "max": 45
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "ultra-early",
+      "uniform",
+      "sweet",
+      "crisp",
+      "fruity"
+    ],
+    "crop_slug": "turnip",
+    "sources": [
+      "https://www.bolster.nl/meiraap-milanese-witte-roodkop-brassica-rapa/p3633",
+      "https://tuinzaden.eu/en/turnip-seeds/502597-de-nancy-turnip-seeds.html",
+      "https://www.bolster.nl/meiraap-goldana-brassica-rapa/p65",
+      "https://www.bolster.nl/meiraap/c538",
+      "https://www.bolster.nl/meiraap-platte-witte-mei-brassica-rapa/p64",
+      "https://tuinzaden.eu/nl/meiraap-overige-kopen/922883-milanese-witte-roodkop-meiraap-biologische-zaden.html",
+      "https://www.vreeken.nl/240160-rapen-hakurei-f1",
+      "https://www.vreeken.nl/240300-rapen-platte-witte-mei",
+      "https://tuinzaden.eu/nl/rapen-zaden-kopen/502597-nancy-ronde-witte-roodkop-tuinraap-zaden.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "turnip-platte-witte-mei",
+    "names": {
+      "nl": "Platte Witte Mei",
+      "en": "Early Flat White May"
+    },
+    "days_to_harvest": {
+      "min": 45,
+      "max": 55
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden",
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "heritage",
+      "early",
+      "fast-growing",
+      "tender",
+      "spicy-sweet"
+    ],
+    "crop_slug": "turnip",
+    "sources": [
+      "https://www.bolster.nl/meiraap-milanese-witte-roodkop-brassica-rapa/p3633",
+      "https://tuinzaden.eu/en/turnip-seeds/502597-de-nancy-turnip-seeds.html",
+      "https://www.bolster.nl/meiraap-goldana-brassica-rapa/p65",
+      "https://www.bolster.nl/meiraap/c538",
+      "https://www.bolster.nl/meiraap-platte-witte-mei-brassica-rapa/p64",
+      "https://tuinzaden.eu/nl/meiraap-overige-kopen/922883-milanese-witte-roodkop-meiraap-biologische-zaden.html",
+      "https://www.vreeken.nl/240160-rapen-hakurei-f1",
+      "https://www.vreeken.nl/240300-rapen-platte-witte-mei",
+      "https://tuinzaden.eu/nl/rapen-zaden-kopen/502597-nancy-ronde-witte-roodkop-tuinraap-zaden.html"
+    ],
+    "verified": false
+  }
+]

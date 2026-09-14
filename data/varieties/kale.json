@@ -1,0 +1,129 @@
+[
+  {
+    "slug": "kale-vert-demi-nain",
+    "names": {
+      "nl": "Boerenkool 'Vert Demi-Nain'",
+      "en": "Semi-Dwarf Green Curled"
+    },
+    "days_to_harvest": {
+      "min": 90,
+      "max": 110
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com"
+    ],
+    "traits": [
+      "compact",
+      "semi-dwarf",
+      "wind-resistant",
+      "weather-resistant",
+      "cold-hardy"
+    ],
+    "crop_slug": "kale",
+    "sources": [
+      "https://nl-nl.bakker.com/products/boerenkool-vert-demi-nain",
+      "https://www.vreeken.nl/140995-rode-boerenkool-midnight-sun",
+      "https://www.bolster.nl/boerenkool-westlandse-winter-brassica-oleracea/p40",
+      "https://www.bolster.nl/palmkool-telen-onze-tips/t21698",
+      "https://www.welkoop.nl/hortitops-boerenkool-brassica-oleracea-vert-demi-nain-middelhoge-fijne-krul-groentezaden-3gram_1039848",
+      "https://www.dehobbytuinder.nl/blog/boerenkool-kweken/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "kale-midnight-sun",
+    "names": {
+      "nl": "Rode Boerenkool 'Midnight Sun'",
+      "en": "Midnight Sun"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "ornamental",
+      "cut-and-come-again",
+      "cold-tolerant",
+      "frost-tolerant"
+    ],
+    "crop_slug": "kale",
+    "sources": [
+      "https://nl-nl.bakker.com/products/boerenkool-vert-demi-nain",
+      "https://www.vreeken.nl/140995-rode-boerenkool-midnight-sun",
+      "https://www.bolster.nl/boerenkool-westlandse-winter-brassica-oleracea/p40",
+      "https://www.bolster.nl/palmkool-telen-onze-tips/t21698",
+      "https://www.welkoop.nl/hortitops-boerenkool-brassica-oleracea-vert-demi-nain-middelhoge-fijne-krul-groentezaden-3gram_1039848",
+      "https://www.dehobbytuinder.nl/blog/boerenkool-kweken/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "kale-westlandse-winter",
+    "names": {
+      "nl": "Biologische Boerenkool 'Westlandse Winter'",
+      "en": "Westlandse Winter"
+    },
+    "days_to_harvest": {
+      "min": 30,
+      "max": 140
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "baby-leaf",
+      "winter-hardy",
+      "open-pollinated",
+      "heritage",
+      "organic",
+      "vigorous"
+    ],
+    "crop_slug": "kale",
+    "sources": [
+      "https://nl-nl.bakker.com/products/boerenkool-vert-demi-nain",
+      "https://www.vreeken.nl/140995-rode-boerenkool-midnight-sun",
+      "https://www.bolster.nl/boerenkool-westlandse-winter-brassica-oleracea/p40",
+      "https://www.bolster.nl/palmkool-telen-onze-tips/t21698",
+      "https://www.welkoop.nl/hortitops-boerenkool-brassica-oleracea-vert-demi-nain-middelhoge-fijne-krul-groentezaden-3gram_1039848",
+      "https://www.dehobbytuinder.nl/blog/boerenkool-kweken/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "kale-vert-demi-nain-middelhoge-fijne-krul",
+    "names": {
+      "nl": "Boerenkool 'Vert Demi-Nain / Middelhoge Fijne Krul'",
+      "en": "Vert Demi-Nain / Middelhoge Fijne Krul"
+    },
+    "days_to_harvest": {
+      "min": 80,
+      "max": 100
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "dwarf",
+      "early",
+      "productive",
+      "container-friendly"
+    ],
+    "crop_slug": "kale",
+    "sources": [
+      "https://nl-nl.bakker.com/products/boerenkool-vert-demi-nain",
+      "https://www.vreeken.nl/140995-rode-boerenkool-midnight-sun",
+      "https://www.bolster.nl/boerenkool-westlandse-winter-brassica-oleracea/p40",
+      "https://www.bolster.nl/palmkool-telen-onze-tips/t21698",
+      "https://www.welkoop.nl/hortitops-boerenkool-brassica-oleracea-vert-demi-nain-middelhoge-fijne-krul-groentezaden-3gram_1039848",
+      "https://www.dehobbytuinder.nl/blog/boerenkool-kweken/"
+    ],
+    "verified": false
+  }
+]

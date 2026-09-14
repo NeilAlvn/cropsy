@@ -1,0 +1,145 @@
+[
+  {
+    "slug": "strawberry-ruby-ann-f1",
+    "names": {
+      "nl": "Hangaardbei 'Ruby Ann' F1",
+      "en": "Hanging Strawberry 'Ruby Ann' F1"
+    },
+    "days_to_harvest": {
+      "min": 120,
+      "max": 150
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy Seeds",
+      "Tuinplus"
+    ],
+    "traits": [
+      "trailing",
+      "everbearing",
+      "ornamental",
+      "perennial",
+      "sweet",
+      "juicy"
+    ],
+    "crop_slug": "strawberry",
+    "sources": [
+      "https://www.tuinplus.nl/nl/4/002005/buzzy-hangaardbei-ruby-ann-f1-roodbloeiend.aspx",
+      "https://www.gardenseeds.nl/product/aardbei-tresca/",
+      "https://www.gardenseeds.nl/producten/cat/vruchtgewassen/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.vreeken.nl/830233-vroege-aardbei-cupido",
+      "https://www.vreeken.nl/collectie/aardbeien/p1-80",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-aardbei-fragaria-x-ananassa-grandian-f1.html",
+      "https://dezaden.nl/product/buzzy-grow-gift-hangaardbei/",
+      "https://www.tuinplus.nl/nl/4/085239/buzzy-greenhouse-homegrown-aardbei.aspx"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "strawberry-tresca",
+    "names": {
+      "nl": "Aardbei 'Tresca'",
+      "en": "Strawberry 'Tresca'"
+    },
+    "days_to_harvest": {
+      "min": 120,
+      "max": 140
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden",
+      "Gardenseeds"
+    ],
+    "traits": [
+      "compact",
+      "bush",
+      "everbearing",
+      "aromatic",
+      "sweet"
+    ],
+    "crop_slug": "strawberry",
+    "sources": [
+      "https://www.tuinplus.nl/nl/4/002005/buzzy-hangaardbei-ruby-ann-f1-roodbloeiend.aspx",
+      "https://www.gardenseeds.nl/product/aardbei-tresca/",
+      "https://www.gardenseeds.nl/producten/cat/vruchtgewassen/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.vreeken.nl/830233-vroege-aardbei-cupido",
+      "https://www.vreeken.nl/collectie/aardbeien/p1-80",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-aardbei-fragaria-x-ananassa-grandian-f1.html",
+      "https://dezaden.nl/product/buzzy-grow-gift-hangaardbei/",
+      "https://www.tuinplus.nl/nl/4/085239/buzzy-greenhouse-homegrown-aardbei.aspx"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "strawberry-cupido",
+    "names": {
+      "nl": "Vroege Aardbei 'Cupido'",
+      "en": "Early Strawberry 'Cupido'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "early",
+      "disease-resistant",
+      "aromatic",
+      "sweet"
+    ],
+    "crop_slug": "strawberry",
+    "sources": [
+      "https://www.tuinplus.nl/nl/4/002005/buzzy-hangaardbei-ruby-ann-f1-roodbloeiend.aspx",
+      "https://www.gardenseeds.nl/product/aardbei-tresca/",
+      "https://www.gardenseeds.nl/producten/cat/vruchtgewassen/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.vreeken.nl/830233-vroege-aardbei-cupido",
+      "https://www.vreeken.nl/collectie/aardbeien/p1-80",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-aardbei-fragaria-x-ananassa-grandian-f1.html",
+      "https://dezaden.nl/product/buzzy-grow-gift-hangaardbei/",
+      "https://www.tuinplus.nl/nl/4/085239/buzzy-greenhouse-homegrown-aardbei.aspx"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "strawberry-grandian-f1",
+    "names": {
+      "nl": "Aardbei 'Grandian' F1",
+      "en": "Strawberry 'Grandian' F1"
+    },
+    "days_to_harvest": {
+      "min": 130,
+      "max": 150
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "upright",
+      "bush",
+      "everbearing",
+      "winter-hardy",
+      "perennial",
+      "sweet"
+    ],
+    "crop_slug": "strawberry",
+    "sources": [
+      "https://www.tuinplus.nl/nl/4/002005/buzzy-hangaardbei-ruby-ann-f1-roodbloeiend.aspx",
+      "https://www.gardenseeds.nl/product/aardbei-tresca/",
+      "https://www.gardenseeds.nl/producten/cat/vruchtgewassen/",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.vreeken.nl/830233-vroege-aardbei-cupido",
+      "https://www.vreeken.nl/collectie/aardbeien/p1-80",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-aardbei-fragaria-x-ananassa-grandian-f1.html",
+      "https://dezaden.nl/product/buzzy-grow-gift-hangaardbei/",
+      "https://www.tuinplus.nl/nl/4/085239/buzzy-greenhouse-homegrown-aardbei.aspx"
+    ],
+    "verified": false
+  }
+]

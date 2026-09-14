@@ -1,0 +1,153 @@
+[
+  {
+    "slug": "fennel-dragon-f1",
+    "names": {
+      "nl": "Knolvenkel 'Dragon' F1",
+      "en": "Fennel 'Dragon' F1"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 82
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "extra-early",
+      "fast-maturing",
+      "bolt-resistant",
+      "splitting-resistant",
+      "crack-resistant",
+      "tipburn-resistant"
+    ],
+    "crop_slug": "fennel",
+    "sources": [
+      "https://www.vreeken.nl/123450-knolvenkel-dragon-f1",
+      "https://www.facebook.com/vreekenszaden/photos/1007902321546824/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p17-15",
+      "https://www.bolster.nl/knolvenkel-fino-foeniculum-vulgare/p37",
+      "https://www.dehobbytuinder.nl/zaden/biologische-zaden/groenten/bio-knolvenkel-fino-foeniculum-vulgare/",
+      "https://www.bolster.eu/fennel/c1788",
+      "https://www.koopzaden.nl/product/biologische-knolvenkel-zaden-finale",
+      "https://www.koopbloembollen.nl/product/biologische-knolvenkel-zaden-finale",
+      "https://www.welkoop.nl/hortitops-venkel-foeniculum-vulgare-fino-zefa-overige-groenteplanten-1g_1039860",
+      "https://www.tuinwereld.nl/product/buzzy-venkel-zefa-fino",
+      "https://dezaden.nl/product/buzzy-knolvenkel-zaden-fino/",
+      "https://www.vreeken.nl/123500-knolvenkel-zefa-fino",
+      "https://www.bolster.nl/knolvenkel-telen/t5199"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "fennel-fino",
+    "names": {
+      "nl": "Knolvenkel 'Fino'",
+      "en": "Fennel 'Fino'"
+    },
+    "days_to_harvest": {
+      "min": 80,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "early",
+      "compact",
+      "disease-resistant",
+      "bolt-tolerant"
+    ],
+    "crop_slug": "fennel",
+    "sources": [
+      "https://www.vreeken.nl/123450-knolvenkel-dragon-f1",
+      "https://www.facebook.com/vreekenszaden/photos/1007902321546824/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p17-15",
+      "https://www.bolster.nl/knolvenkel-fino-foeniculum-vulgare/p37",
+      "https://www.dehobbytuinder.nl/zaden/biologische-zaden/groenten/bio-knolvenkel-fino-foeniculum-vulgare/",
+      "https://www.bolster.eu/fennel/c1788",
+      "https://www.koopzaden.nl/product/biologische-knolvenkel-zaden-finale",
+      "https://www.koopbloembollen.nl/product/biologische-knolvenkel-zaden-finale",
+      "https://www.welkoop.nl/hortitops-venkel-foeniculum-vulgare-fino-zefa-overige-groenteplanten-1g_1039860",
+      "https://www.tuinwereld.nl/product/buzzy-venkel-zefa-fino",
+      "https://dezaden.nl/product/buzzy-knolvenkel-zaden-fino/",
+      "https://www.vreeken.nl/123500-knolvenkel-zefa-fino",
+      "https://www.bolster.nl/knolvenkel-telen/t5199"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "fennel-finale",
+    "names": {
+      "nl": "Knolvenkel 'Finale'",
+      "en": "Fennel 'Finale'"
+    },
+    "days_to_harvest": {
+      "min": 90,
+      "max": 110
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden"
+    ],
+    "traits": [
+      "bolt-resistant"
+    ],
+    "crop_slug": "fennel",
+    "sources": [
+      "https://www.vreeken.nl/123450-knolvenkel-dragon-f1",
+      "https://www.facebook.com/vreekenszaden/photos/1007902321546824/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p17-15",
+      "https://www.bolster.nl/knolvenkel-fino-foeniculum-vulgare/p37",
+      "https://www.dehobbytuinder.nl/zaden/biologische-zaden/groenten/bio-knolvenkel-fino-foeniculum-vulgare/",
+      "https://www.bolster.eu/fennel/c1788",
+      "https://www.koopzaden.nl/product/biologische-knolvenkel-zaden-finale",
+      "https://www.koopbloembollen.nl/product/biologische-knolvenkel-zaden-finale",
+      "https://www.welkoop.nl/hortitops-venkel-foeniculum-vulgare-fino-zefa-overige-groenteplanten-1g_1039860",
+      "https://www.tuinwereld.nl/product/buzzy-venkel-zefa-fino",
+      "https://dezaden.nl/product/buzzy-knolvenkel-zaden-fino/",
+      "https://www.vreeken.nl/123500-knolvenkel-zefa-fino",
+      "https://www.bolster.nl/knolvenkel-telen/t5199"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "fennel-zefa-fino",
+    "names": {
+      "nl": "Knolvenkel 'Zefa Fino'",
+      "en": "Fennel 'Zefa Fino'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop",
+      "Buzzy Seeds"
+    ],
+    "traits": [
+      "bolt-resistant",
+      "uniform",
+      "low-pest susceptibility"
+    ],
+    "crop_slug": "fennel",
+    "sources": [
+      "https://www.vreeken.nl/123450-knolvenkel-dragon-f1",
+      "https://www.facebook.com/vreekenszaden/photos/1007902321546824/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p17-15",
+      "https://www.bolster.nl/knolvenkel-fino-foeniculum-vulgare/p37",
+      "https://www.dehobbytuinder.nl/zaden/biologische-zaden/groenten/bio-knolvenkel-fino-foeniculum-vulgare/",
+      "https://www.bolster.eu/fennel/c1788",
+      "https://www.koopzaden.nl/product/biologische-knolvenkel-zaden-finale",
+      "https://www.koopbloembollen.nl/product/biologische-knolvenkel-zaden-finale",
+      "https://www.welkoop.nl/hortitops-venkel-foeniculum-vulgare-fino-zefa-overige-groenteplanten-1g_1039860",
+      "https://www.tuinwereld.nl/product/buzzy-venkel-zefa-fino",
+      "https://dezaden.nl/product/buzzy-knolvenkel-zaden-fino/",
+      "https://www.vreeken.nl/123500-knolvenkel-zefa-fino",
+      "https://www.bolster.nl/knolvenkel-telen/t5199"
+    ],
+    "verified": false
+  }
+]

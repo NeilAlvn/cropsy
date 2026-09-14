@@ -7,64 +7,67 @@
   "kind": "disease",
   "parts": [
     "leaves",
-    "stems",
-    "roots"
+    "roots",
+    "stems"
   ],
   "symptoms": {
-    "nl": "Zaden rotten weg vóór opkomst of jonge kiemplanten ontwikkelen kort na ontkieming een waterige, donkere insnoering aan de stengelbasis. Hierdoor knikt de stengel plotseling om en valt de zaailing plat op de grond, waarbij het wortelstelsel slap en verrot blijkt.",
-    "en": "Seeds decay before breaking through the soil, or newly emerged seedlings develop a water-soaked, dark constriction at the base of the stem. The stem collapses under the foliage weight within 24 to 48 hours, causing seedlings to abruptly topple over with limp, rotted roots."
+    "nl": "Zaailingen vallen plotseling om doordat de stengelbasis op grondniveau dun, ingesnoerd, glazig of donker verkleurd raakt. De wortels worden week en bruin, of zaden en kiemen rotten al ondergronds weg voordat ze bovenkomen.",
+    "en": "Seedlings suddenly collapse as the stem base at soil level becomes constricted, water-soaked, or discolored brown to black. The roots turn soft and brown, or seeds and sprouts rot underground before ever emerging."
   },
   "treatment": {
-    "nl": "Verwijder aangetaste zaailingen direct samen met de omringende kluit aarde en gooi dit niet op de composthoop. Verpot eventueel gezonde zaailingen meteen in verse, goed beluchte potgrond en ontsmet gebruikte kweekbakken grondig met heet water. Nuttige biologische antagonisten zoals Trichoderma harzianum kunnen worden ingezet om verdere schimmelontwikkeling te onderdrukken.",
-    "en": "Immediately remove and destroy collapsed seedlings along with the surrounding soil clump, keeping them out of the compost heap. Repot remaining healthy seedlings into fresh, well-aerated potting mix and disinfect trays thoroughly with hot water or ecological disinfectants. Beneficial biological control agents such as Trichoderma harzianum can be applied to suppress fungal development."
+    "nl": "Verwijder aangetaste zaailingen direct met een schepje omliggende aarde en gooi dit niet op de composthoop. Stop met water geven van bovenaf, haal afdekkappen weg en laat het grondoppervlak opdrogen. Zet nuttige antagonisten zoals Trichoderma in of gebruik versterkende heermoesextracten om schimmels te onderdrukken.",
+    "en": "Immediately remove and discard affected seedlings along with surrounding soil, keeping them out of home compost. Stop top-watering, take off propagator lids, and allow the soil surface to dry out. Apply beneficial antagonists such as Trichoderma or natural horsetail extracts to help suppress the pathogens."
   },
   "prevention": {
-    "nl": "Geef zaailingen water van onderaf via een schaal om de toplaag droog te houden en zorg voor uitstekende drainage. Gebruik lichte zaaigrond, zaai niet te dicht opeen en voorzie kiemplanten van ruim voldoende licht.",
-    "en": "Water seedlings from below to keep the topsoil and stem collar dry, and ensure containers have ample drainage. Use dedicated seed compost, thin out crowded seedlings to allow good airflow, and provide plenty of light."
+    "nl": "Gebruik schone zaaigrond gemengd met scherp zand of perliet, reinig bakken grondig en geef zaailingen van onderaf water. Zorg voor voldoende licht op een koele plek en dun zaailingen tijdig uit voor een goede luchtcirculatie.",
+    "en": "Use clean seed compost mixed with sand or perlite, thoroughly wash pots and trays, and water seedlings from below. Ensure adequate light in a cool spot and thin seedlings promptly to promote good air circulation."
   },
   "affects": [
-    "aubergine",
     "basil",
     "cabbage",
+    "chili",
     "coriander",
+    "courgette",
     "cucumber",
     "dill",
-    "french-bean",
+    "gherkin",
     "lettuce",
     "melon",
+    "pak-choi",
     "parsley",
-    "pea",
     "pepper",
-    "radish",
-    "rocket",
-    "runner-bean",
     "spinach",
-    "swiss-chard",
     "tomato"
   ],
   "image": null,
   "sources": [
-    "https://research.wur.nl/en/publications/from-seed-to-seedling-damping-off-tolerance-in-spinacia-oleracea-/",
     "https://edepot.wur.nl/297492",
-    "https://research.wur.nl/en/publications/reducing-damping-off-problems-in-eggplant-solanum-melongena-l-a-p/",
     "https://edepot.wur.nl/273794",
-    "https://www.tuinadvies.be/tuininfo/moestuin/fruit-bessen/aardbeien-rotten-aan-plant/",
-    "https://beweegt.velt.nu/braas/download.php?bestand=MS201009.pdf",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/aardbeien-rotten-aan-plant/",
-    "https://www.tuinadvies.be/tuininfo/plagen-ziekten/natuurlijke-bestrijding/sedum-gaat-dood/",
-    "https://www.tuinadvies.be/tuininfo/plagen-ziekten/natuurlijke-bestrijding/serre-ontsmetten-met-zwavel/",
+    "https://www.jungepflanzen.de/nl/advies/ziekten-plagen/omvalziekte-bij-zaailingen-voorkomen/",
+    "https://www.plantaardig.com/groenteninfo/berichten/zaaien-groenten-kiemschimmel-te-voorkomen/",
+    "https://edepot.wur.nl/317835",
+    "https://dailygreenspiration.nl/zaai-natuurvriendelijke-bloementuin/",
+    "https://seedschoice.nl/blogs/news/common-plant-diseases-prevention",
     "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/natuurlijke-bestrijding/serre-ontsmetten-met-zwavel/",
-    "https://research.wur.nl/en/publications/allies-or-bystanders-the-involvement-of-spinach-seed-microbiota-i/",
+    "https://beweegt.velt.nu/braas/download.php?bestand=MS201009.pdf",
+    "https://edepot.wur.nl/15368",
+    "https://edepot.wur.nl/294230",
+    "https://www.gardenersworldmagazine.nl/groene-school/kweken/zaailingen-vallen-om/",
     "https://wageningen.groei.nl/groeninfo/standaard-titel-4",
-    "https://wageningen.groei.nl/nieuwsbrief-sept-2023",
+    "https://seedschoice.nl/blogs/news/watering-your-garden",
+    "https://groei.nl/artikel/koudekiemers-zaaien-in-de-winter-zo-werkt-het",
+    "https://makkelijkemoestuin.nl/kennisbank/wat-is-voorzaaien-en-wanneer-doe-je-dat",
+    "https://tinygardenbigfun.nl/index.php/weetjes-uit-de-moestuin/uitdunnen/",
     "https://velt.nu/system/files/media/documenten/leerkrachtenbundel_minimoestuin_op_school.pdf",
-    "https://makkelijkemoestuin.nl/kennisbank/waarom-worden-mijn-planten-geel",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/schimmel-10",
-    "https://edepot.wur.nl/109525",
-    "https://www.tuinadvies.be/planten/fruitbomen/cucumis-melo/meloen/",
-    "https://knpv.org/nl/documents/Gewasbescherming-2021gb52nr6.pdf",
-    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/schimmel-op-voorzaaipotjes",
-    "https://www.knpv.org/db/upload/documents/Gewasbescherming/2007gb38nr4-1.pdf"
+    "https://makkelijkemoestuin.nl/kennisbank/uitdunnen-zaailingen-wat-waarom-en-hoe",
+    "https://www.baldur-nederland.nl/onion/content/plant--und-verzorgingstips/groente-und-kruiden/basilicum",
+    "https://www.moestuinforum.nl/topic/43361-teeltwedstrijd-2024-amaranthus-caudatus-gibbosus-dreadlocks/page/11/",
+    "https://www.moestuinforum.nl/topic/12749-tomaat-valt-om-insnoeringbeschadiging-op-stam/",
+    "https://www.moestuinforum.nl/topic/23474-peper-en-paprika-topic-2019/page/6/",
+    "https://www.moestuinforum.nl/topic/36609-watermeloenen-ontkiemen-en-vallen-ineens-om-na-1-a-2-weken/",
+    "https://edepot.wur.nl/367291",
+    "https://www.moestuinforum.nl/topic/32578-steeltje-koolplantjes-worden-afgeknaagd/",
+    "https://www.moestuinforum.nl/topic/37152-spinazie-sterft-af/"
   ],
   "verified": false
 }

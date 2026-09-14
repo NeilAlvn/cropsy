@@ -12,63 +12,58 @@
     "fruits"
   ],
   "symptoms": {
-    "nl": "Aangetaste bladeren vertonen een zilverachtige glans met zwarte vlekjes uitwerpselen, waarna ze kunnen omkrullen, verdrogen en afvallen. Bloemknoppen, scheuttoppen en jonge vruchten raken misvormd, wat leidt tot kurkachtige littekens en scheuren op de oogst.",
-    "en": "Infested leaves develop distinctive silvery patches speckled with tiny dark droppings, eventually curling, browning, and dropping prematurely. Feeding on buds, shoot tips, and developing fruits causes distorted growth, aborted flowers, and scarred, corky, or cracked produce."
+    "nl": "Aangetaste bladeren krijgen een zilverkleurige of grijze glans met kleine zwarte stipjes en kunnen misvormen of afvallen. Jonge scheuten raken beschadigd en vruchten blijven klein, scheuren of groeien krom.",
+    "en": "Affected leaves develop a silvery or grey sheen with tiny black specks and may become deformed or drop prematurely. Young shoots are damaged and fruits remain small, crack, or grow crooked."
   },
   "treatment": {
-    "nl": "Hang blauwe signaalplaten op om volwassen tripsen weg te vangen en spoel de onderkant van bladeren krachtig af met koud water. Zet natuurlijke vijanden in zoals roofmijten tegen larven of aaltjes tegen poppen in de potgrond. Bij hardnekkige plagen kun je spuiten met zachte zeep, neemolie of pyrethrum, of het blad bepoederen met lava- of basaltmeel.",
-    "en": "Hang blue sticky traps around plants to trap adults and blast the undersides of foliage with cold water to dislodge nymphs. Introduce beneficial predators such as predatory mites, lacewing larvae, or apply parasitic soil nematodes to target pupae in the potting mix. For direct intervention, apply insecticidal soap, neem oil, or pyrethrum sprays, or lightly dust leaves with lava or basalt meal."
+    "nl": "Zet natuurlijke vijanden in zoals roofmijten, roofwantsen of aaltjes, en vang volwassen exemplaren weg met blauwe kleefplaten. Bestuif vochtige planten met fijn gesteentemeel om de zachte insectenhuid uit te drogen. Daarnaast kun je de onderkant van het blad besproeien met neemolie of milde zachte zeep.",
+    "en": "Deploy natural enemies such as predatory mites, predatory bugs, or nematodes, and catch adults using blue sticky plates. Dust damp plants with fine rock dust to dehydrate the insects' soft bodies. Additionally, spray the undersides of the foliage with neem oil or a mild soft soap."
   },
   "prevention": {
-    "nl": "Dek gewassen vroegtijdig af met fijnmazig insectengaas en houd potten gelijkmatig vochtig om verzwakkende droogtestress te voorkomen. Inspecteer nieuwe planten grondig voor aankoop en stimuleer natuurlijke vijanden door bloeiende schermbloemigen zoals dille of venkel te planten.",
-    "en": "Protect vulnerable crops using ultra-fine insect netting and keep potting soil evenly watered to prevent warm, dry conditions that favor thrips. Thoroughly inspect new container plants before placing them on the balcony, and grow companion flowers such as dill and fennel to attract natural predators."
+    "nl": "Hang preventief blauwe vangplaten op, breng fijnmazig insectengaas aan en voorkom droogtestress door tijdig water te geven. Trek natuurlijke vijanden aan met bloeiende schermbloemigen zoals dille en verwijder aangetaste plantendelen direct.",
+    "en": "Hang blue sticky cards for early detection, protect crops with fine insect netting, and avoid drought stress with timely watering. Attract natural predators by growing flowering umbellifers like dill, and immediately remove heavily infested plant parts."
   },
   "affects": [
+    "aubergine",
     "basil",
-    "cabbage",
     "chili",
-    "chives",
     "cucumber",
-    "endive",
-    "garlic",
     "leek",
-    "mint",
     "onion",
-    "pea",
+    "oregano",
     "pepper",
+    "shallot",
     "spring-onion",
     "strawberry",
     "tomato"
   ],
   "image": null,
   "sources": [
-    "https://edepot.wur.nl/393376",
-    "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/wat-zijn-donderbeestjes-of-tripsen/",
-    "https://edepot.wur.nl/548981",
-    "https://edepot.wur.nl/112060",
     "https://edepot.wur.nl/294832",
-    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/paprika-blaadjes",
+    "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/wat-zijn-donderbeestjes-of-tripsen/",
     "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/tomatenplant-gekrulde-bladeren/",
+    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/paprika-blaadjes",
     "https://community.makkelijkemoestuin.nl/posts/vragen-2/aardbeien-met-scheuren",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/oei-is-dit-nu-de-trips-en-de-witte-vlieg-in-de-aardbeien",
+    "https://edepot.wur.nl/295361",
+    "https://edepot.wur.nl/393376",
     "https://westland.groei.nl/groeninfo",
-    "https://www.tuinadvies.be/tuininfo/tuinontwerp-inspiratie/balkon-terras-kleine-tuinen/bloembakken-gemeente/",
-    "https://beweegt.velt.nu/regionoordwestvlaanderen/6901/biohulpmiddelen",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/aardbeien-wat-gaat-er-mis",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/moestuin-beschermen/",
-    "https://makkelijkemoestuin.nl/kennisbank/problemen/is-dit-erg",
+    "https://edepot.wur.nl/169487",
     "https://velt.nu/node/60",
     "https://www.ivn.nl/afdeling/brabantse-wal/leren-over-de-natuur/lieveheersbeestjes-onder-de-schors-van-platanen/",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/vlekken-op-andijvie",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/trips-basilicum/",
-    "https://beweegt.velt.nu/dendermonde/2112/informatie",
+    "https://makkelijkemoestuin.nl/kennisbank/problemen/is-dit-erg",
     "https://velt.nu/tip/hoe-werken-lavameel-en-basaltmeel",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/trips-basilicum/",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/oei-is-dit-nu-de-trips-en-de-witte-vlieg-in-de-aardbeien",
+    "https://beweegt.velt.nu/regionoordwestvlaanderen/6901/biohulpmiddelen",
+    "https://beweegt.velt.nu/dendermonde/2112/informatie",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/moestuin-beschermen/",
     "https://beweegt.velt.nu/zuidwestpajottenland/919/tuintips",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/aardbeien-wat-gaat-er-mis",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/ongediertebestrijding/plagen-bij-orchideeen-en-hoe-ze-bestrijden/",
     "https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/mulfer/",
-    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/verhuizen-tuinplanten-meenemen/",
     "https://velt.nu/tip/wat-doe-je-tegen-de-preimineervlieg",
-    "https://edepot.wur.nl/182092",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/trips-aarbei-plant"
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/misvormde-aardbeien-trips",
+    "https://gorinchem.groei.nl/fileadmin/Afdelingen/afdeling_gorinchem/Documenten/Jaarboekjes_vanaf_2013/jaarboekje_2019.pdf"
   ],
   "verified": false
 }

@@ -1,0 +1,169 @@
+[
+  {
+    "slug": "pointed-cabbage-caraflex-f1",
+    "names": {
+      "nl": "Spitskool 'Caraflex F1'",
+      "en": "Pointed Cabbage 'Caraflex F1'"
+    },
+    "days_to_harvest": {
+      "min": 65,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden",
+      "Buzzy Organic",
+      "Intratuin"
+    ],
+    "traits": [
+      "early",
+      "hybrid",
+      "compact",
+      "split-resistant",
+      "uniform"
+    ],
+    "crop_slug": "pointed-cabbage",
+    "sources": [
+      "https://www.bolster.nl/spitskool/c697",
+      "https://www.intratuin.nl/intratuin-biologische-groentezaad-spitskool-brassica-oleracea-caraflex-f1.html",
+      "https://www.bol.com/nl/nl/p/buzzy-organic-spitskool-caraflex-f1-biologisch-groentezaad/9300000070629899/",
+      "https://www.bolster.nl/rode-en-witte-kool-oogsten/t22425",
+      "https://dezaden.nl/product/buzzy-biologische-spitskool-zaden-caraflex-f1/",
+      "https://www.vreeken.nl/175000-spitskool-eersteling-express",
+      "https://www.koopzaden.nl/product/spitskool-zaden-eersteling",
+      "https://www.dutchgardenseeds.com/groentezaden-spitskool-zaden-express-vroege-spitse/",
+      "https://www.123zaden.nl/spitskool-eersteling",
+      "https://www.vreeken.nl/176510-rode-spitskool-redruth-f1",
+      "https://www.vreeken.nl/176500-rode-spitskool-kalibos",
+      "https://www.123zaden.nl/biologische-zaden/bio-groentezaden/kool/spitskool",
+      "https://www.123zaden.nl/spitskool-kalibos-biologisch",
+      "https://www.vreeken.nl/zaden/groenten-fruit/koolsoorten/p5",
+      "https://www.zaadhandelvanderwal.nl/download/36"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "pointed-cabbage-eersteling",
+    "names": {
+      "nl": "Spitskool 'Eersteling'",
+      "en": "Pointed Cabbage 'Eersteling'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden",
+      "Sluis Garden",
+      "Buzzy Seeds"
+    ],
+    "traits": [
+      "extra-early",
+      "rapid-growth",
+      "heirloom",
+      "compact"
+    ],
+    "crop_slug": "pointed-cabbage",
+    "sources": [
+      "https://www.bolster.nl/spitskool/c697",
+      "https://www.intratuin.nl/intratuin-biologische-groentezaad-spitskool-brassica-oleracea-caraflex-f1.html",
+      "https://www.bol.com/nl/nl/p/buzzy-organic-spitskool-caraflex-f1-biologisch-groentezaad/9300000070629899/",
+      "https://www.bolster.nl/rode-en-witte-kool-oogsten/t22425",
+      "https://dezaden.nl/product/buzzy-biologische-spitskool-zaden-caraflex-f1/",
+      "https://www.vreeken.nl/175000-spitskool-eersteling-express",
+      "https://www.koopzaden.nl/product/spitskool-zaden-eersteling",
+      "https://www.dutchgardenseeds.com/groentezaden-spitskool-zaden-express-vroege-spitse/",
+      "https://www.123zaden.nl/spitskool-eersteling",
+      "https://www.vreeken.nl/176510-rode-spitskool-redruth-f1",
+      "https://www.vreeken.nl/176500-rode-spitskool-kalibos",
+      "https://www.123zaden.nl/biologische-zaden/bio-groentezaden/kool/spitskool",
+      "https://www.123zaden.nl/spitskool-kalibos-biologisch",
+      "https://www.vreeken.nl/zaden/groenten-fruit/koolsoorten/p5",
+      "https://www.zaadhandelvanderwal.nl/download/36"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "pointed-cabbage-redruth-f1",
+    "names": {
+      "nl": "Rode Spitskool 'Redruth' F1",
+      "en": "Red Pointed Cabbage 'Redruth' F1"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "mid-early",
+      "hybrid",
+      "bolt-resistant",
+      "crack-resistant",
+      "compact",
+      "upright"
+    ],
+    "crop_slug": "pointed-cabbage",
+    "sources": [
+      "https://www.bolster.nl/spitskool/c697",
+      "https://www.intratuin.nl/intratuin-biologische-groentezaad-spitskool-brassica-oleracea-caraflex-f1.html",
+      "https://www.bol.com/nl/nl/p/buzzy-organic-spitskool-caraflex-f1-biologisch-groentezaad/9300000070629899/",
+      "https://www.bolster.nl/rode-en-witte-kool-oogsten/t22425",
+      "https://dezaden.nl/product/buzzy-biologische-spitskool-zaden-caraflex-f1/",
+      "https://www.vreeken.nl/175000-spitskool-eersteling-express",
+      "https://www.koopzaden.nl/product/spitskool-zaden-eersteling",
+      "https://www.dutchgardenseeds.com/groentezaden-spitskool-zaden-express-vroege-spitse/",
+      "https://www.123zaden.nl/spitskool-eersteling",
+      "https://www.vreeken.nl/176510-rode-spitskool-redruth-f1",
+      "https://www.vreeken.nl/176500-rode-spitskool-kalibos",
+      "https://www.123zaden.nl/biologische-zaden/bio-groentezaden/kool/spitskool",
+      "https://www.123zaden.nl/spitskool-kalibos-biologisch",
+      "https://www.vreeken.nl/zaden/groenten-fruit/koolsoorten/p5",
+      "https://www.zaadhandelvanderwal.nl/download/36"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "pointed-cabbage-kalibos",
+    "names": {
+      "nl": "Rode Spitskool 'Kalibos'",
+      "en": "Red Pointed Cabbage 'Kalibos'"
+    },
+    "days_to_harvest": {
+      "min": 85,
+      "max": 100
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden",
+      "123zaden"
+    ],
+    "traits": [
+      "open-pollinated",
+      "upright",
+      "sweet"
+    ],
+    "crop_slug": "pointed-cabbage",
+    "sources": [
+      "https://www.bolster.nl/spitskool/c697",
+      "https://www.intratuin.nl/intratuin-biologische-groentezaad-spitskool-brassica-oleracea-caraflex-f1.html",
+      "https://www.bol.com/nl/nl/p/buzzy-organic-spitskool-caraflex-f1-biologisch-groentezaad/9300000070629899/",
+      "https://www.bolster.nl/rode-en-witte-kool-oogsten/t22425",
+      "https://dezaden.nl/product/buzzy-biologische-spitskool-zaden-caraflex-f1/",
+      "https://www.vreeken.nl/175000-spitskool-eersteling-express",
+      "https://www.koopzaden.nl/product/spitskool-zaden-eersteling",
+      "https://www.dutchgardenseeds.com/groentezaden-spitskool-zaden-express-vroege-spitse/",
+      "https://www.123zaden.nl/spitskool-eersteling",
+      "https://www.vreeken.nl/176510-rode-spitskool-redruth-f1",
+      "https://www.vreeken.nl/176500-rode-spitskool-kalibos",
+      "https://www.123zaden.nl/biologische-zaden/bio-groentezaden/kool/spitskool",
+      "https://www.123zaden.nl/spitskool-kalibos-biologisch",
+      "https://www.vreeken.nl/zaden/groenten-fruit/koolsoorten/p5",
+      "https://www.zaadhandelvanderwal.nl/download/36"
+    ],
+    "verified": false
+  }
+]

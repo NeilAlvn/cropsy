@@ -1,0 +1,147 @@
+[
+  {
+    "slug": "cucumber-kaikura-f1",
+    "names": {
+      "nl": "Snack-komkommer 'Kaikura F1'",
+      "en": "Snack Cucumber 'Kaikura F1'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "compact",
+      "mini",
+      "snack",
+      "parthenocarpic",
+      "mildew-resistant",
+      "organic"
+    ],
+    "crop_slug": "cucumber",
+    "sources": [
+      "https://www.bolster.nl/snack-komkommer-zaden/t25454",
+      "https://www.bolster.nl/snack-komkommer-kaikura-f1-cucumis-sativus/p13007",
+      "https://www.bolster.nl/gezonde-snackkomkommers-kweken/t25213",
+      "https://moestuinland.nl/komkommer-zaden-kopen-patio-snacker",
+      "https://www.vreeken.nl/124040-komkommer-pot-luck-f1-patio-snacker-f1",
+      "https://www.vreeken.nl/zaden/groenten-fruit/komkommers-sier-eetbaar/p1-10",
+      "https://www.vreeken.nl/zaden/groenten-fruit/komkommers-sier-eetbaar/p2-5",
+      "https://tuinzaden.eu/nl/komkommer-zaden-kopen/922345-kalimero-f1-mini-snackkomkommer-zaden.html",
+      "https://www.welkoop.nl/buzzy-patio-veggies-snackkomkommer-kalimero-f1-groentezaden-6_1418993",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/buzzy/buzzy-groente-en-kruiden-collectie/snack-komkommer-kalimero-f1"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "cucumber-patio-snacker-f1",
+    "names": {
+      "nl": "Komkommer 'Patio Snacker F1'",
+      "en": "Cucumber 'Patio Snacker F1'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 55
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden",
+      "Moestuinland"
+    ],
+    "traits": [
+      "compact",
+      "snack",
+      "bitter-free",
+      "parthenocarpic",
+      "disease-tolerant"
+    ],
+    "crop_slug": "cucumber",
+    "sources": [
+      "https://www.bolster.nl/snack-komkommer-zaden/t25454",
+      "https://www.bolster.nl/snack-komkommer-kaikura-f1-cucumis-sativus/p13007",
+      "https://www.bolster.nl/gezonde-snackkomkommers-kweken/t25213",
+      "https://moestuinland.nl/komkommer-zaden-kopen-patio-snacker",
+      "https://www.vreeken.nl/124040-komkommer-pot-luck-f1-patio-snacker-f1",
+      "https://www.vreeken.nl/zaden/groenten-fruit/komkommers-sier-eetbaar/p1-10",
+      "https://www.vreeken.nl/zaden/groenten-fruit/komkommers-sier-eetbaar/p2-5",
+      "https://tuinzaden.eu/nl/komkommer-zaden-kopen/922345-kalimero-f1-mini-snackkomkommer-zaden.html",
+      "https://www.welkoop.nl/buzzy-patio-veggies-snackkomkommer-kalimero-f1-groentezaden-6_1418993",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/buzzy/buzzy-groente-en-kruiden-collectie/snack-komkommer-kalimero-f1"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "cucumber-pot-luck-f1",
+    "names": {
+      "nl": "Komkommer 'Pot Luck' F1",
+      "en": "Cucumber 'Pot Luck' F1"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 55
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "semi-bush",
+      "bitter-free",
+      "parthenocarpic",
+      "seedless"
+    ],
+    "crop_slug": "cucumber",
+    "sources": [
+      "https://www.bolster.nl/snack-komkommer-zaden/t25454",
+      "https://www.bolster.nl/snack-komkommer-kaikura-f1-cucumis-sativus/p13007",
+      "https://www.bolster.nl/gezonde-snackkomkommers-kweken/t25213",
+      "https://moestuinland.nl/komkommer-zaden-kopen-patio-snacker",
+      "https://www.vreeken.nl/124040-komkommer-pot-luck-f1-patio-snacker-f1",
+      "https://www.vreeken.nl/zaden/groenten-fruit/komkommers-sier-eetbaar/p1-10",
+      "https://www.vreeken.nl/zaden/groenten-fruit/komkommers-sier-eetbaar/p2-5",
+      "https://tuinzaden.eu/nl/komkommer-zaden-kopen/922345-kalimero-f1-mini-snackkomkommer-zaden.html",
+      "https://www.welkoop.nl/buzzy-patio-veggies-snackkomkommer-kalimero-f1-groentezaden-6_1418993",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/buzzy/buzzy-groente-en-kruiden-collectie/snack-komkommer-kalimero-f1"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "cucumber-kalimero-f1",
+    "names": {
+      "nl": "Snackkomkommer 'Kalimero F1'",
+      "en": "Snack Cucumber 'Kalimero F1'"
+    },
+    "days_to_harvest": {
+      "min": 55,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy Seeds",
+      "Welkoop",
+      "Tuinzaden.eu"
+    ],
+    "traits": [
+      "mini",
+      "snack",
+      "parthenocarpic"
+    ],
+    "crop_slug": "cucumber",
+    "sources": [
+      "https://www.bolster.nl/snack-komkommer-zaden/t25454",
+      "https://www.bolster.nl/snack-komkommer-kaikura-f1-cucumis-sativus/p13007",
+      "https://www.bolster.nl/gezonde-snackkomkommers-kweken/t25213",
+      "https://moestuinland.nl/komkommer-zaden-kopen-patio-snacker",
+      "https://www.vreeken.nl/124040-komkommer-pot-luck-f1-patio-snacker-f1",
+      "https://www.vreeken.nl/zaden/groenten-fruit/komkommers-sier-eetbaar/p1-10",
+      "https://www.vreeken.nl/zaden/groenten-fruit/komkommers-sier-eetbaar/p2-5",
+      "https://tuinzaden.eu/nl/komkommer-zaden-kopen/922345-kalimero-f1-mini-snackkomkommer-zaden.html",
+      "https://www.welkoop.nl/buzzy-patio-veggies-snackkomkommer-kalimero-f1-groentezaden-6_1418993",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/buzzy/buzzy-groente-en-kruiden-collectie/snack-komkommer-kalimero-f1"
+    ],
+    "verified": false
+  }
+]

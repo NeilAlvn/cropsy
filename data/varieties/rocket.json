@@ -1,0 +1,147 @@
+[
+  {
+    "slug": "rocket-esmee",
+    "names": {
+      "nl": "Rucola 'Esmée'",
+      "en": "Rocket 'Esmée'"
+    },
+    "days_to_harvest": {
+      "min": 21,
+      "max": 30
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "early",
+      "fast-growing",
+      "compact",
+      "cold-tolerant",
+      "cut-and-come-again"
+    ],
+    "crop_slug": "rocket",
+    "sources": [
+      "https://www.bolster.nl/verrukkelijke-rucola/t25228",
+      "https://www.bolster.nl/rucola/c694",
+      "https://www.bolster.nl/rucola-esme-eruca-sativa/p70",
+      "https://www.bolster.nl/rucola-oogsten/t22361",
+      "https://www.facebook.com/DeBolsterBiologischeZaden/photos/1358135046444884/",
+      "https://plukkers.com/products/rucola-esmee",
+      "https://www.bolster.nl/rucola-telen/t7529",
+      "https://www.bolster.nl/rucola-rochelle-diplotaxis-tenuifolia/p14084",
+      "https://www.vreeken.nl/242100-wilde-rucola-sylvetta",
+      "https://www.dehobbytuinder.nl/blog/rucola-kweken/",
+      "https://moestuinenbloem.nl/wilde-rucola-tuin-de-bruijn/",
+      "https://www.welkoop.nl/oranjeband-zaden-rucola-dragons-tonque-groentezaden-0-15gram_1300899"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "rocket-rochelle",
+    "names": {
+      "nl": "Wilde Rucola 'Rochelle'",
+      "en": "Wild Rocket 'Rochelle'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "bolt-resistant",
+      "mildew-resistant"
+    ],
+    "crop_slug": "rocket",
+    "sources": [
+      "https://www.bolster.nl/verrukkelijke-rucola/t25228",
+      "https://www.bolster.nl/rucola/c694",
+      "https://www.bolster.nl/rucola-esme-eruca-sativa/p70",
+      "https://www.bolster.nl/rucola-oogsten/t22361",
+      "https://www.facebook.com/DeBolsterBiologischeZaden/photos/1358135046444884/",
+      "https://plukkers.com/products/rucola-esmee",
+      "https://www.bolster.nl/rucola-telen/t7529",
+      "https://www.bolster.nl/rucola-rochelle-diplotaxis-tenuifolia/p14084",
+      "https://www.vreeken.nl/242100-wilde-rucola-sylvetta",
+      "https://www.dehobbytuinder.nl/blog/rucola-kweken/",
+      "https://moestuinenbloem.nl/wilde-rucola-tuin-de-bruijn/",
+      "https://www.welkoop.nl/oranjeband-zaden-rucola-dragons-tonque-groentezaden-0-15gram_1300899"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "rocket-sylvetta",
+    "names": {
+      "nl": "Wilde Rucola 'Sylvetta'",
+      "en": "Wild Rocket 'Sylvetta'"
+    },
+    "days_to_harvest": {
+      "min": 40,
+      "max": 50
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken’s Zaden"
+    ],
+    "traits": [
+      "perennial",
+      "compact",
+      "bushy"
+    ],
+    "crop_slug": "rocket",
+    "sources": [
+      "https://www.bolster.nl/verrukkelijke-rucola/t25228",
+      "https://www.bolster.nl/rucola/c694",
+      "https://www.bolster.nl/rucola-esme-eruca-sativa/p70",
+      "https://www.bolster.nl/rucola-oogsten/t22361",
+      "https://www.facebook.com/DeBolsterBiologischeZaden/photos/1358135046444884/",
+      "https://plukkers.com/products/rucola-esmee",
+      "https://www.bolster.nl/rucola-telen/t7529",
+      "https://www.bolster.nl/rucola-rochelle-diplotaxis-tenuifolia/p14084",
+      "https://www.vreeken.nl/242100-wilde-rucola-sylvetta",
+      "https://www.dehobbytuinder.nl/blog/rucola-kweken/",
+      "https://moestuinenbloem.nl/wilde-rucola-tuin-de-bruijn/",
+      "https://www.welkoop.nl/oranjeband-zaden-rucola-dragons-tonque-groentezaden-0-15gram_1300899"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "rocket-dragons-tongue",
+    "names": {
+      "nl": "Rucola 'Dragons Tongue'",
+      "en": "Rocket 'Dragons Tongue'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop",
+      "Oranjeband Zaden"
+    ],
+    "traits": [
+      "ornamental",
+      "compact"
+    ],
+    "crop_slug": "rocket",
+    "sources": [
+      "https://www.bolster.nl/verrukkelijke-rucola/t25228",
+      "https://www.bolster.nl/rucola/c694",
+      "https://www.bolster.nl/rucola-esme-eruca-sativa/p70",
+      "https://www.bolster.nl/rucola-oogsten/t22361",
+      "https://www.facebook.com/DeBolsterBiologischeZaden/photos/1358135046444884/",
+      "https://plukkers.com/products/rucola-esmee",
+      "https://www.bolster.nl/rucola-telen/t7529",
+      "https://www.bolster.nl/rucola-rochelle-diplotaxis-tenuifolia/p14084",
+      "https://www.vreeken.nl/242100-wilde-rucola-sylvetta",
+      "https://www.dehobbytuinder.nl/blog/rucola-kweken/",
+      "https://moestuinenbloem.nl/wilde-rucola-tuin-de-bruijn/",
+      "https://www.welkoop.nl/oranjeband-zaden-rucola-dragons-tonque-groentezaden-0-15gram_1300899"
+    ],
+    "verified": false
+  }
+]
