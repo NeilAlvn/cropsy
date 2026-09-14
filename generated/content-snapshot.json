@@ -1,13 +1,319 @@
 {
-  "version": "b7cb415d1d19bbed",
-  "generated_at": "2026-09-13T10:31:41.599Z",
+  "version": "8510063ae8371a36",
+  "generated_at": "2026-09-14T18:44:30.388Z",
   "collections": [],
   "monthly_checklist": [],
-  "prices": [],
+  "prices": [
+    {
+      "crop_slug": "asparagus",
+      "eur": 11.98,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "aubergine",
+      "eur": 0.99,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "basil",
+      "eur": 1.69,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "beetroot",
+      "eur": 1.98,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "broad-bean",
+      "eur": 3.99,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "broccoli",
+      "eur": 2.5,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "brussels-sprouts",
+      "eur": 2.78,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "cabbage",
+      "eur": 1.49,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "carrot",
+      "eur": 1.19,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "cauliflower",
+      "eur": 1.85,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "celeriac",
+      "eur": 1.59,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "celery",
+      "eur": 1.39,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "chili",
+      "eur": 0.49,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "chives",
+      "eur": 1.69,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "coriander",
+      "eur": 1.69,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "courgette",
+      "eur": 0.89,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "cucumber",
+      "eur": 0.79,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "dill",
+      "eur": 1.69,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "endive",
+      "eur": 1.29,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "fennel",
+      "eur": 1.09,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "french-bean",
+      "eur": 3.58,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "garlic",
+      "eur": 1.39,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "gherkin",
+      "eur": 3.99,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "kale",
+      "eur": 4.38,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "kohlrabi",
+      "eur": 1.19,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "lambs-lettuce",
+      "eur": 13.9,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "leek",
+      "eur": 0.65,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "lettuce",
+      "eur": 0.79,
+      "unit": "pcs",
+      "source": "https://www.ah.nl/producten/product/wi382984/ah-kropsla"
+    },
+    {
+      "crop_slug": "mangetout",
+      "eur": 10.95,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "melon",
+      "eur": 2.49,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "mint",
+      "eur": 1.69,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "onion",
+      "eur": 1.29,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "oregano",
+      "eur": 1.69,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "pak-choi",
+      "eur": 1.39,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "parsley",
+      "eur": 1.69,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "parsnip",
+      "eur": 3.38,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "pea",
+      "eur": 3.99,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "pepper",
+      "eur": 1.09,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "pointed-cabbage",
+      "eur": 1.39,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "potato",
+      "eur": 1.39,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "pumpkin",
+      "eur": 1.99,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "radish",
+      "eur": 0.99,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "red-cabbage",
+      "eur": 1.49,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "rhubarb",
+      "eur": 4.98,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "rocket",
+      "eur": 12.9,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "rosemary",
+      "eur": 1.69,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "runner-bean",
+      "eur": 4.98,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "sage",
+      "eur": 1.69,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "shallot",
+      "eur": 2.98,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "sorrel",
+      "eur": 1.69,
+      "unit": "pcs",
+      "source": "https://www.jumbo.com/producten/jumbo-zuring-vers-kruid"
+    },
+    {
+      "crop_slug": "spinach",
+      "eur": 4.73,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "spring-onion",
+      "eur": 0.99,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "strawberry",
+      "eur": 9.98,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "swede",
+      "eur": 1.79,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "sweetcorn",
+      "eur": 1.19,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "swiss-chard",
+      "eur": 6.5,
+      "unit": "kg",
+      "source": "https://www.jumbo.com/producten/jumbo-snijbiet-vers"
+    },
+    {
+      "crop_slug": "thyme",
+      "eur": 1.69,
+      "unit": "pcs"
+    },
+    {
+      "crop_slug": "tomato",
+      "eur": 3.58,
+      "unit": "kg",
+      "source": "https://www.ah.nl/producten/product/wi4088/ah-tomaten"
+    },
+    {
+      "crop_slug": "turnip",
+      "eur": 2.49,
+      "unit": "kg"
+    },
+    {
+      "crop_slug": "winter-squash",
+      "eur": 1.99,
+      "unit": "pcs"
+    }
+  ],
   "varieties": [],
   "companions": {
     "good": [],
     "bad": []
   },
-  "problems": []
+  "problems": [],
+  "guides": []
 }

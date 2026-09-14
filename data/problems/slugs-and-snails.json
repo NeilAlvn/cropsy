@@ -12,57 +12,62 @@
     "fruits"
   ],
   "symptoms": {
-    "nl": "Slakken laten zilverachtige, glinsterende slijmsporen achter op bladeren, potten en balkonvloeren en vreten onregelmatige, rafelige gaten in het blad. Pas ontkiemde zaailingen kunnen 's nachts compleet tot aan de grond verdwijnen, terwijl de plaag overdag verborgen zit onder potranden en schotels.",
-    "en": "Slugs leave silvery, glistening slime trails across foliage, pots, and balcony decking, while rasping irregular, ragged holes into leaves. Freshly germinated seedlings often vanish completely down to soil level overnight, with the pests hiding under pot rims and saucers during the day."
+    "nl": "Er ontstaan onregelmatige gaten met rafelige randen in het bladweefsel en jonge zaailingen kunnen 's nachts zelfs volledig verdwijnen. Daarnaast zijn er kenmerkende glanzende, zilverachtige slijmsporen zichtbaar op de planten, potgrond en potranden.",
+    "en": "Irregular holes with ragged edges appear in foliage, and young seedlings may even disappear entirely overnight. Distinctive shiny, silvery slime trails are also visible across damaged plant tissue, potting soil, and container rims."
   },
   "treatment": {
-    "nl": "Ga ongeveer een uur na het donker of na regen met een zaklamp op pad om slakken met de hand van potranden en schotels te rapen. Vang ze overdag met schuilplekvallen zoals omgekeerde schotels of vochtige planken, of zet parasitaire aaltjes in via het gietwater. Indien nodig kunnen biologische korrels op basis van ferrifosfaat worden gestrooid zonder gevaar voor vogels of huisdieren.",
-    "en": "Head out with a flashlight about an hour after dark or after rain to handpick slugs from pot rims and saucers. During the day, collect them beneath shelter traps such as inverted saucers, or apply parasitic nematodes to the potting compost with water. If using slug pellets, choose organic iron phosphate formulations which are safe for birds and other wildlife."
+    "nl": "Raap slakken 's avonds laat of 's ochtends vroeg handmatig weg van potten en schotels, of vang ze met biervallen en uitgeholde meloenschillen. Zet parasitaire aaltjes in via het gietwater om naaktslakken biologisch en ondergronds te bestrijden. Strooi indien nodig ecologische slakkenkorrels op basis van ijzer(III)fosfaat, die veilig zijn voor vogels en egels.",
+    "en": "Handpick slugs late in the evening or early in the morning from pots and saucers, or catch them using beer traps and hollowed-out melon rinds. Introduce parasitic nematodes through irrigation water to control slugs biologically underground. If necessary, apply organic slug pellets based on iron(III) phosphate, which are safe for birds and hedgehogs."
   },
   "prevention": {
-    "nl": "Breng koperband aan rond potten, zet bakken op verhogers en geef altijd 's ochtends water zodat oppervlakken overdag opdrogen. Bescherm kwetsbare planten daarnaast door aromatische kruiden zoals rozemarijn en tijm aan te planten of door knoflookspray te gebruiken.",
-    "en": "Apply copper tape around pots, elevate containers on pot feet, and always water in the morning so surfaces can dry. You can also deter feeding by planting aromatic herbs such as rosemary and thyme or by spraying leaves with a homemade garlic wash."
+    "nl": "Zet kweekpotten op pootjes en breng kopertape of beschermkragen aan rond kwetsbare jonge planten om slakken te weren. Geef 's ochtends vroeg gericht water aan de basis van de plant zodat de grond overdag opdroogt, en bespuit het loof eventueel met knoflookspray.",
+    "en": "Place pots on feet and apply copper tape or protective collars around vulnerable young plants to block access. Water early in the morning at the base of the plant so the surface dries out during the day, and spray foliage with garlic extract."
   },
   "affects": [
     "basil",
-    "coriander",
+    "cauliflower",
     "courgette",
     "cucumber",
+    "kale",
     "lettuce",
     "pak-choi",
-    "pea",
-    "pumpkin",
+    "rocket",
     "spinach",
-    "strawberry",
-    "swiss-chard",
-    "tomato"
+    "strawberry"
   ],
   "image": null,
   "sources": [
-    "https://www.ivn.nl/afdeling/dronten/oktober-2023-het-verhaal-van-de-naaktslak-en-de-huisjesslak/",
-    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/ongediertebestrijding/tips-om-slakken-uit-de-tuin-te-weren/",
-    "https://www.ivn.nl/leren-over-de-natuur/weetjes-bodemdieren/",
-    "https://www.tuinadvies.nl/shop/dier/ongedierte/overige-dieren/slakken/anti-slakkenscherm---50-cm-x--100-m-562eaca4~200267951/",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/de-vierkante-meter-moestuin-deel-5/",
-    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/ongediertebestrijding/eten-slakken-geraniums/",
-    "https://hoogeveen.groei.nl/groeninfo/bestrijden-van-slakken",
-    "https://groei.nl/artikel/hoe-kweek-ik-koriander",
-    "https://groei.nl/artikel/fruit-kweken-in-potten",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/basilicum-wordt-opgegeten/",
+    "https://makkelijkemoestuin.nl/kennisbank/schrikdraad-tegen-slakken",
     "https://makkelijkemoestuin.nl/kennisbank/help-slakken-in-de-makkelijke-moestuin",
-    "https://groei.nl/artikel/tuinklussen-in-juni-klussen-voor-de-drukste-tuinmaand",
-    "https://www.moestuinadvies.nl/wat-doe-je-tegen-slakken/",
-    "https://echt.groei.nl/groeninfo/gewasbescherming/wat-doe-je-tegen-slakken",
-    "https://velt.nu/tip/wat-doe-je-tegen-slakken",
-    "https://beweegt.velt.nu/braas/download.php?bestand=slakken.pdf",
-    "https://makkelijkemoestuin.nl/slak",
+    "https://www.tuinadvies.nl/tuininfo/planten/klimplanten-rozen/passiebloem-slakken/",
+    "https://www.tuinadvies.nl/shop/dier/ongedierte/overige-dieren/slakken/anti-slakkenscherm---50-cm-x--100-m-562eaca4~200267951/",
+    "https://groei.nl/artikel/slakkenwerende-planten",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/ongediertebestrijding/tips-om-slakken-uit-de-tuin-te-weren/",
+    "https://groei.nl/artikel/slakken-bestrijden-waarom-slakken-rapen-het-beste-werkt",
+    "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/planten-waar-slakken-niet-van-houden/",
+    "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/slakken-beter-voorkomen-dan-genezen/",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/ongediertebestrijding/eten-slakken-geraniums/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/wees-slakken-te-snel-af",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/natuurlijke-bestrijding/hortensia-blad-aangevreten/",
+    "https://groei.nl/artikel/aardbeien-kweken-in-een-pot",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/ongediertebestrijding/eten-slakken-bonenplanten/",
     "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/ongediertebestrijding/zinnia-slakken/",
-    "https://www.gardenersworldmagazine.nl/groene-school/tuinklussen/slakken-strijdplan-tips/",
-    "https://natuuracademieonline.ivn.nl/resources/natuur-en-mens-natuurlijk-moestuinieren/zomer/de-slak",
+    "https://beweegt.velt.nu/braas/download.php?bestand=slakken.pdf",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/ongediertebestrijding/hortensia-slakken/",
+    "https://beweegt.velt.nu/braas/files/themas_2016-sep%20(1).pdf",
+    "https://ede.groei.nl/groeninfo/slakken",
+    "https://edepot.wur.nl/115980",
+    "https://www.ivn.nl/provincies/zuid-holland/aanbod/groen-dichterbij/je-eigen-voedsel-verbouwen/",
+    "https://velt.nu/tip/wat-doe-je-tegen-slakken",
+    "https://velt.nu/tip/natuurlijke-vijanden-naar-jouw-moestuin-lokken",
+    "https://edepot.wur.nl/532302",
+    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/slakken-op-een-balkon",
+    "https://makkelijkemoestuin.nl/blog/moestuinieren-moet-toch-makkelijker-kunnen",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/basilicum-wordt-opgegeten/",
+    "https://community.makkelijkemoestuin.nl/posts/tips-2/slakken-bestrijden-wat-bij-mij-heel-effectief-is",
     "https://makkelijkemoestuin.nl/kennisbank/maak-je-moestuin-onaantrekkelijk-voor-slakken",
-    "https://makkelijkemoestuin.nl/blog/alles-over-slakken-en-wat-echt-werkt",
-    "https://velt.nu/nieuws/ontdek-de-moestuin-van-hanne-en-michiel-tijdens-de-velt-ecotuindagen",
-    "https://community.makkelijkemoestuin.nl/posts/tips-2/slakken-bestrijden-wat-bij-mij-heel-effectief-is"
+    "https://makkelijkemoestuin.nl/kennisbank/knoflook-spray-tegen-slakken",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/slakken-in-de-tuin/"
   ],
   "verified": false
 }
