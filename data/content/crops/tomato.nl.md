@@ -3,10 +3,7 @@ crop: tomato
 lang: nl
 verified: false
 sources:
-  - https://www.tuinadvies.nl/artikels/de-beste-zorgen-voor-je-tomaten
   - https://makkelijkemoestuin.nl/kennisbank/balkontomaat-zaaien-en-kweken
-  - https://groei.nl/tuinieren/moestuin/cherrytomaten-kweken
-  - https://velt.nu/tomaat
 ---
 ## Starting
 Zaai tomaten binnenshuis voor vanaf half maart tot begin april op een warme vensterbank. Een constante kamertemperatuur rond 20 tot 22 graden Celsius is ideaal om het proces vlot te starten. Gebruik luchtige zaai- en stekgrond in handige kweekbakjes of zaaitrays. Houd de aarde matig vochtig met een plantenspuit zodat het zaad niet verzuipt. Dek de zaaibakjes af met een transparante kap of huishoudfolie voor een gelijkmatig microklimaat. Zodra het eerste groen verschijnt, haal je de kap direct weg. Geef de ontkiemde zaadjes meteen de allerlichtste plek in huis. Zo voorkom je slappe groei.

@@ -1,15 +1,11 @@
-import './env.ts'
-const key = process.env.GEMINI_API_KEY
+// Does a drafting-style prompt actually trigger Google Search? Prints the
+// grounding chunk count and the real (redirect) URIs Gemini grounded on.
+import { askJson } from './gemini.ts'
 async function main() {
-  const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key=${key}`, {
-    method: 'POST', headers: { 'content-type': 'application/json' },
-    body: JSON.stringify({ contents: [{ parts: [{ text: 'Volgens Nederlandse tuinbronnen: wanneer zaai je tomaten binnen? Antwoord in 1 zin en noem de bron-URL.' }] }], tools: [{ google_search: {} }] }),
-  })
-  const j = await r.json() as any
-  const c = j.candidates?.[0]
-  console.log('text:', c?.content?.parts?.map((p: any) => p.text).join('').slice(0, 200))
-  console.log('metadata keys:', Object.keys(c?.groundingMetadata ?? {}))
-  console.log('chunks:', (c?.groundingMetadata?.groundingChunks ?? []).length, 'queries:', c?.groundingMetadata?.webSearchQueries)
-  console.log(JSON.stringify(c?.groundingMetadata ?? {}).slice(0, 600))
+  const r = await askJson<{ slug: string; sources: string[] }[]>(`
+List 2 common pests of container-grown lettuce in the Netherlands. Return ONLY a JSON array of {"slug", "names": {"nl","en"}, "symptoms": {"nl","en"}, "sources": [URLs you used]}.`)
+  console.log('items', r.data.length, '| grounding chunks', r.sources.length)
+  console.log('chunk uris', r.sources.slice(0, 3))
+  console.log('model urls', r.data.flatMap((d) => d.sources).slice(0, 4))
 }
 main()
