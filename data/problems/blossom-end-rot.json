@@ -9,51 +9,47 @@
     "fruits"
   ],
   "symptoms": {
-    "nl": "Het begint als een waterige, ingezonken, geelachtige tot donkerbruine plek aan de onderkant van de vrucht. Naarmate de vrucht groeit, vlakt deze plek af en verandert in een donkerbruine of zwarte, leerachtige vlek.",
-    "en": "It begins as a water-soaked, sunken, yellowish to dark brown spot at the blossom end of the fruit. As the fruit grows, this spot flattens and hardens into a sunken, dark brown or black leathery patch."
+    "nl": "Het begint als een waterige, geelbruine plek aan de onderkant van de vrucht die verandert in een ingezonken, droge en zwarte leerachtige vlek. De bladeren, stengels en wortels blijven verder gezond en vertonen geen afwijkingen.",
+    "en": "It starts as a watery, yellowish-brown lesion at the base of developing fruit that turns into a sunken, dry, and black leathery patch. The leaves, stems, and roots remain healthy and show no visible deformities."
   },
   "treatment": {
-    "nl": "Pluk ernstig aangetaste jonge vruchten direct af zodat de plant water, calcium en energie kan richten op nieuwe vruchten. Breng de vochtbalans meteen op peil zodat de potgrond nooit volledig uitdroogt of kletsnat wordt. Dien eventueel een biologische oplossing van dolomietkalk en kieseriet toe en vermijd meststoffen met een teveel aan kalium of stikstof.",
-    "en": "Pick off severely damaged young fruits so the plant diverts its water, calcium, and energy toward developing healthy new fruits. Balance watering immediately to ensure the potting soil never dries out completely or swings to waterlogged. You can apply an organic drench of dolomite lime and kieserite while avoiding fertilizers with excessive potassium or ammonium."
+    "nl": "Pluk ernstig aangetaste vruchten direct af zodat de plant water en calcium naar nieuwe trossen kan sturen. Begiet de wortelzone direct met water verrijkt met dolomietkalk en magnesium om de balans te herstellen. Gooi de plant niet weg, want nieuw ontwikkelende vruchten zullen bij genormaliseerde omstandigheden gewoon weer gezond groeien.",
+    "en": "Pluck off severely damaged fruits immediately so the plant redirects water and calcium reserves to newer fruit clusters. Drench the root zone with water enriched with organic dolomite lime and magnesium to restore mineral balance. Do not discard the plant, as newly developing fruits will grow normally once watering and nutrient conditions normalize."
   },
   "prevention": {
-    "nl": "Zorg voor een constante, gelijkmatige watergift en gebruik potten groter dan 10 tot 15 liter met mulch om uitdroging tegen te gaan. Meng vooraf zeewierkalk of dolomietkalk door de potgrond en kies een evenwichtige organische meststof met calcium.",
-    "en": "Maintain consistent, even watering and use containers larger than 10 to 15 liters with mulch to prevent rapid drying out. Mix seaweed lime or dolomite lime into the potting soil before planting and use a balanced organic fertilizer containing calcium."
+    "nl": "Geef regelmatig en consistent water en gebruik mulch of grote potten om uitdroging te voorkomen. Zorg vooraf voor voldoende kalk in de potgrond en vermijd een overmaat aan stikstof en kalium.",
+    "en": "Provide even, consistent watering and use mulch or sufficiently large containers to prevent rapid moisture loss. Ensure the potting compost contains adequate calcium beforehand and avoid excess nitrogen or potassium fertilization."
   },
   "affects": [
     "aubergine",
     "chili",
     "courgette",
+    "cucumber",
+    "melon",
     "pepper",
-    "pumpkin",
     "tomato"
   ],
   "image": null,
   "sources": [
-    "https://beweegt.velt.nu/zadenwerkgroep/2819/houjetomatengezond",
     "https://makkelijkemoestuin.nl/kennisbank/neusrot-bij-tomaten",
-    "https://www.farmzy.nl/tomaten-kweken-in-potten",
+    "https://www.vegetables.bayer.com/nl/nl-nl/ziektewijzer/tomaat-ziektewijzer/neusrot.html",
+    "https://beweegt.velt.nu/zadenwerkgroep/2819/houjetomatengezond",
     "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/het-moestuinseizoen-is-nog-niet-voorbij",
-    "https://meierijstad.groei.nl/groeninfo/tuinkalender/augustus",
-    "https://dcm-info.nl/hobby/tuintips/tomaten-kweken-en-verzorgen-in-de-moestuin-of-tuinkas",
-    "https://edepot.wur.nl/13408",
     "https://edepot.wur.nl/276045",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/neusrot-bij-mijn-paprikas",
-    "https://www.tuinenbalkon.nl/tomaten-worden-bruin-is-het-neusrot",
-    "https://wageningen.groei.nl/groeninfo/standaard-titel-1",
+    "https://edepot.wur.nl/13408",
     "https://community.makkelijkemoestuin.nl/posts/vragen-2/neusrot-2",
     "https://community.makkelijkemoestuin.nl/posts/vragen-2/wat-is-er-met-mn-tomaat",
-    "https://www.tuinadvies.be/tuininfo/tuinonderhoud-kalender/water-geven-droogte/tomaten-water-geven-via-petfles/",
-    "https://edepot.wur.nl/111983",
-    "https://www.reddit.com/r/groenevingers/comments/1ro8ym2/tomaten_kweken_zonder_afdak/",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/hoe-vaak-moet-je-tomaten-water-geven",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/tomaten-rot-2",
-    "https://www.moestuinforum.nl/topic/35868-tomatentopic-2022/",
-    "https://wageningen.groei.nl/groeninfo/kalk-strooien-voor-moestuin-en-gazon",
-    "https://beweegt.velt.nu/brugge/6772/infobiohulpmiddelen",
-    "https://velt.nu/nieuws/deel-5-hoe-vordert-het-project-robuuste-tomaten",
+    "https://www.farmzy.nl/mijn-tomaten-hebben-rotten-plekken-aan-de-ond",
+    "https://sigrow.com/nl/blog/neusrot-bij-tomaten/",
+    "https://edepot.wur.nl/320546",
+    "https://www.moestuinforum.nl/topic/17129-neusrot-in-tomaten/",
+    "https://allesvoorjemoestuin.nl/wat-is-neusrot-bij-tomaten-en-hoe-voorkom-je-het/",
     "https://edepot.wur.nl/216335",
-    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/de-moestuinkalender-juli"
+    "https://edepot.wur.nl/111983",
+    "https://wageningen.groei.nl/groeninfo/standaard-titel-1",
+    "https://beweegt.velt.nu/brugge/6772/infobiohulpmiddelen",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/de-moestuinkalender-juli/",
+    "https://www.gardenersworldmagazine.nl/groene-school/moestuin/neusrot-voorkomen-tomaten/"
   ],
   "verified": false
 }

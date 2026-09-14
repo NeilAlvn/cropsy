@@ -7,50 +7,57 @@
   "kind": "pest",
   "parts": [
     "leaves",
-    "stems",
     "flowers"
   ],
   "symptoms": {
-    "nl": "Aanvankelijk ontstaan kleine hapjes en venstervraat, waarna grotere gaten volgen tot het blad volledig geskeletteerd raakt en enkel de dikke nerven overblijven. Op en onder de bladeren zijn donkere korreltjes uitwerpselen te vinden.",
-    "en": "Initially, small bites and window feeding appear on the leaves, progressing to large holes until the foliage is completely skeletonised down to the thick veins. Dark droppings are also visible on and under the leaves."
+    "nl": "Eerst ontstaan er kleine schraapsels of ronde gaatjes in het blad, die later uitgroeien tot forse gaten tussen de hoofdnerven of zelfs kaalvraat. Daarnaast zijn donkergroene tot zwarte uitwerpselen op het blad en in de bladoksels te zien, evenals kleine kegelvormige eitjes aan de onderzijde.",
+    "en": "Initially, small scrapes or round holes appear in the foliage, which later develop into substantial holes between the main veins or complete skeletonisation. In addition, dark green to black droppings can be found on leaves and in leaf axils, alongside small cone-shaped eggs on the undersides."
   },
   "treatment": {
-    "nl": "Controleer potten regelmatig om eitjes handmatig weg te wrijven en rupsen met de hand af te plukken. Een zelfgemaakte spray op basis van knoflookaftreksel verstoort de eetlust en schrikt af. Stimuleer natuurlijke vijanden zoals sluipwespen, loopkevers, vogels en wespen, en laat rupsen met geel spinsel met rust.",
-    "en": "Regularly inspect balcony pots to wipe away eggs and pick caterpillars off by hand. A homemade garlic spray deters newcomers and suppresses caterpillar appetite. Encourage natural predators like parasitic wasps, predatory beetles, birds, and wasps, leaving slow caterpillars surrounded by yellow webbing undisturbed."
+    "nl": "Inspecteer de bladeren regelmatig om eitjes weg te vegen en rupsen met de hand af te plukken of te verhuizen naar een vangplant. Trek natuurlijke vijanden zoals sluipwespen aan door bloeiende schermbloemen te laten staan. Bij een zware aantasting kan een biologisch bacteriepreparaat op basis van Bacillus thuringiensis worden ingezet.",
+    "en": "Regularly inspect the leaves to wipe away eggs and pick off caterpillars by hand, or relocate them to a trap crop. Encourage natural predators like parasitic wasps by leaving flowering umbels in place. For severe infestations, an organic bacterial preparation containing Bacillus thuringiensis can be applied."
   },
   "prevention": {
-    "nl": "Dek potten vanaf het vroege voorjaar af met fijnmazig insectengaas en zet afleidingsplanten zoals Oost-Indische kers of geurende kruiden en uien in de buurt. Controleer in mei, juni, augustus en september wekelijks de onderkant van het blad om eitjes tijdig weg te vegen.",
-    "en": "Cover containers from early spring with fine insect netting and grow nasturtiums as a trap crop or aromatic herbs and onions to mask the cabbage scent. Inspect the undersides of leaves weekly during May, June, August, and September to wipe away eggs before they hatch."
+    "nl": "Span fijnmazig insectengaas over de bakken zonder dat dit het blad raakt om het leggen van eitjes te voorkomen. Verwar het koolwitje eventueel met sterk geurende kruiden, knoflookspray of een aftreksel van tomaten- of vlierblad, of zaai Oost-Indische kers als vangplant.",
+    "en": "Cover planters with fine-mesh insect netting without letting it touch the foliage to prevent butterflies from laying eggs. Confuse cabbage whites using strongly scented herbs, garlic spray, or infusions of elder or tomato leaves, or sow nasturtium as a trap crop."
   },
   "affects": [
     "broccoli",
     "brussels-sprouts",
-    "cabbage",
     "cauliflower",
     "kale",
+    "kohlrabi",
     "pak-choi",
     "pointed-cabbage",
     "radish",
-    "red-cabbage",
-    "rocket",
-    "turnip"
+    "rocket"
   ],
   "image": null,
   "sources": [
-    "https://makkelijkemoestuin.nl/kennisbank/rupsen-van-het-koolwitje-in-moestuin",
-    "https://community.makkelijkemoestuin.nl/posts/tips-2/strijd-tegen-koolwitje",
-    "https://www.ivn.nl/afdeling/amsterdam/een-leger-veelvraten-rupsen-in-de-tuin/",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/help-een-mini-rups-in-de-rucola",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/afrikaantjes-palmkool",
     "https://velt.nu/tip/wat-doe-je-tegen-rupsen-op-koolplanten",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/rucola-met-gaatjes",
-    "https://edepot.wur.nl/346662",
+    "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/top-tien-vlinders-in-mijn-tuin",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/help-een-mini-rups-in-de-rucola",
+    "https://edepot.wur.nl/254861",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/rupsen-eitjes",
+    "https://edepot.wur.nl/249746",
+    "https://community.makkelijkemoestuin.nl/posts/tips-2/strijd-tegen-koolwitje",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/tuintip-23/",
+    "https://edepot.wur.nl/252567",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/rupsen-22",
+    "https://www.ivn.nl/afdeling/valkenswaard-waalre/vlindertuin-waalre-van-maand-tot-maand/",
+    "https://edepot.wur.nl/420802",
     "https://community.makkelijkemoestuin.nl/posts/vragen-2/rupsen-in-de-rucola",
-    "https://edepot.wur.nl/341959",
+    "https://edepot.wur.nl/420466",
     "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/tips-voor-meer-vlinders-in-de-tuin/",
-    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/wat-voor-eitjes-zitten-er-in-mijn-rode-kool",
-    "https://makkelijkemoestuin.nl/kennisbank/plaagdieren-in-de-moestuin",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/prei-wortel-en-koolvlieg/",
+    "https://velt.nu/vrolijke-tuinhulpjes",
+    "https://edepot.wur.nl/249750",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/rupsen-van-groot-koolwitje",
+    "https://edepot.wur.nl/353851",
+    "https://makkelijkemoestuin.nl/kennisbank/rupsen-van-het-koolwitje-in-moestuin",
+    "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/partnerplanten-soorten-en-weetjes",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/nuttige-bloemen-in-de-moestuin/",
+    "https://velt.nu/tip/hoe-maak-en-gebruik-je-plantenaftreksels",
+    "https://groei.nl/artikel/zaaien-voor-beginners",
     "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-boerenkool-en-palmkool/"
   ],
   "verified": false

@@ -7,54 +7,56 @@
   "kind": "disease",
   "parts": [
     "leaves",
-    "stems",
-    "flowers",
-    "fruits"
+    "stems"
   ],
   "symptoms": {
-    "nl": "Aan de bovenzijde van het blad verschijnen hoekige, bleekgroene of gele vlekken die later bruin worden en indrogen. Aan de onderzijde van het blad ontstaat een grijsachtig, paarsig of vuilwit schimmelpluis dat niet gemakkelijk kan worden weggeveegd.",
-    "en": "Angular, pale green to yellow patches appear on the upper leaf surface, later turning necrotic and brown. A greyish, purplish, or dirty-white downy mold layer forms on the undersides of the leaves that cannot easily be rubbed off."
+    "nl": "Aan de onderkant van het blad ontstaat een wit tot grijsachtig, violet of bruin viltig schimmelpluis. Aan de bovenzijde van het blad verschijnen hoekige, door bladnerven begrensde gele vlekken die geleidelijk verdorren en bruin worden.",
+    "en": "A white to greyish, violet, or brownish downy fungal fuzz develops on the underside of the foliage. On the upper leaf surface, angular yellow spots bordered by the leaf veins appear and eventually turn necrotic and brown."
   },
   "treatment": {
-    "nl": "Knip aangetaste bladeren meteen weg en gooi ze bij het rest- of gft-afval, maar nooit op de eigen composthoop. Bestuif het gewas met gesteentemeel of bespuit de bladeren met heermoesaftreksel of brandnetelgier om de celwanden te versterken. Indien nodig kunnen traditionele koperpreparaten spaarzaam worden ingezet als beschermende contactbarrière.",
-    "en": "Prune infected leaves immediately and dispose of them in the municipal green waste or trash, never on your compost pile. Dust foliage with rock dust or spray with horsetail tea or stinging nettle slurry to strengthen cell walls against spore penetration. Traditional copper fungicides may also be used conservatively as a preventative contact barrier."
+    "nl": "Pluk aangetaste bladeren direct af en gooi ze in de vuilnisbak, of verwijder ernstig aangetaste potplanten volledig om verdere besmetting te voorkomen. Gooi het plantafval nooit op de composthoop omdat de rustsporen daarin overleven. Preventief of bij een beginnende aantasting kan een heermoesaftreksel of een koperhoudend middel zoals Bordeauxse pap worden ingezet.",
+    "en": "Immediately remove infected leaves and dispose of them in the general waste bin, or discard heavily infested potted plants entirely to protect nearby containers. Do not add infected plant material to domestic compost because the resting spores will survive. Plant-strengthening horsetail decoctions or copper-based preparations like Bordeaux mixture can be applied as protective treatments."
   },
   "prevention": {
-    "nl": "Geef 's ochtends vroeg water aan de basis van de plant om nat blad te vermijden en zorg voor voldoende tussenruimte voor een goede luchtcirculatie. Zet potten bij voorkeur onder een afdak tegen aanhoudende regen en kies voor resistente rassen.",
-    "en": "Water at the soil base early in the day to avoid wetting leaves, and space pots properly to ensure good air circulation. Shelter vulnerable plants under balcony overhangs to protect against rain and select resistant varieties when planting."
+    "nl": "Geef uitsluitend water aan de basis van de plant om de bladeren droog te houden en zet potten voldoende ver uit elkaar voor goede ventilatie. Plaats kwetsbare gewassen bij voorkeur onder een afdak en kies voor resistente plantenrassen.",
+    "en": "Always water directly at the base of the plant to avoid wetting the leaves, and provide sufficient spacing between containers for good air circulation. Keep susceptible crops sheltered under an overhang or balcony roof and select resistant cultivars."
   },
   "affects": [
     "basil",
+    "cabbage",
     "chives",
     "courgette",
     "cucumber",
-    "garlic",
     "lettuce",
+    "mint",
     "onion",
-    "pumpkin",
-    "shallot",
+    "radish",
+    "sage",
     "spinach",
-    "tomato"
+    "tomato",
+    "turnip"
   ],
   "image": null,
   "sources": [
-    "https://beweegt.velt.nu/braas/download.php?bestand=MS201009.pdf",
-    "https://makkelijkemoestuin.nl/kennisbank/meeldauw-herkennen-en-bestrijden",
-    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/natuurlijke-bestrijding/echte-of-valse-meeldauw/",
-    "https://edepot.wur.nl/541113",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/ecomaand10",
     "https://velt.nu/nieuws/tinekes-spinazie",
-    "https://edepot.wur.nl/312860",
-    "https://edepot.wur.nl/295570",
-    "https://beweegt.velt.nu/braas/download.php?bestand=zadenlijst2013_lr.pdf",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/dragon-of-artemisia-dracunculus/",
+    "https://makkelijkemoestuin.nl/kennisbank/meeldauw-herkennen-en-bestrijden",
+    "https://beweegt.velt.nu/dendermonde/2112/informatie",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/ecomaand10",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/natuurlijke-bestrijding/echte-of-valse-meeldauw/",
+    "https://beweegt.velt.nu/braas/download.php?bestand=MS201009.pdf",
     "https://community.makkelijkemoestuin.nl/posts/vragen-2/meiraap-8",
-    "https://midden-kennemerland.groei.nl/tuintips-info/rozen-met-piet-veldhuis/ziekten-in-rozen",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/spinazie-extra-aandacht-maar-extra-lekker",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/witte-waas-op-snijbiet",
+    "https://edepot.wur.nl/383982",
+    "https://beweegt.velt.nu/braas/files/themas_2015-jan.pdf",
+    "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-komkommer/",
+    "https://www.wur.nl/nl/longread/cropmix-motor-voor-transitie-naar-een-agro-ecologische-akkerbouw",
+    "https://www.wur.nl/nl/cgn/plant/gewascollecties/bladgroenten/sla",
+    "https://www.wur.nl/nl/cgn/plant/gewascollecties/vruchtgroenten/komkommer",
+    "https://www.wur.nl/nl/cgn/plant/gewascollecties/bladgroenten/spinazie",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/bruine-vlekjes-en-geel-komkommertje",
     "https://deventer.groei.nl/actueel/moestuinieren-de-moestuin/ziekten-en-plagen",
-    "https://groei.nl/artikel/ecologisch-tuinieren-in-mei",
-    "https://www.tuinadvies.nl/shop/tuin/plantverzorging/meststoffen/dcm-brandnetelgier-conc-15l~200072854/",
-    "https://beweegt.velt.nu/dendermonde/2112/informatie"
+    "https://edepot.wur.nl/475513",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/dragon-of-artemisia-dracunculus/"
   ],
   "verified": false
 }

@@ -8,58 +8,44 @@
   "parts": [
     "leaves",
     "stems",
-    "fruits"
+    "fruits",
+    "roots"
   ],
   "symptoms": {
-    "nl": "Op bladeren ontstaan grijsgroene tot donkerbruine plekken die snel verdorren, vaak met wit schimmelpluis aan de onderkant bij vochtig weer. Aangetaste stengels krijgen zwarte strepen en vruchten vertonen harde, ingezonken bruine plekken die snel wegrotten.",
-    "en": "Foliage quickly develops water-soaked grayish-green to dark brown patches with white downy fungal growth on the leaf undersides in humid weather. Stems develop dark black lesions and fruit displays hard, sunken brown blotches that lead to rapid rot."
+    "nl": "Op de bladeren ontstaan onregelmatige, bruine tot zwarte vlekken met bij vochtig weer een fijn wit schimmelpluis aan de onderzijde. Geïnfecteerde bladeren, stengels en vruchten verdrogen of rotten snel, waardoor de plant er als verzengd uitziet.",
+    "en": "Leaves rapidly develop irregular dark brown to black water-soaked spots, which form a fine white downy fuzz on the undersides during humid weather. Infected foliage, stems, and fruits quickly wither and rot, making the plant look as if scorched by fire or frost."
   },
   "treatment": {
-    "nl": "Knip zieke bladeren en stengels meteen weg met een ontsmette schaar en maai bij aardappelen al het loof af om de knollen te beschermen. Pluk gezonde tomaten direct om binnen te laten narijpen en voer zwaar aangetaste planten af via het gft- of restafval in plaats van de composthoop. Een bespuiting met heermoesaftreksel of stuiven met basaltmeel kan helpen om het gewas te versterken.",
-    "en": "Immediately prune away infected leaves with disinfected scissors and cut potted potato foliage down to the soil line to protect tubers. Harvest intact tomatoes to ripen indoors and dispose of ruined plants in municipal waste rather than your compost pile. Applying a horsetail decoction or dusting with rock meal can help strengthen plant tissues against spore penetration."
+    "nl": "Knip aangetaste bladeren direct af en gooi deze in de gft-bak of het restafval, maar nooit op je eigen composthoop. Maai bij besmette aardappelen in pot het loof tot de grond af en laat de knollen nog twee weken droog in de pot zitten. Versterk planten eventueel met lavameel, basaltmeel of heermoesaftreksel.",
+    "en": "Immediately prune off infected foliage and dispose of it in municipal green waste or household trash, never in your compost bin. For infected potted potatoes, cut all foliage down to soil level and leave the tubers in the dry pot for two weeks before harvesting. You can strengthen plants by dusting them with basalt or lava meal, or spraying with horsetail decoction."
   },
   "prevention": {
-    "nl": "Plaats potten onder een afdak of balkonoverkapping en geef altijd water aan de basis om het loof droog te houden. Zorg voor een goede luchtcirculatie door potten ruim neer te zetten en plaats aardappelzakken nooit direct naast tomaten.",
-    "en": "Keep foliage dry by placing containers under a balcony canopy and always watering directly into the pot base. Maintain good spacing between containers for airflow and never place potato grow bags directly next to your tomato plants."
+    "nl": "Houd het loof droog door potten onder een afdak te plaatsen en uitsluitend via de bodem water te geven. Knip de onderste tomatenbladeren weg en kies voor resistente rassen of vroege teelt.",
+    "en": "Keep the foliage dry by placing containers under a balcony roof or shelter and watering only from the base directly into the soil. Strip the lower leaves of tomato plants and select blight-resistant or early varieties."
   },
   "affects": [
     "aubergine",
-    "pepper",
     "potato",
     "tomato"
   ],
   "image": null,
   "sources": [
+    "https://edepot.wur.nl/139040",
     "https://velt.nu/tip/wat-doe-je-tegen-de-aardappelplaag-en-tomatenziekte",
-    "https://velt.nu/robuuste-tomaten-deel-2",
     "https://makkelijkemoestuin.nl/kennisbank/tomatenziekte-herkennen-en-ingrijpen",
-    "https://velt.nu/tip/ideale-teelten-achter-glas",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/tomatenziekte-of-niet",
-    "https://makkelijkemoestuin.nl/blog/tomatenziekte-in-de-moestuin-grijp-snel-in",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/tomaten-voor-buitenteelt/",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/aardappelen-bewaren-poeder/",
-    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/tomatenziekte-17",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/tomaten-zwarte-onderkant/",
-    "https://edepot.wur.nl/420115",
+    "https://edepot.wur.nl/554170",
     "https://velt.nu/nieuws/deel-1-het-kan-wel-ziektevrije-buitentomaten",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/aardappelplant-snoeien/",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/wat-is-er-aan-de-hand-12",
+    "https://makkelijkemoestuin.nl/blog/tomatenziekte-in-de-moestuin-grijp-snel-in",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/tomaten-zwarte-onderkant/",
+    "https://www.tuinadvies.be/tuininfo/moestuin/oogsten-bewaren/aardappelen-bewaren-poeder/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/tomaten-voor-buitenteelt/",
     "https://makkelijkemoestuin.nl/kennisbank/begin-september-zaaien",
-    "https://wageningen.groei.nl/groeninfo/standaard-titel-1",
-    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/tomaten-48",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/tomatenplant-verwijderen",
-    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/tomatenziekte-65",
     "https://groei.nl/artikel/moestuin-in-oktober-oogsten-snoeien-en-opruimen",
-    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/rotte-tomaten-2",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/ecomaand10",
-    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/ja-jippie",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/tomaten-snoeien/",
-    "https://groei.nl/artikel/tuinklussen-in-mei-aan-de-slag-in-je-tuin",
-    "https://wageningen.groei.nl/standaard-titel-9",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/aardappelen-kweken/",
+    "https://wageningen.groei.nl/groeninfo/standaard-titel-1",
     "https://www.tuinadvies.be/tuininfo/moestuin/groenten/aardappelen-kweken/",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/tomatenziekte-gele-vlekken-tomatenblad",
-    "https://edepot.wur.nl/272067"
+    "https://velt.nu/robuuste-tomaten-deel-2",
+    "https://wageningen.groei.nl/standaard-titel-9",
+    "https://beweegt.velt.nu/valkenswaard/2313/vruchtwisseling"
   ],
   "verified": false
 }

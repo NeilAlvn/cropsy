@@ -10,42 +10,40 @@
     "stems"
   ],
   "symptoms": {
-    "nl": "Jonge rupsen veroorzaken doorschijnende venstervlekjes in het blad doordat ze het bladmoes wegeten. Later ontstaan rijen gerafelde gaten in doorgroeiend blad en boorgangen vol donkere uitwerpselen in de schacht, wat vaak leidt tot natrot.",
-    "en": "Young caterpillars cause translucent window-like patches on the leaves by eating away the inner tissue. Later, emerging leaves display rows of frayed holes, and tunnels filled with dark frass appear in the shaft, frequently leading to wet rot."
+    "nl": "Jonge rupsen vreten doorzichtige venstertjes en lange strepen in het blad, waarbij ze groenbruine uitwerpselen achterlaten. Naarmate ze dieper in het hart en de schacht boren, raakt het blad gerafeld en kan er secundair slijmerig rot ontstaan.",
+    "en": "Young caterpillars chew transparent windows and elongated stripes into the leaves, leaving behind greenish-brown frass. As they bore down into the plant heart and shaft, emerging leaves become frayed and ragged, often triggering secondary slimy rot."
   },
   "treatment": {
-    "nl": "Pluk rupsen handmatig weg of knip aangetast blad tot boven het groeipunt af. Zodra de eerste venstervraat zichtbaar is, kun je biologisch behandelen met Bacillus thuringiensis of spinosad. Ook een koud aftreksel van rabarberblad kan curatief worden ingezet.",
-    "en": "Pick off caterpillars by hand or trim damaged foliage down to just above the growing tip. As soon as the first window feeding is visible, treat organically with Bacillus thuringiensis or spinosad. A cold rhubarb leaf extract can also be applied curatively."
+    "nl": "Plet zichtbare rupsen met de hand of knip aangetaste bladpunten tijdig weg voordat ze het hart binnendringen. Bespuit de planten met het biologische bacteriepreparaat Bacillus thuringiensis of gebruik een aftreksel van rabarberblad. Bij een zware aantasting kan een biologische bespuiting met spinosad worden toegepast.",
+    "en": "Crush visible caterpillars by hand or prune away infested leaf tips before the larvae reach the plant heart. Spray foliage with the biological agent Bacillus thuringiensis or apply a homemade rhubarb leaf decoction. In severe infestations, an organically permitted spinosad treatment can be used."
   },
   "prevention": {
-    "nl": "Dek lookgewassen vanaf het planten tot de herfst af met fijnmazig insectengaas en hang feromoonvallen op om de mottenvlucht te monitoren. Zet geurverwarrende planten zoals selderij of wortel tussen de look en verwijder gewasresten tijdig om overwintering van poppen in de potgrond te voorkomen.",
-    "en": "Cover allium crops from planting until autumn with fine insect mesh and hang pheromone traps to monitor adult flights. Interplant strongly scented crops like celery or carrots to disorient the moths, and clear away crop debris to stop pupae from overwintering in potting soil."
+    "nl": "Dek alliumgewassen vanaf het voorjaar af met fijnmazig insectengaas om te verhinderen dat motten eitjes afzetten. Gebruik feromoonvallen om de vlucht te monitoren en pas combinatieteelt toe met sterk geurende planten om de plaag te verwarren.",
+    "en": "Cover pots with fine insect netting from early spring to physically block moths from laying eggs on the leaves. Use pheromone traps to monitor adult flights and interplant with strongly aromatic crops to disguise host plants."
   },
   "affects": [
     "chives",
     "garlic",
     "leek",
     "onion",
-    "shallot"
+    "shallot",
+    "spring-onion"
   ],
   "image": null,
   "sources": [
-    "https://beweegt.velt.nu/regionoordwestvlaanderen/6901/biohulpmiddelen",
+    "https://velt.nu/node/136",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/prei-wortel-en-koolvlieg",
     "https://edepot.wur.nl/119907",
     "https://edepot.wur.nl/254727",
     "https://edepot.wur.nl/41310",
     "https://edepot.wur.nl/277852",
-    "https://dordrecht.groei.nl/nieuwsbrieven",
+    "https://www.tuinadvies.nl/shop/dier/ongedierte/insecten/kruipende-insecten/60-ml~200108234/",
+    "https://velt.nu/tip/hoe-maak-en-gebruik-je-plantenaftreksels",
     "https://velt.nu/tip/wat-doe-je-tegen-de-preimineervlieg",
-    "https://velt.nu/node/136",
-    "https://beweegt.velt.nu/reinaert/434/groepsaankoop",
     "https://edepot.wur.nl/23092",
     "https://groei.nl/artikel/ecologisch-tuinieren-in-juni",
-    "https://velt.nu/tip/combinatieteelt-de-moestuin",
     "https://delangstraat.groei.nl/fileadmin/Afdelingen/afdeling_de_langstraat/Archief/Foto_bestanden/2022/Lezingen/15-03-2022_Rika_Verhoef/Tuinieren_met__on_kruid-lezing_van_15_maart__2022.pdf",
-    "https://velt.nu/tip/wat-doe-je-tegen-rupsen-op-koolplanten",
-    "https://www.tuinadvies.nl/shop/dier/ongedierte/insecten/kruipende-insecten/60-ml~200108234/",
-    "https://velt.nu/tip/hoe-maak-en-gebruik-je-plantenaftreksels"
+    "https://velt.nu/tip/combinatieteelt-de-moestuin"
   ],
   "verified": false
 }

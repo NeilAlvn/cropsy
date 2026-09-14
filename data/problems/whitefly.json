@@ -7,58 +7,60 @@
   "kind": "pest",
   "parts": [
     "leaves",
-    "stems"
+    "stems",
+    "fruits"
   ],
   "symptoms": {
-    "nl": "Bij aanraking van de plant vliegen kleine witte motachtige vliegjes massaal op vanaf de onderzijde van de bladeren. Het zuigen aan plantensappen veroorzaakt kleine puntjes, bladvergeling en verzwakking, terwijl uitgescheiden plakkerige honingdauw leidt tot een zwarte roetdauwschimmel op het blad en de stengels.",
-    "en": "When the plant is touched, tiny white moth-like flies take flight in large numbers from the undersides of the leaves. Sap-sucking by nymphs and adults causes small spots, leaf yellowing, and plant decline, while sticky honeydew secretions result in black sooty mold coating the leaves and stems."
+    "nl": "Zodra je tegen de plant tikt, vliegt er een wolkje kleine, motachtige witte vliegjes op. Aangetaste bladeren vergelen, misvormen of sterven af en worden bedekt met een plakkerige honingdauwlaag en zwarte roetdauw.",
+    "en": "When tapping the plant, a small cloud of tiny, moth-like white insects flies up. Affected leaves yellow, deform, or die off and become covered in a layer of sticky honeydew and black sooty mould."
   },
   "treatment": {
-    "nl": "Sproei de onderkant van de bladeren krachtig af met koud water en hang gele vangplaten op om volwassen vliegen weg te vangen. Zet natuurlijke vijanden in zoals sluipwespen (Encarsia formosa), lieveheersbeestjes of roofmijten, of bespuit het gewas met een koud aftreksel van boerenwormkruid of lavas. Bij aanhoudende hinder kan een milde oplossing van water, groene zeep en een scheut brandspiritus over de bladonderzijde worden verneveld.",
-    "en": "Firmly spray the undersides of the leaves with cold water and hang yellow sticky traps to capture flying adults. Introduce natural enemies such as parasitic wasps (Encarsia formosa), ladybirds, or predatory mites, or apply an herbal extract of tansy or lovage. For persistent infestations, mist the underside of the foliage with a mild mixture of water, soft soap, and a splash of methylated spirits."
+    "nl": "Spoel de onderkant van de bladeren af met koud water of vernevel een mengsel van zachte zeep en brandspiritus over de plant. Hang gele lijmplaten op om volwassen vliegen direct weg te vangen. Daarnaast kunnen natuurlijke vijanden zoals sluipwespen, lieveheersbeestjes of gaasvlieglarven worden ingezet.",
+    "en": "Rinse the undersides of leaves with cold water or spray the plant with a mixture of soft soap and methylated spirits. Hang yellow sticky traps to directly catch adult flies. Additionally, natural predators such as parasitic wasps, ladybirds, or lacewing larvae can be introduced."
   },
   "prevention": {
-    "nl": "Zet potten op een winderige, goed geventileerde plek om een broeierig microklimaat te vermijden, of scherm kwetsbare planten af met fijnmazig insectengaas. Plant geurige buren zoals afrikaantjes, zegekruid of basilicum bij de gewassen om witte vlieg op afstand te houden.",
-    "en": "Position pots in breezy, well-ventilated areas to avoid a stagnant microclimate, or protect vulnerable plants using fine mesh netting. Grow aromatic companion plants such as marigolds, Nicandra, or basil nearby to deter whiteflies."
+    "nl": "Plaats potten op een tochtige, goed geventileerde plek en bescherm kwetsbare groenten met fijnmazig insectengaas. Gebruik geurverwarrende planten zoals afrikaantjes of goudsbloem en controleer wekelijks de onderzijde van de bladeren.",
+    "en": "Place pots in an airy, well-ventilated location and protect vulnerable plants using fine insect netting. Use scent-masking companion plants such as marigolds or calendula, and inspect the undersides of the leaves weekly."
   },
   "affects": [
     "aubergine",
     "basil",
     "broccoli",
-    "brussels-sprouts",
     "courgette",
     "cucumber",
     "kale",
-    "lettuce",
     "melon",
+    "pak-choi",
+    "pepper",
+    "pointed-cabbage",
     "strawberry",
     "tomato"
   ],
   "image": null,
   "sources": [
+    "https://www.tuinadvies.nl/tuininfo/planten/bomen-heesters/tibouchina-kuipplanten-verzorging/",
     "https://community.makkelijkemoestuin.nl/posts/vragen-2/witte-minivliegjes",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/ongediertebestrijding/wolluis-bestrijden/",
     "https://velt.nu/tip/wat-doe-je-tegen-de-witte-vlieg",
     "https://community.makkelijkemoestuin.nl/posts/vragen-2/witte-vliegjes-alles-opruimen",
-    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/ongediertebestrijding/wolluis-bestrijden/",
-    "https://beweegt.velt.nu/bladel/2078/september",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/kleine-witte-vliegjes",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/paniek-witte-vlieg",
-    "https://edepot.wur.nl/290814",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/witte-vliegjes-5",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/witte-vliegjes-2",
-    "https://www.ivn.nl/afdeling/brabantse-wal/leren-over-de-natuur/lieveheersbeestjes-onder-de-schors-van-platanen/",
-    "https://edepot.wur.nl/455308",
-    "https://ede.groei.nl/groeninfo/insectenlokkers/bestuiving-van-planten",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/witte-vliegjes",
-    "https://maashorst.groei.nl/groeninfo/moestuinieren/goede-combinaties",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/nuttige-bloemen-in-de-moestuin/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/eierplant/",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/familie-witte-vlieg-wordt-steeds-groter",
     "https://beweegt.velt.nu/hamme/1857/biozaden",
     "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-boerenkool-en-palmkool/",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/familie-witte-vlieg-wordt-steeds-groter",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/eierplant/",
-    "https://edepot.wur.nl/520413",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/oei-is-dit-nu-de-trips-en-de-witte-vlieg-in-de-aardbeien",
     "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/trips-basilicum/",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/oei-is-dit-nu-de-trips-en-de-witte-vlieg-in-de-aardbeien"
+    "https://beweegt.velt.nu/bladel/2078/september",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/kleine-witte-vliegjes",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/witte-vliegjes-2",
+    "https://beweegt.velt.nu/brugge/6772/infobiohulpmiddelen",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/paniek-witte-vlieg",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/ongediertebestrijding/witte-luizen-beukenhaag/",
+    "https://www.ivn.nl/afdeling/brabantse-wal/leren-over-de-natuur/lieveheersbeestjes-onder-de-schors-van-platanen/",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/witte-vliegjes",
+    "https://maashorst.groei.nl/groeninfo/moestuinieren/goede-combinaties",
+    "https://edepot.wur.nl/12331",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/nuttige-bloemen-in-de-moestuin/",
+    "https://beweegt.velt.nu/braas/files/themas_2015-jan.pdf"
   ],
   "verified": false
 }

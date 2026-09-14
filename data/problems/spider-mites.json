@@ -6,54 +6,56 @@
   },
   "kind": "pest",
   "parts": [
+    "whole",
     "leaves",
-    "stems",
-    "flowers"
+    "stems"
   ],
   "symptoms": {
-    "nl": "Het eerste symptoom is het verschijnen van kleine bleke, witte of gele spikkels op de bovenzijde van de bladeren. Bij een gevorderde aantasting verkleuren en verdrogen de bladeren en verschijnt er een fijn spinrag tussen de bladstelen en scheuten.",
-    "en": "The earliest symptom is the appearance of tiny pale, white, or yellow speckles on the upper surface of the leaves. In advanced infestations, leaves discolour and dry out, and fine webbing develops between leaf stems and shoots."
+    "nl": "Op de bovenkant van het blad ontstaan kleine bleke, gele of zilverachtige spikkels waarna het blad vergeelt, verdroogt en vroegtijdig afvalt. Bij een gevorderde infectie zijn er fijne, zijdeachtige spinselwebjes te zien tussen de bladoksels, stengels en jonge scheuten.",
+    "en": "Tiny pale, yellow, or silvery speckles appear on the upper leaf surfaces before the foliage yellows, withers, and prematurely drops off. In advanced infestations, fine, silky webbing forms between leaf axils, stems, and young shoots."
   },
   "treatment": {
-    "nl": "Verwijder zwaar aangetaste bladeren en spoel de onderzijde van het blad grondig af met een krachtige waterstraal om de mijten te verstoren. Zet natuurlijke vijanden in zoals roofmijten of behandel de plant met zeepspiritus of een mengsel van zeewierextract en eucalyptusolie. Ook het bestuiven van vochtige bladeren met fijn lava- of basaltmeel helpt om de plaag uit te drogen.",
-    "en": "Remove heavily infested leaves and thoroughly rinse the undersides of the foliage with a strong jet of water to disrupt the mites. Introduce natural predators such as predatory mites, or spray plants with a soap and alcohol solution or seaweed extract with eucalyptus oil. Dusting damp leaves with fine rock dust also creates an abrasive barrier that dehydrates the pests."
+    "nl": "Knip zwaar aangetast loof direct weg en spoel de onderkant van de bladeren gericht af met een nevelstraal water. Zet effectieve natuurlijke vijanden in zoals de roofmijt Phytoseiulus persimilis, of besproei de bladeren met een emulsie van warm water, zachte zeep en neemolie.",
+    "en": "Immediately prune away heavily infested leaves and spray the undersides of the foliage clean with a targeted mist of water. Release predatory mites such as Phytoseiulus persimilis, or spray under the leaves with an emulsion of warm water, soft soap, and neem oil."
   },
   "prevention": {
-    "nl": "Houd de luchtvochtigheid hoog door bladonderzijden regelmatig te nevelen en voorkom droogtestress door de potgrond gelijkmatig vochtig te houden. Vermijd overmatige stikstofbemesting en trek natuurlijke vijanden aan met bloeiende kruiden zoals dille of venkel.",
-    "en": "Maintain high humidity by regularly misting leaf undersides and prevent drought stress by keeping potting compost uniformly moist. Avoid excess nitrogen fertilisation and attract beneficial predators by planting flowering companions such as dill or fennel."
+    "nl": "Voorkom dat potten uitdrogen en benevel de onderzijde van kwetsbare gewassen regelmatig met water om de luchtvochtigheid hoog te houden. Voer wekelijks bladcontroles uit en stimuleer de biodiversiteit op het balkon om natuurlijke vijanden aan te trekken.",
+    "en": "Never allow pots to dry out completely and regularly mist the undersides of susceptible crops to maintain high humidity. Inspect the bottoms of leaves weekly and promote balcony biodiversity to attract beneficial natural predators."
   },
   "affects": [
     "aubergine",
+    "basil",
     "chili",
     "cucumber",
     "french-bean",
+    "mint",
     "oregano",
     "pepper",
     "rosemary",
     "runner-bean",
     "strawberry",
-    "thyme",
     "tomato"
   ],
   "image": null,
   "sources": [
     "https://velt.nu/tip/spintmijten-voorkomen-en-bestrijden",
     "https://makkelijkemoestuin.nl/kennisbank/spintmijt-herkennen-en-bestrijden",
+    "https://edepot.wur.nl/297980",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/mulfer/",
+    "https://makkelijkemoestuin.nl/blog/plotseling-last-van-geel-blad",
     "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/ongediertebestrijding/spint-bestrijden-tuinadvies/",
-    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/bodem-bemesting/hulst-ziektes/",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/spint-in-mijn-bonenplant",
-    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/natuurlijke-bestrijding/hoe-snel-groeit-vinca-minor-dicht/",
-    "https://groei.nl/artikel/het-alternatief-voor-chemische-bestrijding-roofmijtspecialist-aan-het-woord",
-    "https://edepot.wur.nl/266300",
-    "https://edepot.wur.nl/461612",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/witte-vliegjes-2",
     "https://velt.nu/tip/hoe-werken-lavameel-en-basaltmeel",
-    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/natuurlijke-bestrijding/vlinderstruik-blad-verschrompeld/",
-    "https://velt.nu/node/60",
-    "https://velt.nu/system/files/media/documenten/natuurlijkevijandenbingo.pdf",
     "https://velt.nu/tip/wat-doe-je-tegen-de-aardappelplaag-en-tomatenziekte",
     "https://westland.groei.nl/groeninfo",
-    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/ziekte-in-oregano-tijm-en-rozemarijn"
+    "https://groei.nl/artikel/het-alternatief-voor-chemische-bestrijding-roofmijtspecialist-aan-het-woord",
+    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/ziekte-in-oregano-tijm-en-rozemarijn",
+    "https://edepot.wur.nl/266300",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/natuurlijke-bestrijding/vlinderstruik-blad-verschrompeld/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/moestuin-beschermen/",
+    "https://makkelijkemoestuin.nl/kennisbank/van-luis-tot-engerling-in-de-moestuin",
+    "https://velt.nu/node/60",
+    "https://velt.nu/system/files/media/documenten/natuurlijkevijandenbingo.pdf",
+    "https://edepot.wur.nl/297521"
   ],
   "verified": false
 }

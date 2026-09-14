@@ -12,21 +12,23 @@
     "fruits"
   ],
   "symptoms": {
-    "nl": "De infectie begint als een poederachtige witte laag die lijkt op bloem en die in een vroeg stadium met een vinger van het blad kan worden geveegd. In latere stadia verandert de schimmel in een dof grijsbruine laag, waarbij de onderliggende bladeren geel worden, aan de randen opkrullen, verdrogen en uiteindelijk afvallen.",
-    "en": "It starts as powdery white spots resembling flour dusted onto the plant that can initially be wiped off with a finger. As the infection progresses, the fungal layer turns dull greyish-brown, causing leaves to yellow, curl at the edges, dry out, and drop off."
+    "nl": "Op de plant verschijnt een witte, poederachtige waas of meelachtige vlekken die eenvoudig met de vingers afveegbaar zijn. Na verloop van tijd krullen de aangetaste bladeren op, kleuren ze geel of bruin en sterven ze vroegtijdig af.",
+    "en": "A white, powdery coating or flour-like spots appear on the plant and can easily be wiped off with your fingers. Over time, infected leaves curl up, turn yellow or brown, and die off prematurely."
   },
   "treatment": {
-    "nl": "Knip aangetaste bladeren met witte plekken regelmatig weg om verdere verspreiding te vertragen en luchtkanalen te openen. Besproei de planten in de volle zon met een mengsel van 40% melk en 60% water, of gebruik een oplossing van zuiveringszout met wat plantaardige olie en groene zeep. Bij aanhoudende aantasting kan ecologische spuitzwavel worden ingezet om de schimmel te stoppen.",
-    "en": "Regularly prune away leaves showing white patches to slow the spread and open up air circulation. Spray the foliage in full sun with a mixture of 40% milk and 60% water, or apply a contact wash of baking soda, vegetable oil, and liquid green soap. For established infections, ecological wettable sulphur can be used to halt the fungus."
+    "nl": "Knip aangetaste bladeren direct weg bij de eerste vlekken en gooi ze weg met het afval in plaats van op de composthoop. Bespuit de plant op een zonnig moment met een mengsel van 40% melk en 60% water, of zet biologische middelen zoals spuitzwavel of kaliumwaterstofcarbonaat in.",
+    "en": "Prune away infected leaves at the very first sign of spots and dispose of them rather than placing them on an open compost pile. Spray the plant on a sunny moment with a solution of 40% milk and 60% water, or apply organic controls such as wettable sulfur or potassium bicarbonate."
   },
   "prevention": {
-    "nl": "Geef water direct aan de basis om worteldroogte te voorkomen zonder het blad nat te maken, en zet potten niet te dicht op elkaar of tegen warme muren. Vermijd stikstofrijke meststoffen en kies bij voorkeur voor resistente rassen.",
-    "en": "Water directly at root level to prevent drought stress without wetting the foliage, and ensure pots are spaced well for proper airflow. Avoid high-nitrogen fertilisers and select cultivars that have been bred for resistance."
+    "nl": "Geef altijd water op de potgrond bij de wortels en zorg voor voldoende tussenruimte tussen potten voor een goede luchtcirculatie. Voorkom uitdroging van de wortels en wees terughoudend met stikstofrijke bemesting.",
+    "en": "Always water at the base of the plant onto the potting soil and ensure sufficient spacing between pots for adequate airflow. Prevent root drought stress and avoid excessive nitrogen fertilizer to keep plants resilient."
   },
   "affects": [
     "carrot",
     "courgette",
     "cucumber",
+    "french-bean",
+    "lambs-lettuce",
     "mangetout",
     "mint",
     "pea",
@@ -34,7 +36,6 @@
     "pumpkin",
     "rosemary",
     "sage",
-    "strawberry",
     "swiss-chard",
     "tomato"
   ],
@@ -42,27 +43,31 @@
   "sources": [
     "https://makkelijkemoestuin.nl/kennisbank/meeldauw-herkennen-en-bestrijden",
     "https://beweegt.velt.nu/braas/download.php?bestand=MS201009.pdf",
+    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/natuurlijke-bestrijding/echte-of-valse-meeldauw/",
     "https://edepot.wur.nl/279783",
     "https://edepot.wur.nl/278680",
-    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/natuurlijke-bestrijding/echte-of-valse-meeldauw/",
-    "https://edepot.wur.nl/541113",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/mulfer/",
-    "https://www.tuinadvies.nl/tuininfo/plagen-ziekten/ongediertebestrijding/ziektes-en-ongedierte-rozen/",
-    "https://midden-kennemerland.groei.nl/tuintips-info/rozen-met-piet-veldhuis/ziekten-in-rozen",
-    "https://makkelijkemoestuin.nl/kennisbank/begin-september-zaaien",
+    "https://edepot.wur.nl/279820",
     "https://edepot.wur.nl/273961",
-    "https://deventer.groei.nl/actueel/moestuinieren-de-moestuin/ziekten-en-plagen",
+    "https://midden-kennemerland.groei.nl/tuintips-info/rozen-met-piet-veldhuis/ziekten-in-rozen",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/tuintip-22/",
+    "https://www.grow-spray.nl/blog/archives/5-Echte-meeldauw-bestrijden-met-melk.html",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/meeldauw-6",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/tomaatjes-zijn-ziek",
     "https://community.makkelijkemoestuin.nl/posts/tips-2/meeldauw-21",
-    "https://utrecht.groei.nl/groeninfo",
     "https://beweegt.velt.nu/dendermonde/2112/informatie",
     "https://beweegt.velt.nu/brugge/6772/infobiohulpmiddelen",
-    "https://velt.nu/tip/alles-wat-je-wil-weten-over-pompoenen",
+    "https://www.tuinadvies.nl/shop/tuin/plantverzorging/plagen-ziektebestrijding/ziektebestrijding/substral-fungicarb-750ml~200210406/",
     "https://bergen.groei.nl/tuin-groentips/tuinklussen-in-augustus",
     "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-komkommer/",
-    "https://www.tuinadvies.nl/tuininfo/planten/sierplanten/groente-courgette/",
+    "https://www.tuinadvies.nl/tuininfo/planten/klimplanten-rozen/november-rozenmaand/",
+    "https://groei.nl/artikel/roos-snoeien",
+    "https://www.tuinadvies.nl/tuininfo/planten/sierplanten/groente-courgette",
     "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-doperwt/",
-    "https://edepot.wur.nl/343406",
-    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/dragon-of-artemisia-dracunculus/"
+    "https://groei.nl/artikel/courgette-kweken",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/meeldauw-pompoen",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/wat-zaaien-na-meeldauw",
+    "https://www.moestuinforum.nl/topic/1326-meeldauw-op-pepermunt/",
+    "https://www.tuinadvies.nl/planten/vaste-planten/monarda-hybride-mahogany/bergamotplant/"
   ],
   "verified": false
 }

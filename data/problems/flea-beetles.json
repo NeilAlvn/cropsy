@@ -7,51 +7,56 @@
   "kind": "pest",
   "parts": [
     "leaves",
-    "stems",
     "roots"
   ],
   "symptoms": {
-    "nl": "De aantasting is te herkennen aan een hagelschotpatroon van tientallen kleine, ronde gaatjes of doorschijnende venstertjes in het blad. De gladde randen van de gaatjes zijn eerst bleek of witachtig en verkleuren later naar bruin.",
-    "en": "Damage appears as a shot-hole pattern of dozens of tiny round holes or translucent windows where the upper leaf layer has been scraped away. The smooth edges of these feeding holes are initially pale or whitish before turning brown."
+    "nl": "Het meest herkenbare symptoom zijn honderden kleine, ronde tot ovale gaatjes en doorschijnende venstertjes in het blad. Deze vraatgaatjes hebben eerst bleke randen die later bruin verkleuren en uitzetten naarmate het blad groeit.",
+    "en": "The most characteristic symptom is hundreds of tiny round shot holes and small translucent spots eaten through the leaf tissue. These holes begin with smooth, pale edges that turn brown and expand as the leaves grow."
   },
   "treatment": {
-    "nl": "Besproei of nevel de bladeren en potgrond regelmatig met water om deze droogteminnende kevers te verstoren en verjagen. Zwaai een met lijm of zachte zeep ingesmeerd plankje vlak boven het loof om opspringende aardvlooien te vangen, of bestuif planten en aarde met diatomeeënaarde. Daarnaast kun je 's ochtends spuiten met een aftreksel van vlierblad, brandnetels of tomatenbladeren als natuurlijk afweermiddel.",
-    "en": "Frequently misting leaves and potting mix with water disrupts and deters these pests, which thrive only in warm and dry conditions. Sweep a sticky board coated with non-drying glue or soft green soap closely above the foliage to catch jumping beetles, or dust plants with diatomaceous earth to dehydrate them. Additionally, morning sprays with a cold brew or extract of elderberry leaves, tomato leaves, or stinging nettles will repel them."
+    "nl": "Nevel regelmatig water over de bladeren met een plantenspuit of gieter, aangezien aardvlooien een hekel hebben aan vocht. Stuif droge diatomeeënaarde over de grond rondom de stengels en op het droge blad om de kevers te laten uitdrogen. Daarnaast kun je lijmplankjes over het gewas bewegen om springende vlooien te vangen of een aftreksel van brandnetel spuiten.",
+    "en": "Regularly mist the foliage with a spray bottle or watering can to disrupt feeding, as flea beetles thrive in dry conditions and hate moisture. Dust dry diatomaceous earth over the soil around stems and on dry leaves to dehydrate the beetles. You can also move sticky glue boards over the plants to catch jumping beetles or spray botanical nettle decoctions."
   },
   "prevention": {
-    "nl": "Dek potten direct na het zaaien af met insectengaas met een maaswijdte van maximaal 0,8 mm. Houd de potgrond vochtig met een mulchlaag en vermijd het zaaien van vatbare gewassen tijdens hete zomerperiodes.",
-    "en": "Cover pots immediately upon sowing with fine insect netting having a mesh size of 0.8 mm or smaller. Keep container soil consistently moist by mulching, and avoid sowing susceptible crops during peak summer heat."
+    "nl": "Dek zaaisels direct af met fijnmazig insectengaas met een maaswijdte van 0,8 mm en houd de grond continu vochtig met mulch. Plant sterk geurende kruiden zoals salie in de buurt om vatbare gewassen te maskeren.",
+    "en": "Cover crops immediately after sowing with fine insect netting measuring 0.8 mm mesh and keep container soil consistently moist and mulched. Interplant with strong-scented companion herbs like sage to disguise susceptible vegetables."
   },
   "affects": [
+    "aubergine",
     "beetroot",
-    "cabbage",
-    "cucumber",
+    "broad-bean",
+    "brussels-sprouts",
+    "carrot",
+    "french-bean",
     "kale",
     "kohlrabi",
     "pak-choi",
+    "potato",
     "radish",
     "rocket",
+    "runner-bean",
     "spinach",
     "swiss-chard",
     "turnip"
   ],
   "image": null,
   "sources": [
-    "https://groei.nl/artikel/hoe-zaai-ik-radijs",
     "https://velt.nu/tip/hoe-voorkom-je-aardvlooien",
-    "https://edepot.wur.nl/332378",
-    "https://www.maxvandaag.nl/sessies/themas/huis-tuin-hobby/tip-5-aardvlooien/",
-    "https://edepot.wur.nl/285745",
-    "https://debestrijdingsbrigade.nl/plaagdierenindex/aardvlooien",
     "https://www.tuinadvies.be/tuininfo/tuinonderhoud-kalender/tuinkalender/tuintip-15/",
-    "https://makkelijkemoestuin.nl/kennisbank/van-luis-tot-engerling-in-de-moestuin",
+    "https://edepot.wur.nl/426018",
+    "https://edepot.wur.nl/332378",
+    "https://edepot.wur.nl/285745",
+    "https://edepot.wur.nl/628761",
     "https://edepot.wur.nl/526334",
-    "https://community.makkelijkemoestuin.nl/posts/vragen-2/gaatjes-in-blad-van-paksoi",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/wat-zijn-die-stippen",
     "https://community.makkelijkemoestuin.nl/posts/vragen-2/koolrabi-2",
     "https://www.ivn.nl/afdeling/zeewolde/bonen/",
     "https://community.makkelijkemoestuin.nl/posts/vragen-2/gaatjes-2",
+    "https://groei.nl/artikel/hoe-zaai-ik-radijs",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/wat-is-dit-146",
+    "https://makkelijkemoestuin.nl/kennisbank/van-luis-tot-engerling-in-de-moestuin",
     "https://velt.nu/tip/hoe-maak-en-gebruik-je-plantenaftreksels",
-    "https://www.facebook.com/VeltGemert/photos/algemeen-recept-voor-het-maken-van-een-aftreksel-of-een-giervoor-een-aftreksel-v/499729786756390/",
+    "https://beweegt.velt.nu/dendermonde/2112/informatie",
     "https://beweegt.velt.nu/braas/files/Technische%20fiche%202017.pdf",
     "https://roermond.groei.nl/activiteiten/lezing-etherische-olien-16-april",
     "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-salie/"
