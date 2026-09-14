@@ -148,6 +148,7 @@ async function prices(slugs: string[]): Promise<void> {
     const r = await research(`Search the web for the current price of fresh ${crop.names.nl} (${crop.names.en}, regular, not organic) at Albert Heijn or Jumbo in the Netherlands. Give the price per kilo, or per piece/bunch/head if sold that way. Cite the product page URL.`)
     if (r.sources.length === 0) { console.log(`no grounding for ${slug}; skipped`); continue }
     const p = await structure<{ eur: number; unit: 'kg' | 'pcs' }>(`JSON {"eur": number, "unit": "kg"|"pcs"} for ${crop.names.en}. "pcs" = sold per piece/bunch/head.`, r.text)
+    if (!(p.eur > 0)) { console.log(`${slug}: no shop price found; skipped`); continue }
     byslug.set(slug, { crop_slug: slug, eur: p.eur, unit: p.unit, source: r.sources[0] })
     console.log(`${slug}: €${p.eur}/${p.unit}`)
   }
