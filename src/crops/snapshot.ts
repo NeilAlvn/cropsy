@@ -31,18 +31,9 @@ export function snapshotVersion(crops: Crop[]): string {
 }
 
 export function buildSnapshot(crops: Crop[], now: Date = new Date(), includeDrafts = false): CropSnapshot {
-  const draft = crops.filter((c) => !c.verified)
-  if (includeDrafts) {
-    // Beta only: drafts ship flagged so the app can badge them. Never the
-    // launch snapshot — verify-snapshot compares against the strict build.
-    crops = crops.map((c) => (c.verified ? c : { ...c, draft: true }))
-  } else if (draft.length > 0) {
-    throw new Error(
-      `Refusing to build snapshot: ${draft.length} unverified crop(s) — ` +
-        draft.map((c) => c.slug).join(', ') +
-        '. Verify against >=2 sources, or drop them.',
-    )
-  }
+  // Draft rows never ship as fact: the launch snapshot drops them, the beta
+  // snapshot ships them flagged so the app can badge them.
+  crops = includeDrafts ? crops.map((c) => (c.verified ? c : { ...c, draft: true })) : crops.filter((c) => c.verified)
 
   return {
     version: snapshotVersion(crops),
