@@ -4,14 +4,20 @@
 //
 //   npx tsx scripts/verify-sources.ts          # fix files
 //   npx tsx scripts/verify-sources.ts --check  # report only, exit 1 on dead links
-import { readdirSync, readFileSync, writeFileSync, existsSync } from 'node:fs'
+import { readdirSync, readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
 import { dirname, join } from 'node:path'
 
 const here = dirname(fileURLToPath(import.meta.url))
 const DATA = join(here, '..', 'data')
 const checkOnly = process.argv.includes('--check')
-const cache = new Map<string, boolean>()
+// Live results are remembered for 30 days in .cache/ (gitignored): a full run
+// touches thousands of URLs and only the new ones need a request.
+const CACHE = join(here, '..', '.cache', 'sources.json')
+const TTL = 30 * 24 * 3600 * 1000
+const stored: Record<string, { ok: boolean; at: number }> = existsSync(CACHE) ? JSON.parse(readFileSync(CACHE, 'utf8')) : {}
+const cache = new Map<string, boolean>(Object.entries(stored).filter(([, v]) => v.ok && Date.now() - v.at < TTL).map(([k, v]) => [k, v.ok]))
+const fresh = new Set<string>()
 
 async function alive(url: string): Promise<boolean> {
   if (cache.has(url)) return cache.get(url)!
@@ -24,6 +30,7 @@ async function alive(url: string): Promise<boolean> {
     } catch { /* try next */ }
   }
   cache.set(url, ok)
+  fresh.add(url)
   return ok
 }
 
@@ -98,5 +105,7 @@ await jsonDir(join(DATA, 'problems'))
 await jsonDir(join(DATA, 'varieties'))
 await markdownDir(join(DATA, 'content', 'crops'))
 await companionsAndPrices()
-console.log(`\n${kept} live sources kept, ${removed} dead removed (${cache.size} unique URLs checked)`)
+mkdirSync(dirname(CACHE), { recursive: true })
+writeFileSync(CACHE, JSON.stringify({ ...stored, ...Object.fromEntries([...fresh].map((u) => [u, { ok: cache.get(u)!, at: Date.now() }])) }))
+console.log(`\n${kept} live sources kept, ${removed} dead removed (${fresh.size} URLs fetched, ${cache.size - fresh.size} from cache)`)
 if (checkOnly && removed > 0) process.exit(1)

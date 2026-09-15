@@ -26,3 +26,6 @@ next-env.d.ts
 
 # Supabase CLI local state (project ref, pooler URL, version pins)
 supabase/.temp/
+
+# verify-sources result cache
+.cache/
