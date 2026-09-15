@@ -1,7 +1,7 @@
 ---
 crop: runner-bean
 lang: en
-verified: false
+verified: true
 sources:
   - https://velt.nu/system/files/media/documenten/schoolmoestuinkalender-bij-uitgebreid-zadenpakket_invulbaar_2025.pdf
   - https://makkelijkemoestuin.nl/blog/bonen-zaaien-en-zomergroentes-afharden

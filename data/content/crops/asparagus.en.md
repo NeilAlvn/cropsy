@@ -1,7 +1,7 @@
 ---
 crop: asparagus
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/asperges-van-moestuin-naar-bord
   - https://beweegt.velt.nu/braas/files/202112%20Uitleg%20asperges%20Velt%20Geraardsbergen.pdf

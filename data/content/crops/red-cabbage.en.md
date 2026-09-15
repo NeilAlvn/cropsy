@@ -1,7 +1,7 @@
 ---
 crop: red-cabbage
 lang: en
-verified: false
+verified: true
 sources:
   - https://velt.nu/groente/rodekool
   - https://www.tuinadvies.nl/planten/kruiden/brassica-oleracea-rubra/rode-kool/

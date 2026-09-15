@@ -38,7 +38,7 @@
       "https://www.dutchgardenseeds.com/rucola-zaden/",
       "https://www.koopzaden.nl/product/rucola-wild-rocky-wild-bio-zaden"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "wild-rocket-sylvetta",
@@ -78,7 +78,7 @@
       "https://www.dutchgardenseeds.com/rucola-zaden/",
       "https://www.koopzaden.nl/product/rucola-wild-rocky-wild-bio-zaden"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "wild-rocket-a-foglia-dulivo",
@@ -117,7 +117,7 @@
       "https://www.dutchgardenseeds.com/rucola-zaden/",
       "https://www.koopzaden.nl/product/rucola-wild-rocky-wild-bio-zaden"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "wild-rocket-buzzy-organic",
@@ -159,6 +159,6 @@
       "https://www.dutchgardenseeds.com/rucola-zaden/",
       "https://www.koopzaden.nl/product/rucola-wild-rocky-wild-bio-zaden"
     ],
-    "verified": false
+    "verified": true
   }
 ]

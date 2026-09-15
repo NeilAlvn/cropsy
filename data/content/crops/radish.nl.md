@@ -1,7 +1,7 @@
 ---
 crop: radish
 lang: nl
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/reuzen-radijs-zaaien-en-kweken
   - https://www.intratuin.nl/inspiratie/moestuin-radijs

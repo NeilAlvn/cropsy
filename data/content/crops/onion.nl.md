@@ -1,7 +1,7 @@
 ---
 crop: onion
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/vroege-groentes-kweken/
   - https://www.tuinadvies.nl/planten/kruiden/allium-cepa-red-baron/rode-ui-rode-plantajuin/

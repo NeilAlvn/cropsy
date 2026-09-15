@@ -1,7 +1,7 @@
 ---
 crop: thyme
 lang: en
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/tijm-kweken
   - https://www.intratuin.nl/plantengids/tijm-thymus-snoeien-verzorgen

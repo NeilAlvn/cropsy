@@ -1,7 +1,7 @@
 ---
 crop: cabbage
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/zaaien-het-hele-jaar-door
   - https://www.tuinadvies.nl/shop/tuin/zaden-bloembollen/groentezaden/groenten/ht-flat-white-cabbage-spring~200316483/

@@ -1,7 +1,7 @@
 ---
 crop: pepper
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kiezen-paprikas-en-pepers/
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/moestuin-in-pot/

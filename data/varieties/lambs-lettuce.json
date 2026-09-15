@@ -32,7 +32,7 @@
       "https://www.vreeken.nl/310240-veldsla-ronde-maraichere-coquille-louviers",
       "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p6-90"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "lambs-lettuce-favor",
@@ -67,7 +67,7 @@
       "https://www.vreeken.nl/310240-veldsla-ronde-maraichere-coquille-louviers",
       "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p6-90"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "lambs-lettuce-elan",
@@ -103,7 +103,7 @@
       "https://www.vreeken.nl/310240-veldsla-ronde-maraichere-coquille-louviers",
       "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p6-90"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "lambs-lettuce-ronde-maraichere",
@@ -138,6 +138,6 @@
       "https://www.vreeken.nl/310240-veldsla-ronde-maraichere-coquille-louviers",
       "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p6-90"
     ],
-    "verified": false
+    "verified": true
   }
 ]

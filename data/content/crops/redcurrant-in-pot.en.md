@@ -1,7 +1,7 @@
 ---
 crop: redcurrant-in-pot
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/aalbessen-rode-bes-trosbes-snoeien/
   - https://groei.nl/artikel/aalbes-kweken-in-een-pot

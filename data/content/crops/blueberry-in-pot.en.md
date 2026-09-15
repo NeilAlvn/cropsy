@@ -1,7 +1,7 @@
 ---
 crop: blueberry-in-pot
 lang: en
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/blauwe-bes-kweken-in-een-pot
   - https://community.makkelijkemoestuin.nl/posts/vragen-2/fruit-zaaien-en-oogsten

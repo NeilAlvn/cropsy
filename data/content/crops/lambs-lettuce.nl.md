@@ -1,7 +1,7 @@
 ---
 crop: lambs-lettuce
 lang: nl
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/veldsla-zaaien-in-voor-en-najaar
   - https://groei.nl/artikel/groenten-sprouts

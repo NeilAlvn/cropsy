@@ -1,7 +1,7 @@
 ---
 crop: pumpkin
 lang: nl
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/pompoenen-kweken-in-een-pot
   - https://velt.nu/tip/alles-wat-je-wil-weten-over-pompoenen

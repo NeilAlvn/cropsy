@@ -1,7 +1,7 @@
 ---
 crop: sorrel
 lang: nl
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/eetbare-bloemen-en-kruiden-bij-groei-bloei
   - https://velt.nu/keukenkruiden-kweken

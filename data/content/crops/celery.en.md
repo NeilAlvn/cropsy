@@ -1,7 +1,7 @@
 ---
 crop: celery
 lang: en
-verified: false
+verified: true
 sources:
   - https://velt.nu/groente/groene-selderij
   - https://www.tuinadvies.nl/planten/kruiden/apium-graveolens-secalinum/groene-selder/

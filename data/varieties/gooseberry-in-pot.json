@@ -39,7 +39,7 @@
       "https://www.welkoop.nl/advies/fruit-soorten.html",
       "https://www.kruisbes.nl/kruisbessenstruik/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "gooseberry-in-pot-hinnonmaki-rod",
@@ -81,7 +81,7 @@
       "https://www.welkoop.nl/advies/fruit-soorten.html",
       "https://www.kruisbes.nl/kruisbessenstruik/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "gooseberry-in-pot-hinnonmaki-gron",
@@ -122,7 +122,7 @@
       "https://www.welkoop.nl/advies/fruit-soorten.html",
       "https://www.kruisbes.nl/kruisbessenstruik/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "gooseberry-in-pot-easycrisp-lady-late",
@@ -164,6 +164,6 @@
       "https://www.welkoop.nl/advies/fruit-soorten.html",
       "https://www.kruisbes.nl/kruisbessenstruik/"
     ],
-    "verified": false
+    "verified": true
   }
 ]

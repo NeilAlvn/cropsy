@@ -1,7 +1,7 @@
 ---
 crop: lemongrass
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.mooiemoestuin.nl/kruiden/citroengras/
   - https://stadstuinieren.nl/artikel/romke-van-de-kaa-vers-citroengras/

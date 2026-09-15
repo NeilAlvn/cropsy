@@ -1,7 +1,7 @@
 ---
 crop: lettuce
 lang: nl
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/hoe-kweek-ik-sla
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-voor-beginners/

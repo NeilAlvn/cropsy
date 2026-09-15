@@ -39,7 +39,7 @@
       "https://groei.nl/artikel/hoe-zaai-ik-tuinkers",
       "https://groei.nl/artikel/aardbeien-kweken-in-een-pot"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "snelle-sla",
@@ -74,7 +74,7 @@
       "https://makkelijkemoestuin.nl/kennisbank/lente-ui-zaaien-kweken-en-oogsten",
       "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/vroege-groentes-kweken/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "herzaaien-in-juli",
@@ -108,7 +108,7 @@
       "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/de-moestuinkalender-juli",
       "https://makkelijkemoestuin.nl/blog/tot-wanneer-zaaien"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "oogst-in-oktober",
@@ -156,7 +156,7 @@
       "https://makkelijkemoestuin.nl/blog/herfst-wat-kun-je-dan-nog-in-je-moestuin",
       "https://velt.nu/system/files/media/documenten/oogst-bewaarperiode%20fruit.pdf"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "wintergroenten",
@@ -194,7 +194,7 @@
       "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/warme-wintergroenten/",
       "https://makkelijkemoestuin.nl/kennisbank/half-februari-nu-al-zaaien"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "kindvriendelijk",
@@ -232,7 +232,7 @@
       "https://velt.nu/system/files/media/documenten/Handboek%20Schooltuinen%20H5.pdf",
       "https://groei.nl/files/downloads/Thee_uit_eigen_tuin.pdf"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "kruiden-op-de-vensterbank",
@@ -272,7 +272,7 @@
       "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/een-moestuin-op-het-terras-of-balkon/",
       "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/mandarijn-plant-binnen/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "binnen-kweken",
@@ -317,6 +317,6 @@
       "https://winkel.velt.nu/product/ecologisch-tuinieren-potten-en-bakken",
       "https://velt.nu/starten-met-een-moestuin"
     ],
-    "verified": false
+    "verified": true
   }
 ]

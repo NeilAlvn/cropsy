@@ -1,7 +1,7 @@
 ---
 crop: coriander
 lang: nl
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/kruiden-kweken-in-potten-of-moestuinbak
   - https://groei.nl/artikel/hoe-kweek-ik-koriander

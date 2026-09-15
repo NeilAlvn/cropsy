@@ -39,7 +39,7 @@
       "https://www.intratuin.nl/intratuin-groentezaad-bieten-beta-vulgaris-vuurrode-kogel-2.html",
       "https://www.vreeken.nl/019950-rode-kroten-kogel-bluta"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "beetroot-bulls-blood",
@@ -79,7 +79,7 @@
       "https://www.intratuin.nl/intratuin-groentezaad-bieten-beta-vulgaris-vuurrode-kogel-2.html",
       "https://www.vreeken.nl/019950-rode-kroten-kogel-bluta"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "beetroot-boro-f1",
@@ -120,7 +120,7 @@
       "https://www.intratuin.nl/intratuin-groentezaad-bieten-beta-vulgaris-vuurrode-kogel-2.html",
       "https://www.vreeken.nl/019950-rode-kroten-kogel-bluta"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "beetroot-vuurrode-kogel-2",
@@ -162,6 +162,6 @@
       "https://www.intratuin.nl/intratuin-groentezaad-bieten-beta-vulgaris-vuurrode-kogel-2.html",
       "https://www.vreeken.nl/019950-rode-kroten-kogel-bluta"
     ],
-    "verified": false
+    "verified": true
   }
 ]

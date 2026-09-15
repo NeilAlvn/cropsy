@@ -37,7 +37,7 @@
       "https://nl-nl.bakker.com/products/paarse-asperge-rosalie",
       "https://fr-be.bakker.com/products/asperge-rouges-rosalie"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "asparagus-argenteuil",
@@ -77,7 +77,7 @@
       "https://nl-nl.bakker.com/products/paarse-asperge-rosalie",
       "https://fr-be.bakker.com/products/asperge-rouges-rosalie"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "asparagus-vitalim",
@@ -115,7 +115,7 @@
       "https://nl-nl.bakker.com/products/paarse-asperge-rosalie",
       "https://fr-be.bakker.com/products/asperge-rouges-rosalie"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "asparagus-rosalie",
@@ -154,6 +154,6 @@
       "https://nl-nl.bakker.com/products/paarse-asperge-rosalie",
       "https://fr-be.bakker.com/products/asperge-rouges-rosalie"
     ],
-    "verified": false
+    "verified": true
   }
 ]

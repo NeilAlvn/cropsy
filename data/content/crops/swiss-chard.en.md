@@ -1,7 +1,7 @@
 ---
 crop: swiss-chard
 lang: en
-verified: false
+verified: true
 sources:
   - https://velt.nu/groente/warmoes
   - https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-snijbiet/

@@ -1,7 +1,7 @@
 ---
 crop: tomato
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/heerlijke-tomaten-zaai-je-zelf
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/tomatenzaaien-en-opkweken/

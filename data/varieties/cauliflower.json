@@ -32,7 +32,7 @@
       "https://de-de.bakker.com/products/blumenkohl-alpha-fortados",
       "https://www.bolster.nl/moestuinieren-zonder-tuin/t23603"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "cauliflower-multi-head-f1",
@@ -67,7 +67,7 @@
       "https://de-de.bakker.com/products/blumenkohl-alpha-fortados",
       "https://www.bolster.nl/moestuinieren-zonder-tuin/t23603"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "cauliflower-igloo",
@@ -102,7 +102,7 @@
       "https://de-de.bakker.com/products/blumenkohl-alpha-fortados",
       "https://www.bolster.nl/moestuinieren-zonder-tuin/t23603"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "cauliflower-alpha-fortados",
@@ -136,6 +136,6 @@
       "https://de-de.bakker.com/products/blumenkohl-alpha-fortados",
       "https://www.bolster.nl/moestuinieren-zonder-tuin/t23603"
     ],
-    "verified": false
+    "verified": true
   }
 ]

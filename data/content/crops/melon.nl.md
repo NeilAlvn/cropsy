@@ -1,7 +1,7 @@
 ---
 crop: melon
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/cavaillon-kweken-forum/
   - https://velt.nu/tip/tips-voor-lentedagen-de-serre-kas

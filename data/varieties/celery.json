@@ -36,7 +36,7 @@
       "https://www.intratuin.nl/biologische-intratuin-groentezaad-bleekselderij-apium-graveolens-tall-utah-52-70.html",
       "https://www.bolster.nl/groenselderij-telen/t23236"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "celery-tango-f1",
@@ -73,7 +73,7 @@
       "https://www.intratuin.nl/biologische-intratuin-groentezaad-bleekselderij-apium-graveolens-tall-utah-52-70.html",
       "https://www.bolster.nl/groenselderij-telen/t23236"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "celery-mambo-f1",
@@ -111,7 +111,7 @@
       "https://www.intratuin.nl/biologische-intratuin-groentezaad-bleekselderij-apium-graveolens-tall-utah-52-70.html",
       "https://www.bolster.nl/groenselderij-telen/t23236"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "celery-goudgele-zelfblekende-2",
@@ -152,6 +152,6 @@
       "https://www.intratuin.nl/biologische-intratuin-groentezaad-bleekselderij-apium-graveolens-tall-utah-52-70.html",
       "https://www.bolster.nl/groenselderij-telen/t23236"
     ],
-    "verified": false
+    "verified": true
   }
 ]

@@ -1,7 +1,7 @@
 ---
 crop: broccoli
 lang: en
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/broccoli-kweken
   - https://velt.nu/tip/wat-kun-je-het-najaar-zaaien-en-planten

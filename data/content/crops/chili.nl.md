@@ -1,7 +1,7 @@
 ---
 crop: chili
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.youtube.com/watch?v=i7ZesI_sakw&vl=en
   - https://plukkers.com/blogs/gewasinfo/pepers-kweken

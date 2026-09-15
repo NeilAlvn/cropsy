@@ -1,7 +1,7 @@
 ---
 crop: summer-savory
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/tuintip-12
   - https://meppel.groei.nl/groeninfo/tuinerij-columns-marjan-sorgdrager/tips-voor-kruiden-in-de-tuin-of-in-een-bak

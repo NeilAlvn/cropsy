@@ -38,7 +38,7 @@
       "https://www.welkoop.nl/hortitops-tuinkers-lepidium-sativum-gewone-groentezaden-15gram_1039959",
       "https://www.vreeken.nl/301010-tuinkers-gewone-groene"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "garden-cress-grootbladige",
@@ -76,7 +76,7 @@
       "https://www.welkoop.nl/hortitops-tuinkers-lepidium-sativum-gewone-groentezaden-15gram_1039959",
       "https://www.vreeken.nl/301010-tuinkers-gewone-groene"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "garden-cress-cresso",
@@ -116,7 +116,7 @@
       "https://www.welkoop.nl/hortitops-tuinkers-lepidium-sativum-gewone-groentezaden-15gram_1039959",
       "https://www.vreeken.nl/301010-tuinkers-gewone-groene"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "garden-cress-gewone",
@@ -157,6 +157,6 @@
       "https://www.welkoop.nl/hortitops-tuinkers-lepidium-sativum-gewone-groentezaden-15gram_1039959",
       "https://www.vreeken.nl/301010-tuinkers-gewone-groene"
     ],
-    "verified": false
+    "verified": true
   }
 ]

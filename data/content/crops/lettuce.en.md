@@ -1,7 +1,7 @@
 ---
 crop: lettuce
 lang: en
-verified: false
+verified: true
 sources:
   - https://beweegt.velt.nu/tienen/2197/tuinindewinter
   - https://www.ivn.nl/afdeling/zeewolde/bladgroenten/

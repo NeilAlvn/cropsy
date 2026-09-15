@@ -1,7 +1,7 @@
 ---
 crop: edamame
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.dutchedamame.nl/
   - https://www.tuinadvies.nl/planten/kleinfruit/glycine-max/sojaboon-edamame/

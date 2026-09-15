@@ -1,7 +1,7 @@
 ---
 crop: tatsoi
 lang: en
-verified: false
+verified: true
 sources:
   - https://community.makkelijkemoestuin.nl/posts/net-niet-mm/raapsteeltjes
   - https://www.bolster.nl/tatsoi-telen/t22329

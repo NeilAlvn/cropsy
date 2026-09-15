@@ -33,7 +33,7 @@
       "https://www.intratuin.nl/intratuin-groentezaad-roodlof-cichorium-endivia-pallo-rossa-di-chioggia.html",
       "https://www.intratuin.nl/moestuin/moestuin-zaden?p=10"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "radicchio-rossa-di-treviso",
@@ -69,7 +69,7 @@
       "https://www.intratuin.nl/intratuin-groentezaad-roodlof-cichorium-endivia-pallo-rossa-di-chioggia.html",
       "https://www.intratuin.nl/moestuin/moestuin-zaden?p=10"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "radicchio-rosso-di-chioggia",
@@ -105,7 +105,7 @@
       "https://www.intratuin.nl/intratuin-groentezaad-roodlof-cichorium-endivia-pallo-rossa-di-chioggia.html",
       "https://www.intratuin.nl/moestuin/moestuin-zaden?p=10"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "radicchio-pallo-rossa-di-chioggia",
@@ -141,6 +141,6 @@
       "https://www.intratuin.nl/intratuin-groentezaad-roodlof-cichorium-endivia-pallo-rossa-di-chioggia.html",
       "https://www.intratuin.nl/moestuin/moestuin-zaden?p=10"
     ],
-    "verified": false
+    "verified": true
   }
 ]

@@ -34,7 +34,7 @@
       "https://dezaden.nl/product/buzzy-kervel-zaden-fijne-krul/",
       "https://www.intratuin.nl/moestuin/moestuin-zaden/kruidenzaden"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "chervil-brusselse-winter",
@@ -72,7 +72,7 @@
       "https://dezaden.nl/product/buzzy-kervel-zaden-fijne-krul/",
       "https://www.intratuin.nl/moestuin/moestuin-zaden/kruidenzaden"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "chervil-fijne-krul",
@@ -113,7 +113,7 @@
       "https://dezaden.nl/product/buzzy-kervel-zaden-fijne-krul/",
       "https://www.intratuin.nl/moestuin/moestuin-zaden/kruidenzaden"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "chervil-gewone",
@@ -151,6 +151,6 @@
       "https://dezaden.nl/product/buzzy-kervel-zaden-fijne-krul/",
       "https://www.intratuin.nl/moestuin/moestuin-zaden/kruidenzaden"
     ],
-    "verified": false
+    "verified": true
   }
 ]

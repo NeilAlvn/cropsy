@@ -33,7 +33,7 @@
       "https://www.mooiemoestuin.nl/groenteteelt/vruchtgewassen/courgette/",
       "https://www.dutchgardenseeds.com/courgette-zaden/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "courgette-ola-redonda",
@@ -70,7 +70,7 @@
       "https://www.mooiemoestuin.nl/groenteteelt/vruchtgewassen/courgette/",
       "https://www.dutchgardenseeds.com/courgette-zaden/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "courgette-ola-escaladora",
@@ -103,7 +103,7 @@
       "https://www.mooiemoestuin.nl/groenteteelt/vruchtgewassen/courgette/",
       "https://www.dutchgardenseeds.com/courgette-zaden/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "courgette-eight-ball-f1",
@@ -140,6 +140,6 @@
       "https://www.mooiemoestuin.nl/groenteteelt/vruchtgewassen/courgette/",
       "https://www.dutchgardenseeds.com/courgette-zaden/"
     ],
-    "verified": false
+    "verified": true
   }
 ]

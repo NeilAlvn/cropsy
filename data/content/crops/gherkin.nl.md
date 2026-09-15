@@ -1,7 +1,7 @@
 ---
 crop: gherkin
 lang: nl
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/augurken-kweken
   - https://www.tuinadvies.nl/shop/tuin/zaden-bloembollen/groentezaden/groenten/augurk-profi-f1---cucumis-sativus~200267278/

@@ -1,7 +1,7 @@
 ---
 crop: purslane
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.mooiemoestuin.nl/groenteteelt/bladgewassen/postelein/
   - https://www.mooiemoestuin.nl/groenteteelt/bladgewassen/winterpostelein/

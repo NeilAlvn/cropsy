@@ -1,7 +1,7 @@
 ---
 crop: broad-bean
 lang: nl
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/hoe-kweek-ik-sperziebonen
   - https://makkelijkemoestuin.nl/blog/mei-en-de-zomergroentes-hoe-zit-dat

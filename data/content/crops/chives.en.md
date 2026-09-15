@@ -1,7 +1,7 @@
 ---
 crop: chives
 lang: en
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/chinese-bieslook-zaaien-en-kweken
   - https://groei.nl/artikel/hoe-zaai-ik-bieslook

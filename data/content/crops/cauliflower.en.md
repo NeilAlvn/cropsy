@@ -1,7 +1,7 @@
 ---
 crop: cauliflower
 lang: en
-verified: false
+verified: true
 sources:
   - https://deventer.groei.nl/actueel/moestuinieren-de-moestuin/de-moestuin/koolsoorten-voor-de-moestuin
   - https://makkelijkemoestuin.nl/kennisbank/ongeschikte-groentes-voor-een-makkelijke-moestuinbak

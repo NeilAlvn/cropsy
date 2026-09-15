@@ -1,7 +1,7 @@
 ---
 crop: turnip
 lang: en
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/meiraapjes-zaaien-en-kweken
   - https://groei.nl/artikel/buiten-op-een-zaaibed-zaaien

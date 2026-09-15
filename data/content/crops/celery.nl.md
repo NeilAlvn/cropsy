@@ -1,7 +1,7 @@
 ---
 crop: celery
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.dutchgardenseeds.com/hoe-kweek-ik-groente/bleekselderij-kweken/
   - https://detuinders.nl/docs/kennisbank/plantinformatie/bleekselderij/

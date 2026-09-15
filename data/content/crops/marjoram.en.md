@@ -1,7 +1,7 @@
 ---
 crop: marjoram
 lang: en
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/hoe-zaai-ik-oregano
   - https://shop.groei.nl/64684/eetbaar-moestuin/105203/origanum-majorana

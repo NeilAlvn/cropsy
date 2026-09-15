@@ -1,7 +1,7 @@
 ---
 crop: kale
 lang: nl
-verified: false
+verified: true
 sources:
   - https://velt.nu/tip/wat-kun-je-het-najaar-zaaien-en-planten
   - https://groei.nl/artikel/zaaien-en-planten

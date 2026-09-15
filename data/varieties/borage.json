@@ -31,7 +31,7 @@
       "https://www.vreeken.nl/390300-borage",
       "https://tuingoedkoop.nl/product/borage-blauw-en-wit-borago-officinalis-zaad-kruidenzaden/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "borage-mixed",
@@ -65,7 +65,7 @@
       "https://www.vreeken.nl/390300-borage",
       "https://tuingoedkoop.nl/product/borage-blauw-en-wit-borago-officinalis-zaad-kruidenzaden/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "borage-officinalis-bio",
@@ -99,7 +99,7 @@
       "https://www.vreeken.nl/390300-borage",
       "https://tuingoedkoop.nl/product/borage-blauw-en-wit-borago-officinalis-zaad-kruidenzaden/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "borage-buzzy-microgreens",
@@ -136,6 +136,6 @@
       "https://www.vreeken.nl/390300-borage",
       "https://tuingoedkoop.nl/product/borage-blauw-en-wit-borago-officinalis-zaad-kruidenzaden/"
     ],
-    "verified": false
+    "verified": true
   }
 ]

@@ -1,7 +1,7 @@
 ---
 crop: garden-cress
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/lekkere-groentjes-kweken-in-het-najaar/
   - https://natuuracademieonline.ivn.nl/resources/schooltuinieren/zaaien/zaaien-en-het-zaad/

@@ -1,7 +1,7 @@
 ---
 crop: thyme
 lang: nl
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/tijm-kweken
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kraakverse-kruiden-uit-eigen-tuin/

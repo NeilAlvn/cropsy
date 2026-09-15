@@ -37,7 +37,7 @@
       "https://www.mooiemoestuin.nl/groenteteelt/overig/rabarber/",
       "https://www.gardenersworldmagazine.nl/planten/rabarber/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "rhubarb-glaskins-perpetual",
@@ -75,7 +75,7 @@
       "https://www.mooiemoestuin.nl/groenteteelt/overig/rabarber/",
       "https://www.gardenersworldmagazine.nl/planten/rabarber/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "rhubarb-victoria",
@@ -112,7 +112,7 @@
       "https://www.mooiemoestuin.nl/groenteteelt/overig/rabarber/",
       "https://www.gardenersworldmagazine.nl/planten/rabarber/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "rhubarb-diamar",
@@ -146,6 +146,6 @@
       "https://www.mooiemoestuin.nl/groenteteelt/overig/rabarber/",
       "https://www.gardenersworldmagazine.nl/planten/rabarber/"
     ],
-    "verified": false
+    "verified": true
   }
 ]

@@ -40,7 +40,7 @@
       "https://www.vreeken.nl/zaden/groenten-fruit/koolsoorten/p5",
       "https://www.zaadhandelvanderwal.nl/download/36"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "pointed-cabbage-eersteling",
@@ -82,7 +82,7 @@
       "https://www.vreeken.nl/zaden/groenten-fruit/koolsoorten/p5",
       "https://www.zaadhandelvanderwal.nl/download/36"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "pointed-cabbage-redruth-f1",
@@ -124,7 +124,7 @@
       "https://www.vreeken.nl/zaden/groenten-fruit/koolsoorten/p5",
       "https://www.zaadhandelvanderwal.nl/download/36"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "pointed-cabbage-kalibos",
@@ -164,6 +164,6 @@
       "https://www.vreeken.nl/zaden/groenten-fruit/koolsoorten/p5",
       "https://www.zaadhandelvanderwal.nl/download/36"
     ],
-    "verified": false
+    "verified": true
   }
 ]

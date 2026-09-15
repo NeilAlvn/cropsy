@@ -1,7 +1,7 @@
 ---
 crop: mustard-greens
 lang: en
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken
   - https://www.tuinadvies.nl/planten/kruiden/brassica-juncea-red-giant/sarepta-mosterd-mosterdkool-bladmosterd/

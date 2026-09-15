@@ -1,7 +1,7 @@
 ---
 crop: redcurrant-in-pot
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/soorten-bessen-in-de-tuin
   - https://groei.nl/artikel/fruit-kweken-in-potten

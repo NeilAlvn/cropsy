@@ -1,7 +1,7 @@
 ---
 crop: dill
 lang: nl
-verified: false
+verified: true
 sources:
   - https://velt.nu/moestuin-zaaien-in-juli
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/de-vierkante-meter-moestuin-deel-5/

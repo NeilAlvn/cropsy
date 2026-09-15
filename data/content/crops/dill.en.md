@@ -1,7 +1,7 @@
 ---
 crop: dill
 lang: en
-verified: false
+verified: true
 sources:
   - https://shop.groei.nl/64684/eetbaar-moestuin/103205/anethum-graveolens-dille
   - https://www.ivn.nl/bloementuin/kweektips-gele-bloemenmix/

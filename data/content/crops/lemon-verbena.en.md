@@ -1,7 +1,7 @@
 ---
 crop: lemon-verbena
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/vind-de-juiste-kruidenmatch/
   - https://www.tuinadvies.nl/planten/kruiden/aloysia-triphylla/citroenverbena/

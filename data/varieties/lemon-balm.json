@@ -35,7 +35,7 @@
       "https://www.pokon.nl/plant/item/citroenmelisse-kweken/",
       "https://www.intratuin.nl/inspiratie/kruidentuin-kruiden-kweken"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "lemon-balm-bio",
@@ -74,7 +74,7 @@
       "https://www.pokon.nl/plant/item/citroenmelisse-kweken/",
       "https://www.intratuin.nl/inspiratie/kruidentuin-kruiden-kweken"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "lemon-balm-kretenzer",
@@ -111,7 +111,7 @@
       "https://www.pokon.nl/plant/item/citroenmelisse-kweken/",
       "https://www.intratuin.nl/inspiratie/kruidentuin-kruiden-kweken"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "lemon-balm-potplant",
@@ -148,6 +148,6 @@
       "https://www.pokon.nl/plant/item/citroenmelisse-kweken/",
       "https://www.intratuin.nl/inspiratie/kruidentuin-kruiden-kweken"
     ],
-    "verified": false
+    "verified": true
   }
 ]

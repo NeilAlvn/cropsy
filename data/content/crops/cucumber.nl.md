@@ -1,7 +1,7 @@
 ---
 crop: cucumber
 lang: nl
-verified: false
+verified: true
 sources:
   - https://community.makkelijkemoestuin.nl/posts/vragen-2/komkommer-en-courgette-8
   - https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-komkommer/

@@ -31,7 +31,7 @@
       "https://nl-nl.bakker.com/products/witte-aalbes-white-pearl",
       "https://www.intratuin.nl/intratuin-biologische-rode-bes-ribes-rubrum-jonkheer-van-tets-d-23-h-100-cm.html"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "redcurrant-in-pot-rovada",
@@ -64,7 +64,7 @@
       "https://nl-nl.bakker.com/products/witte-aalbes-white-pearl",
       "https://www.intratuin.nl/intratuin-biologische-rode-bes-ribes-rubrum-jonkheer-van-tets-d-23-h-100-cm.html"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "redcurrant-in-pot-junifer",
@@ -96,7 +96,7 @@
       "https://nl-nl.bakker.com/products/witte-aalbes-white-pearl",
       "https://www.intratuin.nl/intratuin-biologische-rode-bes-ribes-rubrum-jonkheer-van-tets-d-23-h-100-cm.html"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "redcurrant-in-pot-versaillaise-rouge",
@@ -130,6 +130,6 @@
       "https://nl-nl.bakker.com/products/witte-aalbes-white-pearl",
       "https://www.intratuin.nl/intratuin-biologische-rode-bes-ribes-rubrum-jonkheer-van-tets-d-23-h-100-cm.html"
     ],
-    "verified": false
+    "verified": true
   }
 ]

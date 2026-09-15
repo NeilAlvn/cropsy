@@ -1,7 +1,7 @@
 ---
 crop: kohlrabi
 lang: nl
-verified: false
+verified: true
 sources:
   - https://moesmeisje.nl/koolrabi-in-de-moestuin-van-zaaien-tot-oogsten/
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/de-vierkante-meter-moestuin/

@@ -1,7 +1,7 @@
 ---
 crop: basil
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/tips-aanleggen-kruidentuin
   - https://groei.nl/artikel/warmteminnaars-zaai-je-niet-te-vroeg

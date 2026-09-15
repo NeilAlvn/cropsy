@@ -1,7 +1,7 @@
 ---
 crop: oregano
 lang: nl
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/hoe-zaai-ik-oregano
   - https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-wilde-marjolein/

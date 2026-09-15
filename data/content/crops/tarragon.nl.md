@@ -1,7 +1,7 @@
 ---
 crop: tarragon
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/dragon-of-artemisia-dracunculus
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/onmisbare-kruiden/

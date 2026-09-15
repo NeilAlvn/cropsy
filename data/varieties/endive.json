@@ -39,7 +39,7 @@
       "https://makkelijkemoestuin.nl/kennisbank/andijvie-zaaien-en-kweken",
       "https://www.bolster.nl/andijvie-nummer-vijf2-cichorium-endivia/p2"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "endive-wallonne",
@@ -82,7 +82,7 @@
       "https://makkelijkemoestuin.nl/kennisbank/andijvie-zaaien-en-kweken",
       "https://www.bolster.nl/andijvie-nummer-vijf2-cichorium-endivia/p2"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "endive-altijd-witte",
@@ -124,7 +124,7 @@
       "https://makkelijkemoestuin.nl/kennisbank/andijvie-zaaien-en-kweken",
       "https://www.bolster.nl/andijvie-nummer-vijf2-cichorium-endivia/p2"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "endive-breedblad-nuance",
@@ -168,6 +168,6 @@
       "https://makkelijkemoestuin.nl/kennisbank/andijvie-zaaien-en-kweken",
       "https://www.bolster.nl/andijvie-nummer-vijf2-cichorium-endivia/p2"
     ],
-    "verified": false
+    "verified": true
   }
 ]

@@ -1,7 +1,7 @@
 ---
 crop: spinach
 lang: nl
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/spinazie-zaaien-en-kweken
   - https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/de-moestuin-in-februari/

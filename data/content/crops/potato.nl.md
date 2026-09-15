@@ -1,7 +1,7 @@
 ---
 crop: potato
 lang: nl
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/aardappels-poten-in-een-mm-airbak
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/aardappelen-kweken/

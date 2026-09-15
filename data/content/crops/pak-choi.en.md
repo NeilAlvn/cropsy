@@ -1,7 +1,7 @@
 ---
 crop: pak-choi
 lang: en
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/paksoi-zaaien-en-kweken
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/bijzondere-groenten-om-te-proberen/

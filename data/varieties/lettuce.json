@@ -40,7 +40,7 @@
       "https://www.welkoop.nl/advies/moestuinieren-met-kinderen.html",
       "https://www.welkoop.nl/advies/moestuinkalender/moestuin-in-mei.html"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "lettuce-salad-bowl",
@@ -81,7 +81,7 @@
       "https://www.welkoop.nl/advies/moestuinieren-met-kinderen.html",
       "https://www.welkoop.nl/advies/moestuinkalender/moestuin-in-mei.html"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "lettuce-little-gem",
@@ -126,7 +126,7 @@
       "https://www.welkoop.nl/advies/moestuinieren-met-kinderen.html",
       "https://www.welkoop.nl/advies/moestuinkalender/moestuin-in-mei.html"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "lettuce-welkoop-moestuin-magie-baby-leaf",
@@ -167,6 +167,6 @@
       "https://www.welkoop.nl/advies/moestuinieren-met-kinderen.html",
       "https://www.welkoop.nl/advies/moestuinkalender/moestuin-in-mei.html"
     ],
-    "verified": false
+    "verified": true
   }
 ]

@@ -41,7 +41,7 @@
       "https://www.mooiemoestuin.nl/kruiden/selderij/",
       "https://zadenhof.nl/knolselderijzaden/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "celeriac-balena-f1",
@@ -83,7 +83,7 @@
       "https://www.mooiemoestuin.nl/kruiden/selderij/",
       "https://zadenhof.nl/knolselderijzaden/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "celeriac-goliath",
@@ -125,7 +125,7 @@
       "https://www.mooiemoestuin.nl/kruiden/selderij/",
       "https://zadenhof.nl/knolselderijzaden/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "celeriac-dolvi",
@@ -168,6 +168,6 @@
       "https://www.mooiemoestuin.nl/kruiden/selderij/",
       "https://zadenhof.nl/knolselderijzaden/"
     ],
-    "verified": false
+    "verified": true
   }
 ]

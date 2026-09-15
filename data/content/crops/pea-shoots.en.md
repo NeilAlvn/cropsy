@@ -1,7 +1,7 @@
 ---
 crop: pea-shoots
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.moestuindeheerlijkheid.nl/post/zo-kweek-je-de-ideale-voorjaarsgroente-erwtenscheuten
   - https://groei.nl/artikel/verrassende-wintergroentjes-erwtenkiemen

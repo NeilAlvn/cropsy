@@ -1,7 +1,7 @@
 ---
 crop: broad-bean
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.gardenersworldmagazine.nl/groene-school/moestuin/tuinbonen-zaaien/
   - https://myprivacy.dpgmedia.nl/consent?siteKey=ismlqlfql5ciheja&callbackUrl=https%3A%2F%2Fwww.vtwonen.nl%2Fprivacygate-confirm%3FredirectUri%3D%252Ftuinieren%252Ftips-voor-zelf-tuinbonen-kweken%7Ec1299ca&isLoggedIn=false

@@ -36,7 +36,7 @@
       "https://www.dutchgardenseeds.com/kruidenzaden-kruizemunt/",
       "https://www.welkoop.nl/welkoop-moestuin-magie-munt-zaden_1431868"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "mint-maroc-nana",
@@ -75,7 +75,7 @@
       "https://www.dutchgardenseeds.com/kruidenzaden-kruizemunt/",
       "https://www.welkoop.nl/welkoop-moestuin-magie-munt-zaden_1431868"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "mint-pepermunt",
@@ -115,7 +115,7 @@
       "https://www.dutchgardenseeds.com/kruidenzaden-kruizemunt/",
       "https://www.welkoop.nl/welkoop-moestuin-magie-munt-zaden_1431868"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "mint-welkoop-moestuin-magie",
@@ -154,6 +154,6 @@
       "https://www.dutchgardenseeds.com/kruidenzaden-kruizemunt/",
       "https://www.welkoop.nl/welkoop-moestuin-magie-munt-zaden_1431868"
     ],
-    "verified": false
+    "verified": true
   }
 ]

@@ -1,7 +1,7 @@
 ---
 crop: asparagus
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/asperges-van-moestuin-naar-bord
   - https://www.detuinoptafel.com/asperges-kweken-in-eigen-moestuin/

@@ -1,7 +1,7 @@
 ---
 crop: rosemary
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-rozemarijn/
   - https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/vind-de-juiste-kruidenmatch/

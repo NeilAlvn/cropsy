@@ -1,7 +1,7 @@
 ---
 crop: swede
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.plantaardig.com/groenteninfo/berichten/wintergroenten-rutabaga-of-koolraap/
   - https://www.tuinadvies.nl/planten/kruiden/brassica-napus-napobrassica/koolraap/

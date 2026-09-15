@@ -30,7 +30,7 @@
       "https://fr-be.bakker.com/products/courge-delicata",
       "https://de-de.bakker.com/products/kurbis-delica-moretti"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "winter-squash-butterbush-f1",
@@ -63,7 +63,7 @@
       "https://fr-be.bakker.com/products/courge-delicata",
       "https://de-de.bakker.com/products/kurbis-delica-moretti"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "winter-squash-gold-nugget",
@@ -96,7 +96,7 @@
       "https://fr-be.bakker.com/products/courge-delicata",
       "https://de-de.bakker.com/products/kurbis-delica-moretti"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "winter-squash-delica-moretti",
@@ -129,6 +129,6 @@
       "https://fr-be.bakker.com/products/courge-delicata",
       "https://de-de.bakker.com/products/kurbis-delica-moretti"
     ],
-    "verified": false
+    "verified": true
   }
 ]

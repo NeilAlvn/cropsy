@@ -1,7 +1,7 @@
 ---
 crop: endive
 lang: en
-verified: false
+verified: true
 sources:
   - https://deventer.groei.nl/actueel/moestuinieren-de-moestuin/de-moestuin/bladgroenten-voor-de-moestuin
   - https://groei.nl/artikel/andijvie-kweken

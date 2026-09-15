@@ -1,7 +1,7 @@
 ---
 crop: basil
 lang: nl
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/struikbasilicum-zaaien-en-kweken
   - https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/kruiden-uit-de-supermarkt/

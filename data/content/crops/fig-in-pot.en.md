@@ -1,7 +1,7 @@
 ---
 crop: fig-in-pot
 lang: en
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/vijg-kweken-in-een-pot
   - https://stadstuinieren.nl/artikel/vijgenboom-in-pot/

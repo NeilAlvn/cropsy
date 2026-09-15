@@ -1,7 +1,7 @@
 ---
 crop: cucumber
 lang: en
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/tuinklussen-in-april-dingen-die-je-nu-kunt-doen-in-tuin-en-moestuin
   - https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/moestuintips-voor-zaaien/

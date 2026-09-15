@@ -1,7 +1,7 @@
 ---
 crop: winter-purslane
 lang: en
-verified: false
+verified: true
 sources:
   - https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/winterpostelein-in-je-moestuin/
   - https://groei.nl/artikel/zaaien-oktober-koudebak

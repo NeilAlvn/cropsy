@@ -1,7 +1,7 @@
 ---
 crop: rocket
 lang: nl
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/rucola-zaaien-en-kweken-super-gezond
   - https://groei.nl/artikel/hoe-kweek-ik-rucola

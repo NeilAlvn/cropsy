@@ -1,7 +1,7 @@
 ---
 crop: mizuna
 lang: nl
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing
   - https://makkelijkemoestuin.nl/kennisbank/welke-groentes-kunnen-tegen-kou

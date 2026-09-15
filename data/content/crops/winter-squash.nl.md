@@ -1,7 +1,7 @@
 ---
 crop: winter-squash
 lang: nl
-verified: false
+verified: true
 sources:
   - https://community.makkelijkemoestuin.nl/posts/net-niet-mm/hokkaido-pompoen
   - https://community.makkelijkemoestuin.nl/posts/vragen-2/het-gaat-niet-best-met-de-pompoen

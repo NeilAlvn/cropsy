@@ -1,7 +1,7 @@
 ---
 crop: parsley
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-peterselie
   - https://makkelijkemoestuin.nl/en/kennisbank/makkelijk-platte-peterselie-zaaien-en-kweken

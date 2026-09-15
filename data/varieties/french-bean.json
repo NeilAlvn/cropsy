@@ -29,7 +29,7 @@
       "https://demoestuinwinkel.nl/products/sluis_garden_stamslaboon_maxi",
       "https://www.welkoop.nl/oranjeband-zaden-stamslabonen-speedy-groentezaden-100gram_1300928"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "french-bean-davis",
@@ -64,7 +64,7 @@
       "https://demoestuinwinkel.nl/products/sluis_garden_stamslaboon_maxi",
       "https://www.welkoop.nl/oranjeband-zaden-stamslabonen-speedy-groentezaden-100gram_1300928"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "french-bean-maxi",
@@ -97,7 +97,7 @@
       "https://demoestuinwinkel.nl/products/sluis_garden_stamslaboon_maxi",
       "https://www.welkoop.nl/oranjeband-zaden-stamslabonen-speedy-groentezaden-100gram_1300928"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "french-bean-speedy",
@@ -129,6 +129,6 @@
       "https://demoestuinwinkel.nl/products/sluis_garden_stamslaboon_maxi",
       "https://www.welkoop.nl/oranjeband-zaden-stamslabonen-speedy-groentezaden-100gram_1300928"
     ],
-    "verified": false
+    "verified": true
   }
 ]

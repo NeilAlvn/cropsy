@@ -1,7 +1,7 @@
 ---
 crop: edamame
 lang: en
-verified: false
+verified: true
 sources:
   - https://wageningen.groei.nl/groeninfo/een-moestuin-op-de-eng
   - https://wageningen.groei.nl/nieuwsbrief-juli-aug-2022

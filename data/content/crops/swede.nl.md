@@ -1,7 +1,7 @@
 ---
 crop: swede
 lang: nl
-verified: false
+verified: true
 sources:
   - https://velt.nu/groente/koolraap
   - https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/koolraap/

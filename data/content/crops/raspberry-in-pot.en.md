@@ -1,7 +1,7 @@
 ---
 crop: raspberry-in-pot
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/frambozen-woekeren-tegengaan/
   - https://makkelijkemoestuin.nl/kennisbank/frambozen-in-een-moestuinbak

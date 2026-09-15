@@ -1,7 +1,7 @@
 ---
 crop: komatsuna
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.jansenzaden.nl/products/spinacia-oleracea-japanse-mosterdspinazie-10610
   - http://www.moestuintips.nl/groenten/bladgroenten/mosterd_spinazie/mosterd_spinazie.php

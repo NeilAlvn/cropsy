@@ -36,7 +36,7 @@
       "https://nl-nl.bakker.com/products/koriander-1",
       "https://www.bolster.nl/dille-en-koriander-kweken-onze-tips/t10432"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "coriander-marino",
@@ -76,7 +76,7 @@
       "https://nl-nl.bakker.com/products/koriander-1",
       "https://www.bolster.nl/dille-en-koriander-kweken-onze-tips/t10432"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "coriander-slowbolt-santo",
@@ -114,7 +114,7 @@
       "https://nl-nl.bakker.com/products/koriander-1",
       "https://www.bolster.nl/dille-en-koriander-kweken-onze-tips/t10432"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "coriander-fijnzadig-traagschietend",
@@ -151,6 +151,6 @@
       "https://nl-nl.bakker.com/products/koriander-1",
       "https://www.bolster.nl/dille-en-koriander-kweken-onze-tips/t10432"
     ],
-    "verified": false
+    "verified": true
   }
 ]

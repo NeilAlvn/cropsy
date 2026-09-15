@@ -1,7 +1,7 @@
 ---
 crop: onion
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/vroege-groentes-kweken/
   - https://deventer.groei.nl/actueel/moestuinieren-de-moestuin/de-moestuin/wortelgewassen-voor-de-moestuin

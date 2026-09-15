@@ -1,7 +1,7 @@
 ---
 crop: borage
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-komkommerkruid/
   - https://velt.nu/keukenkruiden-kweken

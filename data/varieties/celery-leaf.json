@@ -43,7 +43,7 @@
       "http://www.permacultuurnederland.org/planten.php?zoek=&laag=&functieSER=Tjs=&pid=733&page=7&sort=",
       "https://www.intratuin.nl/biologische-selderij-apium-graveolens-var-secalinum-d-9-h-5-cm.html"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "celery-leaf-zwolsche-krul",
@@ -87,7 +87,7 @@
       "http://www.permacultuurnederland.org/planten.php?zoek=&laag=&functieSER=Tjs=&pid=733&page=7&sort=",
       "https://www.intratuin.nl/biologische-selderij-apium-graveolens-var-secalinum-d-9-h-5-cm.html"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "celery-leaf-gewone-snij",
@@ -131,7 +131,7 @@
       "http://www.permacultuurnederland.org/planten.php?zoek=&laag=&functieSER=Tjs=&pid=733&page=7&sort=",
       "https://www.intratuin.nl/biologische-selderij-apium-graveolens-var-secalinum-d-9-h-5-cm.html"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "celery-leaf-summer-tianjin",
@@ -175,6 +175,6 @@
       "http://www.permacultuurnederland.org/planten.php?zoek=&laag=&functieSER=Tjs=&pid=733&page=7&sort=",
       "https://www.intratuin.nl/biologische-selderij-apium-graveolens-var-secalinum-d-9-h-5-cm.html"
     ],
-    "verified": false
+    "verified": true
   }
 ]

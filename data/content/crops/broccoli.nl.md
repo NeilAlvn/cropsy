@@ -1,7 +1,7 @@
 ---
 crop: broccoli
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-boerenkool-en-palmkool/
   - https://makkelijkemoestuin.nl/en/kennisbank/ongeschikte-groentes-voor-een-makkelijke-moestuinbak

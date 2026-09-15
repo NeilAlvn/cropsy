@@ -1,7 +1,7 @@
 ---
 crop: purslane
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/planten/kruiden/portulaca-oleracea/postelein-zomerpostelein/
   - https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/tuintip-26

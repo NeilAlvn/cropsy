@@ -1,7 +1,7 @@
 ---
 crop: shallot
 lang: nl
-verified: false
+verified: true
 sources:
   - https://deventer.groei.nl/actueel/moestuinieren-de-moestuin/de-moestuin/wortelgewassen-voor-de-moestuin
   - https://www.goedboerenindestad.nl/moestuin/groenten/sjalotten/

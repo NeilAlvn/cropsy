@@ -1,7 +1,7 @@
 ---
 crop: stevia
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/planten/kruiden/stevia-rebaudiana/stevia-honingkruid-stepa-suikerplantje/
   - https://www.mooiemoestuin.nl/page/83/?s

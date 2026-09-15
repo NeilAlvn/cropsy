@@ -1,7 +1,7 @@
 ---
 crop: sweetcorn
 lang: en
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/zaad-bestellen-van-zea-mays-early-xtra-sweet
   - https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/suikermais-zelf-telen/

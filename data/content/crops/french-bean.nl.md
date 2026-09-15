@@ -1,7 +1,7 @@
 ---
 crop: french-bean
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/planten/phaseolus-vulgaris-prelude/stamslabonen/
   - https://groei.nl/artikel/tips-bij-10-makkelijke-moestuingewassen

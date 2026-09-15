@@ -33,7 +33,7 @@
       "https://www.welkoop.nl/advies/groenten-oogsten-en-bewaren.html",
       "https://www.welkoop.nl/tuin/zaden-en-pootgoed/groentezaden/koolzaden?offset=24"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "cabbage-minicole-f1",
@@ -70,7 +70,7 @@
       "https://www.welkoop.nl/advies/groenten-oogsten-en-bewaren.html",
       "https://www.welkoop.nl/tuin/zaden-en-pootgoed/groentezaden/koolzaden?offset=24"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "cabbage-express",
@@ -107,7 +107,7 @@
       "https://www.welkoop.nl/advies/groenten-oogsten-en-bewaren.html",
       "https://www.welkoop.nl/tuin/zaden-en-pootgoed/groentezaden/koolzaden?offset=24"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "cabbage-caraflex-f1",
@@ -144,6 +144,6 @@
       "https://www.welkoop.nl/advies/groenten-oogsten-en-bewaren.html",
       "https://www.welkoop.nl/tuin/zaden-en-pootgoed/groentezaden/koolzaden?offset=24"
     ],
-    "verified": false
+    "verified": true
   }
 ]

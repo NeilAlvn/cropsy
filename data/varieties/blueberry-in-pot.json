@@ -39,7 +39,7 @@
       "https://nl-nl.bakker.com/products/blauwe-bes-reka-winterhard-bio",
       "https://nl-nl.bakker.com/products/blauwe-bes-top-hat-1"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "blueberry-in-pot-little-blue-wonder",
@@ -78,7 +78,7 @@
       "https://nl-nl.bakker.com/products/blauwe-bes-reka-winterhard-bio",
       "https://nl-nl.bakker.com/products/blauwe-bes-top-hat-1"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "blueberry-in-pot-sunshine-blue",
@@ -116,7 +116,7 @@
       "https://nl-nl.bakker.com/products/blauwe-bes-reka-winterhard-bio",
       "https://nl-nl.bakker.com/products/blauwe-bes-top-hat-1"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "blueberry-in-pot-bluecrop",
@@ -154,6 +154,6 @@
       "https://nl-nl.bakker.com/products/blauwe-bes-reka-winterhard-bio",
       "https://nl-nl.bakker.com/products/blauwe-bes-top-hat-1"
     ],
-    "verified": false
+    "verified": true
   }
 ]

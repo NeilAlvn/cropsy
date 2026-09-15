@@ -1,7 +1,7 @@
 ---
 crop: sage
 lang: nl
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/blog/de-moestuinmaatjes-van-ah
   - https://eindhoven.groei.nl/fileadmin/Afdelingen/afdeling_eindhoven_de_kempen/Archief/Foto_Album/Overige_activiteiten_2026/Workshop_De_fascinerende_wereld_van_zaden.pdf

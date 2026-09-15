@@ -1,7 +1,7 @@
 ---
 crop: courgette
 lang: en
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/en/knowledge-base/climbing-courgette-sowing-and-growing
   - https://groei.nl/artikel/courgette-kweken

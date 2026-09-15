@@ -1,7 +1,7 @@
 ---
 crop: garlic
 lang: en
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/hoe-kweek-je-knoflook
   - https://velt.nu/nieuws/wij-willen-oude-rassen-opnieuw-beschikbaar-stellen-voor-moestuiniers

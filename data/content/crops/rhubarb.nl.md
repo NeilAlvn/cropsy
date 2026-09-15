@@ -1,7 +1,7 @@
 ---
 crop: rhubarb
 lang: nl
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/rabarber-planten
   - https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/opstart-van-de-moestuin/

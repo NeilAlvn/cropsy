@@ -37,7 +37,7 @@
       "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/peulvruchten",
       "https://www.intratuin.nl/inspiratie/moestuin-tuinboon"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "mangetout-zweedse-lage-vroege",
@@ -75,7 +75,7 @@
       "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/peulvruchten",
       "https://www.intratuin.nl/inspiratie/moestuin-tuinboon"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "mangetout-stam-de-grace",
@@ -116,7 +116,7 @@
       "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/peulvruchten",
       "https://www.intratuin.nl/inspiratie/moestuin-tuinboon"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "mangetout-oregon-sugar",
@@ -155,6 +155,6 @@
       "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/peulvruchten",
       "https://www.intratuin.nl/inspiratie/moestuin-tuinboon"
     ],
-    "verified": false
+    "verified": true
   }
 ]

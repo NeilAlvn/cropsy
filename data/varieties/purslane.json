@@ -36,7 +36,7 @@
       "https://www.intratuin.nl/intratuin-groentezaad-postelein-portulaca-oleracea-gewone-groene.html",
       "https://www.vreeken.nl/218000-postelein-groene-gewone"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "purslane-gele",
@@ -73,7 +73,7 @@
       "https://www.intratuin.nl/intratuin-groentezaad-postelein-portulaca-oleracea-gewone-groene.html",
       "https://www.vreeken.nl/218000-postelein-groene-gewone"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "purslane-groene",
@@ -110,7 +110,7 @@
       "https://www.intratuin.nl/intratuin-groentezaad-postelein-portulaca-oleracea-gewone-groene.html",
       "https://www.vreeken.nl/218000-postelein-groene-gewone"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "purslane-gewone-groene",
@@ -146,6 +146,6 @@
       "https://www.intratuin.nl/intratuin-groentezaad-postelein-portulaca-oleracea-gewone-groene.html",
       "https://www.vreeken.nl/218000-postelein-groene-gewone"
     ],
-    "verified": false
+    "verified": true
   }
 ]

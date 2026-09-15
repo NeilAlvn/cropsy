@@ -35,7 +35,7 @@
       "https://www.seedvalley.nl/posts/de-sjalot-uit-zaad-verovert-de-wereld",
       "https://demoestuinwinkel.nl/products/sjalot-poitou-kipdij"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "shallot-yellow-moon",
@@ -71,7 +71,7 @@
       "https://www.seedvalley.nl/posts/de-sjalot-uit-zaad-verovert-de-wereld",
       "https://demoestuinwinkel.nl/products/sjalot-poitou-kipdij"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "shallot-conservor-f1",
@@ -107,7 +107,7 @@
       "https://www.seedvalley.nl/posts/de-sjalot-uit-zaad-verovert-de-wereld",
       "https://demoestuinwinkel.nl/products/sjalot-poitou-kipdij"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "shallot-hermine",
@@ -142,6 +142,6 @@
       "https://www.seedvalley.nl/posts/de-sjalot-uit-zaad-verovert-de-wereld",
       "https://demoestuinwinkel.nl/products/sjalot-poitou-kipdij"
     ],
-    "verified": false
+    "verified": true
   }
 ]

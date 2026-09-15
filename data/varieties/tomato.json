@@ -33,7 +33,7 @@
       "https://www.koopzaden.nl/product/tomaat-zaden-tiny-temptations-orange-f1-snacktomaat",
       "https://www.sluisgarden.com/nieuws/artikel/33/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "tomato-maja",
@@ -68,7 +68,7 @@
       "https://www.koopzaden.nl/product/tomaat-zaden-tiny-temptations-orange-f1-snacktomaat",
       "https://www.sluisgarden.com/nieuws/artikel/33/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "tomato-balkonstar",
@@ -101,7 +101,7 @@
       "https://www.koopzaden.nl/product/tomaat-zaden-tiny-temptations-orange-f1-snacktomaat",
       "https://www.sluisgarden.com/nieuws/artikel/33/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "tomato-tiny-temptations-orange-f1",
@@ -136,6 +136,6 @@
       "https://www.koopzaden.nl/product/tomaat-zaden-tiny-temptations-orange-f1-snacktomaat",
       "https://www.sluisgarden.com/nieuws/artikel/33/"
     ],
-    "verified": false
+    "verified": true
   }
 ]

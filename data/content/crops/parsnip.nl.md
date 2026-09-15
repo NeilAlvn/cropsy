@@ -1,7 +1,7 @@
 ---
 crop: parsnip
 lang: nl
-verified: false
+verified: true
 sources:
   - https://velt.nu/groente/pastinaak
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/pastinaak-smaakmaker-in-november

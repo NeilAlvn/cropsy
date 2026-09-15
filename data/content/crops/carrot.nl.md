@@ -1,7 +1,7 @@
 ---
 crop: carrot
 lang: nl
-verified: false
+verified: true
 sources:
   - https://community.makkelijkemoestuin.nl/posts/tips-2/over-wortels-hoe-traag-ze-groeien-en-waarom-2
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/busselwortelen-teelt

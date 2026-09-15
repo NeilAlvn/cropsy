@@ -1,7 +1,7 @@
 ---
 crop: lavender
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/snoeien/lavendel-compost/
   - https://www.tuinadvies.nl/tuininfo/moestuin/recepten-uit-eigen-tuin/kleur-jouw-bord-met-eetbare-bloemen/

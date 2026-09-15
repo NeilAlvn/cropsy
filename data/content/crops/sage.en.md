@@ -1,7 +1,7 @@
 ---
 crop: sage
 lang: en
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/hoe-zaai-ik-oregano
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kraakverse-kruiden-uit-eigen-tuin/

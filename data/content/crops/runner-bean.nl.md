@@ -1,7 +1,7 @@
 ---
 crop: runner-bean
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/groente-bonen/
   - https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-tuinboon/

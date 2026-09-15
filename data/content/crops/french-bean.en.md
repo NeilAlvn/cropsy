@@ -1,7 +1,7 @@
 ---
 crop: french-bean
 lang: en
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/hoe-kweek-ik-sperziebonen
   - https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/groente-bonen/

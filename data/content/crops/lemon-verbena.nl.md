@@ -1,7 +1,7 @@
 ---
 crop: lemon-verbena
 lang: nl
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/hoe-zaai-ik-citroenverbena
   - https://www.tuinadvies.nl/planten/kruiden/aloysia-triphylla/citroenverbena/

@@ -1,7 +1,7 @@
 ---
 crop: carrot
 lang: en
-verified: false
+verified: true
 sources:
   - https://beweegt.velt.nu/braas/download.php?bestand=Teelt_van_wortelen.pdf
   - https://www.ivn.nl/afdeling/zeewolde/wortelgroenten/

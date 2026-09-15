@@ -1,7 +1,7 @@
 ---
 crop: chives
 lang: nl
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/hoe-zaai-ik-bieslook
   - https://makkelijkemoestuin.nl/kennisbank/testpakket-zaden-2022

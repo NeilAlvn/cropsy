@@ -1,7 +1,7 @@
 ---
 crop: pak-choi
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/paksoi/
   - https://www.pokon.nl/blog/opnieuw-zaaien/

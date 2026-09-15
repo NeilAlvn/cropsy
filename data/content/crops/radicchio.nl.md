@@ -1,7 +1,7 @@
 ---
 crop: radicchio
 lang: nl
-verified: false
+verified: true
 sources:
   - https://deventer.groei.nl/actueel/moestuinieren-de-moestuin/de-moestuin/bladgroenten-voor-de-moestuin
   - https://community.makkelijkemoestuin.nl/profiel/Mark-Moestuin

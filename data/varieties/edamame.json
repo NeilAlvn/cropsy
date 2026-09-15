@@ -33,7 +33,7 @@
       "https://www.garantzaden.nl/sojabonen-edamame-green-shell",
       "https://www.vreeken.nl/044000-sojaboon-envy-chiba-green-midori-giant"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "edamame-fiskeby-v",
@@ -70,7 +70,7 @@
       "https://www.garantzaden.nl/sojabonen-edamame-green-shell",
       "https://www.vreeken.nl/044000-sojaboon-envy-chiba-green-midori-giant"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "edamame-green-shell",
@@ -105,7 +105,7 @@
       "https://www.garantzaden.nl/sojabonen-edamame-green-shell",
       "https://www.vreeken.nl/044000-sojaboon-envy-chiba-green-midori-giant"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "edamame-envy",
@@ -140,6 +140,6 @@
       "https://www.garantzaden.nl/sojabonen-edamame-green-shell",
       "https://www.vreeken.nl/044000-sojaboon-envy-chiba-green-midori-giant"
     ],
-    "verified": false
+    "verified": true
   }
 ]

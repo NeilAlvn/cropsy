@@ -74,26 +74,26 @@
     },
     {
       "kind": "succession",
-      "crop_slug": "radish",
+      "crop_slug": "komatsuna",
       "plant_id": null,
       "after_plant_id": "bb1",
       "start": "2027-06-20",
-      "end": "2027-07-08",
+      "end": "2027-09-02",
       "note": {
-        "nl": "Plek vrij na Tuinboon (2027-06-20) — Radijs zaaien kan nog tot 2027-07-08.",
-        "en": "Space frees up after Broad bean (2027-06-20) — Radish can still be sown until 2027-07-08."
+        "nl": "Plek vrij na Tuinboon (2027-06-20) — Komatsuna zaaien kan nog tot 2027-09-02.",
+        "en": "Space frees up after Broad bean (2027-06-20) — Komatsuna can still be sown until 2027-09-02."
       }
     },
     {
       "kind": "succession",
-      "crop_slug": "rocket",
+      "crop_slug": "lemon-balm",
       "plant_id": null,
       "after_plant_id": "bb1",
       "start": "2027-06-20",
       "end": "2027-07-08",
       "note": {
-        "nl": "Plek vrij na Tuinboon (2027-06-20) — Rucola zaaien kan nog tot 2027-07-08.",
-        "en": "Space frees up after Broad bean (2027-06-20) — Rocket can still be sown until 2027-07-08."
+        "nl": "Plek vrij na Tuinboon (2027-06-20) — Citroenmelisse zaaien kan nog tot 2027-07-08.",
+        "en": "Space frees up after Broad bean (2027-06-20) — Lemon balm can still be sown until 2027-07-08."
       }
     },
     {
@@ -103,6 +103,30 @@
       "start": "2027-07-13",
       "end": "2027-09-25",
       "note": null
+    },
+    {
+      "kind": "succession",
+      "crop_slug": "pea-shoots",
+      "plant_id": null,
+      "after_plant_id": "tom1",
+      "start": "2027-09-25",
+      "end": "2027-11-01",
+      "note": {
+        "nl": "Plek vrij na Tomaat (2027-09-25) — Erwtenscheuten zaaien kan nog tot 2027-11-01.",
+        "en": "Space frees up after Tomato (2027-09-25) — Pea shoots can still be sown until 2027-11-01."
+      }
+    },
+    {
+      "kind": "succession",
+      "crop_slug": "winter-purslane",
+      "plant_id": null,
+      "after_plant_id": "tom1",
+      "start": "2027-09-25",
+      "end": "2027-11-01",
+      "note": {
+        "nl": "Plek vrij na Tomaat (2027-09-25) — Winterpostelein zaaien kan nog tot 2027-11-01.",
+        "en": "Space frees up after Tomato (2027-09-25) — Winter purslane (miner's lettuce) can still be sown until 2027-11-01."
+      }
     }
   ]
 }

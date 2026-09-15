@@ -1,7 +1,7 @@
 ---
 crop: lemongrass
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.mooiemoestuin.nl/kruiden/citroengras/
   - https://www.keukenplanten.nl/zaaikalender/citroengras

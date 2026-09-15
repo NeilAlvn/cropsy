@@ -1,7 +1,7 @@
 ---
 crop: gooseberry-in-pot
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/soorten-bessen-in-de-tuin
   - https://velt.nu/activiteit/snoeien-en-stekken-van-kleinfruit-en-druiven

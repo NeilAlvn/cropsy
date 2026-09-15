@@ -1,7 +1,7 @@
 ---
 crop: celery-leaf
 lang: en
-verified: false
+verified: true
 sources:
   - https://community.makkelijkemoestuin.nl/posts/net-niet-mm/bladselderij-2
   - https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/zaaien-in-het-voorjaar-opstart-van-de-groententuin/

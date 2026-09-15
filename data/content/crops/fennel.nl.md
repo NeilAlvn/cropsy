@@ -1,7 +1,7 @@
 ---
 crop: fennel
 lang: nl
-verified: false
+verified: true
 sources:
   - https://velt.nu/groente/venkel
   - https://venkel.nl/teelt

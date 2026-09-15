@@ -1,7 +1,7 @@
 ---
 crop: brussels-sprouts
 lang: en
-verified: false
+verified: true
 sources:
   - https://community.makkelijkemoestuin.nl/posts/vragen-2/kalettes
   - https://velt.nu/groente/spruiten

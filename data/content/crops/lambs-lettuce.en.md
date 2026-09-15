@@ -1,7 +1,7 @@
 ---
 crop: lambs-lettuce
 lang: en
-verified: false
+verified: true
 sources:
   - https://velt.nu/moestuin-zaaien-in-augustus
   - https://groei.nl/artikel/zaaien-oktober-koudebak

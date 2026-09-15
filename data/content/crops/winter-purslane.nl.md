@@ -1,7 +1,7 @@
 ---
 crop: winter-purslane
 lang: nl
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/en/shop/seeds/purslane
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-telen-in-de-winter

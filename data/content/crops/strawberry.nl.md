@@ -1,7 +1,7 @@
 ---
 crop: strawberry
 lang: nl
-verified: false
+verified: true
 sources:
   - https://velt.nu/tip/zelf-fruitbomen-en-struiken-kweken
   - https://groei.nl/artikel/hoe-stek-ik-aardbeien

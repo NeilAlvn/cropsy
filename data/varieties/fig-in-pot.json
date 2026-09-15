@@ -32,7 +32,7 @@
       "https://www.vreeken.nl/planten-schimmels/fruit/p12-80",
       "https://www.vreeken.nl/823022-vijg-brunswick"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "fig-in-pot-brown-turkey",
@@ -66,7 +66,7 @@
       "https://www.vreeken.nl/planten-schimmels/fruit/p12-80",
       "https://www.vreeken.nl/823022-vijg-brunswick"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "fig-in-pot-gustissimo-perretta",
@@ -100,7 +100,7 @@
       "https://www.vreeken.nl/planten-schimmels/fruit/p12-80",
       "https://www.vreeken.nl/823022-vijg-brunswick"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "fig-in-pot-brunswick",
@@ -132,6 +132,6 @@
       "https://www.vreeken.nl/planten-schimmels/fruit/p12-80",
       "https://www.vreeken.nl/823022-vijg-brunswick"
     ],
-    "verified": false
+    "verified": true
   }
 ]

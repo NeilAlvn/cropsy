@@ -1,7 +1,7 @@
 ---
 crop: chervil
 lang: nl
-verified: false
+verified: true
 sources:
   - https://velt.nu/keukenkruiden-kweken
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kervel-anthriscus-cerefolium

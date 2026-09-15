@@ -33,7 +33,7 @@
       "https://www.welkoop.nl/hortitops-kamille-matricaria-chamomilla-kruidenzaden-0-25gram_1039940",
       "https://nl-nl.bakker.com/collections/kamille-matricaria-lat"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "chamomile-roman",
@@ -70,7 +70,7 @@
       "https://www.welkoop.nl/hortitops-kamille-matricaria-chamomilla-kruidenzaden-0-25gram_1039940",
       "https://nl-nl.bakker.com/collections/kamille-matricaria-lat"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "chamomile-bio",
@@ -107,7 +107,7 @@
       "https://www.welkoop.nl/hortitops-kamille-matricaria-chamomilla-kruidenzaden-0-25gram_1039940",
       "https://nl-nl.bakker.com/collections/kamille-matricaria-lat"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "chamomile-hortitops",
@@ -143,6 +143,6 @@
       "https://www.welkoop.nl/hortitops-kamille-matricaria-chamomilla-kruidenzaden-0-25gram_1039940",
       "https://nl-nl.bakker.com/collections/kamille-matricaria-lat"
     ],
-    "verified": false
+    "verified": true
   }
 ]

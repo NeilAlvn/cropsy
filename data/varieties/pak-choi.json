@@ -30,7 +30,7 @@
       "https://www.vreeken.nl/165100-mini-paksoi-baby-pak-choi-the-milk-white-pakchoi",
       "https://www.vreeken.nl/upload/docs/Laat_zaaien_aug-sept.pdf"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "pak-choi-green-f1",
@@ -65,7 +65,7 @@
       "https://www.vreeken.nl/165100-mini-paksoi-baby-pak-choi-the-milk-white-pakchoi",
       "https://www.vreeken.nl/upload/docs/Laat_zaaien_aug-sept.pdf"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "pak-choi-green-fortune-f1",
@@ -99,7 +99,7 @@
       "https://www.vreeken.nl/165100-mini-paksoi-baby-pak-choi-the-milk-white-pakchoi",
       "https://www.vreeken.nl/upload/docs/Laat_zaaien_aug-sept.pdf"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "pak-choi-baby-pak-choi",
@@ -132,6 +132,6 @@
       "https://www.vreeken.nl/165100-mini-paksoi-baby-pak-choi-the-milk-white-pakchoi",
       "https://www.vreeken.nl/upload/docs/Laat_zaaien_aug-sept.pdf"
     ],
-    "verified": false
+    "verified": true
   }
 ]

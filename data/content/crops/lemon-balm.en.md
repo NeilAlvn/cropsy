@@ -1,7 +1,7 @@
 ---
 crop: lemon-balm
 lang: en
-verified: false
+verified: true
 sources:
   - https://velt.nu/keukenkruiden-kweken
   - https://www.ivn.nl/afdeling/ijssel-en-gouwe/werkgroep-smultuin/

@@ -1,7 +1,7 @@
 ---
 crop: mizuna
 lang: en
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing
   - https://groei.nl/artikel/zelf-aziatische-groenten-kweken-en-zaden-bestellen

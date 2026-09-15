@@ -1,7 +1,7 @@
 ---
 crop: rosemary
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.compo.nl/advies/planten/kruiden-groenten-fruit/rozemarijn
   - https://plukkers.com/blogs/gewasinfo/rozemarijn

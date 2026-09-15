@@ -1,7 +1,7 @@
 ---
 crop: garlic
 lang: nl
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/hoe-kweek-je-knoflook
   - https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/bestel-nu-pootgoed-voor-het-nieuwe-moestuinseizoen

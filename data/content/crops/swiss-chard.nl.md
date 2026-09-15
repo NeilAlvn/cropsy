@@ -1,7 +1,7 @@
 ---
 crop: swiss-chard
 lang: nl
-verified: false
+verified: true
 sources:
   - https://velt.nu/groente/warmoes
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/overal-groenten-en-kruiden/

@@ -1,7 +1,7 @@
 ---
 crop: spring-onion
 lang: nl
-verified: false
+verified: true
 sources:
   - https://community.makkelijkemoestuin.nl/posts/net-niet-mm/bosui-lente-ui
   - https://groei.nl/artikel/stengelui-zaaien

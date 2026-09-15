@@ -41,7 +41,7 @@
       "https://www.koopbloembollen.nl/product/winterpostelein-zaden",
       "https://nl-nl.bakker.com/products/winterpostelein"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "winter-purslane-gewone",
@@ -85,7 +85,7 @@
       "https://www.koopbloembollen.nl/product/winterpostelein-zaden",
       "https://nl-nl.bakker.com/products/winterpostelein"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "winter-purslane-roze",
@@ -129,7 +129,7 @@
       "https://www.koopbloembollen.nl/product/winterpostelein-zaden",
       "https://nl-nl.bakker.com/products/winterpostelein"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "winter-purslane-sluis-garden",
@@ -173,6 +173,6 @@
       "https://www.koopbloembollen.nl/product/winterpostelein-zaden",
       "https://nl-nl.bakker.com/products/winterpostelein"
     ],
-    "verified": false
+    "verified": true
   }
 ]

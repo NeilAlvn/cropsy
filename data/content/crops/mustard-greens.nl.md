@@ -1,7 +1,7 @@
 ---
 crop: mustard-greens
 lang: nl
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/zelf-aziatische-groenten-kweken-en-zaden-bestellen
   - https://www.tuinadvies.nl/planten/kruiden/brassica-juncea-rugosa/sarepta-mosterd-mosterdkool-bladmosterd/

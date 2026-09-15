@@ -1,7 +1,7 @@
 ---
 crop: lovage
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.keukenplanten.nl/zaaikalender/lavas
   - https://www.detuinoptafel.com/lavas-in-de-moestuin/

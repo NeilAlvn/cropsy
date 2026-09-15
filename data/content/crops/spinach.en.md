@@ -1,7 +1,7 @@
 ---
 crop: spinach
 lang: en
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/spinazie-zaaien-en-kweken
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/de-vierkante-meter-moestuin-deel-4/

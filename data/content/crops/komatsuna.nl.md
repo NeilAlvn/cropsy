@@ -1,7 +1,7 @@
 ---
 crop: komatsuna
 lang: nl
-verified: false
+verified: true
 sources:
   - https://community.makkelijkemoestuin.nl/posts/net-niet-mm/aziatische-groenten
   - https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/komatsuna/

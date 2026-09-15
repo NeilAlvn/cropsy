@@ -1,7 +1,7 @@
 ---
 crop: aubergine
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/aubergines-zaaien/
   - https://groei.nl/artikel/vroeg-zaaien-aubergine

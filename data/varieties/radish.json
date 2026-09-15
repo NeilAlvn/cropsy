@@ -39,7 +39,7 @@
       "https://groei.nl/artikel/hoe-zaai-ik-radijs",
       "https://www.intratuin.nl/inspiratie/moestuin-radijs"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "radish-saxa-2",
@@ -82,7 +82,7 @@
       "https://groei.nl/artikel/hoe-zaai-ik-radijs",
       "https://www.intratuin.nl/inspiratie/moestuin-radijs"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "radish-sparkler-2",
@@ -125,7 +125,7 @@
       "https://groei.nl/artikel/hoe-zaai-ik-radijs",
       "https://www.intratuin.nl/inspiratie/moestuin-radijs"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "radish-french-breakfast-2",
@@ -167,6 +167,6 @@
       "https://groei.nl/artikel/hoe-zaai-ik-radijs",
       "https://www.intratuin.nl/inspiratie/moestuin-radijs"
     ],
-    "verified": false
+    "verified": true
   }
 ]

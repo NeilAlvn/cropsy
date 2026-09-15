@@ -1,7 +1,7 @@
 ---
 crop: brussels-sprouts
 lang: nl
-verified: false
+verified: true
 sources:
   - https://velt.nu/groente/spruiten
   - https://makkelijkemoestuin.nl/kennisbank/ongeschikte-groentes-voor-een-makkelijke-moestuinbak

@@ -29,7 +29,7 @@
       "https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/sluitkool-algemeen/rode-kool/",
       "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=147"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "red-cabbage-kalibos",
@@ -64,7 +64,7 @@
       "https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/sluitkool-algemeen/rode-kool/",
       "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=147"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "red-cabbage-rodeo-f1",
@@ -98,7 +98,7 @@
       "https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/sluitkool-algemeen/rode-kool/",
       "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=147"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "red-cabbage-langedijker-vroege-zomer",
@@ -132,6 +132,6 @@
       "https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/sluitkool-algemeen/rode-kool/",
       "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=147"
     ],
-    "verified": false
+    "verified": true
   }
 ]

@@ -35,7 +35,7 @@
       "https://www.welkoop.nl/buzzy-tijm-thymus-vulgaris-tijm-kruidenzaden-0-15gram_1189993",
       "https://www.welkoop.nl/advies/moestuin-slakken-bestrijden.html"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "thyme-compactus",
@@ -72,7 +72,7 @@
       "https://www.welkoop.nl/buzzy-tijm-thymus-vulgaris-tijm-kruidenzaden-0-15gram_1189993",
       "https://www.welkoop.nl/advies/moestuin-slakken-bestrijden.html"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "thyme-wilde-tijm",
@@ -109,7 +109,7 @@
       "https://www.welkoop.nl/buzzy-tijm-thymus-vulgaris-tijm-kruidenzaden-0-15gram_1189993",
       "https://www.welkoop.nl/advies/moestuin-slakken-bestrijden.html"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "thyme-buzzy-keukentijm",
@@ -145,6 +145,6 @@
       "https://www.welkoop.nl/buzzy-tijm-thymus-vulgaris-tijm-kruidenzaden-0-15gram_1189993",
       "https://www.welkoop.nl/advies/moestuin-slakken-bestrijden.html"
     ],
-    "verified": false
+    "verified": true
   }
 ]

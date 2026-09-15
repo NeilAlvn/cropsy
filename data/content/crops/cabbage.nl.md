@@ -1,7 +1,7 @@
 ---
 crop: cabbage
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/shop/tuin/zaden-bloembollen/groentezaden/groenten/ht-flat-white-cabbage-spring~200316483/
   - https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-spitskool/

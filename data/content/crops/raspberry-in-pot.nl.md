@@ -1,7 +1,7 @@
 ---
 crop: raspberry-in-pot
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/frambozen-woekeren-tegengaan/
   - https://groei.nl/artikel/framboos-kweken-in-een-pot

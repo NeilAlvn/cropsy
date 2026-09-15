@@ -1,7 +1,7 @@
 ---
 crop: lavender
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/snoeien/lavendel-compost/
   - https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/soorten-lavendel-met-weinig-onderhoud/

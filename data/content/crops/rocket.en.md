@@ -1,7 +1,7 @@
 ---
 crop: rocket
 lang: en
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/wat-zijn-10-echt-makkelijke-groentes
   - https://velt.nu/tip/welke-groentesoorten-en-rassen-groeien-makkelijk

@@ -1,7 +1,7 @@
 ---
 crop: sorrel
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.compo.be/nl/advies/planten/kruiden-groenten-fruit/zuring
   - https://community.makkelijkemoestuin.nl/posts/net-niet-mm/zuring

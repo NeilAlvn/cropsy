@@ -1,7 +1,7 @@
 ---
 crop: tomato
 lang: nl
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/hoe-hou-je-voor-gezaaide-plantjes-goed-op-de-vensterbank
   - https://groei.nl/artikel/cherrytomaat-kweken

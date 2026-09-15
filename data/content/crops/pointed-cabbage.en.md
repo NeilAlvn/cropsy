@@ -1,7 +1,7 @@
 ---
 crop: pointed-cabbage
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.ivn.nl/afdeling/zeewolde/kolen/
   - https://makkelijkemoestuin.nl/kennisbank/rupsen-van-het-koolwitje-in-moestuin

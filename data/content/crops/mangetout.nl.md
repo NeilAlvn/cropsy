@@ -1,7 +1,7 @@
 ---
 crop: mangetout
 lang: nl
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/peultjes-zaaien-en-kweken
   - https://makkelijkemoestuin.nl/kennisbank/voorkiemen-van-peultjes-erwten-en-sugarsnaps

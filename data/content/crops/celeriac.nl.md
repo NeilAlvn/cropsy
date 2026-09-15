@@ -1,7 +1,7 @@
 ---
 crop: celeriac
 lang: nl
-verified: false
+verified: true
 sources:
   - https://deventer.groei.nl/actueel/moestuinieren-de-moestuin/de-moestuin/wortelgewassen-voor-de-moestuin
   - https://community.makkelijkemoestuin.nl/posts/net-niet-mm/knolselderij-niet-mm-vraag

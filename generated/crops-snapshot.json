@@ -1,6 +1,6 @@
 {
-  "version": "835249a252418e32",
-  "generated_at": "2026-09-13T09:43:07.885Z",
+  "version": "031c8c8eb7747415",
+  "generated_at": "2026-09-15T11:41:08.165Z",
   "crops": [
     {
       "slug": "asparagus",
@@ -210,6 +210,157 @@
         "IVN rode biet",
         "robbiesmoestuin.nl",
         "mooiemoestuin.nl"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "blueberry-in-pot",
+      "names": {
+        "nl": "Blauwe bes in pot",
+        "en": "Blueberry in a pot"
+      },
+      "category": "fruit",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 30,
+      "spacing_cm": 100,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "plant",
+          "anchor": "last_frost",
+          "start_weeks": -10,
+          "end_weeks": 0,
+          "min_soil_c": 7,
+          "note": {
+            "nl": "Plant in de late winter of het vroege voorjaar voor het uitlopen van de knoppen.",
+            "en": "Plant in late winter or early spring before bud burst."
+          }
+        },
+        {
+          "type": "plant",
+          "anchor": "first_frost",
+          "start_weeks": -4,
+          "end_weeks": 4,
+          "min_soil_c": 7,
+          "note": {
+            "nl": "Plant in het najaar na bladval zolang de grond niet bevroren is.",
+            "en": "Plant in autumn after leaf drop provided the ground is not frozen."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 90,
+        "days_max": 120
+      },
+      "difficulty": 2,
+      "feed_cadence_days": null,
+      "depth_mm": null,
+      "germination_days": null,
+      "days_to_transplant": null,
+      "perennial": true,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://velt.nu/fruit-de-tuin",
+        "https://community.makkelijkemoestuin.nl/posts/vragen-2/fruit-zaaien-en-oogsten",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/soorten-bessen-in-de-tuin",
+        "https://groei.nl/artikel/blauwe-bes-kweken-in-een-pot",
+        "https://groei.nl/artikel/appel-kweken-in-een-pot",
+        "https://www.keukenplanten.nl/zaaikalender-moestuin-oktober",
+        "https://www.vreeken.nl/zoeken/bosbes",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-verplanten/",
+        "https://www.vreeken.nl/030050-blauwe-wonderbes-mrs-garden",
+        "https://www.magicgardenseeds.nl/Blauwe-bosbes-Vaccinium-myrtillus-bio-zaad",
+        "https://www.tuinadvies.be/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/",
+        "https://permacultuurnederland.org/planten.php?zoek=&laag=&functieSER=YjowOw==&pid=468&page=1&sort=",
+        "https://groei.nl/artikel/kruisbes-kweken-in-een-pot",
+        "https://plantenzoeker.velt.nu/plant/vaccinium-corymbosum",
+        "https://www.tuinadvies.be/tuininfo/moestuin/fruit-bessen/bosbes-of-blauwe-bes-plukken-en-bewaren/",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "borage",
+      "names": {
+        "nl": "Bernagie (komkommerkruid)",
+        "en": "Borage"
+      },
+      "category": "herb",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 10,
+      "spacing_cm": 30,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": -1,
+          "min_soil_c": 10,
+          "note": {
+            "nl": "Voorzaaien in diepe potjes om de gevoelige penwortel te beschermen",
+            "en": "Sow indoors in deep pots to protect sensitive taproot"
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 8,
+          "min_soil_c": 10,
+          "note": {
+            "nl": "Afharden en uitplanten na IJsheiligen",
+            "en": "Harden off and plant outside after last frosts"
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 0,
+          "end_weeks": 16,
+          "min_soil_c": 10,
+          "note": {
+            "nl": "Ter plekke zaaien vanaf april tot augustus",
+            "en": "Direct sow outdoors from April to August"
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 55,
+        "days_max": 60
+      },
+      "difficulty": 1,
+      "feed_cadence_days": 14,
+      "depth_mm": 10,
+      "germination_days": 14,
+      "days_to_transplant": 35,
+      "perennial": false,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-komkommerkruid/",
+        "https://community.makkelijkemoestuin.nl/posts/vragen-2/bloemen-7",
+        "https://beweegt.velt.nu/braas/download.php?bestand=zadenlijst2013_lr.pdf",
+        "https://plantenzoeker.velt.nu/plant/borago-officinalis",
+        "https://makkelijkemoestuin.nl/kennisbank/testpakket-zaden-2022",
+        "https://velt.nu/tip/groenbemesters-voorkomen-dat-jouw-perceel-bloot-ligt",
+        "https://www.keukenplanten.nl/zaaikalender/komkommerkruid",
+        "https://www.vreeken.nl/338000-borage-gewone-blauwe",
+        "https://velt.nu/keukenkruiden-kweken",
+        "https://www.semaille.com/nl/eenjarige-bloemen/256-bernagie-5415166000200.html",
+        "https://makkelijkemoestuin.nl/blog/nog-meer-soorten-in-de-app",
+        "https://community.makkelijkemoestuin.nl/posts/algemeen-2/komkommerkruid-13",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/nuttige-bloemen-in-de-moestuin/",
+        "https://www.tuinadvies.nl/planten/kruiden/borago-officinalis/bernagiekomkommerkruid/",
+        "https://www.puurvantveld.eu/Bernagie-biologische-zaden",
+        "https://www.vreeken.nl/zaden/kiemen-microgroenten/p2-20",
+        "https://www.vreeken.nl/690660-boragekers",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/juni-en-juli-de-eerste-oogst-en-wat-nog-te-zaaien/"
       ],
       "verified": true
     },
@@ -640,6 +791,259 @@
       "verified": true
     },
     {
+      "slug": "celery-leaf",
+      "names": {
+        "nl": "Snijselderij",
+        "en": "Leaf celery"
+      },
+      "category": "herb",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 3,
+      "spacing_cm": 15,
+      "vak_per_m2": 4,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -4,
+          "end_weeks": 2,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Binnen voorzaaien vanaf half maart bij 18-22 °C; zaden zijn trage lichtkiemers.",
+            "en": "Sow indoors from mid-March at 18-22 °C; seeds are slow surface germinators."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 15,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Rechtstreeks buiten zaaien vanaf april zodra de grond opwarmt tot in juli.",
+            "en": "Sow directly outdoors from April once soil warms up through July."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 10,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Uitplanten na IJsheiligen wanneer de buitentemperaturen stabiel zijn.",
+            "en": "Transplant outdoors after mid-May once outdoor temperatures stabilize."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 30,
+        "days_max": 45
+      },
+      "difficulty": 2,
+      "feed_cadence_days": 14,
+      "depth_mm": 2,
+      "germination_days": 20,
+      "days_to_transplant": 45,
+      "perennial": false,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://velt.nu/keukenkruiden-kweken",
+        "https://beweegt.velt.nu/braas/download.php?bestand=zadenlijst2013_lr.pdf",
+        "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/wie-heeft-dit-meegemaakt-met-bleekselderij",
+        "https://www.tuinadvies.nl/planten/kruiden/apium-graveolens-giant-red/snijselder-bladselder/",
+        "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/zaaien-in-het-voorjaar-opstart-van-de-groententuin/",
+        "https://dezaden.nl/product/buzzy-snijselderij-zaden-gewone-snij/",
+        "https://www.bolster.nl/zaaien-in-juli/t25185",
+        "https://247green.nl/handig-zaaikalender-met-uiterste-zaaidata/",
+        "https://www.bolster.nl/zaaien-in-mei/t25172",
+        "https://moestuinbeginnen.nl/zaaikalender-zomer/",
+        "https://zaaikalender.com/kruiden-kweken/",
+        "https://www.gardenseeds.nl/product/bladselderij-amsterdamse-donkergroene/",
+        "https://www.bolster.nl/snijselderij-gewone-snij-apium-graveolens/p124",
+        "https://community.makkelijkemoestuin.nl/posts/vragen-2/kruiden-in-een-vak",
+        "https://velt.nu/starten-met-een-moestuin",
+        "https://www.keukenplanten.nl/zaaikalender-moestuin-maart",
+        "https://florum.nl/moestuinen/kruiden-moestuin/grote-kruiden-overzicht-kruiden-moestuin/",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/juni-en-juli-de-eerste-oogst-en-wat-nog-te-zaaien/",
+        "https://www.budgetplant.nl/selderij-apium-graveolens",
+        "https://plukkers.com/blogs/zaaien-en-planten/voorzaaien",
+        "https://edepot.wur.nl/253248",
+        "https://www.mooiemoestuin.nl/kruiden/selderij/"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "chamomile",
+      "names": {
+        "nl": "Kamille",
+        "en": "Chamomile"
+      },
+      "category": "herb",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 3,
+      "spacing_cm": 25,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": 0,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Voorzaaien bij 18-20 °C; zaden niet bedekken want kamille is een lichtkiemer.",
+            "en": "Sow indoors at 18-20 °C; do not cover seeds as chamomile is a light germinator."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 1,
+          "end_weeks": 10,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Na afharden uitplanten in de tuin of in potten.",
+            "en": "Plant out in beds or pots after hardening off."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 8,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Ter plekke zaaien; zaden licht aandrukken en niet begraven.",
+            "en": "Sow directly outdoors; press seeds lightly into the soil without burying."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 60,
+        "days_max": 80
+      },
+      "difficulty": 1,
+      "feed_cadence_days": 35,
+      "depth_mm": 0,
+      "germination_days": 14,
+      "days_to_transplant": 35,
+      "perennial": false,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://www.tuinadvies.nl/planten/kruiden/matricaria-chamomilla/echte-kamille/",
+        "https://www.tuinadvies.nl/planten/kruiden/chamaemelum-nobile-flore-pleno/roomse-kamille/",
+        "https://www.tuinadvies.nl/planten/kruiden/chamaemelum-nobile-ligulosum/roomse-kamille/",
+        "https://www.keukenplanten.nl/zaaikalender/kamille",
+        "https://gorinchem.groei.nl/terugblikken/terugblik-lezing-inspiratie-voor-mooie-boeketten-komt-uit-de-natuur",
+        "https://www.vreeken.nl/347500-kamille-echte-zloty-lan",
+        "https://www.cruydthoeck.nl/echte-kamille-matricaria-chamomilla",
+        "https://www.keukenplanten.nl/zaden/kruiden/Kamille-Buzzy-Organic",
+        "https://www.keukenplanten.nl/zaaikalender/raapstelen",
+        "https://www.magicgardenseeds.nl/Echte-kamille-Matricaria-chamomilla-zaden",
+        "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/bloemzaden-eenjarige-soorten?groep=13",
+        "https://dezaden.nl/product/buzzy-kamille-zaden/",
+        "https://makkelijkemoestuin.nl/kennisbank/kruiden-kweken-in-potten-of-moestuinbak",
+        "https://plantenzoeker.velt.nu/plant/matricaria-recutita-matricaria-chamomilla",
+        "https://plukkers.com/blogs/zaaien-en-planten/voorzaaien",
+        "https://velt.nu/tip/hoe-bescherm-je-jouw-fruitboom-struik-tegen-ziekten-en-plagen",
+        "https://makkelijkemoestuin.nl/blog/de-moestuinmaatjes-van-ah",
+        "https://www.vreeken.nl/357700-roomse-kamille"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "chervil",
+      "names": {
+        "nl": "Kervel",
+        "en": "Chervil"
+      },
+      "category": "herb",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 1.5,
+      "spacing_cm": 15,
+      "vak_per_m2": 4,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": 6,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Voorjaarsteelt direct in de volle grond of pot zaaien; verdraagt koele omstandigheden goed",
+            "en": "Spring direct sowing outdoors; tolerates cool early-season conditions well"
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "first_frost",
+          "start_weeks": -10,
+          "end_weeks": -4,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Herfst- en winterteelt zaaien voor oogst in het late najaar en de winter",
+            "en": "Late summer and autumn sowing for late autumn and winter harvest"
+          }
+        },
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -10,
+          "end_weeks": 0,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Voorzaaien kan in perspotjes, maar direct zaaien geniet voorkeur wegens penwortel",
+            "en": "Indoor start possible in plugs, but direct sowing is preferred due to taproot"
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 40,
+        "days_max": 60
+      },
+      "difficulty": 1,
+      "feed_cadence_days": null,
+      "depth_mm": 3,
+      "germination_days": 12,
+      "days_to_transplant": 24,
+      "perennial": false,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/het-moestuinseizoen-is-nog-niet-voorbij",
+        "https://www.vreeken.nl/347720-kervel-brusselse-winter",
+        "https://www.semaille.com/nl/aromatische-en-medische-kruiden/359-kervel-gewoon-5415166004598.html",
+        "https://velt.nu/keukenkruiden-kweken",
+        "https://www.natuurenpuur.nl/products/kervel-bio",
+        "https://plukkers.com/blogs/gewasinfo/kervel",
+        "https://stadstuinieren.nl/artikel/kervel-kweken-en-oogsten/",
+        "https://nl-nl.bakker.com/products/kervel-massa-bio",
+        "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/zaaien-het-hele-jaar-door",
+        "https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/kervel-uit-eigen-moestuin/",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kervel-anthriscus-cerefolium/",
+        "https://zaaikalender.com/",
+        "https://www.keukenplanten.nl/zaaikalender/kervel",
+        "https://www.permapotes.com/nl/plants/view/kervel/calendar",
+        "https://plukkers.com/blogs/zaaien-en-planten/welke-trays-bakjes-potjes-potten-onderstellen-en-onderschalen-gebruiken-in-de-moestuin",
+        "https://velt.nu/starten-met-een-moestuin",
+        "https://www.koopzaden.nl/product/kervel-zaden-fijne-krul",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/wortelen-kweken/",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kervel-anthriscus-cerefolium",
+        "https://demoestuinwinkel.nl/products/sluis_garden_kervel_-_gladbladig_massa",
+        "https://www.tuinadvies.nl/tuininfo/planten/sierplanten/roomse-kervel"
+      ],
+      "verified": true
+    },
+    {
       "slug": "chili",
       "names": {
         "nl": "Spaanse peper",
@@ -962,6 +1366,85 @@
       "verified": true
     },
     {
+      "slug": "edamame",
+      "names": {
+        "nl": "Edamame (sojaboon)",
+        "en": "Edamame"
+      },
+      "category": "legume",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 5,
+      "spacing_cm": 15,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": 1,
+          "end_weeks": 4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Voorzaaien binnenshuis bij ca. 20 °C, ongeveer 2 tot 3 weken voor IJsheiligen.",
+            "en": "Sow indoors at around 20 °C, approximately 2 to 3 weeks before the last frost date."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 7,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Uitplanten na IJsheiligen zodra de zaailingen 8-10 cm zijn en het weer zacht is.",
+            "en": "Transplant outdoors after IJsheiligen once seedlings are 8-10 cm tall and weather is mild."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 10,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Direct buiten zaaien na IJsheiligen zodra de grond minimaal 12-15 °C is.",
+            "en": "Direct sow outdoors after IJsheiligen once the soil temperature is at least 12-15 °C."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 50,
+        "days_max": 80
+      },
+      "difficulty": 2,
+      "feed_cadence_days": null,
+      "depth_mm": 30,
+      "germination_days": 10,
+      "days_to_transplant": 21,
+      "perennial": false,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://www.bolster.nl/sojabonen-telen/t24932",
+        "https://www.mooiemoestuin.nl/groenteteelt/peulgewassen/sojaboon/",
+        "https://www.bolster.nl/sojaboon/c2037",
+        "https://www.vreeken.nl/044110-sojaboon-siverka",
+        "https://stadstuinieren.nl/artikel/sojabonen-kweken-en-oogsten/",
+        "https://wageningen.groei.nl/groeninfo/een-moestuin-op-de-eng",
+        "https://demoestuinwinkel.nl/products/sojaboon-soja-snack",
+        "http://moestuinbeginnen.nl/sojabonen-kweken/",
+        "https://www.keukenplanten.nl/zaaikalender/soja",
+        "https://agriworld.nl/sojabonen-teelt-oogsten-gebruik/",
+        "https://moestuinenbloem.nl/sojaboon-fiskeyby-v-edamame-tuin-de-bruijn-zaden/",
+        "https://makkelijkemoestuin.nl/kennisbank/stambonen-zaaien-en-kweken",
+        "https://www.123zaden.nl/downloads/dl/file/id/51/product/0/peulvruchten_sojabonen.pdf",
+        "https://www.harrysfarm.nl/2026/06/01/edamame-soja-bonen-zaaien-2/",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/juni-en-juli-de-eerste-oogst-en-wat-nog-te-zaaien/"
+      ],
+      "verified": true
+    },
+    {
       "slug": "endive",
       "names": {
         "nl": "Andijvie",
@@ -1073,6 +1556,64 @@
       "verified": true
     },
     {
+      "slug": "fig-in-pot",
+      "names": {
+        "nl": "Vijg in pot",
+        "en": "Fig in a pot"
+      },
+      "category": "fruit",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 50,
+      "spacing_cm": 100,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "plant",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": 2,
+          "min_soil_c": 7,
+          "note": {
+            "nl": "Planten of oppotten in het vroege voorjaar tijdens de rustperiode voordat de plant uitloopt.",
+            "en": "Plant or pot up in early spring during dormancy before new growth starts."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 120,
+        "days_max": 160
+      },
+      "difficulty": 2,
+      "feed_cadence_days": null,
+      "depth_mm": null,
+      "germination_days": null,
+      "days_to_transplant": null,
+      "perennial": true,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://www.tuinadvies.nl/planten/fruitbomen/ficus-carica-precoce-de-dalmatie/vijg/",
+        "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/vorstbescherming/hoe-bescherm-je-planten-tegen-vorst/",
+        "https://www.tuinadvies.nl/planten/fruitbomen/ficus-carica-leon-de-vos/vijg/",
+        "https://groei.nl/artikel/vijg-kweken-in-een-pot",
+        "https://velt.nu/node/88",
+        "https://velt.nu/tip/zelf-fruitbomen-en-struiken-kweken",
+        "https://wageningen.groei.nl/opslag/nieuwsbrief-opslag-wageningen/nieuwsbrief-januari-2021",
+        "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/bodem-bemesting/vijgenboom-verplanten/",
+        "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/welke-vijg-voor-jouw-tuin",
+        "https://groei.nl/artikel/fruit-kweken-in-potten",
+        "https://velt.nu/tip/een-fruitboom-struik-voor-elke-stadstuin",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/meststof-vijgenboom/",
+        "https://groei.nl/artikel/ecologisch-tuinieren-in-oktober",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/vijgen-vallen-vroegtijdig-af/",
+        "https://www.vreeken.nl/zoeken/822565/823085/880005/880067/880087/880088/880102/880112",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/vijgenboom-kopen/"
+      ],
+      "verified": true
+    },
+    {
       "slug": "french-bean",
       "names": {
         "nl": "Stamslaboon",
@@ -1113,6 +1654,88 @@
       "sources": [
         "Tuinadvies.nl bonen",
         "IJsheiligen (na 15 mei) — Warentuin / Gardeners World NL"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "garden-cress",
+      "names": {
+        "nl": "Tuinkers",
+        "en": "Garden cress"
+      },
+      "category": "leafy",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 0.2,
+      "spacing_cm": 10,
+      "vak_per_m2": null,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -7,
+          "end_weeks": 2,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Direct buiten zaaien in het vroege voorjaar; verdraagt lichte vorst en kiemt al vanaf 5 °C.",
+            "en": "Direct sow outdoors in early spring; tolerates light frost and germinates from 5 °C."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "first_frost",
+          "start_weeks": -9,
+          "end_weeks": -4,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Najaarsteelt van eind augustus tot begin oktober vóór de zware nachtvorsten.",
+            "en": "Autumn sowing from late August to early October before hard frosts."
+          }
+        },
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -14,
+          "end_weeks": 20,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnenshuis op de vensterbank het hele jaar door te zaaien als kiemgroente.",
+            "en": "Can be sown indoors on the windowsill year-round as microgreens."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 5,
+        "days_max": 28
+      },
+      "difficulty": 1,
+      "feed_cadence_days": null,
+      "depth_mm": 2,
+      "germination_days": 2,
+      "days_to_transplant": null,
+      "perennial": false,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://shop.groei.nl/64684/eetbaar-moestuin/79969/lepidium-sativum",
+        "https://velt.nu/tip/wat-kun-je-het-najaar-zaaien-en-planten",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/lekkere-groentjes-kweken-in-het-najaar/",
+        "https://www.vreeken.nl/301000-tuinkers-gewone-groene",
+        "https://velt.nu/kleine-moestuin",
+        "https://groei.nl/artikel/hoe-zaai-ik-tuinkers",
+        "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/zaaien-het-hele-jaar-door/",
+        "https://beweegt.velt.nu/tienen/2197/tuinindewinter",
+        "https://velt.nu/system/files/media/documenten/leerkrachtenbundel_minimoestuin_op_school.pdf",
+        "https://www.vreeken.nl/zaden/kiemen-microgroenten/p1-90",
+        "https://groei.nl/artikel/groenten-sprouts",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kiemgroenten-of-spruitgroenten",
+        "https://velt.nu/starten-met-een-moestuin",
+        "https://www.tuinadvies.nl/shop/tuin/zaden-bloembollen/groentezaden/kiem-en-spruitgroenten/buzzy-microgreens-tuinkers~200133942/",
+        "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/tuintip-50/",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/nasturtium-officinale-waterkers/",
+        "https://leidschendam.groei.nl/groeninfo/zelf-een-kruidentuintje-maken",
+        "https://www.vreeken.nl/536150-lepidium-sativum"
       ],
       "verified": true
     },
@@ -1220,6 +1843,61 @@
         "keukenplanten.nl",
         "mooiemoestuin.nl",
         "IJsheiligen (na 15 mei) — Warentuin / Gardeners World NL"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "gooseberry-in-pot",
+      "names": {
+        "nl": "Kruisbes in pot",
+        "en": "Gooseberry in a pot"
+      },
+      "category": "fruit",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 30,
+      "spacing_cm": 100,
+      "vak_per_m2": null,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "plant",
+          "anchor": "last_frost",
+          "start_weeks": -24,
+          "end_weeks": -4,
+          "min_soil_c": 0,
+          "note": {
+            "nl": "Plant struiken met kale wortel of uit pot tijdens de rustperiode (november tot maart) in vorstvrije grond.",
+            "en": "Plant bare-root or potted shrubs during the dormant period (November to March) when the soil is unfrozen."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 80,
+        "days_max": 100
+      },
+      "difficulty": 1,
+      "feed_cadence_days": 60,
+      "depth_mm": null,
+      "germination_days": null,
+      "days_to_transplant": null,
+      "perennial": true,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://groei.nl/artikel/kruisbes-kweken-in-een-pot",
+        "https://plantenzoeker.velt.nu/plant/ribes-uva-crispa",
+        "https://velt.nu/tip/zelf-fruitbomen-en-struiken-kweken",
+        "https://www.tuinadvies.nl/planten/physalis-edulis/ananaskers-kaapse-kruisbes/",
+        "https://www.tuinadvies.nl/planten/kleinfruit/ribes-uva-crispa-tatjana/stekelbes-kruisbes-bijna-doornloos/",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/soorten-bessen-in-de-tuin",
+        "https://velt.nu/tip/hoe-plant-je-een-fruitboom-struik",
+        "https://vechtstreek.groei.nl/fileadmin/Afdelingen/afdeling_vecht_venen/Website/Workshops/Fruitbomen_Snoeien_Kwekerij_Snel.pdf",
+        "https://velt.nu/tip/een-geslaagde-fruittuin-de-juiste-plant-op-de-juiste-plaats",
+        "https://groei.nl/artikel/fruit-kweken-in-potten",
+        "https://velt.nu/tip/hoe-verzorg-je-de-bodem-onder-een-fruitboom",
+        "https://velt.nu/plant/kruisbes",
+        "https://www.vreeken.nl/planten-schimmels/fruit/p6-50"
       ],
       "verified": true
     },
@@ -1356,6 +2034,88 @@
       "verified": true
     },
     {
+      "slug": "komatsuna",
+      "names": {
+        "nl": "Komatsuna",
+        "en": "Komatsuna"
+      },
+      "category": "leafy",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 3,
+      "spacing_cm": 20,
+      "vak_per_m2": 4,
+      "sun": "shade-tolerant",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": 0,
+          "min_soil_c": 8,
+          "note": {
+            "nl": "Zaai voor in een koele, lichte ruimte vanaf 6-8 weken voor de vorst.",
+            "en": "Sow indoors in a cool, bright space 6-8 weeks before the last frost."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": -4,
+          "end_weeks": 4,
+          "min_soil_c": 8,
+          "note": {
+            "nl": "Plant afgeharde zaailingen buiten uit vanaf 2-4 weken voor de laatste vorst.",
+            "en": "Transplant hardened-off seedlings outdoors 2-4 weeks before the last frost."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -4,
+          "end_weeks": 20,
+          "min_soil_c": 8,
+          "note": {
+            "nl": "Zaai direct buiten vanaf 4 weken voor de vorst tot in de late zomer.",
+            "en": "Sow directly outdoors from 4 weeks before frost until late summer."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 21,
+        "days_max": 45
+      },
+      "difficulty": 1,
+      "feed_cadence_days": 21,
+      "depth_mm": 8,
+      "germination_days": 7,
+      "days_to_transplant": 21,
+      "perennial": false,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/aziatische-groenten",
+        "https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/komatsuna/",
+        "https://www.jansenzaden.nl/products/spinacia-oleracea-japanse-mosterdspinazie-10610",
+        "https://www.vreeken.nl/267780-gemengde-bladsalade-spectrum",
+        "https://www.vreeken.nl/161000-komatsuna-green-boy-shandersin",
+        "http://www.moestuintips.nl/groenten/bladgroenten/mosterd_spinazie/mosterd_spinazie.php",
+        "https://www.zamnesia.nl/9181-komatsuna-brassica-rapa-perviridis-zaden.html",
+        "https://www.magicgardenseeds.nl/Komatsuna-Brassica-rapa-var-perviridis-zaden",
+        "https://www.keukenplanten.nl/zaaikalender/mizuna",
+        "https://www.tuindreef.nl/mosterd-spinazie-komatsuna-zaden",
+        "https://demoestuinwinkel.nl/products/komatsuna-mosterd-spinazie",
+        "https://seedo.nl/buzzy-seeds-thema?sort=p.price&order=ASC&limit=50&page=3",
+        "https://zadenhof.nl/komatsuna-red-rode-spinazie/",
+        "https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/paksoi/",
+        "https://www.gardenersworldmagazine.nl/inspiratie/ideeen-en-inspiratie-voor-een-moestuin-in-bakken/",
+        "https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/mosterdblad/",
+        "https://www.mooiemoestuin.nl/groenteteelt/bladgewassen/stengelsla/",
+        "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=&pagina=3"
+      ],
+      "verified": true
+    },
+    {
       "slug": "lambs-lettuce",
       "names": {
         "nl": "Veldsla",
@@ -1396,6 +2156,93 @@
       "sources": [
         "mooiemoestuin.nl veldsla",
         "Moesmeisje zaaikalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "lavender",
+      "names": {
+        "nl": "Lavendel (eetbaar)",
+        "en": "Lavender (culinary)"
+      },
+      "category": "herb",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 7,
+      "spacing_cm": 30,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -8,
+          "end_weeks": 0,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Binnenshuis voorzaaien van februari tot april bij minimaal 15-18 °C.",
+            "en": "Sow indoors from February to April at a minimum of 15-18 °C."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 8,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Afgeharde zaailingen na IJsheiligen (half mei) uitplanten in de volle grond.",
+            "en": "Plant out hardened-off seedlings after mid-May (IJsheiligen) into open ground."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 8,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Buiten ter plaatse zaaien vanaf half mei wanneer de bodem voldoende is opgewarmd.",
+            "en": "Sow directly outdoors from mid-May once the soil has sufficiently warmed."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 360,
+        "days_max": 400
+      },
+      "difficulty": 2,
+      "feed_cadence_days": null,
+      "depth_mm": 2,
+      "germination_days": 21,
+      "days_to_transplant": 49,
+      "perennial": true,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://www.tuinadvies.nl/planten/kruiden/lavandula-angustifolia-munstead/lavendel/",
+        "https://www.tuinadvies.nl/planten/kruiden/lavandula-angustifolia-essence-purple/lavendel/",
+        "https://verdeia.eu/nl/products/lavandula-angustifolia-hidcote-blauw-12cm-20cm",
+        "https://greenfingersonline.nl/lavandula/",
+        "https://plantenzoeker.velt.nu/plant/lavandula-angustifolia-lavendula-officinalis",
+        "https://www.dutchgardenseeds.com/kruiden-kweken/lavendel-stekken/",
+        "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/tuinkruiden?groep=227",
+        "https://www.hobbytuinpuurnatuur.nl/product/6686355/lavendel-lavandula-augustifolia-50-zaden",
+        "https://www.123zaden.nl/downloads/dl/file/id/124/product/0/lavendel.pdf",
+        "https://deplantrekkers.com/blogs/nieuws/wanneer-lavendel-aanplanten-de-volledige-gids",
+        "https://demoestuinwinkel.nl/products/sluis_garden_lavendel_echte",
+        "https://www.vreeken.nl/348100-lavendel",
+        "https://www.sluisgarden.com/product/lavender-sweet-violet-blue-verani/",
+        "https://www.keukenplanten.nl/zaaikalender/lavendel",
+        "https://community.makkelijkemoestuin.nl/posts/algemeen-2/mijn-eerste-moestuin-11",
+        "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/snoeien/lavendel-compost/",
+        "https://nl.wikihow.com/Lavendel-kweken-in-potten",
+        "https://www.directplant.nl/tuintips/lavendel-soorten/",
+        "https://www.tuinen.nl/lavendel-in-potten-of-bakken/",
+        "https://www.hornbach.nl/projecten/lavendel-planten-en-verzorgen/",
+        "https://www.bolster.nl/lavendel/c2058",
+        "https://zaaikalender.com/kruiden-kweken/",
+        "https://www.keukenplanten.nl/lavendel-zaaien-stappenplan"
       ],
       "verified": true
     },
@@ -1455,6 +2302,224 @@
       "verified": true
     },
     {
+      "slug": "lemon-balm",
+      "names": {
+        "nl": "Citroenmelisse",
+        "en": "Lemon balm"
+      },
+      "category": "herb",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 5,
+      "spacing_cm": 30,
+      "vak_per_m2": 1,
+      "sun": "shade-tolerant",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": 2,
+          "min_soil_c": 13,
+          "note": {
+            "nl": "Binnen voorzaaien in maart of april op een lichte, warme plek.",
+            "en": "Sow indoors in March or April in a bright, warm location."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 12,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Uitplanten na IJsheiligen wanneer de zaailingen zijn afgehard.",
+            "en": "Plant out after the last spring frosts once seedlings are hardened off."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 0,
+          "end_weeks": 12,
+          "min_soil_c": 13,
+          "note": {
+            "nl": "Buiten ter plekke zaaien vanaf het voorjaar; kiemt optimaal na IJsheiligen.",
+            "en": "Sow directly outdoors from spring; best germination occurs after mid-May."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 20,
+        "days_max": 30
+      },
+      "difficulty": 1,
+      "feed_cadence_days": 30,
+      "depth_mm": 2,
+      "germination_days": 14,
+      "days_to_transplant": 50,
+      "perennial": true,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://midden-kennemerland.groei.nl/fileadmin/Afdelingen/afdeling_midden_kennemerland/Archief/Heiloo/Documenten/PDF/plantbeschrijving_g_totenmet_n.docx.pdf",
+        "https://www.keukenplanten.nl/zaaikalender/citroenmelisse",
+        "https://yarinde.nl/products/citroenmelisse-melissa-officinalis-prod",
+        "https://leidschendam.groei.nl/groeninfo/zelf-een-kruidentuintje-maken",
+        "https://makkelijkemoestuin.nl/kennisbank/testpakket-zaden-2024",
+        "https://www.bijen-en-kruiden.be/zielschrift/2441150_citroenmelisse",
+        "https://demoestuinwinkel.nl/products/sluis_garden_citroenmelisse_citrina",
+        "https://www.tuindreef.nl/kruidenzaden/citroenmelisse-zaden",
+        "https://www.vivara.nl/citroenmelisse-biologisch",
+        "https://zaaikalender.com/kruiden-kweken/",
+        "https://www.keukenplanten.nl/zaden/kruiden/Citroenmelisse-Buzzy-Organic",
+        "https://www.plantsome.nl/products/citroenmelisse-zaden-bio",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/tips-aanleggen-kruidentuin/",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-telen-op-schaduwrijke-plaatsen/",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/kruiden-eenvoudig-te-kweken-deel-1/",
+        "https://velt.nu/keukenkruiden-kweken",
+        "https://www.koopzaden.nl/product/citroenmelisse-zaden-citrina-melissa-bio",
+        "https://www.pokon.nl/plant/item/citroenmelisse-kweken/",
+        "https://www.aveve.be/nl/inspiratie/kruidentuin/bemesten",
+        "https://www.baldur-nederland.nl/onion/content/plant--und-verzorgingstips/groente-und-kruiden/citroenmelisse--melissa-officinalis",
+        "https://dcm-info.nl/hobby/tuintips/zo-plant-en-verzorg-je-kruiden-in-potten-en-bakken",
+        "https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/zelf-citroenmelisse-kweken/",
+        "https://www.vreeken.nl/zaden/meerjarige-planten/geneeskrachtige-kruiden/p4-20",
+        "https://www.vreeken.nl/zaden/meerjarige-planten/groepen"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "lemon-verbena",
+      "names": {
+        "nl": "Citroenverbena",
+        "en": "Lemon verbena"
+      },
+      "category": "herb",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 15,
+      "spacing_cm": 35,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "plant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 10,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Plant of verplaats kuipplanten na IJsheiligen naar buiten in warme grond.",
+            "en": "Plant or move container shrubs outside after mid-May frosts into warm soil."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 30,
+        "days_max": 60
+      },
+      "difficulty": 2,
+      "feed_cadence_days": 21,
+      "depth_mm": 2,
+      "germination_days": 21,
+      "days_to_transplant": null,
+      "perennial": true,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://www.vreeken.nl/831320-citroenverbena",
+        "https://www.tuinadvies.nl/planten/kruiden/aloysia-triphylla/citroenverbena/",
+        "https://groei.nl/artikel/hoe-zaai-ik-citroenverbena",
+        "https://greenfingersonline.nl/citroenverbena-aloysia-triphylla/",
+        "https://www.zaaikalender.be/plant/citroenverbena-planten",
+        "https://www.keukenplanten.nl/zaaikalender-moestuin-maart",
+        "https://www.keukenplanten.nl/zaaikalender/citroenverbena",
+        "https://www.mooiemoestuin.nl/moestuin/tuinieren-overig/tuinieren-in-potten/kruiden-en-fruit-in-potten/",
+        "https://www.intratuin.nl/plantengids/citroenverbena-verveine-aloysia-triphylla-snoeien-stekken",
+        "https://gebrdegier.nl/assortiment/kruiden+op+pot/citroenverbena",
+        "https://community.makkelijkemoestuin.nl/posts/algemeen-2/mijn-eerste-mm-jaar",
+        "https://groei.nl/artikel/kruiden-oogsten-en-drogen",
+        "https://groei.nl/artikel/tuinklussen-juli",
+        "https://www.tuinadvies.nl/tuininfo/planten/sierplanten/hoe-stekken-om-kuipplanten-te-vermeerderen/"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "lemongrass",
+      "names": {
+        "nl": "Citroengras",
+        "en": "Lemongrass"
+      },
+      "category": "herb",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 5,
+      "spacing_cm": 30,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": 2,
+          "min_soil_c": 20,
+          "note": {
+            "nl": "Binnenshuis voorzaaien op een warme, lichte plek bij minimaal 20 °C.",
+            "en": "Sow indoors in a warm, bright spot at minimum 20 °C."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 8,
+          "min_soil_c": 20,
+          "note": {
+            "nl": "Uitplanten na IJsheiligen wanneer alle vorstgevaar geweken is.",
+            "en": "Plant out after the Ice Saints once all risk of frost has passed."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 6,
+          "end_weeks": 11,
+          "min_soil_c": 20,
+          "note": {
+            "nl": "Buiten zaaien vanaf eind mei als de grond goed is opgewarmd.",
+            "en": "Sow directly outdoors from late May once the soil has warmed up."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 60,
+        "days_max": 75
+      },
+      "difficulty": 2,
+      "feed_cadence_days": 14,
+      "depth_mm": 5,
+      "germination_days": 18,
+      "days_to_transplant": 50,
+      "perennial": true,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://www.tuinadvies.nl/planten/kruiden/cymbopogon-citratus/citroengras-citronella/",
+        "https://www.detuinoptafel.com/citroengras-kweken/",
+        "https://www.keukenplanten.nl/zaaikalender/citroengras",
+        "https://www.dutchgardenseeds.com/kruiden-kweken/citroengras-zaaien-en-kweken/",
+        "https://www.vreeken.nl/339000-citroengras",
+        "https://www.123zaden.nl/downloads/dl/file/id/100/product/0/citroengras.pdf",
+        "https://www.youtube.com/watch?v=VyUS7uyZGDA",
+        "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/planten-tegen-muggen/",
+        "https://zaaikalender.com/",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-kweken-op-terras/"
+      ],
+      "verified": true
+    },
+    {
       "slug": "lettuce",
       "names": {
         "nl": "Sla",
@@ -1510,6 +2575,95 @@
       "verified": true
     },
     {
+      "slug": "lovage",
+      "names": {
+        "nl": "Lavas (maggiplant)",
+        "en": "Lovage"
+      },
+      "category": "herb",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 15,
+      "spacing_cm": 50,
+      "vak_per_m2": 1,
+      "sun": "shade-tolerant",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": -2,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Binnenshuis voorzaaien in maart of april, ongeveer 6 tot 8 weken voor IJsheiligen.",
+            "en": "Sow indoors in March or April, about 6 to 8 weeks before Ice Saints."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 0,
+          "end_weeks": 10,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Ter plekke zaaien vanaf half april tot juni/juli zodra de bodem opwarmt.",
+            "en": "Direct sow outdoors from mid-April through June/July once the soil warms."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 8,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Uitplanten rond of direct na IJsheiligen (half mei) tot juni.",
+            "en": "Transplant outdoors around or directly after Ice Saints (mid-May) through June."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 30,
+        "days_max": 45
+      },
+      "difficulty": 1,
+      "feed_cadence_days": 21,
+      "depth_mm": 5,
+      "germination_days": 21,
+      "days_to_transplant": 50,
+      "perennial": true,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/tips-aanleggen-kruidentuin/",
+        "https://www.semaille.com/nl/meerjarige-en-tweejarige-kruiden/961-lavas-5415166000880.html",
+        "https://moestuincursus.nl/almanak/kruiden/maggiplant-lavas/",
+        "https://www.keukenplanten.nl/zaaikalender/lavas",
+        "https://plantenzoeker.velt.nu/plant/levisticum-officinale",
+        "https://www.tuinland.nl/product/lavas-maggiplant",
+        "https://www.lekkerbuitenzijn.nl/de-moestuin/kruiden/lavas/",
+        "https://www.aveve.be/nl/inspiratie/kruidentuin/kruiden-planten-tips",
+        "https://www.vreeken.nl/353000-maggikruid",
+        "https://www.koopzaden.nl/product/maggikruid-lavas-bio",
+        "https://ecotuintje.nl/product/lavas/",
+        "https://www.magicgardenseeds.nl/Lavas-Levisticum-officinale-bio-zaad",
+        "https://makkelijkemoestuin.nl/kennisbank/kruiden-kweken-in-potten-of-moestuinbak",
+        "https://moestuinenbloem.nl/lavas-maggiplant/",
+        "https://community.makkelijkemoestuin.nl/profiel/robertskruidentuin",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/vind-de-juiste-kruidenmatch/",
+        "https://beweegt.velt.nu/braas/download.php?bestand=zadenlijst2013_lr.pdf",
+        "https://velt.nu/kruiden",
+        "https://elkedaggroener.nl/wat-te-doen-met-maggiplant-lavas/",
+        "https://nl-nl.bakker.com/products/lavas-bio",
+        "https://demoestuinwinkel.nl/products/sluis_garden_maggikruid",
+        "https://allezadenkopen.nl/products/maggiplant-lavas",
+        "https://velt.nu/keukenkruiden-kweken",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-kweken-op-terras/",
+        "https://groei.nl/artikel/eetbare-bostuin-kleine-tuin-tips-vera-greutink"
+      ],
+      "verified": true
+    },
+    {
       "slug": "mangetout",
       "names": {
         "nl": "Peul",
@@ -1550,6 +2704,87 @@
       "sources": [
         "Stadstuinieren",
         "Tuinadvies.nl bonen"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "marjoram",
+      "names": {
+        "nl": "Marjolein",
+        "en": "Marjoram"
+      },
+      "category": "herb",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 7.5,
+      "spacing_cm": 25,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": -2,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Binnen voorzaaien op een lichte plek; zaden nauwelijks bedekken omdat het lichtkiemers zijn.",
+            "en": "Sow indoors in a bright spot; barely cover seeds as they require light to germinate."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 7,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Afharden en buiten uitplanten na IJsheiligen zodra de kans op nachtvorst is geweken.",
+            "en": "Harden off and plant outdoors after the last frost once danger of freezing nights has passed."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 2,
+          "end_weeks": 8,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Buiten zaaien in opgewarmde grond; zaden heel oppervlakkig aandrukken.",
+            "en": "Sow directly outdoors in warm soil; press seeds lightly into the surface."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 30,
+        "days_max": 45
+      },
+      "difficulty": 2,
+      "feed_cadence_days": 42,
+      "depth_mm": 1,
+      "germination_days": 14,
+      "days_to_transplant": 35,
+      "perennial": false,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://groei.nl/artikel/warmteminnaars-zaai-je-niet-te-vroeg",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-oregano/",
+        "https://www.vreeken.nl/354000-majoraan",
+        "https://beweegt.velt.nu/braas/download.php?bestand=zadenlijst2013_lr.pdf",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/onmisbare-kruiden/",
+        "https://plantenzoeker.velt.nu/plant/origanum-majorana-origanum-hortensis",
+        "https://groei.nl/artikel/hoe-zaai-ik-oregano",
+        "https://www.vreeken.nl/356005-oregano",
+        "https://demoestuinwinkel.nl/products/sluis_garden_oregano_-_marjolein",
+        "https://shop.groei.nl/64684/eetbaar-moestuin/105203/origanum-majorana",
+        "https://www.gardenseeds.nl/zaaien/",
+        "https://www.deoosteindeonline.nl/product/griekse-oreganum-zaden-wilde-marjolein",
+        "https://zaaikalender.com/kruiden-kweken/",
+        "https://makkelijkemoestuin.nl/kennisbank/kruiden-kweken-in-potten-of-moestuinbak",
+        "https://velt.nu/kruiden",
+        "https://groei.nl/artikel/kruiden-oogsten-en-drogen",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/kruiden-eenvoudig-te-kweken-deel-2/"
       ],
       "verified": true
     },
@@ -1654,6 +2889,253 @@
       "sources": [
         "Florum kruiden-zaaikalender",
         "mooiemoestuin.nl mediterrane kruiden"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "mizuna",
+      "names": {
+        "nl": "Mizuna",
+        "en": "Mizuna"
+      },
+      "category": "leafy",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 5,
+      "spacing_cm": 20,
+      "vak_per_m2": 9,
+      "sun": "shade-tolerant",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": 0,
+          "min_soil_c": 7,
+          "note": {
+            "nl": "Voorzaaien binnenshuis vanaf de late winter voor een vroege teelt",
+            "en": "Sow indoors from late winter for an early spring crop"
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 4,
+          "min_soil_c": 7,
+          "note": {
+            "nl": "Uitplanten kan ruim voor IJsheiligen zodra de eerste echte blaadjes verschijnen",
+            "en": "Transplant outdoors well before IJsheiligen once first true leaves develop"
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -4,
+          "end_weeks": 6,
+          "min_soil_c": 7,
+          "note": {
+            "nl": "Direct buiten zaaien vanaf half maart tot mei",
+            "en": "Direct sow outdoors from mid-March through May"
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 21,
+        "days_max": 45
+      },
+      "difficulty": 1,
+      "feed_cadence_days": 14,
+      "depth_mm": 5,
+      "germination_days": 7,
+      "days_to_transplant": 21,
+      "perennial": false,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://makkelijkemoestuin.nl/kennisbank/welke-groentes-kunnen-tegen-kou",
+        "https://makkelijkemoestuin.nl/starten-in-september",
+        "https://www.123zaden.nl/mizuna",
+        "https://demoestuinwinkel.nl/products/sluis_garden_mizuna_",
+        "https://www.keukenplanten.nl/zaaikalender/mizuna",
+        "https://www.magicgardenseeds.nl/Mizuna-Brassica-rapa-var-nipposinica-zaden",
+        "https://www.keukenplanten.nl/zaaikalender-moestuin-oktober",
+        "https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/mizuna-in-eigen-tuin/",
+        "https://www.robbiesmoestuin.nl/groeten-a-z/mizuna",
+        "https://www.123zaden.nl/downloads/dl/file/id/39/product/0/mizuna.pdf",
+        "https://nl-nl.bakker.com/products/raapsteel-mizuna-bio",
+        "https://groei.nl/artikel/zelf-aziatische-groenten-kweken-en-zaden-bestellen",
+        "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing",
+        "https://groei.nl/artikel/saladebar-aan-huis",
+        "https://www.vreeken.nl/223200-mizuna-green-leaved",
+        "https://plukkers.com/blogs/zaaien-en-planten/welke-trays-bakjes-potjes-potten-onderstellen-en-onderschalen-gebruiken-in-de-moestuin",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-telen-op-schaduwrijke-plaatsen"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "mustard-greens",
+      "names": {
+        "nl": "Bladmosterd",
+        "en": "Mustard greens"
+      },
+      "category": "leafy",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 3,
+      "spacing_cm": 20,
+      "vak_per_m2": 9,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -8,
+          "end_weeks": 2,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Voorzaaien binnenshuis of onder glas voor een vroege voorjaarsteelt.",
+            "en": "Sow indoors or under glass for an early spring crop."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": 4,
+          "min_soil_c": 4,
+          "note": {
+            "nl": "Direct buiten zaaien kan al vroeg, mosterdblad verdraagt koude grond goed.",
+            "en": "Direct sow outdoors early, as mustard greens tolerate cold soil well."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": -4,
+          "end_weeks": 4,
+          "min_soil_c": 4,
+          "note": {
+            "nl": "Uitplanten zodra de zaailingen 2 tot 4 echte blaadjes hebben.",
+            "en": "Transplant outdoors once seedlings have 2 to 4 true leaves."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 21,
+        "days_max": 60
+      },
+      "difficulty": 1,
+      "feed_cadence_days": 21,
+      "depth_mm": 5,
+      "germination_days": 7,
+      "days_to_transplant": 20,
+      "perennial": false,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://www.vreeken.nl/136120-amsoi-purple-frills",
+        "https://community.makkelijkemoestuin.nl/posts/algemeen-2/amsoi-uit-de-az-sla-geoogst-voor-stampotje",
+        "https://www.tuinadvies.nl/planten/kruiden/brassica-juncea-rugosa/sarepta-mosterd-mosterdkool-bladmosterd/",
+        "https://makkelijkemoestuin.nl/starten-in-september",
+        "https://www.bolster.nl/bladmosterd-telen-onze-tips/t24060",
+        "https://groei.nl/artikel/saladebar-aan-huis",
+        "https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/mosterdblad/",
+        "https://shop.groei.nl/62821/zaden/65122/amsoi-red-giant",
+        "https://www.grove.eco/nl/planten/sinapis/",
+        "https://zaaikalender.com/april/",
+        "https://beweegt.velt.nu/braas/download.php?bestand=zadenlijst2013_lr.pdf",
+        "https://zaaikalender.com/",
+        "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken",
+        "https://stadstuinieren.nl/artikel/paars-mosterdblad-kweken-en-oogsten/",
+        "https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/ho-mi-in-je-tuin/",
+        "https://www.magicgardenseeds.nl/Blad-mosterd-Rouge-Metis-Brassica-juncea-bio-zaad",
+        "https://www.semaille.com/nl/bruine-of-chinese-mosterd/571-mosterd-rood-chinese-red-giant-5415166009869.html",
+        "https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/amsoi-in-je-moestuin/",
+        "https://velt.nu/keukenkruiden-kweken"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "nasturtium",
+      "names": {
+        "nl": "Oost-Indische kers",
+        "en": "Nasturtium"
+      },
+      "category": "herb",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 5,
+      "spacing_cm": 30,
+      "vak_per_m2": 1,
+      "sun": "shade-tolerant",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -4,
+          "end_weeks": 0,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Voorzaaien in potjes om wortelverstoring bij het uitplanten te voorkomen.",
+            "en": "Sow indoors in pots to avoid root disturbance when planting out."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 6,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Afgeharde zaailingen pas na IJsheiligen buiten uitplanten.",
+            "en": "Plant hardened-off seedlings outdoors only after the last frost."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 0,
+          "end_weeks": 6,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Ter plekke buiten zaaien vanaf half april tot mei in opgewarmde grond.",
+            "en": "Sow outdoors directly from mid-April through May once soil warms up."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 30,
+        "days_max": 70
+      },
+      "difficulty": 1,
+      "feed_cadence_days": null,
+      "depth_mm": 20,
+      "germination_days": 10,
+      "days_to_transplant": 35,
+      "perennial": false,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://community.makkelijkemoestuin.nl/posts/vragen-2/niet-de-beste-plek-oost-indische-kers",
+        "https://velt.nu/tip/groenbemesters-voorkomen-dat-jouw-perceel-bloot-ligt",
+        "https://groei.nl/artikel/zaaien-voor-beginners",
+        "https://www.vreeken.nl/558770-tropaeolum-majus-lobbianum-luteus",
+        "https://makkelijkemoestuin.nl/kennisbank/oost-indische-kers-zaaien-en-kweken",
+        "https://www.deoosteindeonline.nl/product/tropaeolum-zaden-jewel-oost-indische-kers",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/nuttige-bloemen-in-de-moestuin/",
+        "https://groei.nl/artikel/warmteminnaars-zaai-je-niet-te-vroeg",
+        "https://makkelijkemoestuin.nl/shop/zaden/oi-kers",
+        "https://www.mooiemoestuin.nl/moestuin-bloemen/tropaeolum/",
+        "https://makkelijkemoestuin.nl/blog/planty-mini-moestuin-voor-de-hele-wereld",
+        "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/tomaat-groeit-niet-meer",
+        "https://shop.groei.nl/62821/zaden/65144/tropaeolum-majus-cherry-rose",
+        "https://www.tuinadvies.nl/tuininfo/planten/sierplanten/oost-indische-kers-zaden-zaaien/",
+        "https://www.vreeken.nl/693410-lima-kers-variegated-leaf",
+        "https://makkelijkemoestuin.nl/kennisbank/kappertjes-van-oost-indische-kers",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/zaaitips-zaaicursus-groenten/",
+        "https://velt.nu/tip/wat-doe-je-tegen-bladluizen-de-moestuin",
+        "https://groei.nl/artikel/bloeiende-balkon-prijs"
       ],
       "verified": true
     },
@@ -1949,6 +3431,88 @@
       "verified": true
     },
     {
+      "slug": "pea-shoots",
+      "names": {
+        "nl": "Erwtenscheuten",
+        "en": "Pea shoots"
+      },
+      "category": "leafy",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 1,
+      "spacing_cm": 1,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -10,
+          "end_weeks": -6,
+          "min_soil_c": 2,
+          "note": {
+            "nl": "Binnen voorzaaien op de vensterbank kan jaarrond, of vanaf februari tot begin maart.",
+            "en": "Sow indoors on the windowsill year-round, or from February to early March."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -8,
+          "end_weeks": 2,
+          "min_soil_c": 2,
+          "note": {
+            "nl": "Buiten zaaien vanaf half februari (10-12 weken vóór IJsheiligen) tot april/mei.",
+            "en": "Direct sow outdoors from mid-February (10-12 weeks before Ice Saints) through April/May."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "first_frost",
+          "start_weeks": -6,
+          "end_weeks": 0,
+          "min_soil_c": 2,
+          "note": {
+            "nl": "Najaarszaai buiten vanaf september (4-6 weken vóór de eerste vorst) tot in de late herfst.",
+            "en": "Autumn outdoor sowing from September (4-6 weeks before first frost) into late autumn."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 9,
+        "days_max": 21
+      },
+      "difficulty": 1,
+      "feed_cadence_days": null,
+      "depth_mm": 15,
+      "germination_days": 7,
+      "days_to_transplant": null,
+      "perennial": false,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://makkelijkemoestuin.nl/kennisbank/voorkiemen-van-peultjes-erwten-en-sugarsnaps",
+        "https://makkelijkemoestuin.nl/kennisbank/wintererwt-zaaien-en-kweken",
+        "https://www.vreeken.nl/zaden/groenten-fruit/erwten-peulen/p1-40",
+        "https://stadstuinieren.nl/recept/erwtenscheuten/",
+        "https://groei.nl/artikel/verrassende-wintergroentjes-erwtenkiemen",
+        "https://stadstuinieren.nl/artikel/zaaien-in-februari/",
+        "https://beweegt.velt.nu/tienen/2197/tuinindewinter",
+        "https://stadstuinieren.nl/artikel/erwten-peulen-en-tuinbonen-voorzaaien-vlog/",
+        "https://groei.nl/artikel/doperwt",
+        "https://deventer.groei.nl/actueel/moestuinieren-de-moestuin/de-moestuin/zaaien-en-aanplanten-van-groenten-in-de-moestuin",
+        "https://community.makkelijkemoestuin.nl/posts/recepten-2/erwtenscheuten-pesto",
+        "https://community.makkelijkemoestuin.nl/posts/algemeen-2/eindelijk-starten",
+        "https://www.bolster.nl/groene-erwt-kiemgroente-pisum-sativum/p9093",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/de-vierkante-meter-moestuin-deel-4/",
+        "https://www.vreeken.nl/395710-mengsel-groenbemesters",
+        "https://velt.nu/system/files/media/documenten/Handboek%20Schooltuinen%20H5.pdf",
+        "https://wageningen.groei.nl/opslag/nieuwsbrief-opslag-wageningen/nieuwsbrief-februari-2021",
+        "https://community.makkelijkemoestuin.nl/posts/recepten-2/palmkool-smootie-met-mango"
+      ],
+      "verified": true
+    },
+    {
       "slug": "pepper",
       "names": {
         "nl": "Paprika",
@@ -2166,6 +3730,176 @@
       "verified": true
     },
     {
+      "slug": "purslane",
+      "names": {
+        "nl": "Postelein",
+        "en": "Summer purslane"
+      },
+      "category": "leafy",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 3,
+      "spacing_cm": 5,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 19,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Buiten zaaien na IJsheiligen in opgewarmde grond tot eind augustus.",
+            "en": "Direct sow outdoors after IJsheiligen in warm soil until late August."
+          }
+        },
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -2,
+          "end_weeks": 16,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Voorzaaien onder glas vanaf april tot augustus bij minimaal 15-20 °C.",
+            "en": "Sow indoors or under glass from April to August at minimum 15-20 °C."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 6,
+          "end_weeks": 11,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Uitplanten in de late lente na IJsheiligen zodra de grond goed opgewarmd is.",
+            "en": "Transplant in late spring after IJsheiligen once soil has warmed up thoroughly."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 21,
+        "days_max": 35
+      },
+      "difficulty": 1,
+      "feed_cadence_days": 7,
+      "depth_mm": 2,
+      "germination_days": 7,
+      "days_to_transplant": 18,
+      "perennial": false,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://www.tuinadvies.nl/planten/kruiden/portulaca-oleracea/postelein-zomerpostelein/",
+        "https://www.vreeken.nl/218000-postelein-groene-gewone",
+        "https://www.mooiemoestuin.nl/groenteteelt/bladgewassen/postelein/",
+        "https://ecotuintje.nl/product/zomerpostelein/",
+        "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/moestuinplannen-maken-in-januari/",
+        "https://www.moestuinforum.nl/topic/33540-postelein-kweken-advies-gevraagd/",
+        "https://zaaikalender.com/augustus/",
+        "https://plukkers.com/products/zomerpostelein",
+        "https://www.sluisgarden.com/product/purslane-green/",
+        "https://zaaikalender.com/",
+        "https://www.pokon.nl/plant/item/zomerpostelein/",
+        "https://stadstuinieren.nl/artikel/postelein-kweken/",
+        "https://makkelijkemoestuin.nl/kennisbank/winterpostelein-zaaien-en-kweken",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/de-vierkante-meter-moestuin/",
+        "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/tuintip-26",
+        "https://vtvdekrommeelleboog.nl/?page_id=286",
+        "https://plukkers.com/blogs/zaaien-en-planten/voorzaaien",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-telen-in-de-winter",
+        "https://beweegt.velt.nu/braas/files/zaden_oogsten_bestuiving.pdf"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "radicchio",
+      "names": {
+        "nl": "Radicchio (roodlof)",
+        "en": "Radicchio"
+      },
+      "category": "leafy",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 10,
+      "spacing_cm": 30,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 12,
+          "min_soil_c": 10,
+          "note": {
+            "nl": "Zaai in perspotten of trays vanaf IJsheiligen tot juli voor de herfst- en winterteelt.",
+            "en": "Sow in trays or plug pots from mid-May through July for the autumn and winter crop."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 8,
+          "end_weeks": 14,
+          "min_soil_c": 10,
+          "note": {
+            "nl": "Zaai ter plaatse vanaf half juni tot eind juli; zaaien vóór de langste dag geeft verhoogde kans op doorschieten.",
+            "en": "Sow directly from mid-June to late July; sowing before the solstice risks premature bolting."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 8,
+          "end_weeks": 16,
+          "min_soil_c": 10,
+          "note": {
+            "nl": "Plant zaailingen uit met 4-5 echte bladeren, minstens 6-8 weken voor de eerste herfstvorst.",
+            "en": "Plant out seedlings with 4-5 true leaves, at least 6-8 weeks before the first autumn frost."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 50,
+        "days_max": 90
+      },
+      "difficulty": 2,
+      "feed_cadence_days": 21,
+      "depth_mm": 5,
+      "germination_days": 10,
+      "days_to_transplant": 30,
+      "perennial": false,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://deventer.groei.nl/actueel/moestuinieren-de-moestuin/de-moestuin/bladgroenten-voor-de-moestuin",
+        "https://plukkers.com/blogs/beschermen/vorst-in-de-moestuin",
+        "https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/radicchio-zelf-telen/",
+        "https://www.vreeken.nl/070300-bonte-roodlof-variegata-precoce-romea-variegata-di-lusia",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/september-oogst-er-op-los-in-je-moestuin/",
+        "https://www.keukenplanten.nl/zaaikalender/roodlof",
+        "https://www.vivavera.be/groenten/radicchio_rosso",
+        "https://www.bolster.nl/radicchio-rosso-telen-onze-tips/t22043",
+        "https://www.vreeken.nl/070200-roodlof-indigo",
+        "https://www.vreeken.nl/zaden/groenten-fruit/verfplanten/p2-15",
+        "https://www.magicgardenseeds.nl/Radicchio-Palla-Rossa-Cichorium-intybus-var-foliosum-zaden",
+        "https://www.vreeken.nl/070270-roodlof-red-palla-rossa-rosso-di-chioggia",
+        "https://appeltern.nl/nl/tuinadvies/plantenencyclopedie/cichorium_intybus_palla_rossa_2_roodlof_radiccio/",
+        "https://groei.nl/artikel/ecologisch-tuinieren-in-september",
+        "https://www.zadengids.be/nl/zaden-detail/c/47/p/116/groentenkruiden/roodlof/rossa-di-verona/",
+        "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/roodlof",
+        "https://edepot.wur.nl/249743",
+        "https://mergenmetz.nl/tuin/groentesoorten/radicchio/",
+        "https://www.magicgardenseeds.nl/Orchideeensalade-radicchio-Variegata-di-Castelfranco-Cichorium-intybus-var-foliosum-zaden",
+        "https://edepot.wur.nl/354094",
+        "https://edepot.wur.nl/252001",
+        "https://www.vreeken.nl/070250-roodlof-rossa-di-treviso",
+        "https://www.mooiemoestuin.nl/groenteteelt/bladgewassen/radicchio/"
+      ],
+      "verified": true
+    },
+    {
       "slug": "radish",
       "names": {
         "nl": "Radijs",
@@ -2206,6 +3940,77 @@
       "sources": [
         "Tuinadvies.nl moestuinklussen",
         "Gardeners World NL jaarkalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "raspberry-in-pot",
+      "names": {
+        "nl": "Framboos in pot",
+        "en": "Raspberry in a pot"
+      },
+      "category": "fruit",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 10,
+      "spacing_cm": 50,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "plant",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": 0,
+          "min_soil_c": 0,
+          "note": {
+            "nl": "Plant slapende wortels of potplanten in het voorjaar op vorstvrije dagen.",
+            "en": "Plant dormant canes or potted plants in spring on frost-free days."
+          }
+        },
+        {
+          "type": "plant",
+          "anchor": "first_frost",
+          "start_weeks": -4,
+          "end_weeks": 4,
+          "min_soil_c": 0,
+          "note": {
+            "nl": "Plant kale wortels of containerplanten in het najaar voor de vorst.",
+            "en": "Plant bare-root canes or potted plants in autumn before hard frosts."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 120,
+        "days_max": 450
+      },
+      "difficulty": 1,
+      "feed_cadence_days": 21,
+      "depth_mm": null,
+      "germination_days": null,
+      "days_to_transplant": null,
+      "perennial": true,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/frambozen-woekeren-tegengaan/",
+        "https://groei.nl/artikel/fruit-kweken-in-potten",
+        "https://www.tuinadvies.nl/planten/kleinfruit/rubus-idaeus-polka/herfstframboos/",
+        "https://www.tuinadvies.nl/planten/kleinfruit/rubus-idaeus-enrosadira/framboos/",
+        "https://velt.nu/tip/hoe-plant-je-een-fruitboom-struik",
+        "https://velt.nu/tip/zelf-fruitbomen-en-struiken-kweken",
+        "https://velt.nu/system/files/media/documenten/samenaankoop-fruit2025.pdf",
+        "https://www.vreeken.nl/116000-framboos-purple-mix",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/fruit-voor-beginners/",
+        "https://makkelijkemoestuin.nl/kennisbank/frambozen-in-een-moestuinbak",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-telen-in-de-winter",
+        "https://groei.nl/artikel/framboos-kweken-in-een-pot",
+        "https://groei.nl/artikel/herfstframbozen-uitdunnen",
+        "https://www.vreeken.nl/822160-pot-zomerframboos-ruby-beauty-bonbonberry-yummy",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/zoete-frambozen",
+        "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/bodem-bemesting/albatros-meststoffen/",
+        "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/bodem-bemesting/agapanthus-mest-7-14-28/",
+        "https://community.makkelijkemoestuin.nl/posts/vragen-2/vraag-over-frambozen-en-blauwe-bes"
       ],
       "verified": true
     },
@@ -2261,6 +4066,71 @@
       "sources": [
         "Allezadenkopen zaaikalender",
         "directplant moestuinkalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "redcurrant-in-pot",
+      "names": {
+        "nl": "Rode bes in pot",
+        "en": "Redcurrant in a pot"
+      },
+      "category": "fruit",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 35,
+      "spacing_cm": 80,
+      "vak_per_m2": null,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "plant",
+          "anchor": "first_frost",
+          "start_weeks": -4,
+          "end_weeks": 4,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Plant kale wortels of containerstruiken in het najaar; dit is het ideale plantseizoen zolang de grond vorstvrij is.",
+            "en": "Plant bare-root or potted bushes in autumn; this is the optimal planting time provided the ground is not frozen."
+          }
+        },
+        {
+          "type": "plant",
+          "anchor": "last_frost",
+          "start_weeks": -10,
+          "end_weeks": 0,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Plant in het vroege voorjaar voor het uitlopen en ruim voor de laatste nachtvorst.",
+            "en": "Plant in early spring before bud break and well before the final spring frosts."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 90,
+        "days_max": 250
+      },
+      "difficulty": 1,
+      "feed_cadence_days": null,
+      "depth_mm": null,
+      "germination_days": null,
+      "days_to_transplant": null,
+      "perennial": true,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://groei.nl/artikel/aalbes-kweken-in-een-pot",
+        "https://www.moestuinforum.nl/topic/9281-rode-bes-zaaien/",
+        "https://velt.nu/system/files/media/documenten/samenaankoop%20fruit2022.pdf",
+        "https://www.keukenplanten.nl/zaaikalender/aalbes",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/aalbes-bloeit-niet/",
+        "https://velt.nu/tip/hoe-plant-je-een-fruitboom-struik",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/aalbessen-rode-bes-trosbes-snoeien/",
+        "https://www.tuinadvies.nl/tuininfo/planten/sierplanten/groente-courgette",
+        "https://www.tuinadvies.nl/planten/kleinfruit/ribes-rubrum-rouge/aalbes-rode-bes-trosbes/",
+        "https://velt.nu/tip/een-fruitboom-struik-voor-elke-stadstuin",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/soorten-bessen-in-de-tuin",
+        "https://stadstuinieren.nl/artikel/aalbessen-kweken-en-oogsten/"
       ],
       "verified": true
     },
@@ -2695,6 +4565,75 @@
       "verified": true
     },
     {
+      "slug": "stevia",
+      "names": {
+        "nl": "Stevia",
+        "en": "Stevia"
+      },
+      "category": "herb",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 4,
+      "spacing_cm": 25,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -8,
+          "end_weeks": 2,
+          "min_soil_c": 20,
+          "note": {
+            "nl": "Binnenshuis voorzaaien bij minstens 20 °C op een warme, lichte plek; zaden zijn lichtkiemers.",
+            "en": "Sow indoors at minimum 20 °C in a warm, bright spot; seeds need light to germinate."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 11,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Uitplanten na IJsheiligen zodra het buiten warm en vorstvrij is.",
+            "en": "Plant out after the last night frosts (Ice Saints) once warm weather has settled."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 40,
+        "days_max": 60
+      },
+      "difficulty": 2,
+      "feed_cadence_days": 21,
+      "depth_mm": 1,
+      "germination_days": 18,
+      "days_to_transplant": 70,
+      "perennial": true,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://www.tuinadvies.nl/planten/kruiden/stevia-rebaudiana/stevia-honingkruid-stepa-suikerplantje/",
+        "https://www.tuinadvies.be/planten/kruiden/stevia-rebaudiana/stevia-honingkruid-stepa-suikerplantje/",
+        "https://www.koopzaden.nl/product/stevia-zaden-honingplant",
+        "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/tuinkruiden?groep=242",
+        "https://www.vreeken.nl/362100-suikerblad",
+        "https://www.keukenplanten.nl/zaaikalender/stevia",
+        "https://www.zamnesia.nl/blog-wat-je-over-stevia-zou-moeten-weten-n2806",
+        "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/tuinkruiden/stevia-rebaudiana/stevia-honingkruid",
+        "https://www.mooiemoestuin.nl/kruiden/stevia/",
+        "https://www.intratuin.nl/intratuin-kruidenzaad-suikerplantje-stevia-reboudiana.html",
+        "https://www.compo.be/nl/advies/planten/kruiden-groenten-fruit/stevia",
+        "https://plukkers.com/blogs/gewasinfo/stevia-zelf-kweken",
+        "https://www.verticalfarm.nl/kruiden/stevia/",
+        "https://nl-nl.bakker.com/products/suikerplantje",
+        "https://www.feestvoorvogels.nl/product/buzzy-stevia-suikerplantje-of-honingkruid/",
+        "https://plukkers.com/blogs/zaaien-en-planten/voorzaaien"
+      ],
+      "verified": true
+    },
+    {
       "slug": "strawberry",
       "names": {
         "nl": "Aardbei",
@@ -2735,6 +4674,92 @@
       "sources": [
         "Groei & Bloei aardbeien",
         "Makkelijke Moestuin community"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "summer-savory",
+      "names": {
+        "nl": "Bonenkruid",
+        "en": "Summer savory"
+      },
+      "category": "herb",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 1.5,
+      "spacing_cm": 20,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": 0,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Binnen voorzaaien; zaden zijn lichtkiemers en nauwelijks bedekken.",
+            "en": "Sow indoors; seeds are light germinators and should barely be covered."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 8,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Afharden en buiten uitplanten na IJsheiligen wanneer vorstgevaar geweken is.",
+            "en": "Harden off and plant out after mid-May once danger of frost has passed."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 10,
+          "min_soil_c": 12,
+          "note": {
+            "nl": "Buiten ter plekke zaaien na IJsheiligen in opgewarmde grond; oppervlakkig zaaien.",
+            "en": "Sow directly outdoors after mid-May in warmed soil; surface sow."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 30,
+        "days_max": 45
+      },
+      "difficulty": 1,
+      "feed_cadence_days": 35,
+      "depth_mm": 1,
+      "germination_days": 14,
+      "days_to_transplant": 35,
+      "perennial": false,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://www.keukenplanten.nl/zaaikalender/bonenkruid",
+        "https://www.jansenzaden.nl/products/satureja-hortensis-bonenkruid-10253",
+        "https://www.intratuin.nl/intratuin-kruidenzaad-bonenkruid-eenjarige-satureja-hortensis.html",
+        "https://www.vreeken.nl/337005-bonenkruid-eenjarig-gewone",
+        "https://www.koopbloembollen.nl/product/bonenkruid-eenjarig-satureja-hortensis-bio",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/groente-bonen/",
+        "https://www.keukenplanten.nl/bonenkruid-eenjarig-buzzy-seeds",
+        "https://yarinde.nl/products/bonenkruid-satureya-hortensis",
+        "https://zaden.eco/zaden/bonenkruid-satureja-hortensis",
+        "https://zaaikalender.com/",
+        "https://kwekerieje.nl/product/bergbonenkruid/",
+        "https://plantbezorgd.nl/product/tuinkruiden/satureja-montana-bonenkruid/",
+        "https://makkelijkemoestuin.nl/kennisbank/kruiden-kweken-in-potten-of-moestuinbak",
+        "https://www.mooiemoestuin.nl/kruiden/tijm/",
+        "https://www.zeelandplant.nl/vaste-planten/satureja-montana/",
+        "https://www.dille-kamille.be/nl/bonenkruid/",
+        "https://www.koopzaden.nl/product/bonenkruid-eenjarig-satureja-hortensis-bio",
+        "https://www.gardenseeds.nl/product/zomer-bonenkruid-1-jarig/",
+        "https://www.beeldbankhkopdebeek.nl/informatie/kruidenboek/Bonenkruid.pdf",
+        "https://dcm-info.nl/hobby/tuintips/zo-plant-en-verzorg-je-kruiden-in-potten-en-bakken",
+        "https://www.magicgardenseeds.nl/Bonenkruid-Satureja-hortensis-zaden",
+        "https://beweegt.velt.nu/braas/download.php?bestand=zadenlijst2013_lr.pdf"
       ],
       "verified": true
     },
@@ -2905,6 +4930,168 @@
       "verified": true
     },
     {
+      "slug": "tarragon",
+      "names": {
+        "nl": "Dragon",
+        "en": "Tarragon"
+      },
+      "category": "herb",
+      "frost_tender": true,
+      "container_ok": true,
+      "min_pot_litres": 7,
+      "spacing_cm": 40,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": 0,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Binnen voorzaaien bij minimaal 15 °C, ca. 6 tot 8 weken voor IJsheiligen.",
+            "en": "Sow indoors at minimum 15 °C, about 6 to 8 weeks before the last spring frost."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 8,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Uitplanten na IJsheiligen zodra de kans op nachtvorst voorbij is.",
+            "en": "Transplant outdoors after IJsheiligen once the danger of night frost has passed."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 8,
+          "min_soil_c": 15,
+          "note": {
+            "nl": "Buiten ter plekke zaaien na IJsheiligen wanneer de grond voldoende is opgewarmd.",
+            "en": "Sow directly outdoors after IJsheiligen once the soil has warmed up."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 30,
+        "days_max": 90
+      },
+      "difficulty": 2,
+      "feed_cadence_days": 35,
+      "depth_mm": 4,
+      "germination_days": 10,
+      "days_to_transplant": 50,
+      "perennial": true,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/dragon-of-artemisia-dracunculus/",
+        "https://www.mooiemoestuin.nl/kruiden/dragon/",
+        "https://www.vreeken.nl/343000-dragon-russische",
+        "https://www.vreeken.nl/831430-dragon-franse",
+        "https://www.tuinadvies.be/tuininfo/moestuin/groenten/dragon-of-artemisia-dracunculus",
+        "https://plukkers.com/blogs/gewasinfo/dragon",
+        "https://www.keukenplanten.nl/zaaikalender/dragon",
+        "https://www.goedboerenindestad.nl/moestuin/kruiden/dragon/",
+        "https://dezaden.nl/product/buzzy-russische-dragon-zaden/",
+        "https://plukkers.com/blogs/zaaien-en-planten/welke-trays-bakjes-potjes-potten-onderstellen-en-onderschalen-gebruiken-in-de-moestuin",
+        "https://leidschendam.groei.nl/groeninfo/zelf-een-kruidentuintje-maken",
+        "https://velt.nu/keukenkruiden-kweken",
+        "https://www.bijzonderbrabants.nl/product/dragon",
+        "https://www.mooiemoestuin.nl/kruiden/mediterrane-kruiden-in-pot-en-bak/",
+        "https://www.intratuin.nl/biologische-dragon-artemisia-dracunculus-d-12-h-15-cm-1263087.html",
+        "https://www.keukenplanten.nl/Dragon-Mexicaanse-Buzzy-Organic"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "tatsoi",
+      "names": {
+        "nl": "Tatsoi",
+        "en": "Tatsoi"
+      },
+      "category": "leafy",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 1,
+      "spacing_cm": 25,
+      "vak_per_m2": 4,
+      "sun": "shade-tolerant",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": 0,
+          "min_soil_c": 8,
+          "note": {
+            "nl": "Binnen voorzaaien 6 tot 8 weken voor IJsheiligen voor een vroege voorjaarsoogst.",
+            "en": "Sow indoors 6 to 8 weeks before Ice Saints for an early spring harvest."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 16,
+          "min_soil_c": 8,
+          "note": {
+            "nl": "Uitplanten na IJsheiligen zodra zaailingen echte bladeren hebben en 5-10 cm groot zijn.",
+            "en": "Plant out after Ice Saints once seedlings have true leaves and reach 5-10 cm."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": 4,
+          "end_weeks": 18,
+          "min_soil_c": 8,
+          "note": {
+            "nl": "Buiten ter plaatse zaaien vanaf half mei; zaaien in juli/augustus geeft minder kans op doorschieten.",
+            "en": "Direct sow outdoors from mid-May; July/August sowings bolt less quickly."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 21,
+        "days_max": 45
+      },
+      "difficulty": 1,
+      "feed_cadence_days": 14,
+      "depth_mm": 5,
+      "germination_days": 7,
+      "days_to_transplant": 21,
+      "perennial": false,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://www.keukenplanten.nl/zaaikalender-moestuin-september",
+        "https://www.123zaden.nl/chinese-kool-tatsoi",
+        "https://www.bolster.nl/probeer-eens-deze-bijzondere-groenten/t25124",
+        "https://www.bolster.nl/tatsoi-telen/t22329",
+        "https://www.keukenplanten.nl/tatsoi",
+        "https://groei.nl/artikel/zaaien-en-planten",
+        "https://www.magicgardenseeds.nl/Paksoi-Brassica-rapa-subsp-chinensis-zaden",
+        "https://www.bolster.nl/tatsoi-brassica-rapa/p3136",
+        "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=114",
+        "https://www.vreeken.nl/267780-gemengde-bladsalade-spectrum",
+        "https://community.makkelijkemoestuin.nl/posts/algemeen-2/bloeiende-andijvie",
+        "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-telen-op-schaduwrijke-plaatsen",
+        "https://www.robbiesmoestuin.nl/groeten-a-z/tatsoi",
+        "https://www.vreeken.nl/zoeken/raapsteel",
+        "https://www.bolster.nl/tatsoi-oogsten/t22401",
+        "https://plukkers.com/blogs/gewasinfo/paksoi-of-chinese-kool-zaaien-heerlijke-groene-crunch-kweken",
+        "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=109",
+        "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=&pagina=6"
+      ],
+      "verified": true
+    },
+    {
       "slug": "thyme",
       "names": {
         "nl": "Tijm",
@@ -3067,6 +5254,177 @@
       "sources": [
         "Tuinadvies.nl zaaikalender",
         "directplant moestuinkalender"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "wild-rocket",
+      "names": {
+        "nl": "Wilde rucola",
+        "en": "Wild rocket"
+      },
+      "category": "leafy",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 3,
+      "spacing_cm": 30,
+      "vak_per_m2": 1,
+      "sun": "full",
+      "methods": [
+        {
+          "type": "sow_indoor",
+          "anchor": "last_frost",
+          "start_weeks": -8,
+          "end_weeks": -4,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Voorzaaien onder glas in februari en maart voor een vroege start.",
+            "en": "Sow indoors under glass in February and March for an early start."
+          }
+        },
+        {
+          "type": "sow_direct",
+          "anchor": "last_frost",
+          "start_weeks": -6,
+          "end_weeks": 20,
+          "min_soil_c": 8,
+          "note": {
+            "nl": "Direct buiten zaaien vanaf maart zodra de bodem minimaal 8 °C is tot in september.",
+            "en": "Direct sow outdoors from March once soil reaches at least 8 °C until September."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "last_frost",
+          "start_weeks": -4,
+          "end_weeks": 20,
+          "min_soil_c": null,
+          "note": {
+            "nl": "Afgeharde zaailingen kunnen vanaf maart de volle grond of pot in.",
+            "en": "Hardened-off seedlings can be planted out into beds or containers from March onwards."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 21,
+        "days_max": 56
+      },
+      "difficulty": 1,
+      "feed_cadence_days": null,
+      "depth_mm": 5,
+      "germination_days": 10,
+      "days_to_transplant": 35,
+      "perennial": true,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://www.tuinadvies.nl/planten/kruiden/diplotaxis-erucoides/wilde-rucola-zandkool/",
+        "https://www.keukenplanten.nl/bladgewassen",
+        "https://www.vreeken.nl/242100-wilde-rucola-sylvetta",
+        "https://velt.nu/keukenkruiden-kweken",
+        "https://www.tuinadvies.nl/shop/tuin/zaden-bloembollen/groentezaden/groenten/fr-rucola-wilde-rucola-selvatica-1155~200175295/",
+        "https://www.keukenplanten.nl/wilderucola",
+        "https://www.jansenzaden.nl/products/diplotaxis-tenuifolia-rochelle-10422",
+        "https://moestuinenbloem.nl/wilde-rucola-tuin-de-bruijn/",
+        "https://groei.nl/artikel/hoe-kweek-ik-rucola",
+        "https://www.baldur-nederland.nl/onion/content/plant--und-verzorgingstips/groente-und-kruiden/rucola",
+        "https://makkelijkemoestuin.nl/kennisbank/rucola-zaaien-en-kweken-super-gezond",
+        "https://www.floorsmoestuin.nl/post/rucola-kweken/",
+        "https://www.famflowerfarm.nl/wilde-rucola",
+        "https://www.moestuinierder.nl/balkon-en-kleine-moestuin/zaden-voor-balkon-en-kleine-moestuin/zaden-geschikt-voor-10-liter-plantzak",
+        "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-rucola/",
+        "https://www.tuinadvies.nl/de-LU/garteninformationen/gemusegarten/gemuse/gemuseanbau-an-schattigen-orten/",
+        "https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/rucola/",
+        "https://www.dehobbytuinder.nl/zaden/groentezaden/rucola/rucola-wilde-selvatica-diplotaxis-tenuifolia/",
+        "https://www.keukenplanten.nl/zaden/bladgroenten/Wilde-Rucola-Grote-Zandkool-Buzzy-Organic"
+      ],
+      "verified": true
+    },
+    {
+      "slug": "winter-purslane",
+      "names": {
+        "nl": "Winterpostelein",
+        "en": "Winter purslane (miner's lettuce)"
+      },
+      "category": "leafy",
+      "frost_tender": false,
+      "container_ok": true,
+      "min_pot_litres": 2,
+      "spacing_cm": 10,
+      "vak_per_m2": 9,
+      "sun": "partial",
+      "methods": [
+        {
+          "type": "sow_direct",
+          "anchor": "first_frost",
+          "start_weeks": -13,
+          "end_weeks": 0,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Direct ter plaatse zaaien in de nazomer tot herfst voor oogst in het najaar en de winter.",
+            "en": "Sow directly outdoors from late summer through autumn for autumn and winter harvest."
+          }
+        },
+        {
+          "type": "sow_indoor",
+          "anchor": "first_frost",
+          "start_weeks": -13,
+          "end_weeks": -5,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Voorzaaien in trays in de nazomer of vroege herfst.",
+            "en": "Pre-sow in module trays in late summer or early autumn."
+          }
+        },
+        {
+          "type": "transplant",
+          "anchor": "first_frost",
+          "start_weeks": -9,
+          "end_weeks": 0,
+          "min_soil_c": 5,
+          "note": {
+            "nl": "Uitplanten van kluitjes circa 3 tot 4 weken na het zaaien.",
+            "en": "Transplant modules outdoors about 3 to 4 weeks after sowing."
+          }
+        }
+      ],
+      "harvest": {
+        "days_min": 28,
+        "days_max": 56
+      },
+      "difficulty": 1,
+      "feed_cadence_days": null,
+      "depth_mm": 2,
+      "germination_days": 7,
+      "days_to_transplant": 25,
+      "perennial": false,
+      "water_cadence_days": null,
+      "image": null,
+      "sources": [
+        "https://www.moestuingemak.nl/producten/5973290942619-37243804385435/zaad-voor-winterpostelein",
+        "https://www.tuinadvies.nl/planten/kruiden/claytonia-perfoliata/winterpostelein/",
+        "https://groei.nl/artikel/zaaien-oktober-koudebak",
+        "https://velt.nu/nieuws/de-tuin-en-op-jouw-bord-winterpostelein",
+        "https://makkelijkemoestuin.nl/kennisbank/winterpostelein-zaaien-en-kweken",
+        "https://www.bolster.nl/winterpostelein-claytonia-perfoliata/p96",
+        "https://groei.nl/artikel/de-nazomermoestuin",
+        "https://www.bloomling.nl/arche-noah/biologische-winterpostelein-portulaca",
+        "https://www.magicgardenseeds.nl/Postelein-Montia-perfoliata-bio-zaad",
+        "https://www.bolster.nl/winterpostelein-telen-onze-tips/t10872",
+        "https://moesmeisje.nl/winterpostelein-zaaien-en-meerdere-keren-oogsten/",
+        "https://www.vreeken.nl/319000-winterpostelein-gewone",
+        "https://www.123zaden.nl/winterpostelein",
+        "https://makkelijkemoestuin.nl/en/shop/seeds/purslane",
+        "https://makkelijkemoestuin.nl/kennisbank/aardappels-telen-in-een-pot",
+        "https://www.mooiemoestuin.nl/groenteteelt/bladgewassen/winterpostelein/",
+        "https://groei.nl/artikel/saladebar-aan-huis",
+        "https://www.pokon.nl/plant/item/winterpostelein/",
+        "https://www.vreeken.nl/319010-winterpostelein-roze",
+        "https://homesteadingnederland.nl/moestuin/winterpostelein/",
+        "https://www.floravannederland.nl/planten/winterpostelein",
+        "https://www.wilde-planten.nl/winterpostelein.htm",
+        "https://www.vreeken.nl/zaden/groenten-fruit/meerjarige-eetgewassen/p5",
+        "https://www.groenrijk.nl/plantengids/plant/vaste-plant/claytonia-sibirica"
       ],
       "verified": true
     },

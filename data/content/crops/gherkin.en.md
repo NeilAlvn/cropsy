@@ -1,7 +1,7 @@
 ---
 crop: gherkin
 lang: en
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/augurken-kweken
   - https://www.dutchgardenseeds.com/hoe-kweek-ik-groente/augurk-kweken/

@@ -1,7 +1,7 @@
 ---
 crop: coriander
 lang: en
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/koriander-zaaien-en-kweken
   - https://groei.nl/artikel/hoe-kweek-ik-koriander

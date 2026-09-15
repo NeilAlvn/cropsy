@@ -1,7 +1,7 @@
 ---
 crop: beetroot
 lang: en
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/hoe-zaai-ik-rode-biet
   - https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-rode-biet/

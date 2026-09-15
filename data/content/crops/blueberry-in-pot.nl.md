@@ -1,7 +1,7 @@
 ---
 crop: blueberry-in-pot
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/
   - https://groei.nl/artikel/fruit-kweken-in-potten

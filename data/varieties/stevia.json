@@ -41,7 +41,7 @@
       "https://www.vreeken.nl/zaden/kruiden-specerijen/eenjarige-kruiden",
       "https://stevia-pura.de/Wat-is-Rebaudiosid-A"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "stevia-honingplant",
@@ -82,7 +82,7 @@
       "https://www.vreeken.nl/zaden/kruiden-specerijen/eenjarige-kruiden",
       "https://stevia-pura.de/Wat-is-Rebaudiosid-A"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "stevia-honingkruid",
@@ -126,7 +126,7 @@
       "https://www.vreeken.nl/zaden/kruiden-specerijen/eenjarige-kruiden",
       "https://stevia-pura.de/Wat-is-Rebaudiosid-A"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "stevia-suikerblad",
@@ -167,6 +167,6 @@
       "https://www.vreeken.nl/zaden/kruiden-specerijen/eenjarige-kruiden",
       "https://stevia-pura.de/Wat-is-Rebaudiosid-A"
     ],
-    "verified": false
+    "verified": true
   }
 ]

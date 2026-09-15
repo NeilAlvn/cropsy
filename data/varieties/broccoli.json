@@ -36,7 +36,7 @@
       "https://www.bolster.nl/wat-betekent-het-als-groenten-doorschieten/t24971",
       "https://www.intratuin.nl/inspiratie/moestuin-broccoli"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "broccoli-calabrese-natalino",
@@ -73,7 +73,7 @@
       "https://www.bolster.nl/wat-betekent-het-als-groenten-doorschieten/t24971",
       "https://www.intratuin.nl/inspiratie/moestuin-broccoli"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "broccoli-minestra-nera",
@@ -111,7 +111,7 @@
       "https://www.bolster.nl/wat-betekent-het-als-groenten-doorschieten/t24971",
       "https://www.intratuin.nl/inspiratie/moestuin-broccoli"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "broccoli-marathon-f1",
@@ -148,6 +148,6 @@
       "https://www.bolster.nl/wat-betekent-het-als-groenten-doorschieten/t24971",
       "https://www.intratuin.nl/inspiratie/moestuin-broccoli"
     ],
-    "verified": false
+    "verified": true
   }
 ]

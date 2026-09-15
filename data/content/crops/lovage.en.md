@@ -1,7 +1,7 @@
 ---
 crop: lovage
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.be/planten/kruiden/levisticum-officinale/lavas-maggiplant-franse-selder/
   - https://makkelijkemoestuin.nl/kennisbank/kruiden-kweken-in-potten-of-moestuinbak

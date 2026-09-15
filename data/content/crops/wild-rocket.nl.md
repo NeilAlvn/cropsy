@@ -1,7 +1,7 @@
 ---
 crop: wild-rocket
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/shop/tuin/zaden-bloembollen/groentezaden/groenten/fr-rucola-wilde-rucola-selvatica-1155~200175295/
   - https://www.ivn.nl/afdeling/gemert-bakel/nieuws/ook-planten-zorgen-voor-verrassingen/

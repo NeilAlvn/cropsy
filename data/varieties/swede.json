@@ -31,7 +31,7 @@
       "https://www.welkoop.nl/hortitops-koolraap-brassica-napus-var-nap-wilhelmsburger-type-friese-kool-5gram_1190050",
       "https://plukkers.com/blogs/moestuin-kalenders/moestuin-kalender-juli"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "swede-champion",
@@ -67,7 +67,7 @@
       "https://www.welkoop.nl/hortitops-koolraap-brassica-napus-var-nap-wilhelmsburger-type-friese-kool-5gram_1190050",
       "https://plukkers.com/blogs/moestuin-kalenders/moestuin-kalender-juli"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "swede-laurentian",
@@ -103,7 +103,7 @@
       "https://www.welkoop.nl/hortitops-koolraap-brassica-napus-var-nap-wilhelmsburger-type-friese-kool-5gram_1190050",
       "https://plukkers.com/blogs/moestuin-kalenders/moestuin-kalender-juli"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "swede-friese-gele",
@@ -138,6 +138,6 @@
       "https://www.welkoop.nl/hortitops-koolraap-brassica-napus-var-nap-wilhelmsburger-type-friese-kool-5gram_1190050",
       "https://plukkers.com/blogs/moestuin-kalenders/moestuin-kalender-juli"
     ],
-    "verified": false
+    "verified": true
   }
 ]

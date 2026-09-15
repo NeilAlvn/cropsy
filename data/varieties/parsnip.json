@@ -30,7 +30,7 @@
       "https://nl-nl.bakker.com/blogs/moestuin/voorzaaien-begin-binnen-met-de-moestuin",
       "https://moesmeisje.nl/pastinaak-zaaien/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "parsnip-demi-long-de-guernsey",
@@ -64,7 +64,7 @@
       "https://nl-nl.bakker.com/blogs/moestuin/voorzaaien-begin-binnen-met-de-moestuin",
       "https://moesmeisje.nl/pastinaak-zaaien/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "parsnip-gladiator-f1",
@@ -97,7 +97,7 @@
       "https://nl-nl.bakker.com/blogs/moestuin/voorzaaien-begin-binnen-met-de-moestuin",
       "https://moesmeisje.nl/pastinaak-zaaien/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "parsnip-tender-and-true",
@@ -130,6 +130,6 @@
       "https://nl-nl.bakker.com/blogs/moestuin/voorzaaien-begin-binnen-met-de-moestuin",
       "https://moesmeisje.nl/pastinaak-zaaien/"
     ],
-    "verified": false
+    "verified": true
   }
 ]

@@ -1,7 +1,7 @@
 ---
 crop: pepper
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kiezen-paprikas-en-pepers/
   - https://groei.nl/artikel/paprika-kweken-verzorgen-en-oogsten

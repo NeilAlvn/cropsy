@@ -35,7 +35,7 @@
       "https://www.intratuin.nl/intratuin-geurstokjes-may-citrus-verbena-200-ml.html",
       "https://nl-nl.bakker.com/products/ijzerhard"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "lemon-verbena-golden-wind",
@@ -74,7 +74,7 @@
       "https://www.intratuin.nl/intratuin-geurstokjes-may-citrus-verbena-200-ml.html",
       "https://nl-nl.bakker.com/products/ijzerhard"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "lemon-verbena-aloysia-citrodora",
@@ -112,7 +112,7 @@
       "https://www.intratuin.nl/intratuin-geurstokjes-may-citrus-verbena-200-ml.html",
       "https://nl-nl.bakker.com/products/ijzerhard"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "lemon-verbena-biologische",
@@ -150,6 +150,6 @@
       "https://www.intratuin.nl/intratuin-geurstokjes-may-citrus-verbena-200-ml.html",
       "https://nl-nl.bakker.com/products/ijzerhard"
     ],
-    "verified": false
+    "verified": true
   }
 ]

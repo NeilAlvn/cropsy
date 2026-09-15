@@ -1,7 +1,7 @@
 ---
 crop: chamomile
 lang: en
-verified: false
+verified: true
 sources:
   - https://plantenzoeker.velt.nu/plant/matricaria-recutita-matricaria-chamomilla
   - https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-bloemen-kruiden-en-groenbemesters/

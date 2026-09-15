@@ -1,7 +1,7 @@
 ---
 crop: pointed-cabbage
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.baldur-nederland.nl/onion/content/plant--und-verzorgingstips/easyplant/spitskool
   - https://velt.nu/groente/spitskool

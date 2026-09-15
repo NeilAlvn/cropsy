@@ -29,7 +29,7 @@
       "https://www.intratuin.nl/florex?p=2",
       "https://bio.bolster.nl/100-gmo-vrij/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "potato-annabelle",
@@ -61,7 +61,7 @@
       "https://www.intratuin.nl/florex?p=2",
       "https://bio.bolster.nl/100-gmo-vrij/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "potato-frieslander",
@@ -93,7 +93,7 @@
       "https://www.intratuin.nl/florex?p=2",
       "https://bio.bolster.nl/100-gmo-vrij/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "potato-alouette",
@@ -125,6 +125,6 @@
       "https://www.intratuin.nl/florex?p=2",
       "https://bio.bolster.nl/100-gmo-vrij/"
     ],
-    "verified": false
+    "verified": true
   }
 ]

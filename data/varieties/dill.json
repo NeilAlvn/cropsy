@@ -31,7 +31,7 @@
       "https://www.koopzaden.nl/product/dille-zaden-compatto",
       "https://moestuinenbloem.nl/dille-tuin-de-bruijn/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "dill-nano",
@@ -67,7 +67,7 @@
       "https://www.koopzaden.nl/product/dille-zaden-compatto",
       "https://moestuinenbloem.nl/dille-tuin-de-bruijn/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "dill-bouquet-compatto",
@@ -102,7 +102,7 @@
       "https://www.koopzaden.nl/product/dille-zaden-compatto",
       "https://moestuinenbloem.nl/dille-tuin-de-bruijn/"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "dill-compatto",
@@ -135,6 +135,6 @@
       "https://www.koopzaden.nl/product/dille-zaden-compatto",
       "https://moestuinenbloem.nl/dille-tuin-de-bruijn/"
     ],
-    "verified": false
+    "verified": true
   }
 ]

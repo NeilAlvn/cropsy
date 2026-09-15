@@ -1,7 +1,7 @@
 ---
 crop: fig-in-pot
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/welke-vijg-voor-jouw-tuin
   - https://groei.nl/artikel/vijg-kweken-in-een-pot

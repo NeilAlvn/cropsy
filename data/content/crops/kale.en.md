@@ -1,7 +1,7 @@
 ---
 crop: kale
 lang: en
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/maai-boerenkool-zaaien-en-kweken
   - https://makkelijkemoestuin.nl/kennisbank/ongeschikte-groentes-voor-een-makkelijke-moestuinbak

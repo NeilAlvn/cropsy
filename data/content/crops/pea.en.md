@@ -1,7 +1,7 @@
 ---
 crop: pea
 lang: en
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/doperwt
   - https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-doperwt/

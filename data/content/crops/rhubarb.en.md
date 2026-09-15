@@ -1,7 +1,7 @@
 ---
 crop: rhubarb
 lang: en
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/rabarber-planten
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/rabarber-planten-rassen/

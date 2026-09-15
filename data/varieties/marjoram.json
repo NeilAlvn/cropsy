@@ -38,7 +38,7 @@
       "https://www.groenrijk.nl/plantengids/plant/vaste-plant/origanum-vulgare-aureum",
       "https://www.vreeken.nl/356005-oregano"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "marjoram-wilde-marjolein",
@@ -80,7 +80,7 @@
       "https://www.groenrijk.nl/plantengids/plant/vaste-plant/origanum-vulgare-aureum",
       "https://www.vreeken.nl/356005-oregano"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "marjoram-kirigami",
@@ -125,7 +125,7 @@
       "https://www.groenrijk.nl/plantengids/plant/vaste-plant/origanum-vulgare-aureum",
       "https://www.vreeken.nl/356005-oregano"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "marjoram-rosebloeiend",
@@ -166,6 +166,6 @@
       "https://www.groenrijk.nl/plantengids/plant/vaste-plant/origanum-vulgare-aureum",
       "https://www.vreeken.nl/356005-oregano"
     ],
-    "verified": false
+    "verified": true
   }
 ]

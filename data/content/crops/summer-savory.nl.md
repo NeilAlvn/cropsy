@@ -1,7 +1,7 @@
 ---
 crop: summer-savory
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.keukenplanten.nl/zaaikalender/bonenkruid
   - https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/zaaien-in-het-voorjaar-opstart-van-de-groententuin

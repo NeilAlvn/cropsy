@@ -1,7 +1,7 @@
 ---
 crop: celeriac
 lang: en
-verified: false
+verified: true
 sources:
   - https://velt.nu/groente/knolselder
   - https://deventer.groei.nl/actueel/moestuinieren-de-moestuin/de-moestuin/wortelgewassen-voor-de-moestuin

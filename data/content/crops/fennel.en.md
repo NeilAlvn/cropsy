@@ -1,7 +1,7 @@
 ---
 crop: fennel
 lang: en
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/hoe-kweek-ik-knolvenkel
   - https://velt.nu/groenten-kiezen

@@ -1,7 +1,7 @@
 ---
 crop: chili
 lang: en
-verified: false
+verified: true
 sources:
   - https://ecostyle.nl/pages/peper-zaaien
   - https://groei.nl/artikel/paprika-kweken-verzorgen-en-oogsten

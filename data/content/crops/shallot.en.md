@@ -1,7 +1,7 @@
 ---
 crop: shallot
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/planten/kruiden/allium-ascalonicum/sjalot/
   - https://moestuinbeginnen.nl/tag/kweken/

@@ -1,7 +1,7 @@
 ---
 crop: melon
 lang: en
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/zelf-watermeloen-kweken
   - https://www.mooiemoestuin.nl/fruit/meloen/

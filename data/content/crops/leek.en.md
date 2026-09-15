@@ -1,7 +1,7 @@
 ---
 crop: leek
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.ivn.nl/afdeling/zeewolde/bladgroenten/
   - https://midden-kennemerland.groei.nl/fileadmin/Afdelingen/afdeling_midden_kennemerland/Archief/Heiloo/Documenten/PDF/Zaaiplanner_2026_moes_en_siertuin.pdf

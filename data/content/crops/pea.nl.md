@@ -1,7 +1,7 @@
 ---
 crop: pea
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-zaaikalender
   - https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/groente-bonen/

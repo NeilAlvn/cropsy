@@ -1,7 +1,7 @@
 ---
 crop: strawberry
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.ivn.nl/afdeling/zeewolde/aardbeien/
   - https://www.ivn.nl/aanbod/groen-om-te-doen/leren-over-de-natuur/hoe-begin-ik-mijn-eigen-urban-garden/

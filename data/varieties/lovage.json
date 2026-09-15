@@ -32,7 +32,7 @@
       "https://nl-nl.bakker.com/products/lavas-bio",
       "https://nl-nl.bakker.com/products/maggieplant"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "lovage-biologische-lavas",
@@ -67,7 +67,7 @@
       "https://nl-nl.bakker.com/products/lavas-bio",
       "https://nl-nl.bakker.com/products/maggieplant"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "lovage-hortitops-maggiplant",
@@ -100,7 +100,7 @@
       "https://nl-nl.bakker.com/products/lavas-bio",
       "https://nl-nl.bakker.com/products/maggieplant"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "lovage-maggieplant-gepot-plantgoed",
@@ -133,6 +133,6 @@
       "https://nl-nl.bakker.com/products/lavas-bio",
       "https://nl-nl.bakker.com/products/maggieplant"
     ],
-    "verified": false
+    "verified": true
   }
 ]

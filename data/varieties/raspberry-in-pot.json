@@ -36,7 +36,7 @@
       "https://groei.nl/artikel/framboos-kweken-in-een-pot",
       "https://www.welkoop.nl/advies/soorten-potgrond.html"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "raspberry-in-pot-ruby-beauty",
@@ -74,7 +74,7 @@
       "https://groei.nl/artikel/framboos-kweken-in-een-pot",
       "https://www.welkoop.nl/advies/soorten-potgrond.html"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "raspberry-in-pot-groovy",
@@ -111,7 +111,7 @@
       "https://groei.nl/artikel/framboos-kweken-in-een-pot",
       "https://www.welkoop.nl/advies/soorten-potgrond.html"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "raspberry-in-pot-naschmich",
@@ -145,6 +145,6 @@
       "https://groei.nl/artikel/framboos-kweken-in-een-pot",
       "https://www.welkoop.nl/advies/soorten-potgrond.html"
     ],
-    "verified": false
+    "verified": true
   }
 ]

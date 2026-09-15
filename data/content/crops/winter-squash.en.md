@@ -1,7 +1,7 @@
 ---
 crop: winter-squash
 lang: en
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/baby-pompoen-zaaien-en-kweken
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/pompoenen-zaaien

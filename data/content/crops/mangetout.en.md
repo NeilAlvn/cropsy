@@ -1,7 +1,7 @@
 ---
 crop: mangetout
 lang: en
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/voorkiemen-van-peultjes-erwten-en-sugarsnaps
   - https://groei.nl/artikel/doperwt

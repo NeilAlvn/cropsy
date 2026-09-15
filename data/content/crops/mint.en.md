@@ -1,7 +1,7 @@
 ---
 crop: mint
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.ivn.nl/afdeling/ijssel-en-gouwe/werkgroep-smultuin/
   - https://groei.nl/artikel/hoe-kweek-ik-munt

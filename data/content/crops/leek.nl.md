@@ -1,7 +1,7 @@
 ---
 crop: leek
 lang: nl
-verified: false
+verified: true
 sources:
   - https://velt.nu/groente/prei
   - https://community.makkelijkemoestuin.nl/posts/net-niet-mm/zou-ik-nog-prei-kunnen-zaaien

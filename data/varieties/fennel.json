@@ -37,7 +37,7 @@
       "https://www.vreeken.nl/123500-knolvenkel-zefa-fino",
       "https://www.bolster.nl/knolvenkel-telen/t5199"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "fennel-fino",
@@ -75,7 +75,7 @@
       "https://www.vreeken.nl/123500-knolvenkel-zefa-fino",
       "https://www.bolster.nl/knolvenkel-telen/t5199"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "fennel-finale",
@@ -110,7 +110,7 @@
       "https://www.vreeken.nl/123500-knolvenkel-zefa-fino",
       "https://www.bolster.nl/knolvenkel-telen/t5199"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "fennel-zefa-fino",
@@ -148,6 +148,6 @@
       "https://www.vreeken.nl/123500-knolvenkel-zefa-fino",
       "https://www.bolster.nl/knolvenkel-telen/t5199"
     ],
-    "verified": false
+    "verified": true
   }
 ]

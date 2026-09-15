@@ -1,7 +1,7 @@
 ---
 crop: wild-rocket
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-rucola/
   - https://velt.nu/keukenkruiden-kweken

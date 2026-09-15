@@ -1,7 +1,7 @@
 ---
 crop: chervil
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kervel-anthriscus-cerefolium/
   - https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/kervel-uit-eigen-moestuin/

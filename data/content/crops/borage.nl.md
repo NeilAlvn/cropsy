@@ -1,7 +1,7 @@
 ---
 crop: borage
 lang: nl
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/kennisbank/testpakket-zaden-2022
   - https://velt.nu/system/files/media/documenten/Handboek%20Schooltuinen%20H5.pdf

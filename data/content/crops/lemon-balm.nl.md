@@ -1,7 +1,7 @@
 ---
 crop: lemon-balm
 lang: nl
-verified: false
+verified: true
 sources:
   - https://leidschendam.groei.nl/groeninfo/zelf-een-kruidentuintje-maken
   - https://velt.nu/keukenkruiden-kweken

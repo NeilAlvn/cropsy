@@ -31,7 +31,7 @@
       "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-70",
       "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-15"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "pumpkin-gold-nugget",
@@ -64,7 +64,7 @@
       "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-70",
       "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-15"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "pumpkin-bush-delicata",
@@ -97,7 +97,7 @@
       "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-70",
       "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-15"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "pumpkin-baby-boo",
@@ -130,6 +130,6 @@
       "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-70",
       "https://www.vreeken.nl/zaden/groenten-fruit/pompoenen/p1-15"
     ],
-    "verified": false
+    "verified": true
   }
 ]

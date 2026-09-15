@@ -1,7 +1,7 @@
 ---
 crop: spring-onion
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.gardenersworldmagazine.nl/groene-school/moestuin/bosui-zaaien-tips/
   - https://groei.nl/artikel/stengelui-zaaien

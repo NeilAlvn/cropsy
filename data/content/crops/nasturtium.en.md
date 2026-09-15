@@ -1,7 +1,7 @@
 ---
 crop: nasturtium
 lang: en
-verified: false
+verified: true
 sources:
   - https://makkelijkemoestuin.nl/shop/zaden/oi-kers
   - https://groei.nl/artikel/zaaien-voor-beginners

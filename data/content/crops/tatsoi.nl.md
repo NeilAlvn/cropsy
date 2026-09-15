@@ -1,7 +1,7 @@
 ---
 crop: tatsoi
 lang: nl
-verified: false
+verified: true
 sources:
   - https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/tatsoi-zelf-telen/
   - https://demoestuinwinkel.nl/products/tatsoi-rood

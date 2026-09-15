@@ -1,7 +1,7 @@
 ---
 crop: garden-cress
 lang: nl
-verified: false
+verified: true
 sources:
   - https://shop.groei.nl/64684/eetbaar-moestuin/79969/lepidium-sativum
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/nasturtium-officinale-waterkers/

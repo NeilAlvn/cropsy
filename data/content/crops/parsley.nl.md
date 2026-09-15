@@ -1,7 +1,7 @@
 ---
 crop: parsley
 lang: nl
-verified: false
+verified: true
 sources:
   - https://groei.nl/artikel/peterselie-kweken
   - https://www.pokon.nl/plant/item/krulpeterselie-kweken/

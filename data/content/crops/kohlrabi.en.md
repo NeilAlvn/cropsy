@@ -1,7 +1,7 @@
 ---
 crop: kohlrabi
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/moestuin/groenten/de-vierkante-meter-moestuin/
   - https://deventer.groei.nl/actueel/moestuinieren-de-moestuin/de-moestuin/koolsoorten-voor-de-moestuin

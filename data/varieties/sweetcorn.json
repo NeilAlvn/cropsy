@@ -27,7 +27,7 @@
       "https://www.vreeken.nl/195710-suikermais-zoete-jan",
       "https://www.vreeken.nl/192000-mini-pofmais-tom-thumb"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "sweetcorn-blue-jade",
@@ -55,7 +55,7 @@
       "https://www.vreeken.nl/195710-suikermais-zoete-jan",
       "https://www.vreeken.nl/192000-mini-pofmais-tom-thumb"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "sweetcorn-zoete-jan",
@@ -83,7 +83,7 @@
       "https://www.vreeken.nl/195710-suikermais-zoete-jan",
       "https://www.vreeken.nl/192000-mini-pofmais-tom-thumb"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "sweetcorn-tom-thumb",
@@ -111,6 +111,6 @@
       "https://www.vreeken.nl/195710-suikermais-zoete-jan",
       "https://www.vreeken.nl/192000-mini-pofmais-tom-thumb"
     ],
-    "verified": false
+    "verified": true
   }
 ]

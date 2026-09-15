@@ -39,7 +39,7 @@
       "https://nl-nl.bakker.com/products/grof-bieslook",
       "https://www.welkoop.nl/advies/moestuin-slakken-bestrijden.html"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "chives-fijne",
@@ -82,7 +82,7 @@
       "https://nl-nl.bakker.com/products/grof-bieslook",
       "https://www.welkoop.nl/advies/moestuin-slakken-bestrijden.html"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "chives-chinese-bieslook",
@@ -125,7 +125,7 @@
       "https://nl-nl.bakker.com/products/grof-bieslook",
       "https://www.welkoop.nl/advies/moestuin-slakken-bestrijden.html"
     ],
-    "verified": false
+    "verified": true
   },
   {
     "slug": "chives-grove-bieslook",
@@ -167,6 +167,6 @@
       "https://nl-nl.bakker.com/products/grof-bieslook",
       "https://www.welkoop.nl/advies/moestuin-slakken-bestrijden.html"
     ],
-    "verified": false
+    "verified": true
   }
 ]

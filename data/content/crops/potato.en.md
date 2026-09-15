@@ -1,7 +1,7 @@
 ---
 crop: potato
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/bestel-nu-pootgoed-voor-het-nieuwe-moestuinseizoen
   - https://velt.nu/groente/aardappel

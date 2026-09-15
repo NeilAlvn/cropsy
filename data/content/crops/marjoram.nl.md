@@ -1,7 +1,7 @@
 ---
 crop: marjoram
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.be/tuininfo/moestuin/groenten/kruiden-oregano/
   - https://www.tuinadvies.nl/planten/kruiden/origanum-majorana/marjolein/

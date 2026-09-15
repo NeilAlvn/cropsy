@@ -1,7 +1,7 @@
 ---
 crop: pea-shoots
 lang: nl
-verified: false
+verified: true
 sources:
   - https://community.makkelijkemoestuin.nl/posts/net-niet-mm/erwentscheuten-kweken
   - https://groei.nl/artikel/verrassende-wintergroentjes-erwtenkiemen

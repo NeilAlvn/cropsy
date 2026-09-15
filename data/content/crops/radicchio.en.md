@@ -1,7 +1,7 @@
 ---
 crop: radicchio
 lang: en
-verified: false
+verified: true
 sources:
   - https://www.tuinadvies.nl/planten/kruiden/cichorium-intybus-foliosum/roodlof-of-radicchio/
   - https://velt.nu/plant/roodlof

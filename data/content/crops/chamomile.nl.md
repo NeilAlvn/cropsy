@@ -1,7 +1,7 @@
 ---
 crop: chamomile
 lang: nl
-verified: false
+verified: true
 sources:
   - https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-kamille/
   - https://makkelijkemoestuin.nl/blog/de-moestuinmaatjes-van-ah
