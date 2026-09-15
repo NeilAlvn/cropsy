@@ -362,8 +362,8 @@ The content sprint. Nothing here needs new architecture.
 Exit: open beta 2026-12-20. Store listing assets from the real UI.
 
 ### Phase 4 — Scan, auto-diagnose, launch (W1–W4 2027, → 2027-01-25)
-- [ ] Backend: `POST /api/identify` and `/api/diagnose` proxies (Kindwise/Plant.id class, EU processing, key server-side, rate-limited per user, gated premium).
-- [ ] Mobile: Scan flow 4.4, Auto-diagnose 7.1 with "this is a guess" framing, non-veg rejection ("we're experts in fruits & veggies").
+- [x] Backend: `POST /api/identify` and `/api/diagnose` proxies (Kindwise/Plant.id class, EU processing, key server-side, rate-limited per user, gated premium). _2026-09-15: identify = Pl@ntNet (free 3/day, premium 30), diagnose = Kindwise plant.health (premium, 10/day), quotas in `api_usage` (migration 0005). Live, answering `503 not_configured` until `PLANTNET_API_KEY` / `KINDWISE_API_KEY` are set in Vercel._
+- [x] Mobile: Scan flow 4.4, Auto-diagnose 7.1 with "this is a guess" framing, non-veg rejection ("we're experts in fruits & veggies"). _2026-09-15: `lib/features/scan/scan_screen.dart`; results link to crop pages / our problem pages; quota → paywall; offline and not-configured states._
 - [ ] Both: bug bash on beta feedback, performance pass (cold start < 1.5 s on iPhone 12), accessibility pass, App Store + Play submission by 2027-01-15.
 
 Exit: **store launch 2027-01-25.**
@@ -384,7 +384,7 @@ Weekly data fixes from `feedback`. Watch the §3 metrics. Decide on the season p
 | # | Question | Owner | Needed by |
 |---|---|---|---|
 | 1 | House style: which Nime tokens carry over, mascot species and name | Luuk | Phase 3 start |
-| 2 | Identification vendor: Kindwise vs Plant.id vs Pl@ntNet API; EU data processing | Luuk | Phase 4 |
+| 2 | Identification vendor: Kindwise vs Plant.id vs Pl@ntNet API; EU data processing | Luuk | Phase 4 — _built for Pl@ntNet (identify) + Kindwise (diagnose); Luuk creates both accounts_ |
 | 3 | Do we ship Android at launch or iOS first? (Keyless TestFlight exists; no Play pipeline yet) | Luuk | Phase 2 |
 | 4 | Grower for the spot-check — who, paid how | Luuk | Phase 3 |
 | 5 | Belgium and Germany frost fallbacks: national defaults per country or NL-only at launch | Luuk | Phase 1 |
