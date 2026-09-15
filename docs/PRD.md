@@ -317,7 +317,7 @@ Two builders: Luuk + Claude, working both repos in one stream (backend/data firs
 
 ### Phase 0 — Unblock (W38, 2026-09-14 → 09-20)
 - [x] Name: **Cropsy**. Website + domain exist. Bundle id frozen 2026-09-13: **`com.cropsyapp.app`** (App Store Connect app 6811652686, Dutch primary language; the old `app.visiontech.cropsy` record is renamed "Cropsy (old record)" and can be removed).
-- [ ] Luuk: point `api.<cropsy domain>` at the Vercel project; retire the growit-named hostname.
+- [x] Luuk: point `api.<cropsy domain>` at the Vercel project; retire the growit-named hostname. (`api.cropsyapp.com`, 2026-09-13.)
 - [x] Both: install Flutter 3.44 on Luuk's Mac (`brew install --cask flutter`), `flutter test` + `flutter analyze` green on `main`. (Flutter 3.47.4 installed 2026-09-13.)
 - [x] Backend: migration `0002` (§8.2) written and applied (2026-09-13, with `0003` storage bucket and `0004` tasks.id text); `profiles` row auto-created on signup via trigger.
 - [x] PRD locked (this document). Both READMEs point here.
