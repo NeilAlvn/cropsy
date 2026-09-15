@@ -59,6 +59,8 @@ export interface Crop {
    * fact. Only flip to true once cross-checked against >=2 sources.
    */
   verified: boolean
+  /** Beta snapshots only: true when this row shipped unverified (badge in-app). */
+  draft?: boolean
 }
 
 /** Days between waterings per container bucket (see watering.ts for buckets). */

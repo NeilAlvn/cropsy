@@ -18,7 +18,8 @@ const here = dirname(fileURLToPath(import.meta.url))
 const OUT_DIR = join(here, '..', 'generated')
 const OUT_FILE = join(OUT_DIR, 'crops-snapshot.json')
 
-const snapshot = buildSnapshot(loadCrops())
+const includeDrafts = process.env.CONTENT_INCLUDE_DRAFTS === '1'
+const snapshot = buildSnapshot(loadCrops(), new Date(), includeDrafts)
 
 // `generated_at` moves on every run, so rewriting unconditionally would dirty
 // the working tree on a no-op build. Only write when the DATA changed.
