@@ -13,6 +13,9 @@ export interface Collection {
   intro: LocalizedText
   crop_slugs: string[]
   image: string | null
+  sources?: string[]
+  verified: boolean
+  draft?: boolean
 }
 
 export interface ChecklistItem {
@@ -22,6 +25,9 @@ export interface ChecklistItem {
   body: LocalizedText
   /** Optional deep link (crop slug or guide url). */
   link: string | null
+  sources?: string[]
+  verified: boolean
+  draft?: boolean
 }
 
 export interface Price {
@@ -88,6 +94,8 @@ export function buildContentSnapshot(input: ContentData, now: Date = new Date(),
   const inc = opts.includeDrafts ?? false
   const data: ContentData = {
     ...input,
+    collections: gate(input.collections, inc),
+    monthly_checklist: gate(input.monthly_checklist, inc),
     varieties: gate(input.varieties, inc),
     problems: gate(input.problems, inc),
     guides: gate(input.guides, inc),

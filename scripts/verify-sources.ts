@@ -102,6 +102,7 @@ async function companionsAndPrices(): Promise<void> {
 }
 
 await jsonDir(join(DATA, 'problems'))
+await jsonDir(join(DATA, 'content'))
 await jsonDir(join(DATA, 'varieties'))
 await markdownDir(join(DATA, 'content', 'crops'))
 await companionsAndPrices()

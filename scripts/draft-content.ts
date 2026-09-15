@@ -16,7 +16,7 @@ import { dirname, join } from 'node:path'
 import { loadCrops } from './loadCrops.ts'
 import { research, structure } from './gemini.ts'
 import type { Companions, Problem, Variety } from '../src/content/types.ts'
-import type { Price } from '../src/content/snapshot.ts'
+import type { ChecklistItem, Collection, Price } from '../src/content/snapshot.ts'
 
 const here = dirname(fileURLToPath(import.meta.url))
 const DATA = join(here, '..', 'data')
@@ -155,13 +155,61 @@ async function prices(slugs: string[]): Promise<void> {
   writeFileSync(path, JSON.stringify([...byslug.values()].sort((a, b) => a.crop_slug.localeCompare(b.crop_slug)), null, 2) + '\n')
 }
 
+// ── collections (PRD 6.1) ───────────────────────────────────────────────────
+const COLLECTIONS: [slug: string, nl: string, en: string, brief: string][] = [
+  ['balkon-starters', 'Balkon-starters', 'Balcony starters', 'the easiest vegetables and herbs for a first balcony season in pots'],
+  ['snelle-sla', 'Snelle sla', 'Quick salads', 'fast crops ready in 3-6 weeks: leaves, radish, spring onion'],
+  ['herzaaien-in-juli', 'Herzaaien in juli', 'Re-sow in July', 'what you can still sow in July and August for an autumn harvest'],
+  ['oogst-in-oktober', 'Oogst in oktober', 'October harvest', 'crops harvested in October in the Netherlands'],
+  ['wintergroenten', 'Wintergroenten', 'Winter vegetables', 'hardy vegetables that stand outside through a Dutch winter'],
+  ['kindvriendelijk', 'Kindvriendelijk', 'Kid friendly', 'crops children enjoy sowing, watching and eating'],
+  ['kruiden-op-de-vensterbank', 'Kruiden op de vensterbank', 'Windowsill herbs', 'herbs that grow well indoors on a windowsill all year'],
+  ['binnen-kweken', 'Binnen kweken', 'Growing indoors', 'vegetables and herbs that can be grown indoors without a garden'],
+]
+
+async function collections(): Promise<void> {
+  const path = join(DATA, 'content', 'collections.json')
+  const cur = (existsSync(path) ? JSON.parse(readFileSync(path, 'utf8')) : []) as Collection[]
+  const byslug = new Map(cur.map((c) => [c.slug, c]))
+  for (const [slug, nl, en, brief] of COLLECTIONS) {
+    if (byslug.get(slug)?.verified) { console.log(`skip (verified): ${slug}`); continue }
+    const r = await research(`Search the web for Dutch and Belgian gardening pages (tuinadvies.nl, velt.nu, makkelijkemoestuin.nl, groei.nl) about ${brief} (Netherlands, balcony or small garden). Which crops do they recommend and why? Cite the URL for each point.`)
+    if (r.sources.length === 0) { console.log(`no grounding for ${slug}; skipped`); continue }
+    const c = await structure<{ intro: { nl: string; en: string }; crop_slugs: string[] }>(`Collection "${en}" (${nl}). JSON {"intro": {"nl": 2 warm sentences, "en": same}, "crop_slugs": 6-12 slugs from this list only, best fit first: ${slugList}}.`, r.text)
+    byslug.set(slug, { slug, title: { nl, en }, intro: c.intro, crop_slugs: c.crop_slugs.filter((x) => crops.some((k) => k.slug === x)), image: null, sources: r.sources, verified: false })
+    console.log(`${slug}: ${c.crop_slugs.length} crops`)
+  }
+  writeFileSync(path, JSON.stringify([...byslug.values()], null, 2) + '\n')
+}
+
+// ── monthly checklist (PRD 2.5) ─────────────────────────────────────────────
+const MONTHS_NL = ['januari', 'februari', 'maart', 'april', 'mei', 'juni', 'juli', 'augustus', 'september', 'oktober', 'november', 'december']
+
+async function checklist(months: number[]): Promise<void> {
+  const path = join(DATA, 'content', 'monthly-checklist.json')
+  const cur = (existsSync(path) ? JSON.parse(readFileSync(path, 'utf8')) : []) as ChecklistItem[]
+  const keep = cur.filter((c) => c.verified || !months.includes(c.month))
+  for (const m of months) {
+    if (cur.some((c) => c.month === m && c.verified)) { console.log(`skip (verified): month ${m}`); continue }
+    const r = await research(`Search the web for Dutch "moestuinkalender ${MONTHS_NL[m - 1]}" pages (tuinadvies.nl, velt.nu, makkelijkemoestuin.nl, groei.nl, ivn.nl). What should a balcony or small-garden vegetable grower in the Netherlands do in ${MONTHS_NL[m - 1]}: sowing, planting out, care, harvest, protection against frost or heat? Cite the URL for each point.`)
+    if (r.sources.length === 0) { console.log(`no grounding for month ${m}; skipped`); continue }
+    const items = await structure<{ title: { nl: string; en: string }; body: { nl: string; en: string }; crop_slug: string | null }[]>(`6-8 checklist items for month ${m} (${MONTHS_NL[m - 1]}), container-first, most important first. JSON array of {"title": {"nl": ≤6 words, "en": same}, "body": {"nl": 1-2 sentences, "en": same}, "crop_slug": one slug from this list if the item is about one crop, else null: ${slugList}}.`, r.text)
+    for (const it of items) keep.push({ month: m, title: it.title, body: it.body, link: it.crop_slug && crops.some((k) => k.slug === it.crop_slug) ? it.crop_slug : null, sources: r.sources, verified: false })
+    console.log(`month ${m}: ${items.length} items`)
+  }
+  keep.sort((a, b) => a.month - b.month)
+  writeFileSync(path, JSON.stringify(keep, null, 2) + '\n')
+}
+
 const allSlugs = crops.map((c) => c.slug)
 switch (cmd) {
+  case 'collections': await collections(); break
+  case 'checklist': await checklist(args.length ? args.map(Number) : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]); break
   case 'problems': await problems(); break
   case 'varieties': await varieties(args.length ? args : allSlugs); break
   case 'companions': await companions(args.length ? args : allSlugs); break
   case 'editorial': await editorial(args[0]!, (args[1] as 'nl' | 'en') ?? 'nl'); break
   case 'prices': await prices(args.length ? args : allSlugs); break
   default:
-    console.log('usage: draft-content.ts problems | varieties [slugs] | companions [slugs] | editorial <slug> <nl|en> | prices [slugs]')
+    console.log('usage: draft-content.ts problems | varieties [slugs] | companions [slugs] | editorial <slug> <nl|en> | prices [slugs] | collections | checklist [months]')
 }
