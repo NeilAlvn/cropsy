@@ -1,0 +1,82 @@
+{
+  "slug": "pea-shoots",
+  "names": {
+    "nl": "Erwtenscheuten",
+    "en": "Pea shoots"
+  },
+  "category": "leafy",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 1,
+  "spacing_cm": 1,
+  "vak_per_m2": null,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -10,
+      "end_weeks": -6,
+      "min_soil_c": 2,
+      "note": {
+        "nl": "Binnen voorzaaien op de vensterbank kan jaarrond, of vanaf februari tot begin maart.",
+        "en": "Sow indoors on the windowsill year-round, or from February to early March."
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": -8,
+      "end_weeks": 2,
+      "min_soil_c": 2,
+      "note": {
+        "nl": "Buiten zaaien vanaf half februari (10-12 weken vóór IJsheiligen) tot april/mei.",
+        "en": "Direct sow outdoors from mid-February (10-12 weeks before Ice Saints) through April/May."
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "first_frost",
+      "start_weeks": -6,
+      "end_weeks": 0,
+      "min_soil_c": 2,
+      "note": {
+        "nl": "Najaarszaai buiten vanaf september (4-6 weken vóór de eerste vorst) tot in de late herfst.",
+        "en": "Autumn outdoor sowing from September (4-6 weeks before first frost) into late autumn."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 9,
+    "days_max": 21
+  },
+  "difficulty": 1,
+  "feed_cadence_days": null,
+  "depth_mm": 15,
+  "germination_days": 7,
+  "days_to_transplant": null,
+  "perennial": false,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://makkelijkemoestuin.nl/kennisbank/voorkiemen-van-peultjes-erwten-en-sugarsnaps",
+    "https://makkelijkemoestuin.nl/kennisbank/wintererwt-zaaien-en-kweken",
+    "https://www.vreeken.nl/zaden/groenten-fruit/erwten-peulen/p1-40",
+    "https://stadstuinieren.nl/recept/erwtenscheuten/",
+    "https://groei.nl/artikel/verrassende-wintergroentjes-erwtenkiemen",
+    "https://stadstuinieren.nl/artikel/zaaien-in-februari/",
+    "https://beweegt.velt.nu/tienen/2197/tuinindewinter",
+    "https://stadstuinieren.nl/artikel/erwten-peulen-en-tuinbonen-voorzaaien-vlog/",
+    "https://groei.nl/artikel/doperwt",
+    "https://deventer.groei.nl/actueel/moestuinieren-de-moestuin/de-moestuin/zaaien-en-aanplanten-van-groenten-in-de-moestuin",
+    "https://community.makkelijkemoestuin.nl/posts/recepten-2/erwtenscheuten-pesto",
+    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/eindelijk-starten",
+    "https://www.bolster.nl/groene-erwt-kiemgroente-pisum-sativum/p9093",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/de-vierkante-meter-moestuin-deel-4/",
+    "https://www.vreeken.nl/395710-mengsel-groenbemesters",
+    "https://velt.nu/system/files/media/documenten/Handboek%20Schooltuinen%20H5.pdf",
+    "https://wageningen.groei.nl/opslag/nieuwsbrief-opslag-wageningen/nieuwsbrief-februari-2021",
+    "https://community.makkelijkemoestuin.nl/posts/recepten-2/palmkool-smootie-met-mango"
+  ],
+  "verified": false
+}

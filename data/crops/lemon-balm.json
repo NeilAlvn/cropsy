@@ -1,0 +1,88 @@
+{
+  "slug": "lemon-balm",
+  "names": {
+    "nl": "Citroenmelisse",
+    "en": "Lemon balm"
+  },
+  "category": "herb",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 5,
+  "spacing_cm": 30,
+  "vak_per_m2": 1,
+  "sun": "shade-tolerant",
+  "methods": [
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -6,
+      "end_weeks": 2,
+      "min_soil_c": 13,
+      "note": {
+        "nl": "Binnen voorzaaien in maart of april op een lichte, warme plek.",
+        "en": "Sow indoors in March or April in a bright, warm location."
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 12,
+      "min_soil_c": 5,
+      "note": {
+        "nl": "Uitplanten na IJsheiligen wanneer de zaailingen zijn afgehard.",
+        "en": "Plant out after the last spring frosts once seedlings are hardened off."
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": 0,
+      "end_weeks": 12,
+      "min_soil_c": 13,
+      "note": {
+        "nl": "Buiten ter plekke zaaien vanaf het voorjaar; kiemt optimaal na IJsheiligen.",
+        "en": "Sow directly outdoors from spring; best germination occurs after mid-May."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 20,
+    "days_max": 30
+  },
+  "difficulty": 1,
+  "feed_cadence_days": 30,
+  "depth_mm": 2,
+  "germination_days": 14,
+  "days_to_transplant": 50,
+  "perennial": true,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://midden-kennemerland.groei.nl/fileadmin/Afdelingen/afdeling_midden_kennemerland/Archief/Heiloo/Documenten/PDF/plantbeschrijving_g_totenmet_n.docx.pdf",
+    "https://www.keukenplanten.nl/zaaikalender/citroenmelisse",
+    "https://yarinde.nl/products/citroenmelisse-melissa-officinalis-prod",
+    "https://leidschendam.groei.nl/groeninfo/zelf-een-kruidentuintje-maken",
+    "https://makkelijkemoestuin.nl/kennisbank/testpakket-zaden-2024",
+    "https://www.bijen-en-kruiden.be/zielschrift/2441150_citroenmelisse",
+    "https://demoestuinwinkel.nl/products/sluis_garden_citroenmelisse_citrina",
+    "https://www.tuindreef.nl/kruidenzaden/citroenmelisse-zaden",
+    "https://www.vivara.nl/citroenmelisse-biologisch",
+    "https://zaaikalender.com/kruiden-kweken/",
+    "https://www.keukenplanten.nl/zaden/kruiden/Citroenmelisse-Buzzy-Organic",
+    "https://www.plantsome.nl/products/citroenmelisse-zaden-bio",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/tips-aanleggen-kruidentuin/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-telen-op-schaduwrijke-plaatsen/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/kruiden-eenvoudig-te-kweken-deel-1/",
+    "https://velt.nu/keukenkruiden-kweken",
+    "https://www.koopzaden.nl/product/citroenmelisse-zaden-citrina-melissa-bio",
+    "https://www.pokon.nl/plant/item/citroenmelisse-kweken/",
+    "https://www.aveve.be/nl/inspiratie/kruidentuin/bemesten",
+    "https://www.baldur-nederland.nl/onion/content/plant--und-verzorgingstips/groente-und-kruiden/citroenmelisse--melissa-officinalis",
+    "https://dcm-info.nl/hobby/tuintips/zo-plant-en-verzorg-je-kruiden-in-potten-en-bakken",
+    "https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/zelf-citroenmelisse-kweken/",
+    "https://www.vreeken.nl/zaden/meerjarige-planten/geneeskrachtige-kruiden/p4-20",
+    "https://www.vreeken.nl/zaden/meerjarige-planten/groepen"
+  ],
+  "verified": false
+}

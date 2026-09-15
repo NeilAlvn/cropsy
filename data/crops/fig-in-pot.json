@@ -1,0 +1,58 @@
+{
+  "slug": "fig-in-pot",
+  "names": {
+    "nl": "Vijg in pot",
+    "en": "Fig in a pot"
+  },
+  "category": "fruit",
+  "frost_tender": true,
+  "container_ok": true,
+  "min_pot_litres": 50,
+  "spacing_cm": 100,
+  "vak_per_m2": null,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "plant",
+      "anchor": "last_frost",
+      "start_weeks": -6,
+      "end_weeks": 2,
+      "min_soil_c": 7,
+      "note": {
+        "nl": "Planten of oppotten in het vroege voorjaar tijdens de rustperiode voordat de plant uitloopt.",
+        "en": "Plant or pot up in early spring during dormancy before new growth starts."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 120,
+    "days_max": 160
+  },
+  "difficulty": 2,
+  "feed_cadence_days": null,
+  "depth_mm": null,
+  "germination_days": null,
+  "days_to_transplant": null,
+  "perennial": true,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://www.tuinadvies.nl/planten/fruitbomen/ficus-carica-precoce-de-dalmatie/vijg/",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/vorstbescherming/hoe-bescherm-je-planten-tegen-vorst/",
+    "https://www.tuinadvies.nl/planten/fruitbomen/ficus-carica-leon-de-vos/vijg/",
+    "https://groei.nl/artikel/vijg-kweken-in-een-pot",
+    "https://velt.nu/node/88",
+    "https://velt.nu/tip/zelf-fruitbomen-en-struiken-kweken",
+    "https://wageningen.groei.nl/opslag/nieuwsbrief-opslag-wageningen/nieuwsbrief-januari-2021",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/bodem-bemesting/vijgenboom-verplanten/",
+    "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/welke-vijg-voor-jouw-tuin",
+    "https://groei.nl/artikel/fruit-kweken-in-potten",
+    "https://velt.nu/tip/een-fruitboom-struik-voor-elke-stadstuin",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/meststof-vijgenboom/",
+    "https://groei.nl/artikel/ecologisch-tuinieren-in-oktober",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/vijgen-vallen-vroegtijdig-af/",
+    "https://www.vreeken.nl/zoeken/822565/823085/880005/880067/880087/880088/880102/880112",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/vijgenboom-kopen/"
+  ],
+  "verified": false
+}

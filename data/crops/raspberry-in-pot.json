@@ -1,0 +1,71 @@
+{
+  "slug": "raspberry-in-pot",
+  "names": {
+    "nl": "Framboos in pot",
+    "en": "Raspberry in a pot"
+  },
+  "category": "fruit",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 10,
+  "spacing_cm": 50,
+  "vak_per_m2": null,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "plant",
+      "anchor": "last_frost",
+      "start_weeks": -6,
+      "end_weeks": 0,
+      "min_soil_c": 0,
+      "note": {
+        "nl": "Plant slapende wortels of potplanten in het voorjaar op vorstvrije dagen.",
+        "en": "Plant dormant canes or potted plants in spring on frost-free days."
+      }
+    },
+    {
+      "type": "plant",
+      "anchor": "first_frost",
+      "start_weeks": -4,
+      "end_weeks": 4,
+      "min_soil_c": 0,
+      "note": {
+        "nl": "Plant kale wortels of containerplanten in het najaar voor de vorst.",
+        "en": "Plant bare-root canes or potted plants in autumn before hard frosts."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 120,
+    "days_max": 450
+  },
+  "difficulty": 1,
+  "feed_cadence_days": 21,
+  "depth_mm": null,
+  "germination_days": null,
+  "days_to_transplant": null,
+  "perennial": true,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/frambozen-woekeren-tegengaan/",
+    "https://groei.nl/artikel/fruit-kweken-in-potten",
+    "https://www.tuinadvies.nl/planten/kleinfruit/rubus-idaeus-polka/herfstframboos/",
+    "https://www.tuinadvies.nl/planten/kleinfruit/rubus-idaeus-enrosadira/framboos/",
+    "https://velt.nu/tip/hoe-plant-je-een-fruitboom-struik",
+    "https://velt.nu/tip/zelf-fruitbomen-en-struiken-kweken",
+    "https://velt.nu/system/files/media/documenten/samenaankoop-fruit2025.pdf",
+    "https://www.vreeken.nl/116000-framboos-purple-mix",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/fruit-voor-beginners/",
+    "https://makkelijkemoestuin.nl/kennisbank/frambozen-in-een-moestuinbak",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-telen-in-de-winter",
+    "https://groei.nl/artikel/framboos-kweken-in-een-pot",
+    "https://groei.nl/artikel/herfstframbozen-uitdunnen",
+    "https://www.vreeken.nl/822160-pot-zomerframboos-ruby-beauty-bonbonberry-yummy",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/zoete-frambozen",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/bodem-bemesting/albatros-meststoffen/",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/bodem-bemesting/agapanthus-mest-7-14-28/",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/vraag-over-frambozen-en-blauwe-bes"
+  ],
+  "verified": false
+}

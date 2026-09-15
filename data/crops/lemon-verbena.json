@@ -1,0 +1,56 @@
+{
+  "slug": "lemon-verbena",
+  "names": {
+    "nl": "Citroenverbena",
+    "en": "Lemon verbena"
+  },
+  "category": "herb",
+  "frost_tender": true,
+  "container_ok": true,
+  "min_pot_litres": 15,
+  "spacing_cm": 35,
+  "vak_per_m2": 1,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "plant",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 10,
+      "min_soil_c": 12,
+      "note": {
+        "nl": "Plant of verplaats kuipplanten na IJsheiligen naar buiten in warme grond.",
+        "en": "Plant or move container shrubs outside after mid-May frosts into warm soil."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 30,
+    "days_max": 60
+  },
+  "difficulty": 2,
+  "feed_cadence_days": 21,
+  "depth_mm": 2,
+  "germination_days": 21,
+  "days_to_transplant": null,
+  "perennial": true,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://www.vreeken.nl/831320-citroenverbena",
+    "https://www.tuinadvies.nl/planten/kruiden/aloysia-triphylla/citroenverbena/",
+    "https://groei.nl/artikel/hoe-zaai-ik-citroenverbena",
+    "https://greenfingersonline.nl/citroenverbena-aloysia-triphylla/",
+    "https://www.zaaikalender.be/plant/citroenverbena-planten",
+    "https://www.keukenplanten.nl/zaaikalender-moestuin-maart",
+    "https://www.keukenplanten.nl/zaaikalender/citroenverbena",
+    "https://www.mooiemoestuin.nl/moestuin/tuinieren-overig/tuinieren-in-potten/kruiden-en-fruit-in-potten/",
+    "https://www.intratuin.nl/plantengids/citroenverbena-verveine-aloysia-triphylla-snoeien-stekken",
+    "https://gebrdegier.nl/assortiment/kruiden+op+pot/citroenverbena",
+    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/mijn-eerste-mm-jaar",
+    "https://groei.nl/artikel/kruiden-oogsten-en-drogen",
+    "https://groei.nl/artikel/tuinklussen-juli",
+    "https://www.tuinadvies.nl/tuininfo/planten/sierplanten/hoe-stekken-om-kuipplanten-te-vermeerderen/"
+  ],
+  "verified": false
+}

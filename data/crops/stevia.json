@@ -1,0 +1,69 @@
+{
+  "slug": "stevia",
+  "names": {
+    "nl": "Stevia",
+    "en": "Stevia"
+  },
+  "category": "herb",
+  "frost_tender": true,
+  "container_ok": true,
+  "min_pot_litres": 4,
+  "spacing_cm": 25,
+  "vak_per_m2": 1,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -8,
+      "end_weeks": 2,
+      "min_soil_c": 20,
+      "note": {
+        "nl": "Binnenshuis voorzaaien bij minstens 20 °C op een warme, lichte plek; zaden zijn lichtkiemers.",
+        "en": "Sow indoors at minimum 20 °C in a warm, bright spot; seeds need light to germinate."
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 11,
+      "min_soil_c": null,
+      "note": {
+        "nl": "Uitplanten na IJsheiligen zodra het buiten warm en vorstvrij is.",
+        "en": "Plant out after the last night frosts (Ice Saints) once warm weather has settled."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 40,
+    "days_max": 60
+  },
+  "difficulty": 2,
+  "feed_cadence_days": 21,
+  "depth_mm": 1,
+  "germination_days": 18,
+  "days_to_transplant": 70,
+  "perennial": true,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://www.tuinadvies.nl/planten/kruiden/stevia-rebaudiana/stevia-honingkruid-stepa-suikerplantje/",
+    "https://www.tuinadvies.be/planten/kruiden/stevia-rebaudiana/stevia-honingkruid-stepa-suikerplantje/",
+    "https://www.koopzaden.nl/product/stevia-zaden-honingplant",
+    "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/tuinkruiden?groep=242",
+    "https://www.vreeken.nl/362100-suikerblad",
+    "https://www.keukenplanten.nl/zaaikalender/stevia",
+    "https://www.zamnesia.nl/blog-wat-je-over-stevia-zou-moeten-weten-n2806",
+    "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/tuinkruiden/stevia-rebaudiana/stevia-honingkruid",
+    "https://www.mooiemoestuin.nl/kruiden/stevia/",
+    "https://www.intratuin.nl/intratuin-kruidenzaad-suikerplantje-stevia-reboudiana.html",
+    "https://www.compo.be/nl/advies/planten/kruiden-groenten-fruit/stevia",
+    "https://plukkers.com/blogs/gewasinfo/stevia-zelf-kweken",
+    "https://www.verticalfarm.nl/kruiden/stevia/",
+    "https://nl-nl.bakker.com/products/suikerplantje",
+    "https://www.feestvoorvogels.nl/product/buzzy-stevia-suikerplantje-of-honingkruid/",
+    "https://plukkers.com/blogs/zaaien-en-planten/voorzaaien"
+  ],
+  "verified": false
+}

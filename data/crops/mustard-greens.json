@@ -1,0 +1,83 @@
+{
+  "slug": "mustard-greens",
+  "names": {
+    "nl": "Bladmosterd",
+    "en": "Mustard greens"
+  },
+  "category": "leafy",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 3,
+  "spacing_cm": 20,
+  "vak_per_m2": 9,
+  "sun": "partial",
+  "methods": [
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -8,
+      "end_weeks": 2,
+      "min_soil_c": 5,
+      "note": {
+        "nl": "Voorzaaien binnenshuis of onder glas voor een vroege voorjaarsteelt.",
+        "en": "Sow indoors or under glass for an early spring crop."
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": -6,
+      "end_weeks": 4,
+      "min_soil_c": 4,
+      "note": {
+        "nl": "Direct buiten zaaien kan al vroeg, mosterdblad verdraagt koude grond goed.",
+        "en": "Direct sow outdoors early, as mustard greens tolerate cold soil well."
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": -4,
+      "end_weeks": 4,
+      "min_soil_c": 4,
+      "note": {
+        "nl": "Uitplanten zodra de zaailingen 2 tot 4 echte blaadjes hebben.",
+        "en": "Transplant outdoors once seedlings have 2 to 4 true leaves."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 21,
+    "days_max": 60
+  },
+  "difficulty": 1,
+  "feed_cadence_days": 21,
+  "depth_mm": 5,
+  "germination_days": 7,
+  "days_to_transplant": 20,
+  "perennial": false,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://www.vreeken.nl/136120-amsoi-purple-frills",
+    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/amsoi-uit-de-az-sla-geoogst-voor-stampotje",
+    "https://www.tuinadvies.nl/planten/kruiden/brassica-juncea-rugosa/sarepta-mosterd-mosterdkool-bladmosterd/",
+    "https://makkelijkemoestuin.nl/starten-in-september",
+    "https://www.bolster.nl/bladmosterd-telen-onze-tips/t24060",
+    "https://groei.nl/artikel/saladebar-aan-huis",
+    "https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/mosterdblad/",
+    "https://shop.groei.nl/62821/zaden/65122/amsoi-red-giant",
+    "https://www.grove.eco/nl/planten/sinapis/",
+    "https://zaaikalender.com/april/",
+    "https://beweegt.velt.nu/braas/download.php?bestand=zadenlijst2013_lr.pdf",
+    "https://zaaikalender.com/",
+    "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken",
+    "https://stadstuinieren.nl/artikel/paars-mosterdblad-kweken-en-oogsten/",
+    "https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/ho-mi-in-je-tuin/",
+    "https://www.magicgardenseeds.nl/Blad-mosterd-Rouge-Metis-Brassica-juncea-bio-zaad",
+    "https://www.semaille.com/nl/bruine-of-chinese-mosterd/571-mosterd-rood-chinese-red-giant-5415166009869.html",
+    "https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/amsoi-in-je-moestuin/",
+    "https://velt.nu/keukenkruiden-kweken"
+  ],
+  "verified": false
+}

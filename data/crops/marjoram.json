@@ -1,0 +1,81 @@
+{
+  "slug": "marjoram",
+  "names": {
+    "nl": "Marjolein",
+    "en": "Marjoram"
+  },
+  "category": "herb",
+  "frost_tender": true,
+  "container_ok": true,
+  "min_pot_litres": 7.5,
+  "spacing_cm": 25,
+  "vak_per_m2": 1,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -6,
+      "end_weeks": -2,
+      "min_soil_c": 15,
+      "note": {
+        "nl": "Binnen voorzaaien op een lichte plek; zaden nauwelijks bedekken omdat het lichtkiemers zijn.",
+        "en": "Sow indoors in a bright spot; barely cover seeds as they require light to germinate."
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 7,
+      "min_soil_c": 15,
+      "note": {
+        "nl": "Afharden en buiten uitplanten na IJsheiligen zodra de kans op nachtvorst is geweken.",
+        "en": "Harden off and plant outdoors after the last frost once danger of freezing nights has passed."
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": 2,
+      "end_weeks": 8,
+      "min_soil_c": 15,
+      "note": {
+        "nl": "Buiten zaaien in opgewarmde grond; zaden heel oppervlakkig aandrukken.",
+        "en": "Sow directly outdoors in warm soil; press seeds lightly into the surface."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 30,
+    "days_max": 45
+  },
+  "difficulty": 2,
+  "feed_cadence_days": 42,
+  "depth_mm": 1,
+  "germination_days": 14,
+  "days_to_transplant": 35,
+  "perennial": false,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://groei.nl/artikel/warmteminnaars-zaai-je-niet-te-vroeg",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-oregano/",
+    "https://www.vreeken.nl/354000-majoraan",
+    "https://beweegt.velt.nu/braas/download.php?bestand=zadenlijst2013_lr.pdf",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/onmisbare-kruiden/",
+    "https://plantenzoeker.velt.nu/plant/origanum-majorana-origanum-hortensis",
+    "https://groei.nl/artikel/hoe-zaai-ik-oregano",
+    "https://www.vreeken.nl/356005-oregano",
+    "https://demoestuinwinkel.nl/products/sluis_garden_oregano_-_marjolein",
+    "https://shop.groei.nl/64684/eetbaar-moestuin/105203/origanum-majorana",
+    "https://www.gardenseeds.nl/zaaien/",
+    "https://www.deoosteindeonline.nl/product/griekse-oreganum-zaden-wilde-marjolein",
+    "https://zaaikalender.com/kruiden-kweken/",
+    "https://makkelijkemoestuin.nl/kennisbank/kruiden-kweken-in-potten-of-moestuinbak",
+    "https://velt.nu/kruiden",
+    "https://groei.nl/artikel/kruiden-oogsten-en-drogen",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/kruiden-eenvoudig-te-kweken-deel-2/"
+  ],
+  "verified": false
+}

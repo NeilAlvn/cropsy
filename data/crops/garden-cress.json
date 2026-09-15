@@ -1,0 +1,82 @@
+{
+  "slug": "garden-cress",
+  "names": {
+    "nl": "Tuinkers",
+    "en": "Garden cress"
+  },
+  "category": "leafy",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 0.2,
+  "spacing_cm": 10,
+  "vak_per_m2": null,
+  "sun": "partial",
+  "methods": [
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": -7,
+      "end_weeks": 2,
+      "min_soil_c": 5,
+      "note": {
+        "nl": "Direct buiten zaaien in het vroege voorjaar; verdraagt lichte vorst en kiemt al vanaf 5 °C.",
+        "en": "Direct sow outdoors in early spring; tolerates light frost and germinates from 5 °C."
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "first_frost",
+      "start_weeks": -9,
+      "end_weeks": -4,
+      "min_soil_c": 5,
+      "note": {
+        "nl": "Najaarsteelt van eind augustus tot begin oktober vóór de zware nachtvorsten.",
+        "en": "Autumn sowing from late August to early October before hard frosts."
+      }
+    },
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -14,
+      "end_weeks": 20,
+      "min_soil_c": null,
+      "note": {
+        "nl": "Binnenshuis op de vensterbank het hele jaar door te zaaien als kiemgroente.",
+        "en": "Can be sown indoors on the windowsill year-round as microgreens."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 5,
+    "days_max": 28
+  },
+  "difficulty": 1,
+  "feed_cadence_days": null,
+  "depth_mm": 2,
+  "germination_days": 2,
+  "days_to_transplant": null,
+  "perennial": false,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://shop.groei.nl/64684/eetbaar-moestuin/79969/lepidium-sativum",
+    "https://velt.nu/tip/wat-kun-je-het-najaar-zaaien-en-planten",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/lekkere-groentjes-kweken-in-het-najaar/",
+    "https://www.vreeken.nl/301000-tuinkers-gewone-groene",
+    "https://velt.nu/kleine-moestuin",
+    "https://groei.nl/artikel/hoe-zaai-ik-tuinkers",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/zaaien-het-hele-jaar-door/",
+    "https://beweegt.velt.nu/tienen/2197/tuinindewinter",
+    "https://velt.nu/system/files/media/documenten/leerkrachtenbundel_minimoestuin_op_school.pdf",
+    "https://www.vreeken.nl/zaden/kiemen-microgroenten/p1-90",
+    "https://groei.nl/artikel/groenten-sprouts",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kiemgroenten-of-spruitgroenten",
+    "https://velt.nu/starten-met-een-moestuin",
+    "https://www.tuinadvies.nl/shop/tuin/zaden-bloembollen/groentezaden/kiem-en-spruitgroenten/buzzy-microgreens-tuinkers~200133942/",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/tuintip-50/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/nasturtium-officinale-waterkers/",
+    "https://leidschendam.groei.nl/groeninfo/zelf-een-kruidentuintje-maken",
+    "https://www.vreeken.nl/536150-lepidium-sativum"
+  ],
+  "verified": false
+}

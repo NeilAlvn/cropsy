@@ -1,0 +1,82 @@
+{
+  "slug": "borage",
+  "names": {
+    "nl": "Bernagie (komkommerkruid)",
+    "en": "Borage"
+  },
+  "category": "herb",
+  "frost_tender": true,
+  "container_ok": true,
+  "min_pot_litres": 10,
+  "spacing_cm": 30,
+  "vak_per_m2": 1,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -6,
+      "end_weeks": -1,
+      "min_soil_c": 10,
+      "note": {
+        "nl": "Voorzaaien in diepe potjes om de gevoelige penwortel te beschermen",
+        "en": "Sow indoors in deep pots to protect sensitive taproot"
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 8,
+      "min_soil_c": 10,
+      "note": {
+        "nl": "Afharden en uitplanten na IJsheiligen",
+        "en": "Harden off and plant outside after last frosts"
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": 0,
+      "end_weeks": 16,
+      "min_soil_c": 10,
+      "note": {
+        "nl": "Ter plekke zaaien vanaf april tot augustus",
+        "en": "Direct sow outdoors from April to August"
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 55,
+    "days_max": 60
+  },
+  "difficulty": 1,
+  "feed_cadence_days": 14,
+  "depth_mm": 10,
+  "germination_days": 14,
+  "days_to_transplant": 35,
+  "perennial": false,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-komkommerkruid/",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/bloemen-7",
+    "https://beweegt.velt.nu/braas/download.php?bestand=zadenlijst2013_lr.pdf",
+    "https://plantenzoeker.velt.nu/plant/borago-officinalis",
+    "https://makkelijkemoestuin.nl/kennisbank/testpakket-zaden-2022",
+    "https://velt.nu/tip/groenbemesters-voorkomen-dat-jouw-perceel-bloot-ligt",
+    "https://www.keukenplanten.nl/zaaikalender/komkommerkruid",
+    "https://www.vreeken.nl/338000-borage-gewone-blauwe",
+    "https://velt.nu/keukenkruiden-kweken",
+    "https://www.semaille.com/nl/eenjarige-bloemen/256-bernagie-5415166000200.html",
+    "https://makkelijkemoestuin.nl/blog/nog-meer-soorten-in-de-app",
+    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/komkommerkruid-13",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/nuttige-bloemen-in-de-moestuin/",
+    "https://www.tuinadvies.nl/planten/kruiden/borago-officinalis/bernagiekomkommerkruid/",
+    "https://www.puurvantveld.eu/Bernagie-biologische-zaden",
+    "https://www.vreeken.nl/zaden/kiemen-microgroenten/p2-20",
+    "https://www.vreeken.nl/690660-boragekers",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/juni-en-juli-de-eerste-oogst-en-wat-nog-te-zaaien/"
+  ],
+  "verified": false
+}

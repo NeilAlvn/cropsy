@@ -1,0 +1,88 @@
+{
+  "slug": "winter-purslane",
+  "names": {
+    "nl": "Winterpostelein",
+    "en": "Winter purslane (miner's lettuce)"
+  },
+  "category": "leafy",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 2,
+  "spacing_cm": 10,
+  "vak_per_m2": 9,
+  "sun": "partial",
+  "methods": [
+    {
+      "type": "sow_direct",
+      "anchor": "first_frost",
+      "start_weeks": -13,
+      "end_weeks": 0,
+      "min_soil_c": 5,
+      "note": {
+        "nl": "Direct ter plaatse zaaien in de nazomer tot herfst voor oogst in het najaar en de winter.",
+        "en": "Sow directly outdoors from late summer through autumn for autumn and winter harvest."
+      }
+    },
+    {
+      "type": "sow_indoor",
+      "anchor": "first_frost",
+      "start_weeks": -13,
+      "end_weeks": -5,
+      "min_soil_c": 5,
+      "note": {
+        "nl": "Voorzaaien in trays in de nazomer of vroege herfst.",
+        "en": "Pre-sow in module trays in late summer or early autumn."
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "first_frost",
+      "start_weeks": -9,
+      "end_weeks": 0,
+      "min_soil_c": 5,
+      "note": {
+        "nl": "Uitplanten van kluitjes circa 3 tot 4 weken na het zaaien.",
+        "en": "Transplant modules outdoors about 3 to 4 weeks after sowing."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 28,
+    "days_max": 56
+  },
+  "difficulty": 1,
+  "feed_cadence_days": null,
+  "depth_mm": 2,
+  "germination_days": 7,
+  "days_to_transplant": 25,
+  "perennial": false,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://www.moestuingemak.nl/producten/5973290942619-37243804385435/zaad-voor-winterpostelein",
+    "https://www.tuinadvies.nl/planten/kruiden/claytonia-perfoliata/winterpostelein/",
+    "https://groei.nl/artikel/zaaien-oktober-koudebak",
+    "https://velt.nu/nieuws/de-tuin-en-op-jouw-bord-winterpostelein",
+    "https://makkelijkemoestuin.nl/kennisbank/winterpostelein-zaaien-en-kweken",
+    "https://www.bolster.nl/winterpostelein-claytonia-perfoliata/p96",
+    "https://groei.nl/artikel/de-nazomermoestuin",
+    "https://www.bloomling.nl/arche-noah/biologische-winterpostelein-portulaca",
+    "https://www.magicgardenseeds.nl/Postelein-Montia-perfoliata-bio-zaad",
+    "https://www.bolster.nl/winterpostelein-telen-onze-tips/t10872",
+    "https://moesmeisje.nl/winterpostelein-zaaien-en-meerdere-keren-oogsten/",
+    "https://www.vreeken.nl/319000-winterpostelein-gewone",
+    "https://www.123zaden.nl/winterpostelein",
+    "https://makkelijkemoestuin.nl/en/shop/seeds/purslane",
+    "https://makkelijkemoestuin.nl/kennisbank/aardappels-telen-in-een-pot",
+    "https://www.mooiemoestuin.nl/groenteteelt/bladgewassen/winterpostelein/",
+    "https://groei.nl/artikel/saladebar-aan-huis",
+    "https://www.pokon.nl/plant/item/winterpostelein/",
+    "https://www.vreeken.nl/319010-winterpostelein-roze",
+    "https://homesteadingnederland.nl/moestuin/winterpostelein/",
+    "https://www.floravannederland.nl/planten/winterpostelein",
+    "https://www.wilde-planten.nl/winterpostelein.htm",
+    "https://www.vreeken.nl/zaden/groenten-fruit/meerjarige-eetgewassen/p5",
+    "https://www.groenrijk.nl/plantengids/plant/vaste-plant/claytonia-sibirica"
+  ],
+  "verified": false
+}

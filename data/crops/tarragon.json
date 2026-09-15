@@ -1,0 +1,80 @@
+{
+  "slug": "tarragon",
+  "names": {
+    "nl": "Dragon",
+    "en": "Tarragon"
+  },
+  "category": "herb",
+  "frost_tender": true,
+  "container_ok": true,
+  "min_pot_litres": 7,
+  "spacing_cm": 40,
+  "vak_per_m2": 1,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -6,
+      "end_weeks": 0,
+      "min_soil_c": 15,
+      "note": {
+        "nl": "Binnen voorzaaien bij minimaal 15 °C, ca. 6 tot 8 weken voor IJsheiligen.",
+        "en": "Sow indoors at minimum 15 °C, about 6 to 8 weeks before the last spring frost."
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 8,
+      "min_soil_c": 15,
+      "note": {
+        "nl": "Uitplanten na IJsheiligen zodra de kans op nachtvorst voorbij is.",
+        "en": "Transplant outdoors after IJsheiligen once the danger of night frost has passed."
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 8,
+      "min_soil_c": 15,
+      "note": {
+        "nl": "Buiten ter plekke zaaien na IJsheiligen wanneer de grond voldoende is opgewarmd.",
+        "en": "Sow directly outdoors after IJsheiligen once the soil has warmed up."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 30,
+    "days_max": 90
+  },
+  "difficulty": 2,
+  "feed_cadence_days": 35,
+  "depth_mm": 4,
+  "germination_days": 10,
+  "days_to_transplant": 50,
+  "perennial": true,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/dragon-of-artemisia-dracunculus/",
+    "https://www.mooiemoestuin.nl/kruiden/dragon/",
+    "https://www.vreeken.nl/343000-dragon-russische",
+    "https://www.vreeken.nl/831430-dragon-franse",
+    "https://www.tuinadvies.be/tuininfo/moestuin/groenten/dragon-of-artemisia-dracunculus",
+    "https://plukkers.com/blogs/gewasinfo/dragon",
+    "https://www.keukenplanten.nl/zaaikalender/dragon",
+    "https://www.goedboerenindestad.nl/moestuin/kruiden/dragon/",
+    "https://dezaden.nl/product/buzzy-russische-dragon-zaden/",
+    "https://plukkers.com/blogs/zaaien-en-planten/welke-trays-bakjes-potjes-potten-onderstellen-en-onderschalen-gebruiken-in-de-moestuin",
+    "https://leidschendam.groei.nl/groeninfo/zelf-een-kruidentuintje-maken",
+    "https://velt.nu/keukenkruiden-kweken",
+    "https://www.bijzonderbrabants.nl/product/dragon",
+    "https://www.mooiemoestuin.nl/kruiden/mediterrane-kruiden-in-pot-en-bak/",
+    "https://www.intratuin.nl/biologische-dragon-artemisia-dracunculus-d-12-h-15-cm-1263087.html",
+    "https://www.keukenplanten.nl/Dragon-Mexicaanse-Buzzy-Organic"
+  ],
+  "verified": false
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "lavender",
+  "names": {
+    "nl": "Lavendel (eetbaar)",
+    "en": "Lavender (culinary)"
+  },
+  "category": "herb",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 7,
+  "spacing_cm": 30,
+  "vak_per_m2": 1,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -8,
+      "end_weeks": 0,
+      "min_soil_c": 15,
+      "note": {
+        "nl": "Binnenshuis voorzaaien van februari tot april bij minimaal 15-18 °C.",
+        "en": "Sow indoors from February to April at a minimum of 15-18 °C."
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 8,
+      "min_soil_c": 15,
+      "note": {
+        "nl": "Afgeharde zaailingen na IJsheiligen (half mei) uitplanten in de volle grond.",
+        "en": "Plant out hardened-off seedlings after mid-May (IJsheiligen) into open ground."
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 8,
+      "min_soil_c": 15,
+      "note": {
+        "nl": "Buiten ter plaatse zaaien vanaf half mei wanneer de bodem voldoende is opgewarmd.",
+        "en": "Sow directly outdoors from mid-May once the soil has sufficiently warmed."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 360,
+    "days_max": 400
+  },
+  "difficulty": 2,
+  "feed_cadence_days": null,
+  "depth_mm": 2,
+  "germination_days": 21,
+  "days_to_transplant": 49,
+  "perennial": true,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://www.tuinadvies.nl/planten/kruiden/lavandula-angustifolia-munstead/lavendel/",
+    "https://www.tuinadvies.nl/planten/kruiden/lavandula-angustifolia-essence-purple/lavendel/",
+    "https://verdeia.eu/nl/products/lavandula-angustifolia-hidcote-blauw-12cm-20cm",
+    "https://greenfingersonline.nl/lavandula/",
+    "https://plantenzoeker.velt.nu/plant/lavandula-angustifolia-lavendula-officinalis",
+    "https://www.dutchgardenseeds.com/kruiden-kweken/lavendel-stekken/",
+    "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/tuinkruiden?groep=227",
+    "https://www.hobbytuinpuurnatuur.nl/product/6686355/lavendel-lavandula-augustifolia-50-zaden",
+    "https://www.123zaden.nl/downloads/dl/file/id/124/product/0/lavendel.pdf",
+    "https://deplantrekkers.com/blogs/nieuws/wanneer-lavendel-aanplanten-de-volledige-gids",
+    "https://demoestuinwinkel.nl/products/sluis_garden_lavendel_echte",
+    "https://www.vreeken.nl/348100-lavendel",
+    "https://www.sluisgarden.com/product/lavender-sweet-violet-blue-verani/",
+    "https://www.keukenplanten.nl/zaaikalender/lavendel",
+    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/mijn-eerste-moestuin-11",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/snoeien/lavendel-compost/",
+    "https://nl.wikihow.com/Lavendel-kweken-in-potten",
+    "https://www.directplant.nl/tuintips/lavendel-soorten/",
+    "https://www.tuinen.nl/lavendel-in-potten-of-bakken/",
+    "https://www.hornbach.nl/projecten/lavendel-planten-en-verzorgen/",
+    "https://www.bolster.nl/lavendel/c2058",
+    "https://zaaikalender.com/kruiden-kweken/",
+    "https://www.keukenplanten.nl/lavendel-zaaien-stappenplan"
+  ],
+  "verified": false
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "lovage",
+  "names": {
+    "nl": "Lavas (maggiplant)",
+    "en": "Lovage"
+  },
+  "category": "herb",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 15,
+  "spacing_cm": 50,
+  "vak_per_m2": 1,
+  "sun": "shade-tolerant",
+  "methods": [
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -6,
+      "end_weeks": -2,
+      "min_soil_c": 15,
+      "note": {
+        "nl": "Binnenshuis voorzaaien in maart of april, ongeveer 6 tot 8 weken voor IJsheiligen.",
+        "en": "Sow indoors in March or April, about 6 to 8 weeks before Ice Saints."
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": 0,
+      "end_weeks": 10,
+      "min_soil_c": 15,
+      "note": {
+        "nl": "Ter plekke zaaien vanaf half april tot juni/juli zodra de bodem opwarmt.",
+        "en": "Direct sow outdoors from mid-April through June/July once the soil warms."
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 8,
+      "min_soil_c": 15,
+      "note": {
+        "nl": "Uitplanten rond of direct na IJsheiligen (half mei) tot juni.",
+        "en": "Transplant outdoors around or directly after Ice Saints (mid-May) through June."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 30,
+    "days_max": 45
+  },
+  "difficulty": 1,
+  "feed_cadence_days": 21,
+  "depth_mm": 5,
+  "germination_days": 21,
+  "days_to_transplant": 50,
+  "perennial": true,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/tips-aanleggen-kruidentuin/",
+    "https://www.semaille.com/nl/meerjarige-en-tweejarige-kruiden/961-lavas-5415166000880.html",
+    "https://moestuincursus.nl/almanak/kruiden/maggiplant-lavas/",
+    "https://www.keukenplanten.nl/zaaikalender/lavas",
+    "https://plantenzoeker.velt.nu/plant/levisticum-officinale",
+    "https://www.tuinland.nl/product/lavas-maggiplant",
+    "https://www.lekkerbuitenzijn.nl/de-moestuin/kruiden/lavas/",
+    "https://www.aveve.be/nl/inspiratie/kruidentuin/kruiden-planten-tips",
+    "https://www.vreeken.nl/353000-maggikruid",
+    "https://www.koopzaden.nl/product/maggikruid-lavas-bio",
+    "https://ecotuintje.nl/product/lavas/",
+    "https://www.magicgardenseeds.nl/Lavas-Levisticum-officinale-bio-zaad",
+    "https://makkelijkemoestuin.nl/kennisbank/kruiden-kweken-in-potten-of-moestuinbak",
+    "https://moestuinenbloem.nl/lavas-maggiplant/",
+    "https://community.makkelijkemoestuin.nl/profiel/robertskruidentuin",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/vind-de-juiste-kruidenmatch/",
+    "https://beweegt.velt.nu/braas/download.php?bestand=zadenlijst2013_lr.pdf",
+    "https://velt.nu/kruiden",
+    "https://elkedaggroener.nl/wat-te-doen-met-maggiplant-lavas/",
+    "https://nl-nl.bakker.com/products/lavas-bio",
+    "https://demoestuinwinkel.nl/products/sluis_garden_maggikruid",
+    "https://allezadenkopen.nl/products/maggiplant-lavas",
+    "https://velt.nu/keukenkruiden-kweken",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-kweken-op-terras/",
+    "https://groei.nl/artikel/eetbare-bostuin-kleine-tuin-tips-vera-greutink"
+  ],
+  "verified": false
+}

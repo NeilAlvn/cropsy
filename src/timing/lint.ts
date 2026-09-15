@@ -34,7 +34,7 @@ export function lintCrop(crop: Crop): LintIssue[] {
     if (v != null && (v < lo || v > hi)) err(`${name} ${v} outside ${lo}..${hi}`)
   }
   range('difficulty', crop.difficulty, 1, 3)
-  range('depth_mm', crop.depth_mm, 1, 200)
+  range('depth_mm', crop.depth_mm, 0, 200) // 0 = surface-sown (cress, chamomile)
   range('germination_days', crop.germination_days, 2, 60)
   range('days_to_transplant', crop.days_to_transplant, 14, 120)
   range('feed_cadence_days', crop.feed_cadence_days, 5, 60)

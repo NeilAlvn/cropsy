@@ -1,0 +1,82 @@
+{
+  "slug": "komatsuna",
+  "names": {
+    "nl": "Komatsuna",
+    "en": "Komatsuna"
+  },
+  "category": "leafy",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 3,
+  "spacing_cm": 20,
+  "vak_per_m2": 4,
+  "sun": "shade-tolerant",
+  "methods": [
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -6,
+      "end_weeks": 0,
+      "min_soil_c": 8,
+      "note": {
+        "nl": "Zaai voor in een koele, lichte ruimte vanaf 6-8 weken voor de vorst.",
+        "en": "Sow indoors in a cool, bright space 6-8 weeks before the last frost."
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": -4,
+      "end_weeks": 4,
+      "min_soil_c": 8,
+      "note": {
+        "nl": "Plant afgeharde zaailingen buiten uit vanaf 2-4 weken voor de laatste vorst.",
+        "en": "Transplant hardened-off seedlings outdoors 2-4 weeks before the last frost."
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": -4,
+      "end_weeks": 20,
+      "min_soil_c": 8,
+      "note": {
+        "nl": "Zaai direct buiten vanaf 4 weken voor de vorst tot in de late zomer.",
+        "en": "Sow directly outdoors from 4 weeks before frost until late summer."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 21,
+    "days_max": 45
+  },
+  "difficulty": 1,
+  "feed_cadence_days": 21,
+  "depth_mm": 8,
+  "germination_days": 7,
+  "days_to_transplant": 21,
+  "perennial": false,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/aziatische-groenten",
+    "https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/komatsuna/",
+    "https://www.jansenzaden.nl/products/spinacia-oleracea-japanse-mosterdspinazie-10610",
+    "https://www.vreeken.nl/267780-gemengde-bladsalade-spectrum",
+    "https://www.vreeken.nl/161000-komatsuna-green-boy-shandersin",
+    "http://www.moestuintips.nl/groenten/bladgroenten/mosterd_spinazie/mosterd_spinazie.php",
+    "https://www.zamnesia.nl/9181-komatsuna-brassica-rapa-perviridis-zaden.html",
+    "https://www.magicgardenseeds.nl/Komatsuna-Brassica-rapa-var-perviridis-zaden",
+    "https://www.keukenplanten.nl/zaaikalender/mizuna",
+    "https://www.tuindreef.nl/mosterd-spinazie-komatsuna-zaden",
+    "https://demoestuinwinkel.nl/products/komatsuna-mosterd-spinazie",
+    "https://seedo.nl/buzzy-seeds-thema?sort=p.price&order=ASC&limit=50&page=3",
+    "https://zadenhof.nl/komatsuna-red-rode-spinazie/",
+    "https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/paksoi/",
+    "https://www.gardenersworldmagazine.nl/inspiratie/ideeen-en-inspiratie-voor-een-moestuin-in-bakken/",
+    "https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/mosterdblad/",
+    "https://www.mooiemoestuin.nl/groenteteelt/bladgewassen/stengelsla/",
+    "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=&pagina=3"
+  ],
+  "verified": false
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "gooseberry-in-pot",
+  "names": {
+    "nl": "Kruisbes in pot",
+    "en": "Gooseberry in a pot"
+  },
+  "category": "fruit",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 30,
+  "spacing_cm": 100,
+  "vak_per_m2": null,
+  "sun": "partial",
+  "methods": [
+    {
+      "type": "plant",
+      "anchor": "last_frost",
+      "start_weeks": -24,
+      "end_weeks": -4,
+      "min_soil_c": 0,
+      "note": {
+        "nl": "Plant struiken met kale wortel of uit pot tijdens de rustperiode (november tot maart) in vorstvrije grond.",
+        "en": "Plant bare-root or potted shrubs during the dormant period (November to March) when the soil is unfrozen."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 80,
+    "days_max": 100
+  },
+  "difficulty": 1,
+  "feed_cadence_days": 60,
+  "depth_mm": null,
+  "germination_days": null,
+  "days_to_transplant": null,
+  "perennial": true,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://groei.nl/artikel/kruisbes-kweken-in-een-pot",
+    "https://plantenzoeker.velt.nu/plant/ribes-uva-crispa",
+    "https://velt.nu/tip/zelf-fruitbomen-en-struiken-kweken",
+    "https://www.tuinadvies.nl/planten/physalis-edulis/ananaskers-kaapse-kruisbes/",
+    "https://www.tuinadvies.nl/planten/kleinfruit/ribes-uva-crispa-tatjana/stekelbes-kruisbes-bijna-doornloos/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/soorten-bessen-in-de-tuin",
+    "https://velt.nu/tip/hoe-plant-je-een-fruitboom-struik",
+    "https://vechtstreek.groei.nl/fileadmin/Afdelingen/afdeling_vecht_venen/Website/Workshops/Fruitbomen_Snoeien_Kwekerij_Snel.pdf",
+    "https://velt.nu/tip/een-geslaagde-fruittuin-de-juiste-plant-op-de-juiste-plaats",
+    "https://groei.nl/artikel/fruit-kweken-in-potten",
+    "https://velt.nu/tip/hoe-verzorg-je-de-bodem-onder-een-fruitboom",
+    "https://velt.nu/plant/kruisbes",
+    "https://www.vreeken.nl/planten-schimmels/fruit/p6-50"
+  ],
+  "verified": false
+}

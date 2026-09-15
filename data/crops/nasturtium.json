@@ -1,0 +1,83 @@
+{
+  "slug": "nasturtium",
+  "names": {
+    "nl": "Oost-Indische kers",
+    "en": "Nasturtium"
+  },
+  "category": "herb",
+  "frost_tender": true,
+  "container_ok": true,
+  "min_pot_litres": 5,
+  "spacing_cm": 30,
+  "vak_per_m2": 1,
+  "sun": "shade-tolerant",
+  "methods": [
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -4,
+      "end_weeks": 0,
+      "min_soil_c": 15,
+      "note": {
+        "nl": "Voorzaaien in potjes om wortelverstoring bij het uitplanten te voorkomen.",
+        "en": "Sow indoors in pots to avoid root disturbance when planting out."
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 6,
+      "min_soil_c": null,
+      "note": {
+        "nl": "Afgeharde zaailingen pas na IJsheiligen buiten uitplanten.",
+        "en": "Plant hardened-off seedlings outdoors only after the last frost."
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": 0,
+      "end_weeks": 6,
+      "min_soil_c": 12,
+      "note": {
+        "nl": "Ter plekke buiten zaaien vanaf half april tot mei in opgewarmde grond.",
+        "en": "Sow outdoors directly from mid-April through May once soil warms up."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 30,
+    "days_max": 70
+  },
+  "difficulty": 1,
+  "feed_cadence_days": null,
+  "depth_mm": 20,
+  "germination_days": 10,
+  "days_to_transplant": 35,
+  "perennial": false,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/niet-de-beste-plek-oost-indische-kers",
+    "https://velt.nu/tip/groenbemesters-voorkomen-dat-jouw-perceel-bloot-ligt",
+    "https://groei.nl/artikel/zaaien-voor-beginners",
+    "https://www.vreeken.nl/558770-tropaeolum-majus-lobbianum-luteus",
+    "https://makkelijkemoestuin.nl/kennisbank/oost-indische-kers-zaaien-en-kweken",
+    "https://www.deoosteindeonline.nl/product/tropaeolum-zaden-jewel-oost-indische-kers",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/nuttige-bloemen-in-de-moestuin/",
+    "https://groei.nl/artikel/warmteminnaars-zaai-je-niet-te-vroeg",
+    "https://makkelijkemoestuin.nl/shop/zaden/oi-kers",
+    "https://www.mooiemoestuin.nl/moestuin-bloemen/tropaeolum/",
+    "https://makkelijkemoestuin.nl/blog/planty-mini-moestuin-voor-de-hele-wereld",
+    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/tomaat-groeit-niet-meer",
+    "https://shop.groei.nl/62821/zaden/65144/tropaeolum-majus-cherry-rose",
+    "https://www.tuinadvies.nl/tuininfo/planten/sierplanten/oost-indische-kers-zaden-zaaien/",
+    "https://www.vreeken.nl/693410-lima-kers-variegated-leaf",
+    "https://makkelijkemoestuin.nl/kennisbank/kappertjes-van-oost-indische-kers",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/zaaitips-zaaicursus-groenten/",
+    "https://velt.nu/tip/wat-doe-je-tegen-bladluizen-de-moestuin",
+    "https://groei.nl/artikel/bloeiende-balkon-prijs"
+  ],
+  "verified": false
+}

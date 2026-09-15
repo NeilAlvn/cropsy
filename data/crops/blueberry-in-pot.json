@@ -1,0 +1,69 @@
+{
+  "slug": "blueberry-in-pot",
+  "names": {
+    "nl": "Blauwe bes in pot",
+    "en": "Blueberry in a pot"
+  },
+  "category": "fruit",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 30,
+  "spacing_cm": 100,
+  "vak_per_m2": null,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "plant",
+      "anchor": "last_frost",
+      "start_weeks": -10,
+      "end_weeks": 0,
+      "min_soil_c": 7,
+      "note": {
+        "nl": "Plant in de late winter of het vroege voorjaar voor het uitlopen van de knoppen.",
+        "en": "Plant in late winter or early spring before bud burst."
+      }
+    },
+    {
+      "type": "plant",
+      "anchor": "first_frost",
+      "start_weeks": -4,
+      "end_weeks": 4,
+      "min_soil_c": 7,
+      "note": {
+        "nl": "Plant in het najaar na bladval zolang de grond niet bevroren is.",
+        "en": "Plant in autumn after leaf drop provided the ground is not frozen."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 90,
+    "days_max": 120
+  },
+  "difficulty": 2,
+  "feed_cadence_days": null,
+  "depth_mm": null,
+  "germination_days": null,
+  "days_to_transplant": null,
+  "perennial": true,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://velt.nu/fruit-de-tuin",
+    "https://community.makkelijkemoestuin.nl/posts/vragen-2/fruit-zaaien-en-oogsten",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/soorten-bessen-in-de-tuin",
+    "https://groei.nl/artikel/blauwe-bes-kweken-in-een-pot",
+    "https://groei.nl/artikel/appel-kweken-in-een-pot",
+    "https://www.keukenplanten.nl/zaaikalender-moestuin-oktober",
+    "https://www.vreeken.nl/zoeken/bosbes",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-verplanten/",
+    "https://www.vreeken.nl/030050-blauwe-wonderbes-mrs-garden",
+    "https://www.magicgardenseeds.nl/Blauwe-bosbes-Vaccinium-myrtillus-bio-zaad",
+    "https://www.tuinadvies.be/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/",
+    "https://permacultuurnederland.org/planten.php?zoek=&laag=&functieSER=YjowOw==&pid=468&page=1&sort=",
+    "https://groei.nl/artikel/kruisbes-kweken-in-een-pot",
+    "https://plantenzoeker.velt.nu/plant/vaccinium-corymbosum",
+    "https://www.tuinadvies.be/tuininfo/moestuin/fruit-bessen/bosbes-of-blauwe-bes-plukken-en-bewaren/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+  ],
+  "verified": false
+}

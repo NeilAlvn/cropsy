@@ -1,0 +1,85 @@
+{
+  "slug": "chervil",
+  "names": {
+    "nl": "Kervel",
+    "en": "Chervil"
+  },
+  "category": "herb",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 1.5,
+  "spacing_cm": 15,
+  "vak_per_m2": 4,
+  "sun": "partial",
+  "methods": [
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": -6,
+      "end_weeks": 6,
+      "min_soil_c": 5,
+      "note": {
+        "nl": "Voorjaarsteelt direct in de volle grond of pot zaaien; verdraagt koele omstandigheden goed",
+        "en": "Spring direct sowing outdoors; tolerates cool early-season conditions well"
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "first_frost",
+      "start_weeks": -10,
+      "end_weeks": -4,
+      "min_soil_c": 5,
+      "note": {
+        "nl": "Herfst- en winterteelt zaaien voor oogst in het late najaar en de winter",
+        "en": "Late summer and autumn sowing for late autumn and winter harvest"
+      }
+    },
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -10,
+      "end_weeks": 0,
+      "min_soil_c": 5,
+      "note": {
+        "nl": "Voorzaaien kan in perspotjes, maar direct zaaien geniet voorkeur wegens penwortel",
+        "en": "Indoor start possible in plugs, but direct sowing is preferred due to taproot"
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 40,
+    "days_max": 60
+  },
+  "difficulty": 1,
+  "feed_cadence_days": null,
+  "depth_mm": 3,
+  "germination_days": 12,
+  "days_to_transplant": 24,
+  "perennial": false,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/het-moestuinseizoen-is-nog-niet-voorbij",
+    "https://www.vreeken.nl/347720-kervel-brusselse-winter",
+    "https://www.semaille.com/nl/aromatische-en-medische-kruiden/359-kervel-gewoon-5415166004598.html",
+    "https://velt.nu/keukenkruiden-kweken",
+    "https://www.natuurenpuur.nl/products/kervel-bio",
+    "https://plukkers.com/blogs/gewasinfo/kervel",
+    "https://stadstuinieren.nl/artikel/kervel-kweken-en-oogsten/",
+    "https://nl-nl.bakker.com/products/kervel-massa-bio",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/zaaien-het-hele-jaar-door",
+    "https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/kervel-uit-eigen-moestuin/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kervel-anthriscus-cerefolium/",
+    "https://zaaikalender.com/",
+    "https://www.keukenplanten.nl/zaaikalender/kervel",
+    "https://www.permapotes.com/nl/plants/view/kervel/calendar",
+    "https://plukkers.com/blogs/zaaien-en-planten/welke-trays-bakjes-potjes-potten-onderstellen-en-onderschalen-gebruiken-in-de-moestuin",
+    "https://velt.nu/starten-met-een-moestuin",
+    "https://www.koopzaden.nl/product/kervel-zaden-fijne-krul",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/wortelen-kweken/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kervel-anthriscus-cerefolium",
+    "https://demoestuinwinkel.nl/products/sluis_garden_kervel_-_gladbladig_massa",
+    "https://www.tuinadvies.nl/tuininfo/planten/sierplanten/roomse-kervel"
+  ],
+  "verified": false
+}

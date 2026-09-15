@@ -1,0 +1,79 @@
+{
+  "slug": "edamame",
+  "names": {
+    "nl": "Edamame (sojaboon)",
+    "en": "Edamame"
+  },
+  "category": "legume",
+  "frost_tender": true,
+  "container_ok": true,
+  "min_pot_litres": 5,
+  "spacing_cm": 15,
+  "vak_per_m2": 1,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": 1,
+      "end_weeks": 4,
+      "min_soil_c": null,
+      "note": {
+        "nl": "Voorzaaien binnenshuis bij ca. 20 °C, ongeveer 2 tot 3 weken voor IJsheiligen.",
+        "en": "Sow indoors at around 20 °C, approximately 2 to 3 weeks before the last frost date."
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 7,
+      "min_soil_c": 12,
+      "note": {
+        "nl": "Uitplanten na IJsheiligen zodra de zaailingen 8-10 cm zijn en het weer zacht is.",
+        "en": "Transplant outdoors after IJsheiligen once seedlings are 8-10 cm tall and weather is mild."
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 10,
+      "min_soil_c": 12,
+      "note": {
+        "nl": "Direct buiten zaaien na IJsheiligen zodra de grond minimaal 12-15 °C is.",
+        "en": "Direct sow outdoors after IJsheiligen once the soil temperature is at least 12-15 °C."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 50,
+    "days_max": 80
+  },
+  "difficulty": 2,
+  "feed_cadence_days": null,
+  "depth_mm": 30,
+  "germination_days": 10,
+  "days_to_transplant": 21,
+  "perennial": false,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://www.bolster.nl/sojabonen-telen/t24932",
+    "https://www.mooiemoestuin.nl/groenteteelt/peulgewassen/sojaboon/",
+    "https://www.bolster.nl/sojaboon/c2037",
+    "https://www.vreeken.nl/044110-sojaboon-siverka",
+    "https://stadstuinieren.nl/artikel/sojabonen-kweken-en-oogsten/",
+    "https://wageningen.groei.nl/groeninfo/een-moestuin-op-de-eng",
+    "https://demoestuinwinkel.nl/products/sojaboon-soja-snack",
+    "http://moestuinbeginnen.nl/sojabonen-kweken/",
+    "https://www.keukenplanten.nl/zaaikalender/soja",
+    "https://agriworld.nl/sojabonen-teelt-oogsten-gebruik/",
+    "https://moestuinenbloem.nl/sojaboon-fiskeyby-v-edamame-tuin-de-bruijn-zaden/",
+    "https://makkelijkemoestuin.nl/kennisbank/stambonen-zaaien-en-kweken",
+    "https://www.123zaden.nl/downloads/dl/file/id/51/product/0/peulvruchten_sojabonen.pdf",
+    "https://www.harrysfarm.nl/2026/06/01/edamame-soja-bonen-zaaien-2/",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/juni-en-juli-de-eerste-oogst-en-wat-nog-te-zaaien/"
+  ],
+  "verified": false
+}

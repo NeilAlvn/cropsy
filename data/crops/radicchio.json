@@ -1,0 +1,87 @@
+{
+  "slug": "radicchio",
+  "names": {
+    "nl": "Radicchio (roodlof)",
+    "en": "Radicchio"
+  },
+  "category": "leafy",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 10,
+  "spacing_cm": 30,
+  "vak_per_m2": 1,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 12,
+      "min_soil_c": 10,
+      "note": {
+        "nl": "Zaai in perspotten of trays vanaf IJsheiligen tot juli voor de herfst- en winterteelt.",
+        "en": "Sow in trays or plug pots from mid-May through July for the autumn and winter crop."
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": 8,
+      "end_weeks": 14,
+      "min_soil_c": 10,
+      "note": {
+        "nl": "Zaai ter plaatse vanaf half juni tot eind juli; zaaien vóór de langste dag geeft verhoogde kans op doorschieten.",
+        "en": "Sow directly from mid-June to late July; sowing before the solstice risks premature bolting."
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": 8,
+      "end_weeks": 16,
+      "min_soil_c": 10,
+      "note": {
+        "nl": "Plant zaailingen uit met 4-5 echte bladeren, minstens 6-8 weken voor de eerste herfstvorst.",
+        "en": "Plant out seedlings with 4-5 true leaves, at least 6-8 weeks before the first autumn frost."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 50,
+    "days_max": 90
+  },
+  "difficulty": 2,
+  "feed_cadence_days": 21,
+  "depth_mm": 5,
+  "germination_days": 10,
+  "days_to_transplant": 30,
+  "perennial": false,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://deventer.groei.nl/actueel/moestuinieren-de-moestuin/de-moestuin/bladgroenten-voor-de-moestuin",
+    "https://plukkers.com/blogs/beschermen/vorst-in-de-moestuin",
+    "https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/radicchio-zelf-telen/",
+    "https://www.vreeken.nl/070300-bonte-roodlof-variegata-precoce-romea-variegata-di-lusia",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/september-oogst-er-op-los-in-je-moestuin/",
+    "https://www.keukenplanten.nl/zaaikalender/roodlof",
+    "https://www.vivavera.be/groenten/radicchio_rosso",
+    "https://www.bolster.nl/radicchio-rosso-telen-onze-tips/t22043",
+    "https://www.vreeken.nl/070200-roodlof-indigo",
+    "https://www.vreeken.nl/zaden/groenten-fruit/verfplanten/p2-15",
+    "https://www.magicgardenseeds.nl/Radicchio-Palla-Rossa-Cichorium-intybus-var-foliosum-zaden",
+    "https://www.vreeken.nl/070270-roodlof-red-palla-rossa-rosso-di-chioggia",
+    "https://appeltern.nl/nl/tuinadvies/plantenencyclopedie/cichorium_intybus_palla_rossa_2_roodlof_radiccio/",
+    "https://groei.nl/artikel/ecologisch-tuinieren-in-september",
+    "https://www.zadengids.be/nl/zaden-detail/c/47/p/116/groentenkruiden/roodlof/rossa-di-verona/",
+    "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/roodlof",
+    "https://edepot.wur.nl/249743",
+    "https://mergenmetz.nl/tuin/groentesoorten/radicchio/",
+    "https://www.magicgardenseeds.nl/Orchideeensalade-radicchio-Variegata-di-Castelfranco-Cichorium-intybus-var-foliosum-zaden",
+    "https://edepot.wur.nl/354094",
+    "https://edepot.wur.nl/252001",
+    "https://www.vreeken.nl/070250-roodlof-rossa-di-treviso",
+    "https://www.mooiemoestuin.nl/groenteteelt/bladgewassen/radicchio/"
+  ],
+  "verified": false
+}

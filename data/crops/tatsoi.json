@@ -1,0 +1,82 @@
+{
+  "slug": "tatsoi",
+  "names": {
+    "nl": "Tatsoi",
+    "en": "Tatsoi"
+  },
+  "category": "leafy",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 1,
+  "spacing_cm": 25,
+  "vak_per_m2": 4,
+  "sun": "shade-tolerant",
+  "methods": [
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -6,
+      "end_weeks": 0,
+      "min_soil_c": 8,
+      "note": {
+        "nl": "Binnen voorzaaien 6 tot 8 weken voor IJsheiligen voor een vroege voorjaarsoogst.",
+        "en": "Sow indoors 6 to 8 weeks before Ice Saints for an early spring harvest."
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 16,
+      "min_soil_c": 8,
+      "note": {
+        "nl": "Uitplanten na IJsheiligen zodra zaailingen echte bladeren hebben en 5-10 cm groot zijn.",
+        "en": "Plant out after Ice Saints once seedlings have true leaves and reach 5-10 cm."
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 18,
+      "min_soil_c": 8,
+      "note": {
+        "nl": "Buiten ter plaatse zaaien vanaf half mei; zaaien in juli/augustus geeft minder kans op doorschieten.",
+        "en": "Direct sow outdoors from mid-May; July/August sowings bolt less quickly."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 21,
+    "days_max": 45
+  },
+  "difficulty": 1,
+  "feed_cadence_days": 14,
+  "depth_mm": 5,
+  "germination_days": 7,
+  "days_to_transplant": 21,
+  "perennial": false,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://www.keukenplanten.nl/zaaikalender-moestuin-september",
+    "https://www.123zaden.nl/chinese-kool-tatsoi",
+    "https://www.bolster.nl/probeer-eens-deze-bijzondere-groenten/t25124",
+    "https://www.bolster.nl/tatsoi-telen/t22329",
+    "https://www.keukenplanten.nl/tatsoi",
+    "https://groei.nl/artikel/zaaien-en-planten",
+    "https://www.magicgardenseeds.nl/Paksoi-Brassica-rapa-subsp-chinensis-zaden",
+    "https://www.bolster.nl/tatsoi-brassica-rapa/p3136",
+    "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=114",
+    "https://www.vreeken.nl/267780-gemengde-bladsalade-spectrum",
+    "https://community.makkelijkemoestuin.nl/posts/algemeen-2/bloeiende-andijvie",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-telen-op-schaduwrijke-plaatsen",
+    "https://www.robbiesmoestuin.nl/groeten-a-z/tatsoi",
+    "https://www.vreeken.nl/zoeken/raapsteel",
+    "https://www.bolster.nl/tatsoi-oogsten/t22401",
+    "https://plukkers.com/blogs/gewasinfo/paksoi-of-chinese-kool-zaaien-heerlijke-groene-crunch-kweken",
+    "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=109",
+    "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=&pagina=6"
+  ],
+  "verified": false
+}

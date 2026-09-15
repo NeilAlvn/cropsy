@@ -1,0 +1,86 @@
+{
+  "slug": "summer-savory",
+  "names": {
+    "nl": "Bonenkruid",
+    "en": "Summer savory"
+  },
+  "category": "herb",
+  "frost_tender": true,
+  "container_ok": true,
+  "min_pot_litres": 1.5,
+  "spacing_cm": 20,
+  "vak_per_m2": 1,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -6,
+      "end_weeks": 0,
+      "min_soil_c": null,
+      "note": {
+        "nl": "Binnen voorzaaien; zaden zijn lichtkiemers en nauwelijks bedekken.",
+        "en": "Sow indoors; seeds are light germinators and should barely be covered."
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 8,
+      "min_soil_c": 12,
+      "note": {
+        "nl": "Afharden en buiten uitplanten na IJsheiligen wanneer vorstgevaar geweken is.",
+        "en": "Harden off and plant out after mid-May once danger of frost has passed."
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 10,
+      "min_soil_c": 12,
+      "note": {
+        "nl": "Buiten ter plekke zaaien na IJsheiligen in opgewarmde grond; oppervlakkig zaaien.",
+        "en": "Sow directly outdoors after mid-May in warmed soil; surface sow."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 30,
+    "days_max": 45
+  },
+  "difficulty": 1,
+  "feed_cadence_days": 35,
+  "depth_mm": 1,
+  "germination_days": 14,
+  "days_to_transplant": 35,
+  "perennial": false,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://www.keukenplanten.nl/zaaikalender/bonenkruid",
+    "https://www.jansenzaden.nl/products/satureja-hortensis-bonenkruid-10253",
+    "https://www.intratuin.nl/intratuin-kruidenzaad-bonenkruid-eenjarige-satureja-hortensis.html",
+    "https://www.vreeken.nl/337005-bonenkruid-eenjarig-gewone",
+    "https://www.koopbloembollen.nl/product/bonenkruid-eenjarig-satureja-hortensis-bio",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/groente-bonen/",
+    "https://www.keukenplanten.nl/bonenkruid-eenjarig-buzzy-seeds",
+    "https://yarinde.nl/products/bonenkruid-satureya-hortensis",
+    "https://zaden.eco/zaden/bonenkruid-satureja-hortensis",
+    "https://zaaikalender.com/",
+    "https://kwekerieje.nl/product/bergbonenkruid/",
+    "https://plantbezorgd.nl/product/tuinkruiden/satureja-montana-bonenkruid/",
+    "https://makkelijkemoestuin.nl/kennisbank/kruiden-kweken-in-potten-of-moestuinbak",
+    "https://www.mooiemoestuin.nl/kruiden/tijm/",
+    "https://www.zeelandplant.nl/vaste-planten/satureja-montana/",
+    "https://www.dille-kamille.be/nl/bonenkruid/",
+    "https://www.koopzaden.nl/product/bonenkruid-eenjarig-satureja-hortensis-bio",
+    "https://www.gardenseeds.nl/product/zomer-bonenkruid-1-jarig/",
+    "https://www.beeldbankhkopdebeek.nl/informatie/kruidenboek/Bonenkruid.pdf",
+    "https://dcm-info.nl/hobby/tuintips/zo-plant-en-verzorg-je-kruiden-in-potten-en-bakken",
+    "https://www.magicgardenseeds.nl/Bonenkruid-Satureja-hortensis-zaden",
+    "https://beweegt.velt.nu/braas/download.php?bestand=zadenlijst2013_lr.pdf"
+  ],
+  "verified": false
+}

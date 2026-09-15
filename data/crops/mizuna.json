@@ -1,0 +1,81 @@
+{
+  "slug": "mizuna",
+  "names": {
+    "nl": "Mizuna",
+    "en": "Mizuna"
+  },
+  "category": "leafy",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 5,
+  "spacing_cm": 20,
+  "vak_per_m2": 9,
+  "sun": "shade-tolerant",
+  "methods": [
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -6,
+      "end_weeks": 0,
+      "min_soil_c": 7,
+      "note": {
+        "nl": "Voorzaaien binnenshuis vanaf de late winter voor een vroege teelt",
+        "en": "Sow indoors from late winter for an early spring crop"
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": -2,
+      "end_weeks": 4,
+      "min_soil_c": 7,
+      "note": {
+        "nl": "Uitplanten kan ruim voor IJsheiligen zodra de eerste echte blaadjes verschijnen",
+        "en": "Transplant outdoors well before IJsheiligen once first true leaves develop"
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": -4,
+      "end_weeks": 6,
+      "min_soil_c": 7,
+      "note": {
+        "nl": "Direct buiten zaaien vanaf half maart tot mei",
+        "en": "Direct sow outdoors from mid-March through May"
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 21,
+    "days_max": 45
+  },
+  "difficulty": 1,
+  "feed_cadence_days": 14,
+  "depth_mm": 5,
+  "germination_days": 7,
+  "days_to_transplant": 21,
+  "perennial": false,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://makkelijkemoestuin.nl/kennisbank/welke-groentes-kunnen-tegen-kou",
+    "https://makkelijkemoestuin.nl/starten-in-september",
+    "https://www.123zaden.nl/mizuna",
+    "https://demoestuinwinkel.nl/products/sluis_garden_mizuna_",
+    "https://www.keukenplanten.nl/zaaikalender/mizuna",
+    "https://www.magicgardenseeds.nl/Mizuna-Brassica-rapa-var-nipposinica-zaden",
+    "https://www.keukenplanten.nl/zaaikalender-moestuin-oktober",
+    "https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/mizuna-in-eigen-tuin/",
+    "https://www.robbiesmoestuin.nl/groeten-a-z/mizuna",
+    "https://www.123zaden.nl/downloads/dl/file/id/39/product/0/mizuna.pdf",
+    "https://nl-nl.bakker.com/products/raapsteel-mizuna-bio",
+    "https://groei.nl/artikel/zelf-aziatische-groenten-kweken-en-zaden-bestellen",
+    "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing",
+    "https://groei.nl/artikel/saladebar-aan-huis",
+    "https://www.vreeken.nl/223200-mizuna-green-leaved",
+    "https://plukkers.com/blogs/zaaien-en-planten/welke-trays-bakjes-potjes-potten-onderstellen-en-onderschalen-gebruiken-in-de-moestuin",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-telen-op-schaduwrijke-plaatsen"
+  ],
+  "verified": false
+}

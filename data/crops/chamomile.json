@@ -1,0 +1,82 @@
+{
+  "slug": "chamomile",
+  "names": {
+    "nl": "Kamille",
+    "en": "Chamomile"
+  },
+  "category": "herb",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 3,
+  "spacing_cm": 25,
+  "vak_per_m2": 1,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -6,
+      "end_weeks": 0,
+      "min_soil_c": 12,
+      "note": {
+        "nl": "Voorzaaien bij 18-20 °C; zaden niet bedekken want kamille is een lichtkiemer.",
+        "en": "Sow indoors at 18-20 °C; do not cover seeds as chamomile is a light germinator."
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": 1,
+      "end_weeks": 10,
+      "min_soil_c": null,
+      "note": {
+        "nl": "Na afharden uitplanten in de tuin of in potten.",
+        "en": "Plant out in beds or pots after hardening off."
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": -2,
+      "end_weeks": 8,
+      "min_soil_c": 12,
+      "note": {
+        "nl": "Ter plekke zaaien; zaden licht aandrukken en niet begraven.",
+        "en": "Sow directly outdoors; press seeds lightly into the soil without burying."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 60,
+    "days_max": 80
+  },
+  "difficulty": 1,
+  "feed_cadence_days": 35,
+  "depth_mm": 0,
+  "germination_days": 14,
+  "days_to_transplant": 35,
+  "perennial": false,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://www.tuinadvies.nl/planten/kruiden/matricaria-chamomilla/echte-kamille/",
+    "https://www.tuinadvies.nl/planten/kruiden/chamaemelum-nobile-flore-pleno/roomse-kamille/",
+    "https://www.tuinadvies.nl/planten/kruiden/chamaemelum-nobile-ligulosum/roomse-kamille/",
+    "https://www.keukenplanten.nl/zaaikalender/kamille",
+    "https://gorinchem.groei.nl/terugblikken/terugblik-lezing-inspiratie-voor-mooie-boeketten-komt-uit-de-natuur",
+    "https://www.vreeken.nl/347500-kamille-echte-zloty-lan",
+    "https://www.cruydthoeck.nl/echte-kamille-matricaria-chamomilla",
+    "https://www.keukenplanten.nl/zaden/kruiden/Kamille-Buzzy-Organic",
+    "https://www.keukenplanten.nl/zaaikalender/raapstelen",
+    "https://www.magicgardenseeds.nl/Echte-kamille-Matricaria-chamomilla-zaden",
+    "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/bloemzaden-eenjarige-soorten?groep=13",
+    "https://dezaden.nl/product/buzzy-kamille-zaden/",
+    "https://makkelijkemoestuin.nl/kennisbank/kruiden-kweken-in-potten-of-moestuinbak",
+    "https://plantenzoeker.velt.nu/plant/matricaria-recutita-matricaria-chamomilla",
+    "https://plukkers.com/blogs/zaaien-en-planten/voorzaaien",
+    "https://velt.nu/tip/hoe-bescherm-je-jouw-fruitboom-struik-tegen-ziekten-en-plagen",
+    "https://makkelijkemoestuin.nl/blog/de-moestuinmaatjes-van-ah",
+    "https://www.vreeken.nl/357700-roomse-kamille"
+  ],
+  "verified": false
+}

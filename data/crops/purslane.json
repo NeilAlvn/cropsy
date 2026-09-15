@@ -1,0 +1,83 @@
+{
+  "slug": "purslane",
+  "names": {
+    "nl": "Postelein",
+    "en": "Summer purslane"
+  },
+  "category": "leafy",
+  "frost_tender": true,
+  "container_ok": true,
+  "min_pot_litres": 3,
+  "spacing_cm": 5,
+  "vak_per_m2": null,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": 4,
+      "end_weeks": 19,
+      "min_soil_c": 15,
+      "note": {
+        "nl": "Buiten zaaien na IJsheiligen in opgewarmde grond tot eind augustus.",
+        "en": "Direct sow outdoors after IJsheiligen in warm soil until late August."
+      }
+    },
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -2,
+      "end_weeks": 16,
+      "min_soil_c": 15,
+      "note": {
+        "nl": "Voorzaaien onder glas vanaf april tot augustus bij minimaal 15-20 °C.",
+        "en": "Sow indoors or under glass from April to August at minimum 15-20 °C."
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": 6,
+      "end_weeks": 11,
+      "min_soil_c": 15,
+      "note": {
+        "nl": "Uitplanten in de late lente na IJsheiligen zodra de grond goed opgewarmd is.",
+        "en": "Transplant in late spring after IJsheiligen once soil has warmed up thoroughly."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 21,
+    "days_max": 35
+  },
+  "difficulty": 1,
+  "feed_cadence_days": 7,
+  "depth_mm": 2,
+  "germination_days": 7,
+  "days_to_transplant": 18,
+  "perennial": false,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://www.tuinadvies.nl/planten/kruiden/portulaca-oleracea/postelein-zomerpostelein/",
+    "https://www.vreeken.nl/218000-postelein-groene-gewone",
+    "https://www.mooiemoestuin.nl/groenteteelt/bladgewassen/postelein/",
+    "https://ecotuintje.nl/product/zomerpostelein/",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/moestuinplannen-maken-in-januari/",
+    "https://www.moestuinforum.nl/topic/33540-postelein-kweken-advies-gevraagd/",
+    "https://zaaikalender.com/augustus/",
+    "https://plukkers.com/products/zomerpostelein",
+    "https://www.sluisgarden.com/product/purslane-green/",
+    "https://zaaikalender.com/",
+    "https://www.pokon.nl/plant/item/zomerpostelein/",
+    "https://stadstuinieren.nl/artikel/postelein-kweken/",
+    "https://makkelijkemoestuin.nl/kennisbank/winterpostelein-zaaien-en-kweken",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/de-vierkante-meter-moestuin/",
+    "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/tuintip-26",
+    "https://vtvdekrommeelleboog.nl/?page_id=286",
+    "https://plukkers.com/blogs/zaaien-en-planten/voorzaaien",
+    "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-telen-in-de-winter",
+    "https://beweegt.velt.nu/braas/files/zaden_oogsten_bestuiving.pdf"
+  ],
+  "verified": false
+}

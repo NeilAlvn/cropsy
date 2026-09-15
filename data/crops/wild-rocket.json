@@ -1,0 +1,83 @@
+{
+  "slug": "wild-rocket",
+  "names": {
+    "nl": "Wilde rucola",
+    "en": "Wild rocket"
+  },
+  "category": "leafy",
+  "frost_tender": false,
+  "container_ok": true,
+  "min_pot_litres": 3,
+  "spacing_cm": 30,
+  "vak_per_m2": 1,
+  "sun": "full",
+  "methods": [
+    {
+      "type": "sow_indoor",
+      "anchor": "last_frost",
+      "start_weeks": -8,
+      "end_weeks": -4,
+      "min_soil_c": null,
+      "note": {
+        "nl": "Voorzaaien onder glas in februari en maart voor een vroege start.",
+        "en": "Sow indoors under glass in February and March for an early start."
+      }
+    },
+    {
+      "type": "sow_direct",
+      "anchor": "last_frost",
+      "start_weeks": -6,
+      "end_weeks": 20,
+      "min_soil_c": 8,
+      "note": {
+        "nl": "Direct buiten zaaien vanaf maart zodra de bodem minimaal 8 °C is tot in september.",
+        "en": "Direct sow outdoors from March once soil reaches at least 8 °C until September."
+      }
+    },
+    {
+      "type": "transplant",
+      "anchor": "last_frost",
+      "start_weeks": -4,
+      "end_weeks": 20,
+      "min_soil_c": null,
+      "note": {
+        "nl": "Afgeharde zaailingen kunnen vanaf maart de volle grond of pot in.",
+        "en": "Hardened-off seedlings can be planted out into beds or containers from March onwards."
+      }
+    }
+  ],
+  "harvest": {
+    "days_min": 21,
+    "days_max": 56
+  },
+  "difficulty": 1,
+  "feed_cadence_days": null,
+  "depth_mm": 5,
+  "germination_days": 10,
+  "days_to_transplant": 35,
+  "perennial": true,
+  "water_cadence_days": null,
+  "image": null,
+  "sources": [
+    "https://www.tuinadvies.nl/planten/kruiden/diplotaxis-erucoides/wilde-rucola-zandkool/",
+    "https://www.keukenplanten.nl/bladgewassen",
+    "https://www.vreeken.nl/242100-wilde-rucola-sylvetta",
+    "https://velt.nu/keukenkruiden-kweken",
+    "https://www.tuinadvies.nl/shop/tuin/zaden-bloembollen/groentezaden/groenten/fr-rucola-wilde-rucola-selvatica-1155~200175295/",
+    "https://www.keukenplanten.nl/wilderucola",
+    "https://www.jansenzaden.nl/products/diplotaxis-tenuifolia-rochelle-10422",
+    "https://moestuinenbloem.nl/wilde-rucola-tuin-de-bruijn/",
+    "https://groei.nl/artikel/hoe-kweek-ik-rucola",
+    "https://www.baldur-nederland.nl/onion/content/plant--und-verzorgingstips/groente-und-kruiden/rucola",
+    "https://makkelijkemoestuin.nl/kennisbank/rucola-zaaien-en-kweken-super-gezond",
+    "https://www.floorsmoestuin.nl/post/rucola-kweken/",
+    "https://www.famflowerfarm.nl/wilde-rucola",
+    "https://www.moestuinierder.nl/balkon-en-kleine-moestuin/zaden-voor-balkon-en-kleine-moestuin/zaden-geschikt-voor-10-liter-plantzak",
+    "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-rucola/",
+    "https://www.tuinadvies.nl/de-LU/garteninformationen/gemusegarten/gemuse/gemuseanbau-an-schattigen-orten/",
+    "https://www.mooiemoestuin.nl/groenteteelt/koolgewassen/rucola/",
+    "https://www.dehobbytuinder.nl/zaden/groentezaden/rucola/rucola-wilde-selvatica-diplotaxis-tenuifolia/",
+    "https://www.keukenplanten.nl/zaden/bladgroenten/Wilde-Rucola-Grote-Zandkool-Buzzy-Organic"
+  ],
+  "verified": false
+}
