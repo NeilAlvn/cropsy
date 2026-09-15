@@ -202,14 +202,20 @@ async function checklist(months: number[]): Promise<void> {
 }
 
 const allSlugs = crops.map((c) => c.slug)
+// `--drafts` = the crops whose rules are still unverified (the newest ones).
+const targets = (a: string[]) => (a[0] === '--drafts' ? crops.filter((c) => !c.verified).map((c) => c.slug) : a.length ? a : allSlugs)
 switch (cmd) {
   case 'collections': await collections(); break
   case 'checklist': await checklist(args.length ? args.map(Number) : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]); break
   case 'problems': await problems(); break
-  case 'varieties': await varieties(args.length ? args : allSlugs); break
-  case 'companions': await companions(args.length ? args : allSlugs); break
-  case 'editorial': await editorial(args[0]!, (args[1] as 'nl' | 'en') ?? 'nl'); break
-  case 'prices': await prices(args.length ? args : allSlugs); break
+  case 'varieties': await varieties(targets(args)); break
+  case 'companions': await companions(targets(args)); break
+  case 'editorial': {
+    const lang = (args[1] as 'nl' | 'en') ?? 'nl'
+    for (const slug of args[0] === '--drafts' ? targets(args) : [args[0]!]) await editorial(slug, lang)
+    break
+  }
+  case 'prices': await prices(targets(args)); break
   default:
     console.log('usage: draft-content.ts problems | varieties [slugs] | companions [slugs] | editorial <slug> <nl|en> | prices [slugs] | collections | checklist [months]')
 }

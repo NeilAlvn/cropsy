@@ -22,7 +22,8 @@ if (!existsSync(FILE)) {
 }
 
 const committed = JSON.parse(readFileSync(FILE, 'utf8')) as CropSnapshot
-const expected = snapshotVersion(loadCrops())
+// Drafts never ship, so they must not move the expected version either.
+const expected = snapshotVersion(loadCrops().filter((c) => c.verified))
 
 if (committed.version !== expected) {
   console.error('Snapshot is STALE — data/crops has changed since it was built.')
