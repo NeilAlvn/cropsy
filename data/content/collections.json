@@ -1,1 +1,322 @@
-[]
+[
+  {
+    "slug": "balkon-starters",
+    "title": {
+      "nl": "Balkon-starters",
+      "en": "Balcony starters"
+    },
+    "intro": {
+      "nl": "Zelfs op een klein balkon kun je volop genieten van verse oogst met compacte groenten, snelle groeiers en handige plukrassen in potten. Van knapperige radijsjes en pluksla tot zoete balkontomaatjes: deze soorten benutten de beschutte zonnewarmte van je terras optimaal.",
+      "en": "Even on a small balcony, you can enjoy abundant fresh harvests with compact vegetables, fast growers, and cut-and-come-again varieties in containers. From crisp radishes and picking lettuce to sweet patio tomatoes, these crops thrive in the sheltered warmth of your balcony."
+    },
+    "crop_slugs": [
+      "radish",
+      "lettuce",
+      "tomato",
+      "strawberry",
+      "swiss-chard",
+      "cucumber",
+      "french-bean",
+      "rocket",
+      "chives",
+      "basil",
+      "thyme"
+    ],
+    "image": null,
+    "sources": [
+      "https://makkelijkemoestuin.nl/kennisbank/ongeschikte-groentes-voor-een-makkelijke-moestuinbak",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/moestuin-in-pot/",
+      "https://makkelijkemoestuin.nl/kennisbank/wat-zijn-10-echt-makkelijke-groentes",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/de-vierkante-meter-moestuin-deel-2/",
+      "https://makkelijkemoestuin.nl/blog/lege-vensterbank-en-volle-bakken",
+      "https://beweegt.velt.nu/braas/download.php?bestand=zadenlijst2013_lr.pdf",
+      "https://makkelijkemoestuin.nl/kennisbank/kruiden-kweken-in-potten-of-moestuinbak",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-kweken-op-terras/",
+      "https://velt.nu/starten-met-een-moestuin",
+      "https://velt.nu/tip/hoe-start-je-met-wisselteelt",
+      "https://velt.nu/nieuws/ook-potten-en-bakken-kun-je-heel-wat-lekkers-kweken",
+      "https://groei.nl/artikel/hoe-kweek-ik-sperziebonen",
+      "https://groei.nl/artikel/hoe-zaai-ik-tuinkers",
+      "https://groei.nl/artikel/aardbeien-kweken-in-een-pot"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "snelle-sla",
+    "title": {
+      "nl": "Snelle sla",
+      "en": "Quick salads"
+    },
+    "intro": {
+      "nl": "Geniet binnen drie tot zes weken al van je eigen verse oogst met deze supersnelle groenten voor je balkon, bak of stadstuin. Van knapperige radijsjes tot malse pluksla en babyleaf spinazie pluk je continu verse blaadjes voor de lekkerste salades.",
+      "en": "Enjoy your own fresh harvest in just three to six weeks with these fast-growing crops perfect for balconies, raised beds, and small urban spaces. From crisp radishes to cut-and-come-again leaves and tender baby spinach, you can continuously pick vibrant greens for the freshest salads."
+    },
+    "crop_slugs": [
+      "lettuce",
+      "rocket",
+      "radish",
+      "spinach",
+      "spring-onion",
+      "chives"
+    ],
+    "image": null,
+    "sources": [
+      "https://makkelijkemoestuin.nl/shop/zaden/franse-radijs",
+      "https://makkelijkemoestuin.nl/kennisbank/wat-zijn-10-echt-makkelijke-groentes",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-voor-beginners/",
+      "https://deventer.groei.nl/actueel/moestuinieren-de-moestuin/de-moestuin/zaai-en-planttijd-van-groentensoorten-voor-de-moestuin",
+      "https://velt.nu/groenten-kiezen",
+      "https://velt.nu/starten-met-een-moestuin",
+      "https://makkelijkemoestuin.nl/kennisbank/rucola-zaaien-en-kweken-super-gezond",
+      "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken",
+      "https://groei.nl/moestuin/moestuinkalender/augustus",
+      "https://groei.nl/artikel/hoe-kweek-ik-spinazie",
+      "https://makkelijkemoestuin.nl/kennisbank/lente-ui-zaaien-kweken-en-oogsten",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/vroege-groentes-kweken/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "herzaaien-in-juli",
+    "title": {
+      "nl": "Herzaaien in juli",
+      "en": "Re-sow in July"
+    },
+    "intro": {
+      "nl": "De warme zomerbodem in juli zorgt ervoor dat zaden razendsnel ontkiemen, terwijl de korter wordende dagen voorkomen dat gewassen snel doorschieten. Vul lege plekken in je tuin of potten direct op met deze favorieten voor een heerlijke oogst tot diep in het najaar.",
+      "en": "Warm summer soil in July allows seeds to sprout in mere days, while shortening daylight keeps cool-season crops from prematurely bolting. Replenish empty spots in your garden beds or balcony containers with these hardy crops for a generous autumn harvest."
+    },
+    "crop_slugs": [
+      "french-bean",
+      "pak-choi",
+      "endive",
+      "swiss-chard",
+      "radish",
+      "lettuce",
+      "beetroot",
+      "carrot"
+    ],
+    "image": null,
+    "sources": [
+      "https://makkelijkemoestuin.nl/starten-in-augustus",
+      "https://groei.nl/artikel/zaaien-en-planten",
+      "https://velt.nu/tip/wat-kun-je-het-najaar-zaaien-en-planten",
+      "https://groei.nl/artikel/tuinklussen-juli",
+      "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/de-vierkante-meter-moestuin-deel-8/",
+      "https://makkelijkemoestuin.nl/blog/augustus-hoogzomer-in-de-moestuin",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-voor-beginners/",
+      "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/de-moestuinkalender-juli",
+      "https://makkelijkemoestuin.nl/blog/tot-wanneer-zaaien"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "oogst-in-oktober",
+    "title": {
+      "nl": "Oogst in oktober",
+      "en": "October harvest"
+    },
+    "intro": {
+      "nl": "Oktober is een prachtige overgangsmaand waarin je de allerlaatste zomervruchten binnenhaalt voordat de nachtvorst zijn intrede doet. Tegelijkertijd geniet je volop van knapperige najaarsbladgroenten en aardse wortels die juist nu op hun zoetst zijn.",
+      "en": "October is a wonderful transitional month to bring in the very last summer fruits before the night frosts arrive. At the same time, you can savor crisp autumn greens and sweet, earthy root vegetables harvested fresh from your pots and planters."
+    },
+    "crop_slugs": [
+      "pumpkin",
+      "tomato",
+      "kale",
+      "beetroot",
+      "carrot",
+      "pepper",
+      "courgette",
+      "lambs-lettuce",
+      "swiss-chard",
+      "radish",
+      "endive",
+      "cucumber"
+    ],
+    "image": null,
+    "sources": [
+      "https://makkelijkemoestuin.nl/oktober",
+      "https://makkelijkemoestuin.nl/kennisbank/welke-groentes-kunnen-tegen-kou",
+      "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/gazonverzorging/de-vierkante-meter-moestuin-deel-1/",
+      "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/tuintip-40",
+      "https://groei.nl/artikel/moestuin-in-oktober-oogsten-snoeien-en-opruimen",
+      "https://maashorst.groei.nl/groeninfo/tuinkalender/oktober-kalender",
+      "https://groei.nl/artikel/ecologisch-tuinieren-in-oktober",
+      "https://velt.nu/system/files/media/documenten/schoolmoestuinkalender-bij-uitgebreid-zadenpakket_invulbaar_2025.pdf",
+      "https://makkelijkemoestuin.nl/blog/herfst-oogsten-opruimen-en-genieten",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-voor-beginners/",
+      "https://groei.nl/artikel/groenten-sprouts",
+      "https://makkelijkemoestuin.nl/blog/begin-oktober-we-zaaien-nog-even-lekker-door",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/groenten-telen-in-de-winter",
+      "https://velt.nu/groente/rode-biet",
+      "https://velt.nu/system/files/media/documenten/Handboek%20Schooltuinen%20H7.pdf",
+      "https://www.tuinadvies.nl/tuininfo/tuinonderhoud-kalender/tuinkalender/het-moestuinseizoen-is-nog-niet-voorbij/",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/busselwortelen-teelt/",
+      "https://makkelijkemoestuin.nl/blog/herfst-wat-kun-je-dan-nog-in-je-moestuin",
+      "https://velt.nu/system/files/media/documenten/oogst-bewaarperiode%20fruit.pdf"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "wintergroenten",
+    "title": {
+      "nl": "Wintergroenten",
+      "en": "Winter vegetables"
+    },
+    "intro": {
+      "nl": "Een koude winter hoeft zeker geen lege moestuinbak of kaal balkon te betekenen. Met vorstbestendige bladgewassen en lokaal geteelde alliums geniet je de hele winter door van een verse, smaakvolle oogst.",
+      "en": "A cold winter certainly does not mean you have to leave your garden beds or balcony containers empty. With frost-hardy greens and resilient alliums, you can enjoy fresh, sweet harvests all through the cold season."
+    },
+    "crop_slugs": [
+      "kale",
+      "lambs-lettuce",
+      "spinach",
+      "parsnip",
+      "garlic",
+      "onion",
+      "lettuce"
+    ],
+    "image": null,
+    "sources": [
+      "https://velt.nu/groente/boerenkool",
+      "https://makkelijkemoestuin.nl/kennisbank/palmkool-zaaien-en-kweken",
+      "https://makkelijkemoestuin.nl/kennisbank/maak-je-moestuinbak-winterklaar",
+      "https://makkelijkemoestuin.nl/kennisbank/veldsla-zaaien-in-voor-en-najaar",
+      "https://groei.nl/artikel/zaaien-oktober-koudebak",
+      "https://velt.nu/tip/ideale-teelten-achter-glas",
+      "https://makkelijkemoestuin.nl/kennisbank/wintersla-zaaien-en-kweken",
+      "https://groei.nl/artikel/moestuin-in-november-voorbereidingen-voor-de-winter",
+      "https://makkelijkemoestuin.nl/kennisbank/wintererwt-zaaien-en-kweken",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/oogsten-bewaren/september-oogst-er-op-los-in-je-moestuin/",
+      "https://velt.nu/groente/schorseneren",
+      "https://beweegt.velt.nu/tienen/2196/tuinindeherfst",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/warme-wintergroenten/",
+      "https://makkelijkemoestuin.nl/kennisbank/half-februari-nu-al-zaaien"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "kindvriendelijk",
+    "title": {
+      "nl": "Kindvriendelijk",
+      "en": "Kid friendly"
+    },
+    "intro": {
+      "nl": "Samen tuinieren met kinderen is een vrolijk avontuur vol ontdekkingen, van zaadjes planten met kleine handjes tot direct snoepen van de plant. Met deze snelgroeiende en kindvriendelijke gewassen maak je van elke bak of tuin een magische ontdekplek om te proeven en te leren.",
+      "en": "Gardening with children is a joyful adventure of discovery, from sowing seeds with little hands to enjoying sweet snacks straight from the vine. With these fast-growing and kid-friendly crops, any small box or balcony easily turns into an exciting edible playground."
+    },
+    "crop_slugs": [
+      "strawberry",
+      "radish",
+      "tomato",
+      "pea",
+      "mangetout",
+      "cucumber",
+      "carrot",
+      "french-bean",
+      "lettuce",
+      "mint"
+    ],
+    "image": null,
+    "sources": [
+      "https://makkelijkemoestuin.nl/kennisbank/moestuin-voor-kinderen",
+      "https://makkelijkemoestuin.nl/kennisbank/kinderen-en-scholen",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/tuinieren-met-kinderen/",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/de-vierkante-meter-moestuin/",
+      "https://makkelijkemoestuin.nl/en/kennisbank/de-voordelen-van-een-schoolmoestuin",
+      "https://makkelijkemoestuin.nl/kennisbank/de-makkelijke-moestuin-voor-scholen",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/de-vierkante-meter-moestuin-deel-2/",
+      "https://velt.nu/nieuws/wat-plant-je-de-schoolmoestuin",
+      "https://velt.nu/schoolmoestuin",
+      "https://velt.nu/system/files/media/documenten/Handboek%20Schooltuinen%20H5.pdf",
+      "https://groei.nl/files/downloads/Thee_uit_eigen_tuin.pdf"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "kruiden-op-de-vensterbank",
+    "title": {
+      "nl": "Kruiden op de vensterbank",
+      "en": "Windowsill herbs"
+    },
+    "intro": {
+      "nl": "Haal het hele jaar door verse smaken in huis door kruiden op een lichte vensterbank te kweken. Met voldoende daglicht, een goede afwatering en bescherming tegen de kou geniet je binnenshuis van een heerlijke, compacte oogst.",
+      "en": "Bring fresh flavours indoors year-round by growing herbs right on a bright windowsill. With adequate light, good drainage, and protection from the cold, you can easily enjoy a thriving indoor harvest in compact spaces."
+    },
+    "crop_slugs": [
+      "basil",
+      "chives",
+      "parsley",
+      "coriander",
+      "mint",
+      "rocket"
+    ],
+    "image": null,
+    "sources": [
+      "https://makkelijkemoestuin.nl/kennisbank/hoe-hou-je-voor-gezaaide-plantjes-goed-op-de-vensterbank",
+      "https://groei.nl/artikel/groenten-sprouts",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kiemgroenten-of-spruitgroenten",
+      "https://groei.nl/artikel/hoe-zaai-ik-tuinkers",
+      "https://groei.nl/artikel/basilicum-kweken",
+      "https://makkelijkemoestuin.nl/kennisbank/struikbasilicum-zaaien-en-kweken",
+      "https://groei.nl/artikel/tips-met-kruiden",
+      "https://community.makkelijkemoestuin.nl/posts/algemeen-2/experiment-basilicum-binnen-en-buiten",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/bloeiende-kruidentuin/",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kraakverse-kruiden-uit-eigen-tuin/",
+      "https://velt.nu/nieuws/ook-potten-en-bakken-kun-je-heel-wat-lekkers-kweken",
+      "https://community.makkelijkemoestuin.nl/posts/vragen-2/kruiden-in-een-vak",
+      "https://makkelijkemoestuin.nl/kennisbank/kruiden-kweken-in-potten-of-moestuinbak",
+      "https://winkel.velt.nu/product/ecologisch-tuinieren-potten-en-bakken",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/kruiden/tijm-plant-dood/",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/een-moestuin-op-het-terras-of-balkon/",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/mandarijn-plant-binnen/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "binnen-kweken",
+    "title": {
+      "nl": "Binnen kweken",
+      "en": "Growing indoors"
+    },
+    "intro": {
+      "nl": "Je hebt geen grote tuin nodig om te genieten van kraakverse groenten en smaakvolle kruiden binnenshuis. Met een zonnige vensterbank of een plekje op het aanrecht oogst je het hele jaar door moeiteloos je eigen groen.",
+      "en": "You don't need a traditional garden to enjoy crisp greens and fresh herbs right inside your home. A sunny windowsill or kitchen counter is all it takes to effortlessly harvest your own fresh food all year round."
+    },
+    "crop_slugs": [
+      "basil",
+      "rocket",
+      "chives",
+      "parsley",
+      "thyme",
+      "mint",
+      "lettuce",
+      "radish",
+      "rosemary",
+      "tomato"
+    ],
+    "image": null,
+    "sources": [
+      "https://groei.nl/artikel/hoe-zaai-ik-tuinkers",
+      "https://groei.nl/artikel/groenten-sprouts",
+      "https://groei.nl/artikel/basilicum-kweken",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kiemgroenten-of-spruitgroenten/",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/kweken-in-pot/hoe-diep-moet-een-kruidenbak-zijn/",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kraakverse-kruiden-uit-eigen-tuin/",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/bloeiende-kruidentuin",
+      "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/een-moestuin-op-het-terras-of-balkon/",
+      "https://makkelijkemoestuin.nl/kennisbank/wat-zijn-10-echt-makkelijke-groentes",
+      "https://makkelijkemoestuin.nl/kennisbank/balkontomaat-zaaien-en-kweken",
+      "https://makkelijkemoestuin.nl/kennisbank/wat-is-voorzaaien-en-wanneer-doe-je-dat",
+      "https://makkelijkemoestuin.nl/blog/een-volwaardige-moestuin-op-het-balkon",
+      "https://makkelijkemoestuin.nl/kennisbank/een-moestuin-starten-op-mini-formaat",
+      "https://community.makkelijkemoestuin.nl/posts/algemeen-2/breid-je-moestuin-uit-met-onze-mm-minis",
+      "https://makkelijkemoestuin.nl/blog/een-mini-moestuin-aanleggen-met-potten",
+      "https://velt.nu/nieuws/ook-potten-en-bakken-kun-je-heel-wat-lekkers-kweken",
+      "https://winkel.velt.nu/product/ecologisch-tuinieren-potten-en-bakken",
+      "https://velt.nu/starten-met-een-moestuin"
+    ],
+    "verified": false
+  }
+]
