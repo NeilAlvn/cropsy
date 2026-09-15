@@ -1,0 +1,161 @@
+[
+  {
+    "slug": "komatsuna-green-boy-shandersin",
+    "names": {
+      "nl": "Komatsuna 'Green Boy' / 'Shandersin'",
+      "en": "Komatsuna 'Green Boy' / 'Shandersin'"
+    },
+    "days_to_harvest": {
+      "min": 20,
+      "max": 45
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "upright",
+      "early",
+      "bolt-resistant",
+      "crisp",
+      "multi-stage harvest"
+    ],
+    "crop_slug": "komatsuna",
+    "sources": [
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/bladgroenten?p=18",
+      "https://tuinzaden.eu/en/spinach-seeds/580423-mustard-spinach.html",
+      "https://www.vreeken.nl/161000-komatsuna-green-boy-shandersin",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/zaai-overzicht-per-maand/september-zaaien-en-planten/komatsuna-mosterd-spinazie-tendergreen-1",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=114",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/nu-zaaien-overzicht/zaai-overzicht-per-maand",
+      "https://www.intratuin.nl/buzzyr-thema-series-xotica-komatsuna.html",
+      "https://www.tuinplus.nl/nl/4/080423/buzzy-xotica-komatsuna-mustard-spinach.aspx",
+      "https://www.petsplace.nl/buzzy-xotica-komatsuna-mustard-spinach-exotische-zaden-8711117804239-bbs",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden?p=11",
+      "https://www.dutchgardenseeds.com/mosterd-spinazie-komatsuna/",
+      "https://tuinzaden.eu/nl/spinazie-zaden-kopen/580423-komatsuna-mosterdspinazie.html",
+      "https://www.dutchgardenseeds.com/paksoi-kanton/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "komatsuna-tendergreen",
+    "names": {
+      "nl": "Komatsuna 'Tendergreen' (Mosterdspinazie)",
+      "en": "Komatsuna 'Tendergreen' (Mustard Spinach)"
+    },
+    "days_to_harvest": {
+      "min": 21,
+      "max": 45
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Zaadhandel Van der Wal"
+    ],
+    "traits": [
+      "compact rosette",
+      "bushy",
+      "early",
+      "hardy",
+      "cold-tolerant",
+      "frost-resistant",
+      "heat-resistant",
+      "bolt-resistant"
+    ],
+    "crop_slug": "komatsuna",
+    "sources": [
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/bladgroenten?p=18",
+      "https://tuinzaden.eu/en/spinach-seeds/580423-mustard-spinach.html",
+      "https://www.vreeken.nl/161000-komatsuna-green-boy-shandersin",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/zaai-overzicht-per-maand/september-zaaien-en-planten/komatsuna-mosterd-spinazie-tendergreen-1",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=114",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/nu-zaaien-overzicht/zaai-overzicht-per-maand",
+      "https://www.intratuin.nl/buzzyr-thema-series-xotica-komatsuna.html",
+      "https://www.tuinplus.nl/nl/4/080423/buzzy-xotica-komatsuna-mustard-spinach.aspx",
+      "https://www.petsplace.nl/buzzy-xotica-komatsuna-mustard-spinach-exotische-zaden-8711117804239-bbs",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden?p=11",
+      "https://www.dutchgardenseeds.com/mosterd-spinazie-komatsuna/",
+      "https://tuinzaden.eu/nl/spinazie-zaden-kopen/580423-komatsuna-mosterdspinazie.html",
+      "https://www.dutchgardenseeds.com/paksoi-kanton/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "komatsuna-buzzy-xotica",
+    "names": {
+      "nl": "Buzzy Xotica Komatsuna",
+      "en": "Buzzy Xotica Komatsuna (Mustard Spinach)"
+    },
+    "days_to_harvest": {
+      "min": 25,
+      "max": 45
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin",
+      "Buzzy Seeds",
+      "Tuinplus"
+    ],
+    "traits": [
+      "shade-tolerant",
+      "rapid loose-leaf habit",
+      "cut-and-come-again",
+      "nutrient-dense"
+    ],
+    "crop_slug": "komatsuna",
+    "sources": [
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/bladgroenten?p=18",
+      "https://tuinzaden.eu/en/spinach-seeds/580423-mustard-spinach.html",
+      "https://www.vreeken.nl/161000-komatsuna-green-boy-shandersin",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/zaai-overzicht-per-maand/september-zaaien-en-planten/komatsuna-mosterd-spinazie-tendergreen-1",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=114",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/nu-zaaien-overzicht/zaai-overzicht-per-maand",
+      "https://www.intratuin.nl/buzzyr-thema-series-xotica-komatsuna.html",
+      "https://www.tuinplus.nl/nl/4/080423/buzzy-xotica-komatsuna-mustard-spinach.aspx",
+      "https://www.petsplace.nl/buzzy-xotica-komatsuna-mustard-spinach-exotische-zaden-8711117804239-bbs",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden?p=11",
+      "https://www.dutchgardenseeds.com/mosterd-spinazie-komatsuna/",
+      "https://tuinzaden.eu/nl/spinazie-zaden-kopen/580423-komatsuna-mosterdspinazie.html",
+      "https://www.dutchgardenseeds.com/paksoi-kanton/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "komatsuna-mosterdspinazie",
+    "names": {
+      "nl": "Komatsuna Mosterdspinazie",
+      "en": "Komatsuna Mustard Spinach"
+    },
+    "days_to_harvest": {
+      "min": 25,
+      "max": 50
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Dutch Garden Seeds",
+      "Tuinzaden.eu"
+    ],
+    "traits": [
+      "container-friendly",
+      "fast regrowth",
+      "versatile usage"
+    ],
+    "crop_slug": "komatsuna",
+    "sources": [
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/bladgroenten?p=18",
+      "https://tuinzaden.eu/en/spinach-seeds/580423-mustard-spinach.html",
+      "https://www.vreeken.nl/161000-komatsuna-green-boy-shandersin",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/zaai-overzicht-per-maand/september-zaaien-en-planten/komatsuna-mosterd-spinazie-tendergreen-1",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/zaadgids-online/groentezaden-fijnzadig?groep=114",
+      "https://www.zaadhandelvanderwal.nl/nl/shop/nu-zaaien-overzicht/zaai-overzicht-per-maand",
+      "https://www.intratuin.nl/buzzyr-thema-series-xotica-komatsuna.html",
+      "https://www.tuinplus.nl/nl/4/080423/buzzy-xotica-komatsuna-mustard-spinach.aspx",
+      "https://www.petsplace.nl/buzzy-xotica-komatsuna-mustard-spinach-exotische-zaden-8711117804239-bbs",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden?p=11",
+      "https://www.dutchgardenseeds.com/mosterd-spinazie-komatsuna/",
+      "https://tuinzaden.eu/nl/spinazie-zaden-kopen/580423-komatsuna-mosterdspinazie.html",
+      "https://www.dutchgardenseeds.com/paksoi-kanton/"
+    ],
+    "verified": false
+  }
+]

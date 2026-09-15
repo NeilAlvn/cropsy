@@ -1,0 +1,141 @@
+[
+  {
+    "slug": "borage-bianca",
+    "names": {
+      "nl": "Wit Komkommerkruid",
+      "en": "Borage 'Bianca'"
+    },
+    "days_to_harvest": {
+      "min": 10,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "bushy",
+      "upright",
+      "edible flowers",
+      "drought-tolerant",
+      "pollinator magnet"
+    ],
+    "crop_slug": "borage",
+    "sources": [
+      "https://www.vreeken.nl/338050-borage-bianca",
+      "https://www.vreeken.nl/338070-borage-mixed",
+      "https://www.bolster.nl/komkommerkruid-borago-officinalis/p113",
+      "https://www.dutchgardenseeds.com/bolster-zaden/",
+      "https://www.deoosteindeonline.nl/product/borage-blauw-komkommerkruid-borago-officinalis-bio",
+      "https://www.intratuin.nl/buzzy-microgreens-kiemgroentezaad-komkommerkruid-borago-officinalis.html",
+      "https://www.vreeken.nl/390300-borage",
+      "https://tuingoedkoop.nl/product/borage-blauw-en-wit-borago-officinalis-zaad-kruidenzaden/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "borage-mixed",
+    "names": {
+      "nl": "Gemengd Komkommerkruid",
+      "en": "Borage 'Mixed'"
+    },
+    "days_to_harvest": {
+      "min": 35,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "compact",
+      "bush",
+      "early",
+      "pest-resistant",
+      "edible blooms"
+    ],
+    "crop_slug": "borage",
+    "sources": [
+      "https://www.vreeken.nl/338050-borage-bianca",
+      "https://www.vreeken.nl/338070-borage-mixed",
+      "https://www.bolster.nl/komkommerkruid-borago-officinalis/p113",
+      "https://www.dutchgardenseeds.com/bolster-zaden/",
+      "https://www.deoosteindeonline.nl/product/borage-blauw-komkommerkruid-borago-officinalis-bio",
+      "https://www.intratuin.nl/buzzy-microgreens-kiemgroentezaad-komkommerkruid-borago-officinalis.html",
+      "https://www.vreeken.nl/390300-borage",
+      "https://tuingoedkoop.nl/product/borage-blauw-en-wit-borago-officinalis-zaad-kruidenzaden/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "borage-officinalis-bio",
+    "names": {
+      "nl": "Komkommerkruid (BIO)",
+      "en": "Borage (BIO)"
+    },
+    "days_to_harvest": {
+      "min": 30,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster (Biologische Zaden)"
+    ],
+    "traits": [
+      "organic",
+      "bush",
+      "branched",
+      "pest-resistant",
+      "high-yielding"
+    ],
+    "crop_slug": "borage",
+    "sources": [
+      "https://www.vreeken.nl/338050-borage-bianca",
+      "https://www.vreeken.nl/338070-borage-mixed",
+      "https://www.bolster.nl/komkommerkruid-borago-officinalis/p113",
+      "https://www.dutchgardenseeds.com/bolster-zaden/",
+      "https://www.deoosteindeonline.nl/product/borage-blauw-komkommerkruid-borago-officinalis-bio",
+      "https://www.intratuin.nl/buzzy-microgreens-kiemgroentezaad-komkommerkruid-borago-officinalis.html",
+      "https://www.vreeken.nl/390300-borage",
+      "https://tuingoedkoop.nl/product/borage-blauw-en-wit-borago-officinalis-zaad-kruidenzaden/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "borage-buzzy-microgreens",
+    "names": {
+      "nl": "Buzzy Microgreens Komkommerkruid",
+      "en": "Buzzy Microgreens Borage"
+    },
+    "days_to_harvest": {
+      "min": 10,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy",
+      "Intratuin"
+    ],
+    "traits": [
+      "microgreens",
+      "compact",
+      "dwarf",
+      "bushy",
+      "early",
+      "fast germinating",
+      "resistant to damping-off"
+    ],
+    "crop_slug": "borage",
+    "sources": [
+      "https://www.vreeken.nl/338050-borage-bianca",
+      "https://www.vreeken.nl/338070-borage-mixed",
+      "https://www.bolster.nl/komkommerkruid-borago-officinalis/p113",
+      "https://www.dutchgardenseeds.com/bolster-zaden/",
+      "https://www.deoosteindeonline.nl/product/borage-blauw-komkommerkruid-borago-officinalis-bio",
+      "https://www.intratuin.nl/buzzy-microgreens-kiemgroentezaad-komkommerkruid-borago-officinalis.html",
+      "https://www.vreeken.nl/390300-borage",
+      "https://tuingoedkoop.nl/product/borage-blauw-en-wit-borago-officinalis-zaad-kruidenzaden/"
+    ],
+    "verified": false
+  }
+]

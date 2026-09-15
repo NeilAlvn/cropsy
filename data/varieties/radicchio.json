@@ -1,0 +1,146 @@
+[
+  {
+    "slug": "radicchio-rosso-leonardo-f1",
+    "names": {
+      "nl": "Radicchio Rosso 'Leonardo F1'",
+      "en": "Radicchio Rosso 'Leonardo F1'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "compact",
+      "heading",
+      "bolt-resistant",
+      "cold-hardy"
+    ],
+    "crop_slug": "radicchio",
+    "sources": [
+      "https://www.bolster.nl/radicchio-rosso-leonardo-f1-cichorium-intybus/p9154",
+      "https://www.welkoop.nl/hortitops-roodlof-cichorium-intybus-radicchio-rosso-di-chioggia-groentezaden-3gram_1174232",
+      "https://tuinzaden.eu/nl/roodlof-zaden-kopen/502163-rossa-di-chioggia-3-roodlof-zaden.html",
+      "https://www.bolster.nl/radicchio-rosso/c1364",
+      "https://www.bolster.nl/radicchio-rosso-telen-onze-tips/t22043",
+      "https://demoestuinwinkel.nl/products/de_bolster_radicchio_rosso_leonardo_f1",
+      "https://www.bolster.nl/blad-en-stengelgewassen-pro/c567",
+      "https://www.bolster.nl/nieuwste-rassen/c5",
+      "https://www.vreeken.nl/070250-roodlof-rossa-di-treviso",
+      "https://www.intratuin.nl/intratuin-groentezaad-roodlof-cichorium-endivia-pallo-rossa-di-chioggia.html",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden?p=10"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "radicchio-rossa-di-treviso",
+    "names": {
+      "nl": "Roodlof 'Rossa di Treviso'",
+      "en": "Radicchio 'Rossa di Treviso'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "upright",
+      "slender",
+      "frost-resistant",
+      "crunchy"
+    ],
+    "crop_slug": "radicchio",
+    "sources": [
+      "https://www.bolster.nl/radicchio-rosso-leonardo-f1-cichorium-intybus/p9154",
+      "https://www.welkoop.nl/hortitops-roodlof-cichorium-intybus-radicchio-rosso-di-chioggia-groentezaden-3gram_1174232",
+      "https://tuinzaden.eu/nl/roodlof-zaden-kopen/502163-rossa-di-chioggia-3-roodlof-zaden.html",
+      "https://www.bolster.nl/radicchio-rosso/c1364",
+      "https://www.bolster.nl/radicchio-rosso-telen-onze-tips/t22043",
+      "https://demoestuinwinkel.nl/products/de_bolster_radicchio_rosso_leonardo_f1",
+      "https://www.bolster.nl/blad-en-stengelgewassen-pro/c567",
+      "https://www.bolster.nl/nieuwste-rassen/c5",
+      "https://www.vreeken.nl/070250-roodlof-rossa-di-treviso",
+      "https://www.intratuin.nl/intratuin-groentezaad-roodlof-cichorium-endivia-pallo-rossa-di-chioggia.html",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden?p=10"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "radicchio-rosso-di-chioggia",
+    "names": {
+      "nl": "Roodlof Radicchio Rosso Di Chioggia",
+      "en": "Radicchio Rosso di Chioggia"
+    },
+    "days_to_harvest": {
+      "min": 80,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "heading",
+      "round",
+      "weather-tolerant",
+      "hardy"
+    ],
+    "crop_slug": "radicchio",
+    "sources": [
+      "https://www.bolster.nl/radicchio-rosso-leonardo-f1-cichorium-intybus/p9154",
+      "https://www.welkoop.nl/hortitops-roodlof-cichorium-intybus-radicchio-rosso-di-chioggia-groentezaden-3gram_1174232",
+      "https://tuinzaden.eu/nl/roodlof-zaden-kopen/502163-rossa-di-chioggia-3-roodlof-zaden.html",
+      "https://www.bolster.nl/radicchio-rosso/c1364",
+      "https://www.bolster.nl/radicchio-rosso-telen-onze-tips/t22043",
+      "https://demoestuinwinkel.nl/products/de_bolster_radicchio_rosso_leonardo_f1",
+      "https://www.bolster.nl/blad-en-stengelgewassen-pro/c567",
+      "https://www.bolster.nl/nieuwste-rassen/c5",
+      "https://www.vreeken.nl/070250-roodlof-rossa-di-treviso",
+      "https://www.intratuin.nl/intratuin-groentezaad-roodlof-cichorium-endivia-pallo-rossa-di-chioggia.html",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden?p=10"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "radicchio-pallo-rossa-di-chioggia",
+    "names": {
+      "nl": "Roodlof 'Pallo Rossa di Chioggia'",
+      "en": "Radicchio 'Pallo Rossa di Chioggia'"
+    },
+    "days_to_harvest": {
+      "min": 80,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "compact",
+      "ball-shaped",
+      "wind-tolerant",
+      "crisp"
+    ],
+    "crop_slug": "radicchio",
+    "sources": [
+      "https://www.bolster.nl/radicchio-rosso-leonardo-f1-cichorium-intybus/p9154",
+      "https://www.welkoop.nl/hortitops-roodlof-cichorium-intybus-radicchio-rosso-di-chioggia-groentezaden-3gram_1174232",
+      "https://tuinzaden.eu/nl/roodlof-zaden-kopen/502163-rossa-di-chioggia-3-roodlof-zaden.html",
+      "https://www.bolster.nl/radicchio-rosso/c1364",
+      "https://www.bolster.nl/radicchio-rosso-telen-onze-tips/t22043",
+      "https://demoestuinwinkel.nl/products/de_bolster_radicchio_rosso_leonardo_f1",
+      "https://www.bolster.nl/blad-en-stengelgewassen-pro/c567",
+      "https://www.bolster.nl/nieuwste-rassen/c5",
+      "https://www.vreeken.nl/070250-roodlof-rossa-di-treviso",
+      "https://www.intratuin.nl/intratuin-groentezaad-roodlof-cichorium-endivia-pallo-rossa-di-chioggia.html",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden?p=10"
+    ],
+    "verified": false
+  }
+]

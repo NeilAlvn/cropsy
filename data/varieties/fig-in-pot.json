@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "fig-in-pot-little-miss-figgy",
+    "names": {
+      "nl": "Dwergvijg Little Miss Figgy",
+      "en": "Little Miss Figgy"
+    },
+    "days_to_harvest": null,
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com"
+    ],
+    "traits": [
+      "dwarf",
+      "compact bush",
+      "sweet",
+      "hardy",
+      "self-fertile",
+      "early"
+    ],
+    "crop_slug": "fig-in-pot",
+    "sources": [
+      "https://nl-nl.bakker.com/products/dwergvijg-little-miss-figgy",
+      "https://nl-nl.bakker.com/products/vijgenboom-op-stam",
+      "https://fr-be.bakker.com/products/figuier-nain-little-miss-figgy%C2%AE",
+      "https://fr-fr.bakker.com/products/figuier-nain-little-miss-figgy%C2%AE",
+      "https://www.vreeken.nl/823038-vijg-little-miss-figgy",
+      "https://www.intratuin.nl/biologische-vijg-ficus-carica-brown-turkey-d-23-h-100-cm.html",
+      "https://www.intratuin.nl/plantengids/vijgenboom-ficus-carica-snoeien-verzorging",
+      "https://www.intratuin.nl/biologische-vijg-ficus-carica-perrettar-d-19-h-60-cm.html",
+      "https://www.intratuin.nl/biologische-vijg-ficus-carica-gustissimo-perrettar-d-13-h-40-cm.html",
+      "https://www.vreeken.nl/planten-schimmels/fruit/p12-80",
+      "https://www.vreeken.nl/823022-vijg-brunswick"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "fig-in-pot-brown-turkey",
+    "names": {
+      "nl": "Biologische Vijg 'Brown Turkey'",
+      "en": "Brown Turkey"
+    },
+    "days_to_harvest": null,
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "bush",
+      "compact",
+      "sweet",
+      "hardy",
+      "frost-resistant"
+    ],
+    "crop_slug": "fig-in-pot",
+    "sources": [
+      "https://nl-nl.bakker.com/products/dwergvijg-little-miss-figgy",
+      "https://nl-nl.bakker.com/products/vijgenboom-op-stam",
+      "https://fr-be.bakker.com/products/figuier-nain-little-miss-figgy%C2%AE",
+      "https://fr-fr.bakker.com/products/figuier-nain-little-miss-figgy%C2%AE",
+      "https://www.vreeken.nl/823038-vijg-little-miss-figgy",
+      "https://www.intratuin.nl/biologische-vijg-ficus-carica-brown-turkey-d-23-h-100-cm.html",
+      "https://www.intratuin.nl/plantengids/vijgenboom-ficus-carica-snoeien-verzorging",
+      "https://www.intratuin.nl/biologische-vijg-ficus-carica-perrettar-d-19-h-60-cm.html",
+      "https://www.intratuin.nl/biologische-vijg-ficus-carica-gustissimo-perrettar-d-13-h-40-cm.html",
+      "https://www.vreeken.nl/planten-schimmels/fruit/p12-80",
+      "https://www.vreeken.nl/823022-vijg-brunswick"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "fig-in-pot-gustissimo-perretta",
+    "names": {
+      "nl": "Biologische Vijg 'Perretta®'",
+      "en": "Gustissimo Perretta®"
+    },
+    "days_to_harvest": null,
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "bushy",
+      "sweet",
+      "frost-tolerant",
+      "early",
+      "disease-resistant"
+    ],
+    "crop_slug": "fig-in-pot",
+    "sources": [
+      "https://nl-nl.bakker.com/products/dwergvijg-little-miss-figgy",
+      "https://nl-nl.bakker.com/products/vijgenboom-op-stam",
+      "https://fr-be.bakker.com/products/figuier-nain-little-miss-figgy%C2%AE",
+      "https://fr-fr.bakker.com/products/figuier-nain-little-miss-figgy%C2%AE",
+      "https://www.vreeken.nl/823038-vijg-little-miss-figgy",
+      "https://www.intratuin.nl/biologische-vijg-ficus-carica-brown-turkey-d-23-h-100-cm.html",
+      "https://www.intratuin.nl/plantengids/vijgenboom-ficus-carica-snoeien-verzorging",
+      "https://www.intratuin.nl/biologische-vijg-ficus-carica-perrettar-d-19-h-60-cm.html",
+      "https://www.intratuin.nl/biologische-vijg-ficus-carica-gustissimo-perrettar-d-13-h-40-cm.html",
+      "https://www.vreeken.nl/planten-schimmels/fruit/p12-80",
+      "https://www.vreeken.nl/823022-vijg-brunswick"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "fig-in-pot-brunswick",
+    "names": {
+      "nl": "Vijg 'Brunswick'",
+      "en": "Brunswick"
+    },
+    "days_to_harvest": null,
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "compact bush",
+      "sweet",
+      "cold-hardy"
+    ],
+    "crop_slug": "fig-in-pot",
+    "sources": [
+      "https://nl-nl.bakker.com/products/dwergvijg-little-miss-figgy",
+      "https://nl-nl.bakker.com/products/vijgenboom-op-stam",
+      "https://fr-be.bakker.com/products/figuier-nain-little-miss-figgy%C2%AE",
+      "https://fr-fr.bakker.com/products/figuier-nain-little-miss-figgy%C2%AE",
+      "https://www.vreeken.nl/823038-vijg-little-miss-figgy",
+      "https://www.intratuin.nl/biologische-vijg-ficus-carica-brown-turkey-d-23-h-100-cm.html",
+      "https://www.intratuin.nl/plantengids/vijgenboom-ficus-carica-snoeien-verzorging",
+      "https://www.intratuin.nl/biologische-vijg-ficus-carica-perrettar-d-19-h-60-cm.html",
+      "https://www.intratuin.nl/biologische-vijg-ficus-carica-gustissimo-perrettar-d-13-h-40-cm.html",
+      "https://www.vreeken.nl/planten-schimmels/fruit/p12-80",
+      "https://www.vreeken.nl/823022-vijg-brunswick"
+    ],
+    "verified": false
+  }
+]

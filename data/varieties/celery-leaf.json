@@ -1,0 +1,180 @@
+[
+  {
+    "slug": "celery-leaf-amsterdamse-donkergroene",
+    "names": {
+      "nl": "Amsterdamse Donkergroene",
+      "en": "Amsterdam Dark Green"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden",
+      "Welkoop",
+      "Intratuin"
+    ],
+    "traits": [
+      "compact",
+      "bushy",
+      "aromatic",
+      "cold-tolerant",
+      "heritage"
+    ],
+    "crop_slug": "celery-leaf",
+    "sources": [
+      "https://www.sluisgarden.com/product/celery-amsterdam-dark-green-apium-grav/",
+      "https://www.welkoop.nl/hortitops-snijselderij-apium-graveolens-var-secalinum-amsterdamse-donkergroene-groentezaden-2gram_1039955",
+      "https://www.intratuin.nl/intratuin-groentezaad-snijselderij-apium-graveolens-amsterdamse-fijnblad.html",
+      "https://demoestuinwinkel.nl/products/sluis_garden_bladselderij_gewone_snij_-_westlandse",
+      "https://mijnkeukentuintje.nl/planten/snijselderij/",
+      "https://gezelliggroen.nl/planten/snijselderij/",
+      "https://www.vreeken.nl/245200-snijselderij-zwolsche-krul-zwolse-krul",
+      "https://www.vreeken.nl/245300-selderij-lusthof-mix",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p17-25",
+      "https://www.bolster.nl/snijselderij-gewone-snij-apium-graveolens/p124",
+      "https://www.bolster.eu/celery-gewone-snij-apium-graveolens/p124",
+      "https://www.natuurenpuur.nl/products/snijselderij-westlandse-bio",
+      "https://www.vreeken.nl/245150-tropische-snijselderij-summer-light-yellow-green-tianjin",
+      "https://allezadenkopen.nl/products/biologische-snijselderij-bladselderij",
+      "https://dezaden.nl/product/buzzy-snijselderij-zaden-gewone-snij/",
+      "https://www.intratuin.nl/intratuin-biologisch-kruidenzaden-peterselie-petroselinum-cripsum-gewone-snij.html",
+      "http://www.permacultuurnederland.org/planten.php?zoek=&laag=&functieSER=Tjs=&pid=733&page=7&sort=",
+      "https://www.intratuin.nl/biologische-selderij-apium-graveolens-var-secalinum-d-9-h-5-cm.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "celery-leaf-zwolsche-krul",
+    "names": {
+      "nl": "Zwolsche Krul",
+      "en": "Curled Leaf Celery"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "compact",
+      "bush",
+      "ornamental",
+      "winter-hardy",
+      "slow-to-bolt"
+    ],
+    "crop_slug": "celery-leaf",
+    "sources": [
+      "https://www.sluisgarden.com/product/celery-amsterdam-dark-green-apium-grav/",
+      "https://www.welkoop.nl/hortitops-snijselderij-apium-graveolens-var-secalinum-amsterdamse-donkergroene-groentezaden-2gram_1039955",
+      "https://www.intratuin.nl/intratuin-groentezaad-snijselderij-apium-graveolens-amsterdamse-fijnblad.html",
+      "https://demoestuinwinkel.nl/products/sluis_garden_bladselderij_gewone_snij_-_westlandse",
+      "https://mijnkeukentuintje.nl/planten/snijselderij/",
+      "https://gezelliggroen.nl/planten/snijselderij/",
+      "https://www.vreeken.nl/245200-snijselderij-zwolsche-krul-zwolse-krul",
+      "https://www.vreeken.nl/245300-selderij-lusthof-mix",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p17-25",
+      "https://www.bolster.nl/snijselderij-gewone-snij-apium-graveolens/p124",
+      "https://www.bolster.eu/celery-gewone-snij-apium-graveolens/p124",
+      "https://www.natuurenpuur.nl/products/snijselderij-westlandse-bio",
+      "https://www.vreeken.nl/245150-tropische-snijselderij-summer-light-yellow-green-tianjin",
+      "https://allezadenkopen.nl/products/biologische-snijselderij-bladselderij",
+      "https://dezaden.nl/product/buzzy-snijselderij-zaden-gewone-snij/",
+      "https://www.intratuin.nl/intratuin-biologisch-kruidenzaden-peterselie-petroselinum-cripsum-gewone-snij.html",
+      "http://www.permacultuurnederland.org/planten.php?zoek=&laag=&functieSER=Tjs=&pid=733&page=7&sort=",
+      "https://www.intratuin.nl/biologische-selderij-apium-graveolens-var-secalinum-d-9-h-5-cm.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "celery-leaf-gewone-snij",
+    "names": {
+      "nl": "Gewone Snij",
+      "en": "Gewone Snij"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "organic",
+      "upright",
+      "bushy",
+      "shade-tolerant",
+      "septoria-tolerant"
+    ],
+    "crop_slug": "celery-leaf",
+    "sources": [
+      "https://www.sluisgarden.com/product/celery-amsterdam-dark-green-apium-grav/",
+      "https://www.welkoop.nl/hortitops-snijselderij-apium-graveolens-var-secalinum-amsterdamse-donkergroene-groentezaden-2gram_1039955",
+      "https://www.intratuin.nl/intratuin-groentezaad-snijselderij-apium-graveolens-amsterdamse-fijnblad.html",
+      "https://demoestuinwinkel.nl/products/sluis_garden_bladselderij_gewone_snij_-_westlandse",
+      "https://mijnkeukentuintje.nl/planten/snijselderij/",
+      "https://gezelliggroen.nl/planten/snijselderij/",
+      "https://www.vreeken.nl/245200-snijselderij-zwolsche-krul-zwolse-krul",
+      "https://www.vreeken.nl/245300-selderij-lusthof-mix",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p17-25",
+      "https://www.bolster.nl/snijselderij-gewone-snij-apium-graveolens/p124",
+      "https://www.bolster.eu/celery-gewone-snij-apium-graveolens/p124",
+      "https://www.natuurenpuur.nl/products/snijselderij-westlandse-bio",
+      "https://www.vreeken.nl/245150-tropische-snijselderij-summer-light-yellow-green-tianjin",
+      "https://allezadenkopen.nl/products/biologische-snijselderij-bladselderij",
+      "https://dezaden.nl/product/buzzy-snijselderij-zaden-gewone-snij/",
+      "https://www.intratuin.nl/intratuin-biologisch-kruidenzaden-peterselie-petroselinum-cripsum-gewone-snij.html",
+      "http://www.permacultuurnederland.org/planten.php?zoek=&laag=&functieSER=Tjs=&pid=733&page=7&sort=",
+      "https://www.intratuin.nl/biologische-selderij-apium-graveolens-var-secalinum-d-9-h-5-cm.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "celery-leaf-summer-tianjin",
+    "names": {
+      "nl": "Tropische Snijselderij 'Summer' / 'Tianjin'",
+      "en": "Chinese / Asian Cutting Celery 'Summer' / 'Tianjin'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "early",
+      "fast-growing",
+      "slender",
+      "upright",
+      "heat-tolerant"
+    ],
+    "crop_slug": "celery-leaf",
+    "sources": [
+      "https://www.sluisgarden.com/product/celery-amsterdam-dark-green-apium-grav/",
+      "https://www.welkoop.nl/hortitops-snijselderij-apium-graveolens-var-secalinum-amsterdamse-donkergroene-groentezaden-2gram_1039955",
+      "https://www.intratuin.nl/intratuin-groentezaad-snijselderij-apium-graveolens-amsterdamse-fijnblad.html",
+      "https://demoestuinwinkel.nl/products/sluis_garden_bladselderij_gewone_snij_-_westlandse",
+      "https://mijnkeukentuintje.nl/planten/snijselderij/",
+      "https://gezelliggroen.nl/planten/snijselderij/",
+      "https://www.vreeken.nl/245200-snijselderij-zwolsche-krul-zwolse-krul",
+      "https://www.vreeken.nl/245300-selderij-lusthof-mix",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p17-25",
+      "https://www.bolster.nl/snijselderij-gewone-snij-apium-graveolens/p124",
+      "https://www.bolster.eu/celery-gewone-snij-apium-graveolens/p124",
+      "https://www.natuurenpuur.nl/products/snijselderij-westlandse-bio",
+      "https://www.vreeken.nl/245150-tropische-snijselderij-summer-light-yellow-green-tianjin",
+      "https://allezadenkopen.nl/products/biologische-snijselderij-bladselderij",
+      "https://dezaden.nl/product/buzzy-snijselderij-zaden-gewone-snij/",
+      "https://www.intratuin.nl/intratuin-biologisch-kruidenzaden-peterselie-petroselinum-cripsum-gewone-snij.html",
+      "http://www.permacultuurnederland.org/planten.php?zoek=&laag=&functieSER=Tjs=&pid=733&page=7&sort=",
+      "https://www.intratuin.nl/biologische-selderij-apium-graveolens-var-secalinum-d-9-h-5-cm.html"
+    ],
+    "verified": false
+  }
+]

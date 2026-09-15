@@ -1,0 +1,178 @@
+[
+  {
+    "slug": "winter-purslane-biologisch",
+    "names": {
+      "nl": "Winterpostelein (Biologisch)",
+      "en": "Winter Purslane (Organic)"
+    },
+    "days_to_harvest": {
+      "min": 40,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "organic",
+      "frost-hardy",
+      "pest-resistant",
+      "compact",
+      "cut-and-come-again"
+    ],
+    "crop_slug": "winter-purslane",
+    "sources": [
+      "https://moestuinenbloem.nl/winterpostelein/",
+      "https://www.hobbytuinpuurnatuur.nl/product/7102735/winterpostelein-claytonia-perfoliata-200-zaden",
+      "https://makkelijkemoestuin.nl/kennisbank/winterpostelein-zaaien-en-kweken",
+      "https://www.bolster.nl/winterpostelein-telen-onze-tips/t10872",
+      "https://www.bolster.nl/winterpostelein-claytonia-perfoliata/p96",
+      "https://www.bolster.nl/winterpostelein-oogsten/t10974",
+      "https://marvygreen.com/products/radijs-french-breakfast-2-de-bolster-copy",
+      "https://www.bolster.nl/",
+      "https://www.vreeken.nl/319000-winterpostelein-gewone",
+      "https://www.ekoplaza.nl/nl/merk/boon",
+      "https://www.vreeken.nl/zaden/groenten-fruit/filter/winterpostelein",
+      "https://www.vreeken.nl/319010-winterpostelein-roze",
+      "https://gardenworld.app/nl/blog/planten/claytonia-sibirica",
+      "https://wildebloemen.info/pages.bloemen/R/roze-winterpostelein.php/?full=1",
+      "https://www.groenrijk.nl/plantengids/plant/vaste-plant/claytonia-sibirica",
+      "https://allezadenkopen.nl/products/postelein-winterpostelein",
+      "https://www.koopbloembollen.nl/product/winterpostelein-zaden",
+      "https://nl-nl.bakker.com/products/winterpostelein"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "winter-purslane-gewone",
+    "names": {
+      "nl": "Winterpostelein 'Gewone'",
+      "en": "Common Winter Purslane"
+    },
+    "days_to_harvest": {
+      "min": 35,
+      "max": 50
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "early",
+      "fast-growing",
+      "compact",
+      "shade-tolerant",
+      "cold-hardy"
+    ],
+    "crop_slug": "winter-purslane",
+    "sources": [
+      "https://moestuinenbloem.nl/winterpostelein/",
+      "https://www.hobbytuinpuurnatuur.nl/product/7102735/winterpostelein-claytonia-perfoliata-200-zaden",
+      "https://makkelijkemoestuin.nl/kennisbank/winterpostelein-zaaien-en-kweken",
+      "https://www.bolster.nl/winterpostelein-telen-onze-tips/t10872",
+      "https://www.bolster.nl/winterpostelein-claytonia-perfoliata/p96",
+      "https://www.bolster.nl/winterpostelein-oogsten/t10974",
+      "https://marvygreen.com/products/radijs-french-breakfast-2-de-bolster-copy",
+      "https://www.bolster.nl/",
+      "https://www.vreeken.nl/319000-winterpostelein-gewone",
+      "https://www.ekoplaza.nl/nl/merk/boon",
+      "https://www.vreeken.nl/zaden/groenten-fruit/filter/winterpostelein",
+      "https://www.vreeken.nl/319010-winterpostelein-roze",
+      "https://gardenworld.app/nl/blog/planten/claytonia-sibirica",
+      "https://wildebloemen.info/pages.bloemen/R/roze-winterpostelein.php/?full=1",
+      "https://www.groenrijk.nl/plantengids/plant/vaste-plant/claytonia-sibirica",
+      "https://allezadenkopen.nl/products/postelein-winterpostelein",
+      "https://www.koopbloembollen.nl/product/winterpostelein-zaden",
+      "https://nl-nl.bakker.com/products/winterpostelein"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "winter-purslane-roze",
+    "names": {
+      "nl": "Roze Winterpostelein",
+      "en": "Pink Winter Purslane"
+    },
+    "days_to_harvest": {
+      "min": 45,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "bush",
+      "groundcover",
+      "ornamental",
+      "shade-tolerant",
+      "cold-hardy"
+    ],
+    "crop_slug": "winter-purslane",
+    "sources": [
+      "https://moestuinenbloem.nl/winterpostelein/",
+      "https://www.hobbytuinpuurnatuur.nl/product/7102735/winterpostelein-claytonia-perfoliata-200-zaden",
+      "https://makkelijkemoestuin.nl/kennisbank/winterpostelein-zaaien-en-kweken",
+      "https://www.bolster.nl/winterpostelein-telen-onze-tips/t10872",
+      "https://www.bolster.nl/winterpostelein-claytonia-perfoliata/p96",
+      "https://www.bolster.nl/winterpostelein-oogsten/t10974",
+      "https://marvygreen.com/products/radijs-french-breakfast-2-de-bolster-copy",
+      "https://www.bolster.nl/",
+      "https://www.vreeken.nl/319000-winterpostelein-gewone",
+      "https://www.ekoplaza.nl/nl/merk/boon",
+      "https://www.vreeken.nl/zaden/groenten-fruit/filter/winterpostelein",
+      "https://www.vreeken.nl/319010-winterpostelein-roze",
+      "https://gardenworld.app/nl/blog/planten/claytonia-sibirica",
+      "https://wildebloemen.info/pages.bloemen/R/roze-winterpostelein.php/?full=1",
+      "https://www.groenrijk.nl/plantengids/plant/vaste-plant/claytonia-sibirica",
+      "https://allezadenkopen.nl/products/postelein-winterpostelein",
+      "https://www.koopbloembollen.nl/product/winterpostelein-zaden",
+      "https://nl-nl.bakker.com/products/winterpostelein"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "winter-purslane-sluis-garden",
+    "names": {
+      "nl": "Sluis Garden Winterpostelein",
+      "en": "Sluis Garden Winter Purslane"
+    },
+    "days_to_harvest": {
+      "min": 35,
+      "max": 45
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden",
+      "Allezadenkopen"
+    ],
+    "traits": [
+      "early",
+      "compact",
+      "frost-tolerant",
+      "cut-and-come-again"
+    ],
+    "crop_slug": "winter-purslane",
+    "sources": [
+      "https://moestuinenbloem.nl/winterpostelein/",
+      "https://www.hobbytuinpuurnatuur.nl/product/7102735/winterpostelein-claytonia-perfoliata-200-zaden",
+      "https://makkelijkemoestuin.nl/kennisbank/winterpostelein-zaaien-en-kweken",
+      "https://www.bolster.nl/winterpostelein-telen-onze-tips/t10872",
+      "https://www.bolster.nl/winterpostelein-claytonia-perfoliata/p96",
+      "https://www.bolster.nl/winterpostelein-oogsten/t10974",
+      "https://marvygreen.com/products/radijs-french-breakfast-2-de-bolster-copy",
+      "https://www.bolster.nl/",
+      "https://www.vreeken.nl/319000-winterpostelein-gewone",
+      "https://www.ekoplaza.nl/nl/merk/boon",
+      "https://www.vreeken.nl/zaden/groenten-fruit/filter/winterpostelein",
+      "https://www.vreeken.nl/319010-winterpostelein-roze",
+      "https://gardenworld.app/nl/blog/planten/claytonia-sibirica",
+      "https://wildebloemen.info/pages.bloemen/R/roze-winterpostelein.php/?full=1",
+      "https://www.groenrijk.nl/plantengids/plant/vaste-plant/claytonia-sibirica",
+      "https://allezadenkopen.nl/products/postelein-winterpostelein",
+      "https://www.koopbloembollen.nl/product/winterpostelein-zaden",
+      "https://nl-nl.bakker.com/products/winterpostelein"
+    ],
+    "verified": false
+  }
+]

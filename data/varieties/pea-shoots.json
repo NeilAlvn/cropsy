@@ -1,0 +1,141 @@
+[
+  {
+    "slug": "pea-shoots-petite-snap-greens",
+    "names": {
+      "nl": "Micro-Erwtenkiem 'Petite Snap-Greens'",
+      "en": "Micro Pea 'Petite Snap-Greens'"
+    },
+    "days_to_harvest": {
+      "min": 10,
+      "max": 14
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "bush",
+      "dwarf",
+      "mildew-resistant",
+      "fusarium-resistant",
+      "edible-flowers"
+    ],
+    "crop_slug": "pea-shoots",
+    "sources": [
+      "https://www.vreeken.nl/690910-micro-erwtenkiem-petite-snap-greens",
+      "https://dezaden.nl/product/buzzy-microgreens-pea-shoots-zaden/",
+      "https://mpseeds.eu/microgreens-growing-instructions/pea-microgreens-shoots-how-to-grow-them-fast-and-easy",
+      "https://nl-nl.bakker.com/products/doperwt-le-genereux-1",
+      "https://www.bolster.nl/groene-erwt-kiemgroente-pisum-sativum/p9093",
+      "https://tuinzaden.eu/nl/kiemgroente-microgreens-zaden-kopen/922946-groene-erwt-kiemgroente-biologische-zaden.html",
+      "https://www.microgreen-shop.com/nl/shop/bio-saatgut/bio-keimsaat-erbsen/",
+      "https://tuinzaden.eu/en/microgreens-seeds/921750-peashoots-microgreens-seeds.html",
+      "https://demoestuinwinkel.nl/products/buzzy_microgreens_peashoots"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "pea-shoots-groene-erwt",
+    "names": {
+      "nl": "Groene Erwt (Kiemgroente)",
+      "en": "Green Pea (Microgreens)"
+    },
+    "days_to_harvest": {
+      "min": 9,
+      "max": 11
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "organic",
+      "open-pollinated",
+      "early",
+      "fast"
+    ],
+    "crop_slug": "pea-shoots",
+    "sources": [
+      "https://www.vreeken.nl/690910-micro-erwtenkiem-petite-snap-greens",
+      "https://dezaden.nl/product/buzzy-microgreens-pea-shoots-zaden/",
+      "https://mpseeds.eu/microgreens-growing-instructions/pea-microgreens-shoots-how-to-grow-them-fast-and-easy",
+      "https://nl-nl.bakker.com/products/doperwt-le-genereux-1",
+      "https://www.bolster.nl/groene-erwt-kiemgroente-pisum-sativum/p9093",
+      "https://tuinzaden.eu/nl/kiemgroente-microgreens-zaden-kopen/922946-groene-erwt-kiemgroente-biologische-zaden.html",
+      "https://www.microgreen-shop.com/nl/shop/bio-saatgut/bio-keimsaat-erbsen/",
+      "https://tuinzaden.eu/en/microgreens-seeds/921750-peashoots-microgreens-seeds.html",
+      "https://demoestuinwinkel.nl/products/buzzy_microgreens_peashoots"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "pea-shoots-buzzy-peashoots",
+    "names": {
+      "nl": "Buzzy Microgreens Peashoots",
+      "en": "Buzzy Microgreens Peashoots"
+    },
+    "days_to_harvest": {
+      "min": 7,
+      "max": 14
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy Seeds",
+      "Tuinzaden.eu"
+    ],
+    "traits": [
+      "early",
+      "vigorous",
+      "resilient",
+      "cold-tolerant"
+    ],
+    "crop_slug": "pea-shoots",
+    "sources": [
+      "https://www.vreeken.nl/690910-micro-erwtenkiem-petite-snap-greens",
+      "https://dezaden.nl/product/buzzy-microgreens-pea-shoots-zaden/",
+      "https://mpseeds.eu/microgreens-growing-instructions/pea-microgreens-shoots-how-to-grow-them-fast-and-easy",
+      "https://nl-nl.bakker.com/products/doperwt-le-genereux-1",
+      "https://www.bolster.nl/groene-erwt-kiemgroente-pisum-sativum/p9093",
+      "https://tuinzaden.eu/nl/kiemgroente-microgreens-zaden-kopen/922946-groene-erwt-kiemgroente-biologische-zaden.html",
+      "https://www.microgreen-shop.com/nl/shop/bio-saatgut/bio-keimsaat-erbsen/",
+      "https://tuinzaden.eu/en/microgreens-seeds/921750-peashoots-microgreens-seeds.html",
+      "https://demoestuinwinkel.nl/products/buzzy_microgreens_peashoots"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "pea-shoots-telephone-nain",
+    "names": {
+      "nl": "Doperwt 'Téléphone Nain'",
+      "en": "Pea 'Téléphone Nain'"
+    },
+    "days_to_harvest": {
+      "min": 10,
+      "max": 14
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker"
+    ],
+    "traits": [
+      "bush",
+      "dwarf",
+      "early",
+      "cold-tolerant",
+      "low-maintenance"
+    ],
+    "crop_slug": "pea-shoots",
+    "sources": [
+      "https://www.vreeken.nl/690910-micro-erwtenkiem-petite-snap-greens",
+      "https://dezaden.nl/product/buzzy-microgreens-pea-shoots-zaden/",
+      "https://mpseeds.eu/microgreens-growing-instructions/pea-microgreens-shoots-how-to-grow-them-fast-and-easy",
+      "https://nl-nl.bakker.com/products/doperwt-le-genereux-1",
+      "https://www.bolster.nl/groene-erwt-kiemgroente-pisum-sativum/p9093",
+      "https://tuinzaden.eu/nl/kiemgroente-microgreens-zaden-kopen/922946-groene-erwt-kiemgroente-biologische-zaden.html",
+      "https://www.microgreen-shop.com/nl/shop/bio-saatgut/bio-keimsaat-erbsen/",
+      "https://tuinzaden.eu/en/microgreens-seeds/921750-peashoots-microgreens-seeds.html",
+      "https://demoestuinwinkel.nl/products/buzzy_microgreens_peashoots"
+    ],
+    "verified": false
+  }
+]

@@ -3041,6 +3041,2013 @@
         "en": "Sweetcorn grows upright taking minimal ground space, while squash acts as living mulch underneath to retain moisture and suppress weeds (Three Sisters)."
       },
       "source": "https://makkelijkemoestuin.nl/kennisbank/dieven-van-tomaten-komkommer-en-pompoen"
+    },
+    {
+      "a": "blueberry-in-pot",
+      "b": "strawberry",
+      "reason": {
+        "en": "Thrives in slightly acidic, organic soil and provides a shallow living mulch that shades the root zone, keeping it cool and moist without choking the blueberry.",
+        "nl": "Groeit goed in licht zure, organische grond en vormt een ondiep wortelende bodembedekker die de wortelzone koel en vochtig houdt zonder de bes te verstikken."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+    },
+    {
+      "a": "blueberry-in-pot",
+      "b": "sorrel",
+      "reason": {
+        "en": "Naturally prefers moist, acidic soils and can grow beneath or near blueberries in a container edge without requiring lime.",
+        "nl": "Houdt van nature van vochtige, zure grond en kan onder of naast de blauwe bes in de potrand groeien zonder kalk te vereisen."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+    },
+    {
+      "a": "blueberry-in-pot",
+      "b": "borage",
+      "reason": {
+        "en": "Flowering heavily in an adjacent pot, it attracts pollinators such as bumblebees needed for blueberry cross-pollination without competing for root space.",
+        "nl": "Bloeit rijk in een pot ernaast en trekt bestuivers zoals hommels aan voor kruisbestuiving zonder te concurreren om wortelruimte."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+    },
+    {
+      "a": "borage",
+      "b": "strawberry",
+      "reason": {
+        "nl": "Bernagie verbetert de smaak en groeikracht van aardbeien en trekt met haar nectarrijke bloemen bijen en hommels aan voor een betere bestuiving en vruchtzetting.",
+        "en": "Borage enhances the flavor and vigor of strawberries and attracts bees and bumblebees with its nectar-rich flowers for improved pollination and fruit set."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-vs-monocultuur/"
+    },
+    {
+      "a": "borage",
+      "b": "tomato",
+      "reason": {
+        "nl": "Verbetert de smaak en vitaliteit van tomaten en trekt zweefvliegen aan die schadelijke insecten zoals bladluizen en rupsen bestrijden.",
+        "en": "Improves tomato flavor and vitality while attracting hoverflies that prey on damaging pests like aphids and caterpillars."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-vs-monocultuur/"
+    },
+    {
+      "a": "borage",
+      "b": "pumpkin",
+      "reason": {
+        "nl": "Trekt een constante stroom bestuivers aan met nectarrijke bloemen, wat essentieel is voor de vruchtzetting van pompoenen.",
+        "en": "Attracts a steady stream of pollinators with nectar-rich flowers, which is essential for pumpkin fruit set."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-vs-monocultuur/"
+    },
+    {
+      "a": "borage",
+      "b": "courgette",
+      "reason": {
+        "nl": "De nectarrijke bloemen trekken bestuivers aan die nodig zijn om vrouwelijke bloemen te laten uitgroeien tot vruchten.",
+        "en": "Its nectar-rich flowers attract pollinators needed for female flowers to turn into fruit."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-vs-monocultuur/"
+    },
+    {
+      "a": "borage",
+      "b": "cucumber",
+      "reason": {
+        "nl": "Trekt bestuivende insecten aan met nectarrijke bloemen, wat de bestuiving en vruchtzetting ten goede komt.",
+        "en": "Attracts pollinating insects with nectar-rich flowers, benefiting pollination and fruit set."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-vs-monocultuur/"
+    },
+    {
+      "a": "borage",
+      "b": "broad-bean",
+      "reason": {
+        "nl": "Trekt zweefvliegen aan waarvan de larven zich voeden met zwarte bonenluis op tuinbonen.",
+        "en": "Attracts hoverflies whose larvae feed heavily on black bean aphids on broad beans."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-vs-monocultuur/"
+    },
+    {
+      "a": "celery-leaf",
+      "b": "leek",
+      "reason": {
+        "nl": "De sterke geur van snijselderij verwart de preimot, terwijl prei belagers van selderij weert; bovendien concurreren hun wortels niet agressief.",
+        "en": "The strong scent of celery confuses the leek moth, while leek deters celery pests, and their root systems do not compete aggressively."
+      },
+      "source": "https://velt.nu/tip/combinatieteelt-de-moestuin"
+    },
+    {
+      "a": "celery-leaf",
+      "b": "cabbage",
+      "reason": {
+        "nl": "De aromatische oliën van snijselderij maskeren de geur van koolgewassen en verwarren het koolwitje, wat rupsenschade vermindert.",
+        "en": "Celery's aromatic oils mask the scent of brassicas, confusing the cabbage white butterfly and reducing caterpillar damage."
+      },
+      "source": "https://velt.nu/tip/combinatieteelt-de-moestuin"
+    },
+    {
+      "a": "celery-leaf",
+      "b": "cauliflower",
+      "reason": {
+        "nl": "De sterke geur van snijselderij maskeert de bloemkool voor het koolwitje en vermindert de rupsendruk op het blad.",
+        "en": "The strong scent of celery masks cauliflower from the cabbage white butterfly, reducing caterpillar pressure on the foliage."
+      },
+      "source": "https://velt.nu/tip/combinatieteelt-de-moestuin"
+    },
+    {
+      "a": "celery-leaf",
+      "b": "broccoli",
+      "reason": {
+        "nl": "Snijselderij maskeert de geur van broccoli voor het koolwitje; compacte broccoli en snijselderij werken bijzonder goed samen in verhoogde bakken.",
+        "en": "Celery masks broccoli from the cabbage white butterfly; compact broccoli and leaf celery work particularly well together in raised beds."
+      },
+      "source": "https://velt.nu/tip/combinatieteelt-de-moestuin"
+    },
+    {
+      "a": "celery-leaf",
+      "b": "kale",
+      "reason": {
+        "nl": "De etherische oliën van snijselderij maskeren de koolgeur en weren het koolwitje af van palmkool.",
+        "en": "The essential oils of celery mask the scent of kale and help deter the cabbage white butterfly."
+      },
+      "source": "https://velt.nu/tip/combinatieteelt-de-moestuin"
+    },
+    {
+      "a": "celery-leaf",
+      "b": "pak-choi",
+      "reason": {
+        "nl": "Compacte koolsoorten zoals paksoi profiteren in bakken van de geur van snijselderij, die het koolwitje verwart.",
+        "en": "Compact brassicas like pak choi benefit in planters from celery's scent, which disorients the cabbage white butterfly."
+      },
+      "source": "https://velt.nu/tip/combinatieteelt-de-moestuin"
+    },
+    {
+      "a": "celery-leaf",
+      "b": "french-bean",
+      "reason": {
+        "nl": "Struikbonen binden stikstof in de bodem, wat ten goede komt aan stikstofbehoeftige bladgewassen zoals snijselderij.",
+        "en": "Bush beans fix atmospheric nitrogen in the soil, supporting leafy, nitrogen-demanding herbs like leaf celery."
+      },
+      "source": "https://velt.nu/tip/combinatieteelt-de-moestuin"
+    },
+    {
+      "a": "celery-leaf",
+      "b": "tomato",
+      "reason": {
+        "nl": "Tomaten en selderij houden beide van vochthoudende grond en concurreren niet direct om dezelfde bladerdakruimte.",
+        "en": "Tomatoes and celery both thrive in moisture-retentive soil without competing directly for the same canopy space."
+      },
+      "source": "https://velt.nu/tip/combinatieteelt-de-moestuin"
+    },
+    {
+      "a": "chamomile",
+      "b": "broccoli",
+      "reason": {
+        "nl": "De aromatische geur van kamille maskeert de geur van koolgewassen, verwart plagen zoals het koolwitje en de koolvlieg, en trekt nuttige zweefvliegen en sluipwespen aan.",
+        "en": "The aromatic scent of chamomile masks the scent of brassicas, confusing pests like the cabbage white butterfly and cabbage flies, while attracting beneficial hoverflies and parasitic wasps."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-groenten-planten/"
+    },
+    {
+      "a": "chamomile",
+      "b": "cauliflower",
+      "reason": {
+        "nl": "De aromatische geur van kamille maskeert de geur van koolgewassen, verwart plagen zoals het koolwitje en de koolvlieg, en trekt nuttige zweefvliegen en sluipwespen aan.",
+        "en": "The aromatic scent of chamomile masks the scent of brassicas, confusing pests like the cabbage white butterfly and cabbage flies, while attracting beneficial hoverflies and parasitic wasps."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-groenten-planten/"
+    },
+    {
+      "a": "chamomile",
+      "b": "brussels-sprouts",
+      "reason": {
+        "nl": "De aromatische geur van kamille maskeert de geur van koolgewassen, verwart plagen zoals het koolwitje en de koolvlieg, en trekt nuttige zweefvliegen en sluipwespen aan.",
+        "en": "The aromatic scent of chamomile masks the scent of brassicas, confusing pests like the cabbage white butterfly and cabbage flies, while attracting beneficial hoverflies and parasitic wasps."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-groenten-planten/"
+    },
+    {
+      "a": "chamomile",
+      "b": "kale",
+      "reason": {
+        "nl": "De aromatische geur van kamille maskeert de geur van koolgewassen, verwart insecten zoals het koolwitje, en trekt nuttige predatoren aan.",
+        "en": "The aromatic scent of chamomile masks brassica scents, confusing pests like cabbage white butterflies, and attracts beneficial predators."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-groenten-planten/"
+    },
+    {
+      "a": "chamomile",
+      "b": "basil",
+      "reason": {
+        "nl": "Kamille stimuleert de productie van etherische oliën bij aromatische kruiden, versterkt hun aroma en weert vliegende insecten.",
+        "en": "Chamomile stimulates essential oil production in aromatic herbs, enhancing their aroma and helping deter flying insects."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-groenten-planten/"
+    },
+    {
+      "a": "chamomile",
+      "b": "dill",
+      "reason": {
+        "nl": "Kamille stimuleert de etherische olieproductie en de groeikracht van aromatische kruiden en helpt vliegende insecten weren.",
+        "en": "Chamomile stimulates essential oil production and vigor in aromatic herbs while co-deterring flying insects."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-groenten-planten/"
+    },
+    {
+      "a": "chamomile",
+      "b": "oregano",
+      "reason": {
+        "nl": "Kamille stimuleert de productie van etherische oliën bij aromatische kruiden, versterkt hun aroma en weert vliegende insecten.",
+        "en": "Chamomile stimulates essential oil production in aromatic herbs, enhancing their aroma and helping deter flying insects."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-groenten-planten/"
+    },
+    {
+      "a": "chamomile",
+      "b": "rosemary",
+      "reason": {
+        "nl": "Kamille stimuleert de etherische olieproductie en de groeikracht van rozemarijn en helpt vliegende insecten weren.",
+        "en": "Chamomile stimulates essential oil production and vigor in rosemary while co-deterring flying insects."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-groenten-planten/"
+    },
+    {
+      "a": "chamomile",
+      "b": "sage",
+      "reason": {
+        "nl": "Kamille stimuleert de etherische olieproductie en de groeikracht van salie en helpt vliegende insecten weren.",
+        "en": "Chamomile stimulates essential oil production and vigor in sage while co-deterring flying insects."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-groenten-planten/"
+    },
+    {
+      "a": "chamomile",
+      "b": "thyme",
+      "reason": {
+        "nl": "Kamille vormt een goede geursynergie met keukenkruiden en helpt wederzijds insecten weren.",
+        "en": "Chamomile offers scent synergy with culinary herbs and provides mutually beneficial insect deterrence."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-groenten-planten/"
+    },
+    {
+      "a": "chamomile",
+      "b": "courgette",
+      "reason": {
+        "nl": "Kamille lokt bestuivers zoals bijen en zweefvliegen voor een betere vruchtdracht en kan fungeren als vangplant voor bladluizen.",
+        "en": "Chamomile attracts pollinators like bees and hoverflies to maximize pollination and can serve as a trap plant for aphids."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-groenten-planten/"
+    },
+    {
+      "a": "chamomile",
+      "b": "pea",
+      "reason": {
+        "nl": "Kamille lokt bestuivers zoals bijen en zweefvliegen en kan bladluizen weglokken als vangplant.",
+        "en": "Chamomile draws in pollinators like bees and hoverflies and can act as a trap plant to divert aphids."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-groenten-planten/"
+    },
+    {
+      "a": "chamomile",
+      "b": "tomato",
+      "reason": {
+        "nl": "Kamille lokt bestuivers en nuttige roofinsecten naar vruchtgewassen en kan fungeren als vangplant voor bladluizen.",
+        "en": "Chamomile attracts pollinators and beneficial predatory insects to fruiting crops and can act as an aphid trap plant."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-groenten-planten/"
+    },
+    {
+      "a": "chervil",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Kervel weert bladluizen af en houdt kroppen sla schoon; beide gewassen hebben ondiepe wortels en houden van vochtige grond en halfschaduw.",
+        "en": "Chervil deters aphids to help keep lettuce clean; both crops share shallow roots and thrive in moist soil with partial shade."
+      },
+      "source": "https://www.mooiemoestuin.nl/moestuin/combinatieteelt/"
+    },
+    {
+      "a": "chervil",
+      "b": "radish",
+      "reason": {
+        "nl": "Kervel verbetert de gezondheid en scherpte van radijzen; beide zijn snelle groeiers die van koele, vochtige grond houden.",
+        "en": "Chervil enhances the health and pungency of radishes; both are fast-growing cool-season crops suited to moist soil."
+      },
+      "source": "https://www.mooiemoestuin.nl/moestuin/combinatieteelt/"
+    },
+    {
+      "a": "chervil",
+      "b": "pea",
+      "reason": {
+        "nl": "Klimmende erwten bieden lichte schaduw tegen felle zon en hitte, wat voorkomt dat kervel vroegtijdig doorschiet.",
+        "en": "Climbing pea vines provide light, dappled shade against heat and full sun, preventing chervil from prematurely bolting."
+      },
+      "source": "https://www.mooiemoestuin.nl/moestuin/combinatieteelt/"
+    },
+    {
+      "a": "chervil",
+      "b": "mangetout",
+      "reason": {
+        "nl": "Peultjes zorgen voor een koeler en vochtiger microklimaat door schaduw te bieden aan het hittegevoelige kervel.",
+        "en": "Snow peas provide shade to maintain a cooler, more humid microclimate for heat-sensitive chervil."
+      },
+      "source": "https://www.mooiemoestuin.nl/moestuin/combinatieteelt/"
+    },
+    {
+      "a": "chervil",
+      "b": "chives",
+      "reason": {
+        "nl": "Als vochtminnende slakruiden delen ze dezelfde behoefte aan voedzame, vochtige grond zonder elkaar te beconcurreren.",
+        "en": "As moisture-loving salad herbs, they share requirements for rich, consistently damp soil without competing aggressively."
+      },
+      "source": "https://www.mooiemoestuin.nl/moestuin/combinatieteelt/"
+    },
+    {
+      "a": "edamame",
+      "b": "sweetcorn",
+      "reason": {
+        "nl": "Sojabonen binden stikstof voor zware eters zoals maïs, en samen planten vermindert de bladluisdruk aanzienlijk.",
+        "en": "Soybeans fix nitrogen that supports heavy feeders like corn, and growing them together significantly reduces aphid pressure."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/vragen-2/soja-boontjes"
+    },
+    {
+      "a": "edamame",
+      "b": "cucumber",
+      "reason": {
+        "nl": "Delen een compatibele wortelstructuur, waarbij de stikstof van edamame de blad- en rankengroei van komkommers ondersteunt.",
+        "en": "They share compatible root structures, and nitrogen fixed by edamame supports cucumber leaf and vine growth."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/vragen-2/soja-boontjes"
+    },
+    {
+      "a": "edamame",
+      "b": "spinach",
+      "reason": {
+        "nl": "Ondiep wortelende bladgroente die geoogst kan worden voordat de sojaboon volgroeid is; edamame biedt lichte schaduw tegen doorschieten.",
+        "en": "Shallow-rooted leafy green that can be harvested before edamame plants bush out; edamame provides light shade to prevent bolting."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/vragen-2/soja-boontjes"
+    },
+    {
+      "a": "edamame",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Blijft laag en wortelt oppervlakkig, terwijl het bladerdek van de sojaboon lichte namiddagschaduw biedt om doorschieten te voorkomen.",
+        "en": "Shallow-rooted and compact, benefiting from the light afternoon shade of edamame to prevent summer bolting."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/vragen-2/soja-boontjes"
+    },
+    {
+      "a": "edamame",
+      "b": "endive",
+      "reason": {
+        "nl": "Kan snel worden geoogst voordat edamame volgroeid is, en profiteert van lichte schaduw om doorschieten te voorkomen.",
+        "en": "Can be harvested quickly before edamame reaches full volume, and benefits from light shade to prevent bolting."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/vragen-2/soja-boontjes"
+    },
+    {
+      "a": "edamame",
+      "b": "carrot",
+      "reason": {
+        "nl": "Diepe penwortels benutten een andere bodemlaag dan het spreidende wortelstelsel van sojabonen, waardoor concurrentie wordt vermeden.",
+        "en": "Deep taproots explore a different soil layer than the spreading roots of edamame, avoiding underground competition."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/vragen-2/soja-boontjes"
+    },
+    {
+      "a": "edamame",
+      "b": "beetroot",
+      "reason": {
+        "nl": "Diepe wortels groeien in een andere grondlaag dan de oppervlakkige wortels van edamame, wat concurrentie in de bodem voorkomt.",
+        "en": "Deep taproots occupy a different soil layer than edamame's fibrous root network, preventing root competition."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/vragen-2/soja-boontjes"
+    },
+    {
+      "a": "edamame",
+      "b": "dill",
+      "reason": {
+        "nl": "Sterk aromatisch kruid dat het sojablad maskeert en nuttige roofinsecten aantrekt tegen bladluizen en bonenkevers.",
+        "en": "Strongly aromatic herb that masks the scent of soybean foliage and attracts beneficial predatory insects to control aphids and bean beetles."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/vragen-2/soja-boontjes"
+    },
+    {
+      "a": "edamame",
+      "b": "parsley",
+      "reason": {
+        "nl": "Aromatisch kruid dat sojabladeren maskeert en nuttige predatoren zoals sluipwespen en zweefvliegen aantrekt.",
+        "en": "Aromatic herb that helps mask soybean foliage and attracts beneficial predators like parasitic wasps and hoverflies."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/vragen-2/soja-boontjes"
+    },
+    {
+      "a": "edamame",
+      "b": "nasturtium",
+      "reason": {
+        "nl": "Werkt als vanggewas dat bladluizen weglokt van de bonen en nuttige roofvijanden zoals zweefvliegen en lieveheersbeestjes aantrekt.",
+        "en": "Acts as a sacrificial trap crop that lures aphids away from edamame while attracting predatory hoverflies and ladybugs."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/vragen-2/soja-boontjes"
+    },
+    {
+      "a": "fig-in-pot",
+      "b": "garlic",
+      "reason": {
+        "nl": "Knoflook heeft ondiepe, niet-invasieve wortels die niet concurreren in de pot en weert met zijn zwavelverbindingen en geur spintmijten, witte vliegen en bodemschimmels af.",
+        "en": "Garlic has shallow, non-invasive roots that do not compete for pot space, and its sulphur compounds and scent deter spider mites, whiteflies, and fungal pathogens."
+      },
+      "source": "https://groei.nl/artikel/fruit-kweken-in-potten"
+    },
+    {
+      "a": "fig-in-pot",
+      "b": "chives",
+      "reason": {
+        "nl": "Bieslook wortelt oppervlakkig zonder wortelconcurrentie en helpt dankzij zwavelverbindingen en een sterke geur spint en schimmelziekten te voorkomen.",
+        "en": "Chives have shallow roots that avoid root competition in containers, and their sulphur compounds and aroma deter spider mites and fungal pathogens."
+      },
+      "source": "https://groei.nl/artikel/fruit-kweken-in-potten"
+    },
+    {
+      "a": "fig-in-pot",
+      "b": "thyme",
+      "reason": {
+        "nl": "Tijm deelt dezelfde voorliefde voor volle zon, kalkrijke en goed doorlatende grond en weert met etherische oliën plagen zonder de vijg van vocht te beroven.",
+        "en": "Thyme shares identical preferences for hot sun, lime-rich, well-draining soil, and its essential oils deter pests without depleting the fig's moisture."
+      },
+      "source": "https://groei.nl/artikel/fruit-kweken-in-potten"
+    },
+    {
+      "a": "fig-in-pot",
+      "b": "rosemary",
+      "reason": {
+        "nl": "Rozemarijn heeft dezelfde behoefte aan warmte, kalkrijke en drogere, goed drainerende potgrond en houdt schadelijke insecten op afstand.",
+        "en": "Rosemary thrives in the same warm, lime-rich, and well-draining soil conditions, helping deter foliage pests with its aromatic oils."
+      },
+      "source": "https://groei.nl/artikel/fruit-kweken-in-potten"
+    },
+    {
+      "a": "fig-in-pot",
+      "b": "sage",
+      "reason": {
+        "nl": "Salie deelt de mediterrane omstandigheden van de vijg (zon, kalkrijke en matig droge grond) en weert plagen af met zijn aromatische oliën.",
+        "en": "Sage shares the fig's Mediterranean growing requirements (sun, lime-rich, free-draining soil) and deters pests with its essential oils."
+      },
+      "source": "https://groei.nl/artikel/fruit-kweken-in-potten"
+    },
+    {
+      "a": "fig-in-pot",
+      "b": "lavender",
+      "reason": {
+        "nl": "Lavendel groeit uitstekend onder dezelfde warme, kalkrijke en droge potcondities en weert insecten af zonder te concurreren om overtollig water.",
+        "en": "Lavender thrives in the same sunny, well-drained, lime-rich pot environment and deters insect pests without draining excess moisture."
+      },
+      "source": "https://groei.nl/artikel/fruit-kweken-in-potten"
+    },
+    {
+      "a": "fig-in-pot",
+      "b": "strawberry",
+      "reason": {
+        "nl": "Aardbeien fungeren als ondiep wortelende 'levende mulch' die de bovenlaag van de potgrond beschermt tegen uitdroging en oververhitting.",
+        "en": "Strawberries act as shallow-rooted 'living mulch', shading the soil surface and keeping the root zone cool without aggressive root competition."
+      },
+      "source": "https://groei.nl/artikel/fruit-kweken-in-potten"
+    },
+    {
+      "a": "fig-in-pot",
+      "b": "nasturtium",
+      "reason": {
+        "nl": "Oost-Indische kers fungeert als een effectieve vangplant voor bladluizen en zwarte bonenluis, waardoor jonge vijgenscheuten en vruchtknoppen gespaard blijven.",
+        "en": "Nasturtium acts as a sacrificial trap crop for aphids and blackfly, keeping them away from tender young fig shoots and emerging fruit buds."
+      },
+      "source": "https://groei.nl/artikel/fruit-kweken-in-potten"
+    },
+    {
+      "a": "garden-cress",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Beide hebben een ondiep wortelstelsel en geven de voorkeur aan koele, vochtige grond en halfschaduw zonder elkaar te beconcurreren om diepe voedingsstoffen.",
+        "en": "Both have shallow root systems and prefer cool, moist soil and partial shade without competing for deep nutrients."
+      },
+      "source": "https://beweegt.velt.nu/tienen/2210/kleineveldkers"
+    },
+    {
+      "a": "garden-cress",
+      "b": "radish",
+      "reason": {
+        "nl": "Beide groeien zeer snel; tuinkers fungeert als bodembedekker die vocht vasthoudt en kan dienen als vanggewas voor aardvlooien.",
+        "en": "Both grow very rapidly; garden cress serves as a ground cover that retains soil moisture and can act as a trap crop for flea beetles."
+      },
+      "source": "https://beweegt.velt.nu/tienen/2210/kleineveldkers"
+    },
+    {
+      "a": "garden-cress",
+      "b": "carrot",
+      "reason": {
+        "nl": "Snelkiemende tuinkers bedekt tijdelijk de toplaag tegen uitdroging zonder de diepe penwortels van wortelen te hinderen.",
+        "en": "Fast-germinating cress temporarily shades the soil surface to prevent moisture loss without interfering with deep carrot taproots."
+      },
+      "source": "https://beweegt.velt.nu/tienen/2210/kleineveldkers"
+    },
+    {
+      "a": "garden-cress",
+      "b": "leek",
+      "reason": {
+        "nl": "Tuinkers kiemt snel en houdt de toplaag vochtig zonder de diepere wortelontwikkeling van prei in de weg te zitten.",
+        "en": "Garden cress germinates rapidly, shading the topsoil to retain moisture without interfering with the root development of leeks."
+      },
+      "source": "https://beweegt.velt.nu/tienen/2210/kleineveldkers"
+    },
+    {
+      "a": "garden-cress",
+      "b": "dill",
+      "reason": {
+        "nl": "Het sterke aroma helpt belagers zoals bladluizen te verwarren en trekt nuttige roofinsecten zoals zweefvliegen en sluipwespen aan.",
+        "en": "Its strong aroma helps disguise crops from pests like aphids and attracts beneficial predators such as hoverflies and parasitic wasps."
+      },
+      "source": "https://beweegt.velt.nu/tienen/2210/kleineveldkers"
+    },
+    {
+      "a": "garden-cress",
+      "b": "chervil",
+      "reason": {
+        "nl": "Aromatisch kruid dat helpt plagen te misleiden en dezelfde voorkeur voor koelere omstandigheden en halfschaduw deelt.",
+        "en": "Aromatic herb that helps mask crops from pests while sharing a preference for cooler conditions and partial shade."
+      },
+      "source": "https://beweegt.velt.nu/tienen/2210/kleineveldkers"
+    },
+    {
+      "a": "gooseberry-in-pot",
+      "b": "garlic",
+      "reason": {
+        "nl": "Geeft sterke zwavelverbindingen en geuren af die bladluizen en galmuggen verwarren en weren, terwijl natuurlijke schimmelwerende uitscheidingen beschermen tegen meeldauw zonder agressief te concurreren.",
+        "en": "Emits strong sulphur compounds and sharp aromas that confuse and repel aphids and gall midges, while natural antifungal exudates help protect against mildew without aggressive root competition."
+      },
+      "source": "https://groei.nl/artikel/kruisbes-kweken-in-een-pot"
+    },
+    {
+      "a": "gooseberry-in-pot",
+      "b": "chives",
+      "reason": {
+        "nl": "Werkt met zijn geur en zwavelverbindingen afstotend tegen bladluizen en galmuggen, biedt bescherming tegen meeldauw en concurreert dankzij ondiepe wortels niet agressief met de struik.",
+        "en": "Repels aphids and gall midges with its pungent aroma and sulphur compounds, helps protect against mildew, and does not compete aggressively due to shallow roots."
+      },
+      "source": "https://groei.nl/artikel/kruisbes-kweken-in-een-pot"
+    },
+    {
+      "a": "gooseberry-in-pot",
+      "b": "onion",
+      "reason": {
+        "nl": "Stoot met zijn sterke aroma bladluizen en galmuggen af en scheidt stoffen uit die preventief helpen tegen kruisbessenmeeldauw.",
+        "en": "Deters aphids and gall midges with its sharp aroma and exudes compounds that help protect against gooseberry mildew."
+      },
+      "source": "https://groei.nl/artikel/kruisbes-kweken-in-een-pot"
+    },
+    {
+      "a": "gooseberry-in-pot",
+      "b": "spring-onion",
+      "reason": {
+        "nl": "Verwart en weert bladluizen en galmuggen door zijn geur en zwavelstoffen, en helpt meeldauwinfecties te voorkomen.",
+        "en": "Confuses and repels aphids and gall midges via its aroma and sulphur compounds, and helps prevent mildew infections."
+      },
+      "source": "https://groei.nl/artikel/kruisbes-kweken-in-een-pot"
+    },
+    {
+      "a": "gooseberry-in-pot",
+      "b": "tomato",
+      "reason": {
+        "nl": "De karakteristieke geur van het tomatenblad verjaagt de kruisbessenbladwesp, waarvan de rupsen de struik anders kaal kunnen vreten.",
+        "en": "The characteristic scent of tomato foliage repels the gooseberry sawfly, whose caterpillars can strip the bush bare."
+      },
+      "source": "https://groei.nl/artikel/kruisbes-kweken-in-een-pot"
+    },
+    {
+      "a": "gooseberry-in-pot",
+      "b": "dill",
+      "reason": {
+        "nl": "Maskeert de struik voor schadelijke insecten en trekt bloeiend nuttige rovers aan zoals zweefvliegen en sluipwespen, die bladluizen en rupsen bestrijden.",
+        "en": "Masks the shrub from pest insects and, when flowering, attracts beneficial predators such as hoverflies and parasitic wasps that prey on aphids and caterpillars."
+      },
+      "source": "https://groei.nl/artikel/kruisbes-kweken-in-een-pot"
+    },
+    {
+      "a": "gooseberry-in-pot",
+      "b": "rosemary",
+      "reason": {
+        "nl": "Werkt als een aromatisch kruid dat de struik maskeert en fungeert als een geurende barrière tegen de kruisbessenbladwesp.",
+        "en": "Acts as an aromatic herb that masks the bush and serves as a fragrant deterrent against the gooseberry sawfly."
+      },
+      "source": "https://groei.nl/artikel/kruisbes-kweken-in-een-pot"
+    },
+    {
+      "a": "gooseberry-in-pot",
+      "b": "strawberry",
+      "reason": {
+        "nl": "Bosaardbeien vormen een ondiepe levende bodembedekker die de potgrond koel en vochtig houdt zonder de struik te verstikken of veel voedingsstoffen te eisen.",
+        "en": "Wild strawberries act as a shallow living mulch that keeps the potting mix cool and retains moisture without suffocating the bush or demanding heavy nutrients."
+      },
+      "source": "https://groei.nl/artikel/kruisbes-kweken-in-een-pot"
+    },
+    {
+      "a": "gooseberry-in-pot",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Dient als een ondiep wortelende, levende mulch die helpt voorkomen dat de potgrond uitdroogt, waardoor het ondiepe wortelstelsel van de kruisbes koel blijft.",
+        "en": "Serves as a shallow-rooted living mulch that prevents the potting soil from drying out, keeping the gooseberry's shallow roots cool."
+      },
+      "source": "https://groei.nl/artikel/kruisbes-kweken-in-een-pot"
+    },
+    {
+      "a": "komatsuna",
+      "b": "thyme",
+      "reason": {
+        "nl": "De sterke aromatische geur van tijm maskeert komatsuna voor het koolwitje en de koolvlieg.",
+        "en": "The strong aromatic scent of thyme masks komatsuna from cabbage white butterflies and cabbage root flies."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "rosemary",
+      "reason": {
+        "nl": "De aromatische geur van rozemarijn verwart plaaginsecten zoals het koolwitje en verstoort het leggen van eitjes.",
+        "en": "The aromatic scent of rosemary confuses pests like cabbage white butterflies and disrupts egg-laying."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "sage",
+      "reason": {
+        "nl": "Salie verspreidt een sterke geur die komatsuna helpt te camoufleren tegen koolwitjes en koolvliegen.",
+        "en": "Sage emits a strong scent that helps camouflage komatsuna against cabbage white butterflies and cabbage root flies."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "chives",
+      "reason": {
+        "nl": "Bieslook verspreidt zwavelverbindingen en een scherpe geur die bladluizen en koolwitjes afweren, terwijl het weinig wortelruimte inneemt.",
+        "en": "Chives emit sulfur compounds and a pungent odor that deter aphids and cabbage whites while using minimal root space."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "spring-onion",
+      "reason": {
+        "nl": "De sterke alliumgeur maskeert komatsuna voor koolwitjes en bladluizen en vraagt weinig ondergrondse ruimte.",
+        "en": "The pungent allium scent disguises komatsuna from cabbage whites and aphids, requiring minimal underground space."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "garlic",
+      "reason": {
+        "nl": "Knoflook maskeert met zijn scherpe geur en zwavelverbindingen de geur van komatsuna voor schadelijke insecten.",
+        "en": "Garlic's pungent aroma and sulfur compounds mask the scent of komatsuna from harmful insect pests."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "nasturtium",
+      "reason": {
+        "nl": "Oost-Indische kers fungeert als vangplant en lokt koolwitjesrupsen en zwarte bonenluis weg van de komatsuna.",
+        "en": "Nasturtium acts as a trap crop, drawing cabbage white caterpillars and black aphids away from komatsuna leaves."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Pluksla wortelt oppervlakkig, vraagt weinig voeding en fungeert als levende mulch die vocht vasthoudt.",
+        "en": "Loose-leaf lettuce has shallow roots, low nutrient demands, and acts as living mulch to retain soil moisture."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "lambs-lettuce",
+      "reason": {
+        "nl": "Veldsla bedekt de bodem als een levende mulch zonder met komatsuna te concurreren om diepere voedingsstoffen.",
+        "en": "Lamb's lettuce covers the soil as a living mulch without competing with komatsuna for deeper nutrients."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "radish",
+      "reason": {
+        "nl": "Radijs groeit snel en oppervlakkig, helpt vocht in de bodem vast te houden en concurreert niet om diepe voeding.",
+        "en": "Radish grows quickly and shallowly, helping conserve soil moisture without competing for deep nutrients."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "celery",
+      "reason": {
+        "nl": "De sterke, herkenbare geur van selderij weert het koolwitje en de kooluil af.",
+        "en": "The strong, distinctive aromatic scent of celery deters cabbage white butterflies and cabbage moths."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "celeriac",
+      "reason": {
+        "nl": "De uitgesproken geur van knolselderij helpt koolwitjes en koolmotten op afstand te houden.",
+        "en": "The distinct aroma of celeriac helps deter cabbage white butterflies and cabbage moths."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "lavender",
+      "b": "rosemary",
+      "reason": {
+        "nl": "Deelt exact dezelfde standplaatseisen: veel zonwarmte, weinig voeding en weinig water.",
+        "en": "Shares the exact same growing requirements: full sun, low nutrients, and little water."
+      },
+      "source": "https://groei.nl/artikel/lavendel-geur-haag"
+    },
+    {
+      "a": "lavender",
+      "b": "thyme",
+      "reason": {
+        "nl": "Heeft dezelfde behoeften qua zon, schrale bodem en droogte, waardoor ze elkaar niet beconcurreren.",
+        "en": "Has the same needs regarding sun, lean soil, and drought, meaning they do not compete."
+      },
+      "source": "https://groei.nl/artikel/lavendel-geur-haag"
+    },
+    {
+      "a": "lavender",
+      "b": "sage",
+      "reason": {
+        "nl": "Mediterraan kruid met dezelfde voorliefde voor warmte, droogte en weinig meststoffen.",
+        "en": "Mediterranean herb with the same preference for warmth, dry conditions, and low nutrients."
+      },
+      "source": "https://groei.nl/artikel/lavendel-geur-haag"
+    },
+    {
+      "a": "lavender",
+      "b": "oregano",
+      "reason": {
+        "nl": "Deelt dezelfde standplaatseisen van kalkrijke, drogere grond en volle zon.",
+        "en": "Shares the same growing conditions of well-drained, drier soil and full sun."
+      },
+      "source": "https://groei.nl/artikel/lavendel-geur-haag"
+    },
+    {
+      "a": "lavender",
+      "b": "marjoram",
+      "reason": {
+        "nl": "Verlangt net als lavendel weinig voeding en matig tot weinig water in de volle zon.",
+        "en": "Like lavender, it requires little fertilizer and low to moderate water in full sun."
+      },
+      "source": "https://groei.nl/artikel/lavendel-geur-haag"
+    },
+    {
+      "a": "lavender",
+      "b": "kale",
+      "reason": {
+        "nl": "De sterke geur van lavendel verstoort schadelijke insecten en weert koolwitjes en bladluizen.",
+        "en": "Lavender's strong fragrance deters harmful insects and helps repel cabbage whites and aphids."
+      },
+      "source": "https://groei.nl/artikel/lavendel-geur-haag"
+    },
+    {
+      "a": "lavender",
+      "b": "cabbage",
+      "reason": {
+        "nl": "De aromatische oliën van lavendel helpen koolwitjes en bladluizen op afstand te houden.",
+        "en": "Lavender's aromatic oils help keep cabbage whites and aphids away."
+      },
+      "source": "https://groei.nl/artikel/lavendel-geur-haag"
+    },
+    {
+      "a": "lavender",
+      "b": "strawberry",
+      "reason": {
+        "nl": "Lavendel lokt bestuivers zoals bijen en hommels, wat de vruchtzetting bevordert.",
+        "en": "Lavender attracts pollinators like bees and bumblebees, boosting fruit set."
+      },
+      "source": "https://groei.nl/artikel/lavendel-geur-haag"
+    },
+    {
+      "a": "lavender",
+      "b": "tomato",
+      "reason": {
+        "nl": "Trekt bijen, hommels en zweefvliegen aan die zorgen voor een betere bestuiving en vruchtzetting.",
+        "en": "Attracts bees, bumblebees, and hoverflies that improve pollination and fruit set."
+      },
+      "source": "https://groei.nl/artikel/lavendel-geur-haag"
+    },
+    {
+      "a": "lemon-balm",
+      "b": "cabbage",
+      "reason": {
+        "nl": "De sterke citrusgeur maskeert de geur van kolen en verwart schadelijke insecten zoals het koolwitje en de koolvlieg.",
+        "en": "Its strong citrus scent masks the smell of cabbages and confuses pests such as the cabbage white butterfly and cabbage root fly."
+      },
+      "source": "https://eetbaarijsselstein.wordpress.com/2020/05/19/citroenmelisse-een-heel-gewoon-kruid/"
+    },
+    {
+      "a": "lemon-balm",
+      "b": "kale",
+      "reason": {
+        "nl": "De sterke citrusgeur maskeert de geur van kolen en verwart schadelijke insecten zoals het koolwitje en de koolvlieg.",
+        "en": "Its strong citrus scent masks the smell of cabbages and confuses pests such as the cabbage white butterfly and cabbage root fly."
+      },
+      "source": "https://eetbaarijsselstein.wordpress.com/2020/05/19/citroenmelisse-een-heel-gewoon-kruid/"
+    },
+    {
+      "a": "lemon-balm",
+      "b": "cauliflower",
+      "reason": {
+        "nl": "De sterke citrusgeur maskeert de geur van kolen en verwart schadelijke insecten zoals het koolwitje en de koolvlieg.",
+        "en": "Its strong citrus scent masks the smell of cabbages and confuses pests such as the cabbage white butterfly and cabbage root fly."
+      },
+      "source": "https://eetbaarijsselstein.wordpress.com/2020/05/19/citroenmelisse-een-heel-gewoon-kruid/"
+    },
+    {
+      "a": "lemon-balm",
+      "b": "strawberry",
+      "reason": {
+        "nl": "Trekt massaal bestuivers zoals bijen aan voor een betere vruchtzetting en helpt met zijn geur plaaginsecten te verwarren.",
+        "en": "Attracts pollinators like bees for improved fruit set and helps confuse insect pests with its aromatic scent."
+      },
+      "source": "https://eetbaarijsselstein.wordpress.com/2020/05/19/citroenmelisse-een-heel-gewoon-kruid/"
+    },
+    {
+      "a": "lemon-balm",
+      "b": "tomato",
+      "reason": {
+        "nl": "Trekt massaal bestuivers zoals bijen aan voor een betere vruchtzetting en helpt met zijn geur plaaginsecten te verwarren.",
+        "en": "Attracts pollinators like bees for improved fruit set and helps confuse insect pests with its aromatic scent."
+      },
+      "source": "https://eetbaarijsselstein.wordpress.com/2020/05/19/citroenmelisse-een-heel-gewoon-kruid/"
+    },
+    {
+      "a": "lemon-balm",
+      "b": "chervil",
+      "reason": {
+        "nl": "Delen dezelfde standplaatseisen van halfschaduw en vochthoudende, voedzame grond zonder onderlinge strijd.",
+        "en": "Share the same requirements for partial shade and moist, fertile soil without conflicting needs."
+      },
+      "source": "https://eetbaarijsselstein.wordpress.com/2020/05/19/citroenmelisse-een-heel-gewoon-kruid/"
+    },
+    {
+      "a": "lemon-balm",
+      "b": "sorrel",
+      "reason": {
+        "nl": "Delen dezelfde standplaatseisen van halfschaduw en vochthoudende, voedzame grond zonder onderlinge strijd.",
+        "en": "Share the same requirements for partial shade and moist, fertile soil without conflicting needs."
+      },
+      "source": "https://eetbaarijsselstein.wordpress.com/2020/05/19/citroenmelisse-een-heel-gewoon-kruid/"
+    },
+    {
+      "a": "lemon-verbena",
+      "b": "thyme",
+      "reason": {
+        "nl": "Tijm deelt dezelfde behoefte aan volle zon, warmte en goed doorlatende, droge grond, waardoor wortelrot bij citroenverbena wordt voorkomen.",
+        "en": "Thyme shares the same requirements for full sun, warmth, and well-draining, dry soil, preventing root rot in lemon verbena."
+      },
+      "source": "https://www.mooiemoestuin.nl/kruiden/citroenverbena/"
+    },
+    {
+      "a": "lemon-verbena",
+      "b": "rosemary",
+      "reason": {
+        "nl": "Rozemarijn heeft dezelfde standplaats- en waterbehoeften als citroenverbena: volle zon, een beschutte plek en droge, goed doorlatende aarde.",
+        "en": "Rosemary has matching growing and watering needs, thriving in full sun, a sheltered spot, and dry, well-draining soil."
+      },
+      "source": "https://www.mooiemoestuin.nl/kruiden/citroenverbena/"
+    },
+    {
+      "a": "lemon-verbena",
+      "b": "oregano",
+      "reason": {
+        "nl": "Oregano verlangt net als citroenverbena een zonnige standplaats en droge grond, waardoor ze uitstekend samen in een bak of kruidenbed passen.",
+        "en": "Oregano, like lemon verbena, thrives in sunny conditions and dry soil, making them ideal partners in a container or herb bed."
+      },
+      "source": "https://www.mooiemoestuin.nl/kruiden/citroenverbena/"
+    },
+    {
+      "a": "lemon-verbena",
+      "b": "parsley",
+      "reason": {
+        "nl": "Peterselie trekt nuttige insecten aan zoals zweefvliegen en lieveheersbeestjes, waarvan de larven bladluizen op citroenverbena bestrijden.",
+        "en": "Parsley attracts beneficial predators like hoverflies and ladybugs, whose larvae help keep lemon verbena free from aphids."
+      },
+      "source": "https://www.mooiemoestuin.nl/kruiden/citroenverbena/"
+    },
+    {
+      "a": "lemongrass",
+      "b": "aubergine",
+      "reason": {
+        "nl": "Citroengras en aubergine verlangen beide veel warmte, volle zon en beschutting tegen wind, waardoor ze goed samengaan in hetzelfde microklimaat of in de kas.",
+        "en": "Lemongrass and aubergine both require high temperatures, full sun, and shelter from cool winds, thriving together in the same warm microclimate or greenhouse."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-kweken-op-terras/"
+    },
+    {
+      "a": "lemongrass",
+      "b": "lemon-balm",
+      "reason": {
+        "nl": "Delen dezelfde zonnige omstandigheden op het terras in de zomer en kunnen goed gecombineerd worden in potten met goede afwatering.",
+        "en": "Share sunny outdoor terrace conditions during the summer and pair well in containers with adequate drainage."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-kweken-op-terras/"
+    },
+    {
+      "a": "lemongrass",
+      "b": "mint",
+      "reason": {
+        "nl": "Groeien goed samen in zonnige potten op het terras, mits er goede afwatering is en de munt de wortels van het citroengras niet overwoekert.",
+        "en": "Grow well together in sunny terrace pots as beverage herbs, provided drainage is good and mint runners do not choke lemongrass roots."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-kweken-op-terras/"
+    },
+    {
+      "a": "lovage",
+      "b": "french-bean",
+      "reason": {
+        "nl": "Lavas bevordert de algehele vitaliteit van het bed en belemmert de ontwikkeling van bonen niet mits er voldoende tussenruimte is.",
+        "en": "Lovage enhances overall bed vitality and does not inhibit bean development when given enough breathing room."
+      },
+      "source": "https://moestuincursus.nl/almanak/kruiden/maggiplant-lavas/"
+    },
+    {
+      "a": "lovage",
+      "b": "runner-bean",
+      "reason": {
+        "nl": "Lavas bevordert de vitaliteit van het bed en belemmert de groei van pronkbonen niet mits er genoeg tussenruimte is.",
+        "en": "Lovage enhances bed vitality and does not inhibit the growth of runner beans when provided with enough breathing room."
+      },
+      "source": "https://moestuincursus.nl/almanak/kruiden/maggiplant-lavas/"
+    },
+    {
+      "a": "lovage",
+      "b": "chives",
+      "reason": {
+        "nl": "Delen dezelfde behoeften qua vocht, voeding en standplaats, namelijk verse, vochtige, humusrijke grond en halfschaduw.",
+        "en": "Share matching moisture, feeding, and light regimes, preferring moist, humus-rich soil and partial shade."
+      },
+      "source": "https://moestuincursus.nl/almanak/kruiden/maggiplant-lavas/"
+    },
+    {
+      "a": "lovage",
+      "b": "chervil",
+      "reason": {
+        "nl": "Groeit net als lavas goed in verse, vochtige en humusrijke grond in de halfschaduw.",
+        "en": "Like lovage, thrives in fresh, moist, and humus-rich soil in partial shade."
+      },
+      "source": "https://moestuincursus.nl/almanak/kruiden/maggiplant-lavas/"
+    },
+    {
+      "a": "lovage",
+      "b": "mint",
+      "reason": {
+        "nl": "Past goed bij lavas qua voorkeur voor vochtige grond en halfschaduw, mits de munt ondergronds wordt ingesloten.",
+        "en": "Matches lovage well in terms of moisture and partial shade tolerance, provided the mint is contained below ground."
+      },
+      "source": "https://moestuincursus.nl/almanak/kruiden/maggiplant-lavas/"
+    },
+    {
+      "a": "marjoram",
+      "b": "aubergine",
+      "reason": {
+        "nl": "Gedijen beide in warme, zonnige en goed doorlatende omstandigheden; de aromatische geur van marjolein helpt insectenplagen te misleiden.",
+        "en": "Both thrive in warm, sunny, and well-drained conditions; marjoram's aromatic scent helps disguise plants from insect pests."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/origanum-majorana/marjolein/"
+    },
+    {
+      "a": "marjoram",
+      "b": "cauliflower",
+      "reason": {
+        "nl": "De aromatische etherische oliën van marjolein maskeren de koolgeur en helpen het koolwitje en koolmotten af te weren.",
+        "en": "The pungent essential oils of marjoram mask the brassica scent, helping deter cabbage white butterflies and cabbage moths."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/origanum-majorana/marjolein/"
+    },
+    {
+      "a": "marjoram",
+      "b": "chervil",
+      "reason": {
+        "nl": "Groeien goed samen in een plantenbak zonder elkaar chemisch te remmen of destructief te concurreren om wortelruimte.",
+        "en": "Share container space amicably without chemically inhibiting one another or competing destructively for root room."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/origanum-majorana/marjolein/"
+    },
+    {
+      "a": "marjoram",
+      "b": "courgette",
+      "reason": {
+        "nl": "Bloeiende marjolein trekt volop bijen en hommels aan, wat de bestuiving en opbrengst van de vruchten sterk verbetert.",
+        "en": "Flowering marjoram attracts bees and bumblebees, significantly enhancing blossom pollination and fruit yields."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/origanum-majorana/marjolein/"
+    },
+    {
+      "a": "marjoram",
+      "b": "pepper",
+      "reason": {
+        "nl": "De bloemen trekken bestuivers en zweefvliegen aan, wat de bestuiving bevordert en natuurlijke vijanden tegen bladluis biedt.",
+        "en": "The flowers attract pollinators and hoverflies, enhancing pollination while helping control garden aphids."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/origanum-majorana/marjolein/"
+    },
+    {
+      "a": "marjoram",
+      "b": "tomato",
+      "reason": {
+        "nl": "Bloeiende marjolein lokt bestuivers die de vruchtzetting stimuleren, en zweefvliegen die zich voeden met bladluizen.",
+        "en": "Flowering marjoram draws pollinators that aid fruit set, along with hoverflies that feed on garden aphids."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/origanum-majorana/marjolein/"
+    },
+    {
+      "a": "mizuna",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Heeft een ander wortel- en voedingsprofiel en trekt niet dezelfde plagen aan.",
+        "en": "Has a different root and nutrient profile and does not attract the same pests."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mizuna",
+      "b": "coriander",
+      "reason": {
+        "nl": "Sterk aromatische geuren maskeren de koolgeur en verwarren koolwitjes en koolvliegen.",
+        "en": "Strong aromatic oils mask the brassica scent and confuse cabbage white butterflies and cabbage flies."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mizuna",
+      "b": "thyme",
+      "reason": {
+        "nl": "Aromatische geuren helpen plagen te verwarren en trekken nuttige vijanden aan.",
+        "en": "Aromatic scent helps deter pests and attracts beneficial predators."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mizuna",
+      "b": "dill",
+      "reason": {
+        "nl": "De sterke aromatische oliën maskeren de geur van koolgewassen tegen plaaginsecten.",
+        "en": "Strong aromatic oils mask the scent of brassicas against insect pests."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mizuna",
+      "b": "mint",
+      "reason": {
+        "nl": "Sterke geur maskeert de geur van koolgewassen en verwart schadelijke insecten.",
+        "en": "Strong scent masks the odor of brassicas and confuses harmful insects."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mizuna",
+      "b": "winter-purslane",
+      "reason": {
+        "nl": "Geen gedeelde ziektes of plagen; een ideale koudebestendige partner voor de winterteelt.",
+        "en": "No shared pests or diseases; an ideal cold-hardy companion for winter cultivation."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mizuna",
+      "b": "lambs-lettuce",
+      "reason": {
+        "nl": "Behoort niet tot een plaaggevoelige familie en combineert uitstekend in het koude seizoen zonder voedingsstoffen weg te nemen.",
+        "en": "Belongs to an unrelated plant family and combines well in cool seasons without draining key nutrients."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mizuna",
+      "b": "spinach",
+      "reason": {
+        "nl": "Deelt geen plagen of ziektes en is geschikt voor teelt in het najaar en halfschaduw.",
+        "en": "Does not share pests or diseases and is suitable for cool-season and partial-shade growing."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mizuna",
+      "b": "mangetout",
+      "reason": {
+        "nl": "Peulvruchten binden stikstof in de bodem, wat de bladgroei van mizuna bevordert.",
+        "en": "Legumes fix atmospheric nitrogen in the soil, promoting vigorous leaf growth."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mizuna",
+      "b": "pea",
+      "reason": {
+        "nl": "Bindt stikstof in de bodem via wortelknolletjes, wat gunstig is voor bladrijke kolen.",
+        "en": "Fixes nitrogen in the soil via root nodules, benefiting leafy brassicas."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mizuna",
+      "b": "pea-shoots",
+      "reason": {
+        "nl": "Vaste partner in het najaar en de winter; bindt stikstof en vult mizuna aan in kleine ruimtes.",
+        "en": "Cool-season companion that fixes nitrogen and complements mizuna in small spaces."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mizuna",
+      "b": "onion",
+      "reason": {
+        "nl": "Zwavelverbindingen maskeren de geur van mizuna en weren bladluizen en vliegende plagen af.",
+        "en": "Sulfur compounds mask the scent of mizuna, deterring aphids and flying pests."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mizuna",
+      "b": "garlic",
+      "reason": {
+        "nl": "Sterke zwavelgeur verwart vliegende plaaginsecten en weert luizen af.",
+        "en": "Pungent sulfur odor confuses flying pests and deters aphids."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "dill",
+      "reason": {
+        "nl": "De sterke etherische oliën maskeren de geur van bladmosterd, waardoor het koolwitje en de koolvlieg gedesoriënteerd raken.",
+        "en": "Strong essential oils mask the scent of mustard greens, disorienting cabbage white butterflies and cabbage root flies."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "mint",
+      "reason": {
+        "nl": "Sterk geurende munt maskeert de herkenbare geur van kruisbloemigen voor schadelijke vliegende insecten zoals het koolwitje.",
+        "en": "Strongly aromatic mint masks the scent of brassicas from flying pests such as the cabbage white butterfly."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "sage",
+      "reason": {
+        "nl": "De aromatische geur verwart koolwitjes en koolvliegen, waardoor ze minder snel eitjes leggen op de bladmosterd.",
+        "en": "Its aromatic fragrance confuses cabbage white butterflies and cabbage root flies, deterring them from laying eggs."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "thyme",
+      "reason": {
+        "nl": "Helpt met zijn sterke geur koolwitjes en de koolvlieg te misleiden en weg te houden van het blad.",
+        "en": "Helps mislead and deter cabbage white butterflies and cabbage root flies with its strong scent."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "nasturtium",
+      "reason": {
+        "nl": "Dient als vangplant die rupsen van het koolwitje en bladluizen weghoudt van de malse bladmosterd.",
+        "en": "Acts as a trap crop attracting cabbage white caterpillars and aphids away from tender mustard leaves."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Ondiep wortelend bladgewas dat geen koolwitjes aantrekt, minimaal concurreert en de bodem bedekt houdt.",
+        "en": "Shallow-rooting leafy crop that does not attract cabbage whites, competes minimally, and provides good ground cover."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "spinach",
+      "reason": {
+        "nl": "Snelle, ondiepe groeier die vocht vasthoudt via bodembedekking en ondergronds nauwelijks concurreert met bladmosterd.",
+        "en": "Fast, shallow-rooted grower that retains soil moisture and minimizes underground competition with mustard greens."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "pea",
+      "reason": {
+        "nl": "Lage erwten binden stikstof in de wortels, wat de malse bladgroei van de mosterd ten goede komt.",
+        "en": "Dwarf peas fix nitrogen in their roots, benefiting the tender leaf growth of mustard greens."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "mangetout",
+      "reason": {
+        "nl": "Peulgewas dat stikstof vastlegt in de bodem en zo een milde, natuurlijke voeding biedt voor de bladontwikkeling.",
+        "en": "Legume that fixes nitrogen in the soil, providing natural nutrition for lush leaf development."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "french-bean",
+      "reason": {
+        "nl": "Stambonen verrijken de grond via stikstofknolletjes, waarvan bladmosterd profiteert om malse bladeren te vormen.",
+        "en": "Bush beans enrich the soil with nitrogen, which helps mustard greens produce tender leaves."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "chives",
+      "reason": {
+        "nl": "Gepositioneerd aan de rand helpt bieslook met zijn geur de plaagdruk op bladmosterd flink te verlagen.",
+        "en": "Planted along the edge, chives help significantly reduce pest pressure on mustard greens with their aroma."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "nasturtium",
+      "b": "broad-bean",
+      "reason": {
+        "nl": "Dient als vangplant voor zwarte bonenluis en trekt natuurlijke vijanden zoals lieveheersbeestjes aan.",
+        "en": "Serves as a trap crop for black bean aphids and attracts natural predators such as ladybug larvae."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "nasturtium",
+      "b": "cabbage",
+      "reason": {
+        "nl": "Werkt als vangplant voor het groot en klein koolwitje, waardoor de rupsen niet op de kolen terechtkomen.",
+        "en": "Acts as a trap crop for cabbage white butterflies, drawing caterpillars away from cabbage crops."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "nasturtium",
+      "b": "cauliflower",
+      "reason": {
+        "nl": "Dient als vangplant voor koolwitjes, die bij voorkeur hun eitjes op de Oost-Indische kers leggen.",
+        "en": "Serves as a trap crop for cabbage white butterflies, which prefer laying eggs on nasturtium leaves."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "nasturtium",
+      "b": "courgette",
+      "reason": {
+        "nl": "Trekt bestuivers aan voor de vruchtzetting en fungeert als levende mulch die de bodem vochtig en koel houdt.",
+        "en": "Attracts pollinators essential for fruiting and acts as living mulch, keeping soil cool and moist."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "nasturtium",
+      "b": "cucumber",
+      "reason": {
+        "nl": "Trekt bestuivers aan en kan functioneren als bodembedekker die vocht vasthoudt.",
+        "en": "Attracts pollinators and serves as a living ground cover that helps retain soil moisture."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "nasturtium",
+      "b": "kale",
+      "reason": {
+        "nl": "Vangt koolwitjes af zodat rupsen de palmkool of boerenkool sparen.",
+        "en": "Acts as a trap crop for cabbage white butterflies, protecting kale from caterpillars."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "nasturtium",
+      "b": "leek",
+      "reason": {
+        "nl": "Wordt genoemd als een ideale combinatiepartner in de moestuin.",
+        "en": "Documented as an ideal companion plant in the vegetable garden."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "nasturtium",
+      "b": "pea",
+      "reason": {
+        "nl": "Trekt bladluizen weg van de erwten en lokt nuttige predatoren naar het gewas.",
+        "en": "Draws aphids away from peas and attracts beneficial predatory insects."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "nasturtium",
+      "b": "pepper",
+      "reason": {
+        "nl": "Lokt bladluizen en witte vlieg weg en trekt tot de vorst nuttige insecten aan.",
+        "en": "Diverts aphids and whiteflies away while attracting beneficial insects through late summer."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "nasturtium",
+      "b": "pointed-cabbage",
+      "reason": {
+        "nl": "Fungeert als vangplant voor het koolwitje, waardoor spitskool wordt ontzien.",
+        "en": "Serves as a trap crop for cabbage white butterflies, protecting pointed cabbage."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "nasturtium",
+      "b": "potato",
+      "reason": {
+        "nl": "Goede combinatiepartner waarvan de kruipende bladeren de bodem vochtig en koel houden.",
+        "en": "Good companion plant whose spreading foliage serves as living mulch to keep the soil moist and cool."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "nasturtium",
+      "b": "pumpkin",
+      "reason": {
+        "nl": "Lokt bijen en hommels voor een goede bestuiving en beschermt de bodem als levende mulch.",
+        "en": "Attracts bees for fruit pollination and functions as living mulch beneath the pumpkin vines."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "nasturtium",
+      "b": "radish",
+      "reason": {
+        "nl": "Aanbevolen als geschikte buurplant in de combinatieteelt.",
+        "en": "Recommended as a suitable companion crop in companion planting literature."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "nasturtium",
+      "b": "runner-bean",
+      "reason": {
+        "nl": "Vangt bladluizen weg van de bonen en trekt lieveheersbeestjes aan.",
+        "en": "Lures aphids away from runner beans and attracts predatory ladybugs."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "nasturtium",
+      "b": "tomato",
+      "reason": {
+        "nl": "Leidt luizen en witte vliegen af van de tomaten en trekt continu nuttige insecten aan.",
+        "en": "Diverts aphids and whiteflies from tomatoes and continually attracts beneficial predatory insects."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "pea-shoots",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Sla wortelt ondiep en heeft weinig voeding nodig, waardoor het goed samengaat met erwtenscheuten en profiteert van lichte schaduw en stikstof.",
+        "en": "Lettuce is shallow-rooted and a light feeder, making it an ideal companion for pea shoots while benefiting from light shade and residual nitrogen."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/wintererwt"
+    },
+    {
+      "a": "pea-shoots",
+      "b": "spinach",
+      "reason": {
+        "nl": "Spinazie is een ondiep wortelend bladgewas dat de lichte schaduw van erwtenscheuten waardeert en profiteert van de stikstof die peulvruchten achterlaten.",
+        "en": "Spinach is a shallow-rooted leafy green that benefits from the light shade pea shoots provide and utilizes the nitrogen left behind by legume roots."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/wintererwt"
+    },
+    {
+      "a": "pea-shoots",
+      "b": "winter-purslane",
+      "reason": {
+        "nl": "Winterpostelein heeft ondiepe wortels en concurreert niet met erwtenscheuten, terwijl het profiteert van stikstofknolletjes in de bodem.",
+        "en": "Winter purslane is shallow-rooted and does not aggressively compete with pea shoots, thriving on the nitrogen nodules in the soil."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/wintererwt"
+    },
+    {
+      "a": "pea-shoots",
+      "b": "carrot",
+      "reason": {
+        "nl": "Wortelen groeien diep in de bodem en concurreren bovengronds niet met erwtenscheuten om bladoppervlak.",
+        "en": "Carrots grow downward into a deeper soil layer, avoiding horizontal competition with fast-growing pea shoots."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/wintererwt"
+    },
+    {
+      "a": "pea-shoots",
+      "b": "radish",
+      "reason": {
+        "nl": "Radijzen groeien snel en maken compacte grond los in plantenbakken voordat erwtenscheuten een dicht wortelstelsel vormen.",
+        "en": "Radishes grow quickly, breaking up compacted soil in planters before pea shoots establish an extensive root system."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/wintererwt"
+    },
+    {
+      "a": "pea-shoots",
+      "b": "nasturtium",
+      "reason": {
+        "nl": "Oost-Indische kers fungeert als vangplant voor bladluizen en trekt nuttige roofinsecten zoals lieveheersbeestjes en zweefvliegen aan.",
+        "en": "Nasturtium acts as a sacrificial trap crop for aphids, drawing them away from pea shoots and attracting beneficial predators like ladybugs and hoverflies."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/wintererwt"
+    },
+    {
+      "a": "purslane",
+      "b": "onion",
+      "reason": {
+        "nl": "Zomerpostelein fungeert als een levende mulch met ondiepe wortels die de bodem vochtig houdt, terwijl ui rechtop en dieper groeit en insecten weert met zijn geur.",
+        "en": "Purslane acts as a shallow-rooted living mulch to keep the soil moist, while onions grow upright and deeper without competing for sunlight."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "purslane",
+      "b": "spring-onion",
+      "reason": {
+        "nl": "Zomerpostelein vormt een vochtvasthoudende bodembedekker rondom de rechtopgroeiende, dieper wortelende bosuien.",
+        "en": "Purslane forms a moisture-retaining living mulch around upright, deeper-rooting spring onions without competing for sunlight."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "purslane",
+      "b": "leek",
+      "reason": {
+        "nl": "Prei groeit rechtop en wortelt dieper, terwijl zomerpostelein als ondiepe bodembedekker de grond schaduw en vocht biedt.",
+        "en": "Leeks grow upright and root deeper, while purslane acts as a shallow ground cover providing shade and moisture to the topsoil."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "purslane",
+      "b": "tomato",
+      "reason": {
+        "nl": "Opgebonden tomaten benutten de verticale ruimte, waardoor postelein de bodem eronder kan bedekken zonder wortelconcurrentie.",
+        "en": "Staked tomatoes utilize vertical space, allowing purslane to cover the soil beneath them without competing for root space."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "purslane",
+      "b": "cucumber",
+      "reason": {
+        "nl": "Bij verticale teelt bedekt de warmteminnende postelein de kale potgrond onder de komkommer zonder de diepere wortels te hinderen.",
+        "en": "When cucumbers are trellised, heat-loving purslane covers the bare soil beneath without competing with deep roots."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "purslane",
+      "b": "sweetcorn",
+      "reason": {
+        "nl": "Suikermaïs groeit hoog op en laat de grond vrij, waar postelein als levende bodembedekker de aarde vochtig houdt.",
+        "en": "Sweetcorn grows tall and leaves the soil open, where purslane serves as a living mulch to retain moisture."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "purslane",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Kropsla deelt een bescheiden stikstofbehoefte, ondiepe wortels en een snelle oogstcyclus met zomerpostelein.",
+        "en": "Lettuce shares modest nitrogen needs, shallow root habits, and a fast turnaround time with summer purslane."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "purslane",
+      "b": "rocket",
+      "reason": {
+        "nl": "Rucola en postelein zijn beide snelgroeiende bladgewassen met ondiepe wortels die de grond niet uitputten.",
+        "en": "Rocket and purslane are both quick-growing leafy greens with shallow roots that do not deplete the soil."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "purslane",
+      "b": "radish",
+      "reason": {
+        "nl": "Radijs heeft net als postelein een zeer korte teeltduur en bescheiden voedingsbehoefte, ideaal voor combinaties in ondiepe bakken.",
+        "en": "Radishes, like purslane, have a very short cultivation cycle and modest nutrient needs, ideal for shallow planters."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "purslane",
+      "b": "spinach",
+      "reason": {
+        "nl": "Spinazie heeft dezelfde ondiepe wortelgroei en bescheiden bemestingsbehoefte, waardoor ze elkaar niet beconcurreren.",
+        "en": "Spinach shares shallow rooting habits and modest fertilizer requirements, preventing competition."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "purslane",
+      "b": "basil",
+      "reason": {
+        "nl": "Basilicum en zomerpostelein delen exact dezelfde behoeften: volle zon, warme grond, beschutting en regelmatige bewatering.",
+        "en": "Basil and summer purslane share identical needs: full sun, warm soil, shelter, and regular watering to keep leaves tender."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "radicchio",
+      "b": "carrot",
+      "reason": {
+        "nl": "Wortelen groeien diep naar beneden terwijl roodlof een oppervlakkig rozet vormt, waardoor ze in verschillende bodemlagen wortelen en elkaar niet beconcurreren om ruimte of voeding.",
+        "en": "Carrots tap straight down while radicchio forms a shallow rosette head, utilizing different soil strata without competing for space or surface nutrients."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "radicchio",
+      "b": "radish",
+      "reason": {
+        "nl": "Radijzen benutten een andere bodemlaag dan de oppervlakkige rozetten van roodlof, waardoor ze geen concurrentie vormen voor ruimte of voedingsstoffen.",
+        "en": "Radishes explore different soil layers than the shallow rosettes of radicchio, avoiding competition for root space and nutrients."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "radicchio",
+      "b": "leek",
+      "reason": {
+        "nl": "Prei groeit smal en verticaal en verspreidt een zwavelrijke geur die schadelijke vliegende insecten verwart.",
+        "en": "Leeks grow vertically with a narrow footprint and emit a sulfur-rich aroma that deters flying pests through scent confusion."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "radicchio",
+      "b": "spring-onion",
+      "reason": {
+        "nl": "Bosuien nemen weinig ruimte in en helpen dankzij hun sterke geur vliegende plaaginsecten op afstand te houden.",
+        "en": "Spring onions have a narrow footprint and their strong aroma helps deter flying pests through scent confusion."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "radicchio",
+      "b": "french-bean",
+      "reason": {
+        "nl": "Struikbonen leggen stikstof vast in de bodem wat de bladgroei ten goede komt, en blijven compact genoeg om roodlof niet te overwoekeren.",
+        "en": "Bush beans fix atmospheric nitrogen to support foliage growth and remain compact enough not to overpower radicchio."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "radicchio",
+      "b": "pea",
+      "reason": {
+        "nl": "Doperwten binden stikstof in de wortelknolletjes ter bevordering van bladontwikkeling en overwoekeren compacte roodlof niet.",
+        "en": "Peas fix nitrogen in root nodules to benefit foliage development and remain manageable alongside radicchio."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "radicchio",
+      "b": "broccoli",
+      "reason": {
+        "nl": "Roodlof fungeert als een lage bodembedekker rondom opgaande koolgewassen zoals broccoli, wat helpt om vocht in de bodem vast te houden.",
+        "en": "Radicchio acts as a low ground-cover around upright brassicas like broccoli, helping conserve soil moisture in late summer."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "radicchio",
+      "b": "cauliflower",
+      "reason": {
+        "nl": "Roodlof gedijt goed nabij koolgewassen en helpt als lage bodembedekker de bodem vochtig te houden rond bloemkool.",
+        "en": "Radicchio thrives near brassicas, serving as a ground cover that conserves soil moisture beneath cauliflower."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "radicchio",
+      "b": "kale",
+      "reason": {
+        "nl": "Als lage bodembedekker onder opgaande koolsoorten zoals boerenkool of palmkool helpt roodlof bodemvocht vast te houden in de late zomer.",
+        "en": "As a low ground-cover beneath upright brassicas like kale, radicchio helps preserve soil moisture during late summer."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "raspberry-in-pot",
+      "b": "garlic",
+      "reason": {
+        "nl": "Knoflook weert met zijn geur plagen zoals bladluizen en de frambozenkever af, en de wortelafscheidingen beschermen de framboos tegen schimmelinfecties zoals Botrytis.",
+        "en": "Garlic deters pests such as aphids and the raspberry beetle with its sulfurous scent, and its root exudates protect shallow raspberry roots from fungal infections like Botrytis."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/framboos-heeft-het-moeilijk"
+    },
+    {
+      "a": "redcurrant-in-pot",
+      "b": "garlic",
+      "reason": {
+        "nl": "De sterke zwavelgeur verwart en weert plagen zoals de bloedblaarluis en galmijten af, terwijl de compacte wortels niet concurreren met de aalbes.",
+        "en": "The strong sulfur scent confuses and deters pests like redcurrant blister aphids and gall mites, while its compact roots do not compete with the currant."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/aalbes"
+    },
+    {
+      "a": "redcurrant-in-pot",
+      "b": "chives",
+      "reason": {
+        "nl": "De geur verjaagt plagen zoals de bloedblaarluis en galmijten, en het compacte wortelstelsel concurreert niet met de oppervlakkige wortels van de rode bes.",
+        "en": "Its scent repels pests such as redcurrant blister aphids and gall mites, and its compact root system does not compete with the shallow roots of the redcurrant."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/aalbes"
+    },
+    {
+      "a": "redcurrant-in-pot",
+      "b": "onion",
+      "reason": {
+        "nl": "Uien weren met hun sterke geur plagen zoals de bloedblaarluis en galmijten af zonder agressief te concurreren met de wortels van de aalbes.",
+        "en": "Onions deter pests like redcurrant blister aphids and gall mites with their strong scent without competing aggressively with the currant's root system."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/aalbes"
+    },
+    {
+      "a": "redcurrant-in-pot",
+      "b": "dill",
+      "reason": {
+        "nl": "Het aromatische blad en de schermen trekken nuttige insecten aan die luizen en rupsen bestrijden, terwijl ze lichte schaduw bieden aan de voet van de struik.",
+        "en": "Its aromatic foliage and umbel blossoms attract beneficial insects that prey on aphids and caterpillars, while offering light shade at the shrub's base."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/aalbes"
+    },
+    {
+      "a": "redcurrant-in-pot",
+      "b": "nasturtium",
+      "reason": {
+        "nl": "Fungeert als vanggewas voor bladluizen en dient als levende mulch om de potgrond vochtig en koel te houden.",
+        "en": "Serves as a trap crop for aphids and acts as a living mulch to keep the potting soil cool and moist."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/aalbes"
+    },
+    {
+      "a": "stevia",
+      "b": "basil",
+      "reason": {
+        "nl": "Deelt dezelfde warmte- en vochtbehoefte, concurreert niet agressief onder de grond en helpt de bodem te beschaduwen om vocht vast te houden.",
+        "en": "Shares the same warmth and moisture requirements, does not compete aggressively underground, and helps shade the soil to retain moisture."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/stevia"
+    },
+    {
+      "a": "stevia",
+      "b": "tomato",
+      "reason": {
+        "nl": "Biedt stevia een beschut microklimaat op een warme, zonnige standplaats wanneer deze aan de voet van opgebonden tomaten groeit.",
+        "en": "Provides stevia with a sheltered microclimate in a warm, sunny location when planted at the base of pruned, staked tomatoes."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/stevia"
+    },
+    {
+      "a": "stevia",
+      "b": "pepper",
+      "reason": {
+        "nl": "Groeit uitstekend samen in bakken op een warme, beschutte plek en deelt dezelfde behoefte aan warmte en vochtige grond.",
+        "en": "Grows well together in planters in a warm, sheltered spot and shares the same requirements for warmth and moist soil."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/stevia"
+    },
+    {
+      "a": "stevia",
+      "b": "lemon-balm",
+      "reason": {
+        "nl": "Goede combinatie in een theetuinbak met vergelijkbare vochtbehoeften, mits de citroenmelisse wordt bijgeknipt om overschaduwing te voorkomen.",
+        "en": "Good combination in a tea planter with similar moisture needs, provided the lemon balm is trimmed to prevent overshading."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/stevia"
+    },
+    {
+      "a": "stevia",
+      "b": "chamomile",
+      "reason": {
+        "nl": "Geschikte partner in een theetuinbak die goed gedijt bij regelmatige vochtigheid en niet agressief concurreert.",
+        "en": "Suitable partner in a tea garden planter that thrives with regular moisture and does not compete aggressively."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/stevia"
+    },
+    {
+      "a": "summer-savory",
+      "b": "broad-bean",
+      "reason": {
+        "nl": "De aromatische oliën van bonenkruid weren de zwarte bonenluis af en de bloemen trekken nuttige insecten zoals zweefvliegen aan.",
+        "en": "The aromatic essential oils of savory deter the black bean aphid, and the flowers attract beneficial predators like hoverflies."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/partnerplanten-soorten-en-weetjes"
+    },
+    {
+      "a": "summer-savory",
+      "b": "french-bean",
+      "reason": {
+        "nl": "De sterke geur van bonenkruid helpt de zwarte bonenluis af te weren die bonen vaak aantast.",
+        "en": "The strong scent of savory helps repel the black bean aphid, which frequently attacks beans."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/partnerplanten-soorten-en-weetjes"
+    },
+    {
+      "a": "summer-savory",
+      "b": "runner-bean",
+      "reason": {
+        "nl": "Bonenkruid weert de zwarte bonenluis af en kan goed gecombineerd worden bij klimmende bonen.",
+        "en": "Savory deters the black bean aphid and pairs well alongside climbing beans."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/partnerplanten-soorten-en-weetjes"
+    },
+    {
+      "a": "summer-savory",
+      "b": "onion",
+      "reason": {
+        "nl": "Het aromatische kruid helpt de geur van de waardplant te maskeren, waardoor plaaginsecten worden verward.",
+        "en": "The aromatic herb masks host plant odors, confusing pest flies and discouraging insect damage."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/partnerplanten-soorten-en-weetjes"
+    },
+    {
+      "a": "summer-savory",
+      "b": "shallot",
+      "reason": {
+        "nl": "Tussenzaai van bonenkruid tussen de rijen helpt schadelijke insecten te weren en nuttige insecten te lokken.",
+        "en": "Interplanting savory between rows helps deter pests and attract beneficial insects."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/partnerplanten-soorten-en-weetjes"
+    },
+    {
+      "a": "summer-savory",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Het zaaien van bonenkruid tussen rijen sla helpt plagen te ontmoedigen en trekt nuttige insecten aan.",
+        "en": "Sowing savory between rows of lettuce helps deter pests and attract beneficial insects."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/partnerplanten-soorten-en-weetjes"
+    },
+    {
+      "a": "summer-savory",
+      "b": "thyme",
+      "reason": {
+        "nl": "Deelt dezelfde mediterrane behoeften: een warme, zonnige plek en arme, goed doorlatende grond met weinig water.",
+        "en": "Shares the same Mediterranean preferences: a warm, sunny location and lean, well-draining soil with minimal watering."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/partnerplanten-soorten-en-weetjes"
+    },
+    {
+      "a": "summer-savory",
+      "b": "rosemary",
+      "reason": {
+        "nl": "Hebben identieke groeiomstandigheden nodig: veel zon, droge, arme grond en weinig voeding.",
+        "en": "Requires identical growing conditions: ample sun, dry, lean soil, and minimal feeding."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/partnerplanten-soorten-en-weetjes"
+    },
+    {
+      "a": "summer-savory",
+      "b": "sage",
+      "reason": {
+        "nl": "Geschikt om samen te zetten in potten of kruidenspiralen dankzij dezelfde voorkeur voor zon en droge, arme bodems.",
+        "en": "Suitable for combining in pots or herb spirals due to shared preferences for full sun and dry, lean soil."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/partnerplanten-soorten-en-weetjes"
+    },
+    {
+      "a": "summer-savory",
+      "b": "lavender",
+      "reason": {
+        "nl": "Gedijt net als bonenkruid uitstekend op een zonnige, droge standplaats met een goed doorlatende, kalkrijke of arme grond.",
+        "en": "Thrives alongside savory in sunny, dry positions with lean, well-draining soil."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/partnerplanten-soorten-en-weetjes"
+    },
+    {
+      "a": "tatsoi",
+      "b": "mint",
+      "reason": {
+        "nl": "De sterke geur maskeert het koolblad en verwart het koolwitje, waardoor het minder snel eitjes legt.",
+        "en": "The strong aroma masks brassica foliage, confusing and deterring cabbage white butterflies from laying eggs."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "tatsoi",
+      "b": "thyme",
+      "reason": {
+        "nl": "De sterke etherische oliën maskeren de geur van tatsoi en weren het koolwitje af.",
+        "en": "Strong essential oils mask the scent of tatsoi, deterring cabbage white butterflies."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "tatsoi",
+      "b": "rosemary",
+      "reason": {
+        "nl": "Het sterke aroma helpt de geur van koolgewassen te maskeren en schadelijke koolwitjes af te weren.",
+        "en": "Its strong aroma helps mask brassica scent, keeping cabbage white butterflies away."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "tatsoi",
+      "b": "nasturtium",
+      "reason": {
+        "nl": "Dient als vangplant voor bladluizen en koolwitjes, en trekt nuttige roofvijanden zoals zweefvliegen en lieveheersbeestjes aan.",
+        "en": "Acts as a trap crop for aphids and cabbage white butterflies while attracting beneficial predators like hoverflies and ladybugs."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "tatsoi",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Een niet-invasieve, snelgroeiende buur die lichte schaduw kan bieden tegen hittestress en vroegtijdig doorschieten helpt voorkomen.",
+        "en": "A non-invasive, fast-growing neighbor that can provide light shade, helping prevent heat stress and premature bolting."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "wild-rocket",
+      "b": "cucumber",
+      "reason": {
+        "nl": "Biedt lichte schaduw die doorschieten en bitterheid voorkomt, terwijl rucola de bodem bedekt als levende mulch.",
+        "en": "Provides light shade that prevents bolting and bitterness, while wild rocket covers the soil as a living mulch."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "wild-rocket",
+      "b": "tomato",
+      "reason": {
+        "nl": "Biedt gefilterde schaduw tegen felle zomerzon; de ondiepe wortels van rucola concurreren niet met de diepe wortels van tomaat.",
+        "en": "Provides dappled shade against harsh summer sun; wild rocket's shallow roots do not compete with deep tomato roots."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "wild-rocket",
+      "b": "french-bean",
+      "reason": {
+        "nl": "Klimbonen bieden welkome schaduw tijdens hete middaguren en concurreren dankzij een verschillende worteldiepte niet met rucola.",
+        "en": "Climbing beans provide welcome shade during hot hours and do not compete with wild rocket due to different rooting depths."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "wild-rocket",
+      "b": "garlic",
+      "reason": {
+        "nl": "De sterke aromatische zwavelverbindingen van knoflook verwarren en weren vliegende plagen en bladluizen af.",
+        "en": "The strong aromatic sulfur compounds of garlic confuse and deter flying pests and aphids."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "wild-rocket",
+      "b": "chives",
+      "reason": {
+        "nl": "Alliums weren vliegende plagen en bladluizen af en nemen dankzij hun smalle, opgaande groei weinig ruimte in beslag.",
+        "en": "Alliums deter flying pests and aphids and occupy little space due to their narrow, upright growth."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "wild-rocket",
+      "b": "spring-onion",
+      "reason": {
+        "nl": "Weert vliegende insecten en bladluizen af met sterke geurstoffen en past goed naast rucola in compacte teelten.",
+        "en": "Deters flying insects and aphids with strong scents and integrates easily alongside wild rocket in compact spaces."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "wild-rocket",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Delen vergelijkbare behoeften aan water en licht en vullen elkaar goed aan in compacte teelten zonder elkaar te verdringen.",
+        "en": "Share similar water and light requirements, complementing each other well in compact plantings without crowding."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "wild-rocket",
+      "b": "spinach",
+      "reason": {
+        "nl": "Snelgroeiend bladgewas met dezelfde water- en lichtbehoeften dat uitstekend samenwerkt in een plukmix.",
+        "en": "A fast-growing green with matching water and light needs that combines excellently in a cut-and-come-again mix."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "wild-rocket",
+      "b": "nasturtium",
+      "reason": {
+        "nl": "Dient als nuttige vangplant die bladluizen en rupsen weglokt van jonge rucolabladeren.",
+        "en": "Serves as a beneficial trap crop that lures aphids and caterpillars away from young wild rocket leaves."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "winter-purslane",
+      "b": "lambs-lettuce",
+      "reason": {
+        "nl": "Veldsla deelt hetzelfde groeiseizoen in de winter, heeft dezelfde lage voedings- en waterbehoeften en blijft compact zonder de winterpostelein te overschaduwen.",
+        "en": "Corn salad shares the same winter growing window, thrives in cool weather, and stays compact without overshadowing winter purslane."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "winter-purslane",
+      "b": "spinach",
+      "reason": {
+        "nl": "Winterspinazie deelt hetzelfde groeiseizoen en lage voedings- en waterbehoeften, waardoor ze goed samengaan in een winterbak.",
+        "en": "Winter spinach shares the exact same cool-season growing window and low nutrient and water requirements, making them great companions in winter beds."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "winter-purslane",
+      "b": "garlic",
+      "reason": {
+        "nl": "Knoflook groeit verticaal waardoor winterpostelein als een ondiep wortelende levende mulch kan dienen, terwijl de allicinegeur plagen en schimmels weert.",
+        "en": "Garlic grows vertically, allowing winter purslane to act as a shallow-rooted living mulch, while garlic's allicin helps deter pests and fungal spores."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "winter-purslane",
+      "b": "onion",
+      "reason": {
+        "nl": "Winteruien groeien smal omhoog; winterpostelein bedekt de bodem en voorkomt uitdroging en erosie zonder de bollen te hinderen.",
+        "en": "Winter onions grow vertically with narrow foliage; winter purslane acts as living mulch, keeping topsoil moist without competing with the bulb roots."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "winter-purslane",
+      "b": "spring-onion",
+      "reason": {
+        "nl": "Lente-ui groeit verticaal en de sterke geur helpt schimmels weren, terwijl winterpostelein de bodem rondom bedekt zonder wortelconcurrentie.",
+        "en": "Spring onions grow upright and their scent deters pests and fungi, while winter purslane covers the base soil without root competition."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "winter-purslane",
+      "b": "kale",
+      "reason": {
+        "nl": "Palmkool groeit omhoog op een hoge stam waardoor de bodem vrij blijft; winterpostelein vult deze onderlaag zonder de diepere koolwortels te hinderen.",
+        "en": "Cavolo nero grows tall on a single stem, leaving the soil surface open for winter purslane to fill without impeding the kale's deeper roots."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "winter-purslane",
+      "b": "pea",
+      "reason": {
+        "nl": "Wintererwten groeien omhoog langs klimsteunen, waardoor winterpostelein de lege onderlaag efficiënt kan bedekken met zijn korte vezelige wortels.",
+        "en": "Winter peas grow upwards on supports, leaving bare soil that winter purslane fills as a low groundcover without root competition."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "winter-purslane",
+      "b": "chervil",
+      "reason": {
+        "nl": "Winterkervel gedijt onder dezelfde koele, vochtige omstandigheden als winterpostelein en schiet pas in het vroege voorjaar door.",
+        "en": "Winter chervil thrives in the same cool, moist conditions as winter purslane and does not bolt until early spring."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "winter-purslane",
+      "b": "parsley",
+      "reason": {
+        "nl": "Peterselie deelt dezelfde voorliefde voor koele, vochtige omstandigheden en vormt een praktische combinatie in kruiden- en saladebakken.",
+        "en": "Parsley thrives under the same cool and moist conditions, making it a practical partner in small winter salad and herb planters."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
     }
   ],
   "bad": [
@@ -5941,6 +7948,1851 @@
         "en": "Spinach is a low, delicate leafy green that quickly gets overgrown and smothered by vigorous squash vines and large leaves."
       },
       "source": "https://makkelijkemoestuin.nl/kennisbank/dieven-van-tomaten-komkommer-en-pompoen"
+    },
+    {
+      "a": "blueberry-in-pot",
+      "b": "thyme",
+      "reason": {
+        "en": "Requires dry, lean, calcareous soil (pH 6.5–7.5); the moist, peaty, acidic conditions blueberries need will cause root rot, while adding lime kills the blueberry.",
+        "nl": "Vereist droge, arme, kalkrijke grond (pH 6,5–7,5); de vochtige, zure veengrond die de blauwe bes nodig heeft veroorzaakt wortelrot, terwijl kalk toevoegen de bes doodt."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+    },
+    {
+      "a": "blueberry-in-pot",
+      "b": "rosemary",
+      "reason": {
+        "en": "Needs dry, well-draining, lime-rich soil; the moist, acidic conditions blueberries require lead to root rot.",
+        "nl": "Heeft droge, goed drainerende, kalkrijke grond nodig; de vochtige, zure omstandigheden van de blauwe bes leiden tot wortelrot."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+    },
+    {
+      "a": "blueberry-in-pot",
+      "b": "lavender",
+      "reason": {
+        "en": "Requires dry, lime-rich conditions and will suffer from root rot in the moist, acidic soil blueberries need.",
+        "nl": "Heeft droge, kalkrijke grond nodig en krijgt last van wortelrot in de vochtige, zure grond die blauwe bessen vereisen."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+    },
+    {
+      "a": "blueberry-in-pot",
+      "b": "sage",
+      "reason": {
+        "en": "Demands lean, calcareous, well-drained soil; conflicting soil pH and moisture needs make it incompatible with blueberries.",
+        "nl": "Heeft arme, kalkrijke en goed drainerende grond nodig; tegenstrijdige pH- en vochtbehoeften maken combinatie met de blauwe bes onmogelijk."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+    },
+    {
+      "a": "blueberry-in-pot",
+      "b": "oregano",
+      "reason": {
+        "en": "Prefers dry, lime-rich soil and cannot tolerate the acidic, continuously moist peaty environment blueberries demand.",
+        "nl": "Verkiest droge, kalkrijke grond en kan niet tegen het zure, continu vochtige veenmilieu dat blauwe bessen nodig hebben."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+    },
+    {
+      "a": "blueberry-in-pot",
+      "b": "kale",
+      "reason": {
+        "en": "Brassicas require lime-rich soil to prevent clubroot, but lime raises soil pH and induces severe iron chlorosis and yellow leaves in blueberries.",
+        "nl": "Koolgewassen hebben kalkrijke grond nodig om knolvoet te voorkomen, maar kalk verhoogt de pH en veroorzaakt ernstige kalkchlorose en gele bladeren bij blauwe bessen."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+    },
+    {
+      "a": "blueberry-in-pot",
+      "b": "cabbage",
+      "reason": {
+        "en": "Requires neutral-to-alkaline, limed soil; lime alters the acidic pH that blueberries strictly need, leading to nutrient deficiencies.",
+        "nl": "Heeft neutrale tot alkalische, bekalkte grond nodig; kalk verstoort de zure pH die blauwe bessen vereisen, wat leidt tot tekorten."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+    },
+    {
+      "a": "blueberry-in-pot",
+      "b": "broccoli",
+      "reason": {
+        "en": "Needs lime-rich, neutral soil to deter clubroot, conflicting with the acidic, low-pH conditions blueberries depend on.",
+        "nl": "Heeft kalkrijke, neutrale grond nodig tegen knolvoet, wat botst met de zure, lage pH-omstandigheden die blauwe bessen vereisen."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+    },
+    {
+      "a": "blueberry-in-pot",
+      "b": "radish",
+      "reason": {
+        "en": "Brassicas require neutral to alkaline soil with lime, which causes severe iron deficiency in acid-loving blueberries.",
+        "nl": "Koolgewassen hebben neutrale tot alkalische grond met kalk nodig, wat ernstig ijzertekort veroorzaakt bij zuurminnende blauwe bessen."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+    },
+    {
+      "a": "blueberry-in-pot",
+      "b": "tomato",
+      "reason": {
+        "en": "Demands neutral soil and heavy feeding; general fertilizers easily burn blueberry roots, and aggressive root systems outcompete them in pots.",
+        "nl": "Vraagt neutrale grond en zware bemesting; standaardmeststoffen verbranden de wortels van de bes gemakkelijk en agressieve wortels concurreren te sterk in potten."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+    },
+    {
+      "a": "blueberry-in-pot",
+      "b": "courgette",
+      "reason": {
+        "en": "Requires neutral soil and heavy doses of fertilizer that will burn blueberry roots, while its vigorous growth outcompetes them in containers.",
+        "nl": "Vereist neutrale grond en zware bemesting die blauwebessenwortels verbrandt, terwijl de groeikracht de bes in potten verdringt."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+    },
+    {
+      "a": "blueberry-in-pot",
+      "b": "potato",
+      "reason": {
+        "en": "A heavy feeder that thrives in neutral potting mix; standard general fertilizers burn sensitive blueberry roots and compete aggressively.",
+        "nl": "Een zware eter die neutrale grond vereist; standaardmeststoffen verbranden gevoelige blauwebessenwortels en concurreren te sterk."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+    },
+    {
+      "a": "blueberry-in-pot",
+      "b": "pumpkin",
+      "reason": {
+        "en": "Requires neutral soil and high amounts of general fertilizer, which burn acid-loving blueberry roots and outcompete their shallow root systems.",
+        "nl": "Heeft neutrale grond en flinke doses standaardmest nodig, wat zuurminnende bessenwortels verbrandt en hun ondiepe wortels overwoekert."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+    },
+    {
+      "a": "blueberry-in-pot",
+      "b": "pea",
+      "reason": {
+        "en": "Legumes fix nitrogen and thrive at neutral pH; excess nitrogen and non-acidic conditions harm the blueberry's specialized root mycorrhizae.",
+        "nl": "Peulvruchten binden stikstof en groeien bij een neutrale pH; een overschot aan stikstof en niet-zure grond schaadt de mycorrhiza-schimmels van de bes."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/fruit-bessen/blauwe-bes-groeit-niet/"
+    },
+    {
+      "a": "borage",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Bernagie vormt zeer brede, ruwe bladeren die lage kropsla in kleine tuinen of bakken overschaduwen en verstikken.",
+        "en": "Borage forms very broad, rough leaves that overshadow and smother low-growing lettuce in small gardens or planters."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-vs-monocultuur/"
+    },
+    {
+      "a": "borage",
+      "b": "radish",
+      "reason": {
+        "nl": "In krappe ruimtes groeit bernagie zo fors dat compacte radijsjes worden overschaduwd en van licht beroofd.",
+        "en": "In confined spaces, borage grows so vigorously that compact radishes are overshadowed and starved of light."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-vs-monocultuur/"
+    },
+    {
+      "a": "borage",
+      "b": "carrot",
+      "reason": {
+        "nl": "Het omvangrijke bladerdek van bernagie overschaduwt en verstikt tere worteltjes in kleine moestuinbakken.",
+        "en": "The sprawling foliage of borage overshadows and smothers delicate carrots in small raised beds."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-vs-monocultuur/"
+    },
+    {
+      "a": "borage",
+      "b": "parsley",
+      "reason": {
+        "nl": "In bakken ontneemt de diepe penwortel en het brede bladerdek van bernagie vocht en wortelruimte aan peterselie.",
+        "en": "In planters, borage's deep taproot and wide canopy starve parsley of moisture and root space."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-vs-monocultuur/"
+    },
+    {
+      "a": "borage",
+      "b": "chives",
+      "reason": {
+        "nl": "Wordt in krappe bakken verdrongen door de diepe penwortel en forse groeikracht van bernagie.",
+        "en": "Becomes crowded out in tight planters by borage's deep taproot and vigorous growth."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-vs-monocultuur/"
+    },
+    {
+      "a": "borage",
+      "b": "basil",
+      "reason": {
+        "nl": "Tere basilicum wordt in bakken overwoekerd en beroofd van vocht en wortelruimte door de diepe wortels en brede bladeren van bernagie.",
+        "en": "Delicate basil is overgrown and starved of moisture and root space in planters by borage's deep roots and wide leaves."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-vs-monocultuur/"
+    },
+    {
+      "a": "borage",
+      "b": "onion",
+      "reason": {
+        "nl": "Bernagie zaait zichzelf hevig uit, waardoor opkomende zaailingen traag kiemende uien kunnen verstikken.",
+        "en": "Borage self-seeds profusely, causing volunteers to pop up and suffocate slow-germinating onions."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-vs-monocultuur/"
+    },
+    {
+      "a": "borage",
+      "b": "parsnip",
+      "reason": {
+        "nl": "Zelfuitzaaiende bernagie kan onverwachts opkomen en traag kiemende pastinaak overgroeien en verstikken.",
+        "en": "Self-sown borage volunteers can pop up unexpectedly and suffocate slow-sprouting parsnips."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-vs-monocultuur/"
+    },
+    {
+      "a": "borage",
+      "b": "fennel",
+      "reason": {
+        "nl": "Vrijgekomen zaden van bernagie ontkiemen massaal en kunnen traag startende venkel overwoekeren.",
+        "en": "Abundantly dropped borage seeds germinate quickly and can overpower slow-starting fennel."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-vs-monocultuur/"
+    },
+    {
+      "a": "celery-leaf",
+      "b": "potato",
+      "reason": {
+        "nl": "Selderij en aardappelen hebben een antagonistische werking op elkaar die de knolontwikkeling en groeikracht belemmert.",
+        "en": "Celery and potatoes have an antagonistic relationship, negatively impacting tuber development and overall plant vigor."
+      },
+      "source": "https://velt.nu/tip/combinatieteelt-de-moestuin"
+    },
+    {
+      "a": "celery-leaf",
+      "b": "carrot",
+      "reason": {
+        "nl": "Als schermbloemigen trekken ze dezelfde plagen aan, zoals de wortelvlieg, en bevorderen ze schimmelziekten zoals bladvlekkenziekte.",
+        "en": "Belonging to the same family, they share pests like the carrot rust fly and encourage fungal diseases such as leaf spot."
+      },
+      "source": "https://velt.nu/tip/combinatieteelt-de-moestuin"
+    },
+    {
+      "a": "celery-leaf",
+      "b": "parsnip",
+      "reason": {
+        "nl": "Beide behoren tot de schermbloemenfamilie en vormen samen een geconcentreerd doelwit voor de wortelvlieg en bladvlekkenziekte.",
+        "en": "Both belong to the Apiaceae family and create a concentrated target for carrot rust fly and leaf spot."
+      },
+      "source": "https://velt.nu/tip/combinatieteelt-de-moestuin"
+    },
+    {
+      "a": "celery-leaf",
+      "b": "dill",
+      "reason": {
+        "nl": "Dille en selderij trekken dezelfde schermbloemige plagen aan, zoals de larven van de wortelvlieg, en verhogen het risico op schimmels.",
+        "en": "Dill and celery attract the same umbellifer pests, such as carrot rust fly larvae, and increase fungal disease risk."
+      },
+      "source": "https://velt.nu/tip/combinatieteelt-de-moestuin"
+    },
+    {
+      "a": "celery-leaf",
+      "b": "parsley",
+      "reason": {
+        "nl": "Als verwante schermbloemigen delen peterselie en selderij vatbaarheid voor de wortelvlieg en schimmelziekten.",
+        "en": "As relatives in the umbellifer family, parsley and celery share susceptibility to the carrot rust fly and fungal blights."
+      },
+      "source": "https://velt.nu/tip/combinatieteelt-de-moestuin"
+    },
+    {
+      "a": "celery-leaf",
+      "b": "fennel",
+      "reason": {
+        "nl": "Venkel deelt schermbloemige plagen en scheidt via de wortels stoffen af die de groei van naburige gewassen afremmen.",
+        "en": "Fennel shares family pests and secretes allelopathic root exudates that inhibit the growth of neighbouring crops."
+      },
+      "source": "https://velt.nu/tip/combinatieteelt-de-moestuin"
+    },
+    {
+      "a": "celery-leaf",
+      "b": "thyme",
+      "reason": {
+        "nl": "Tijm verlangt droge grond en krijgt wortelrot bij het vochtniveau dat snijselderij nodig heeft om niet bitter te worden en door te schieten.",
+        "en": "Thyme requires dry soil and develops root rot in the moisture levels celery needs to avoid turning bitter and bolting."
+      },
+      "source": "https://velt.nu/tip/combinatieteelt-de-moestuin"
+    },
+    {
+      "a": "celery-leaf",
+      "b": "rosemary",
+      "reason": {
+        "nl": "Rozemarijn verdraagt geen constant vochtige grond, terwijl snijselderij bij te weinig water bitter wordt en vroegtijdig doorschiet.",
+        "en": "Rosemary cannot tolerate consistently moist soil, while celery turns bitter and bolts prematurely if underwatered."
+      },
+      "source": "https://velt.nu/tip/combinatieteelt-de-moestuin"
+    },
+    {
+      "a": "celery-leaf",
+      "b": "lavender",
+      "reason": {
+        "nl": "Lavendel houdt van droogte en ontwikkelt wortelrot bij de frequente bewatering die snijselderij vereist.",
+        "en": "Lavender prefers dry conditions and develops root rot under the frequent watering that leaf celery requires."
+      },
+      "source": "https://velt.nu/tip/combinatieteelt-de-moestuin"
+    },
+    {
+      "a": "celery-leaf",
+      "b": "sage",
+      "reason": {
+        "nl": "Salie heeft een drogere bodem nodig en bezwijkt aan wortelrot onder het vochtregime dat snijselderij verlangt.",
+        "en": "Sage requires drier soil and suffers from root rot under the moist conditions demanded by leaf celery."
+      },
+      "source": "https://velt.nu/tip/combinatieteelt-de-moestuin"
+    },
+    {
+      "a": "chamomile",
+      "b": "fennel",
+      "reason": {
+        "nl": "Venkel scheidt via de wortels en het loof allelopathische stoffen af die de groei en kieming van naburige planten zoals kamille belemmeren.",
+        "en": "Fennel releases allelopathic chemicals via its roots and foliage that inhibit the growth and germination of neighboring plants like chamomile."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-groenten-planten/"
+    },
+    {
+      "a": "chamomile",
+      "b": "mint",
+      "reason": {
+        "nl": "De agressief woekerende wortels en uitlopers van munt verdringen het fijne, delicate wortelstelsel van kamille.",
+        "en": "Mint's aggressive rhizomes and underground runners quickly crowd out chamomile's delicate root system."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-groenten-planten/"
+    },
+    {
+      "a": "chamomile",
+      "b": "potato",
+      "reason": {
+        "nl": "Het dichte loof van aardappelen overschaduwt de laagblijvende kamille te sterk en bodemgebonden schimmelproblemen kunnen verergeren.",
+        "en": "Dense potato foliage heavily overshades low-growing chamomile, and soil-borne fungal issues can be exacerbated."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/combinatieteelt-groenten-planten/"
+    },
+    {
+      "a": "chervil",
+      "b": "rosemary",
+      "reason": {
+        "nl": "Rozemarijn vereist droge, arme grond en volle zon, wat botst met de vochtige grond en halfschaduw die kervel nodig heeft.",
+        "en": "Rosemary requires dry, lean soil and full sun, which conflicts directly with chervil's need for moist soil and partial shade."
+      },
+      "source": "https://www.mooiemoestuin.nl/moestuin/combinatieteelt/"
+    },
+    {
+      "a": "chervil",
+      "b": "thyme",
+      "reason": {
+        "nl": "Tijm vraagt om droge, zonnige omstandigheden; in de constant vochtige grond van kervel ontstaat wortelrot.",
+        "en": "Thyme demands dry, sunny conditions; in the consistently moist soil chervil requires, thyme risks root rot."
+      },
+      "source": "https://www.mooiemoestuin.nl/moestuin/combinatieteelt/"
+    },
+    {
+      "a": "chervil",
+      "b": "sage",
+      "reason": {
+        "nl": "Salie houdt van droge, warme grond, terwijl kervel verbrandt in de volle zon en vochtige grond verlangt.",
+        "en": "Sage thrives in dry, sunny locations, whereas chervil scorches in full sun and requires constant moisture."
+      },
+      "source": "https://www.mooiemoestuin.nl/moestuin/combinatieteelt/"
+    },
+    {
+      "a": "chervil",
+      "b": "lavender",
+      "reason": {
+        "nl": "Lavendel heeft volle zon en droge, goed doorlatende grond nodig, onverenigbaar met de vocht- en schaduwbehoefte van kervel.",
+        "en": "Lavender demands baking sun and dry, well-draining soil, incompatible with chervil's moisture and shade requirements."
+      },
+      "source": "https://www.mooiemoestuin.nl/moestuin/combinatieteelt/"
+    },
+    {
+      "a": "chervil",
+      "b": "carrot",
+      "reason": {
+        "nl": "Beide behoren tot de schermbloemenfamilie, waardoor plagen zoals wortelvlieg en schimmelziekten zich snel concentreren.",
+        "en": "Both belong to the Apiaceae family, concentrating pests like carrot flies and encouraging fungal diseases in close quarters."
+      },
+      "source": "https://www.mooiemoestuin.nl/moestuin/combinatieteelt/"
+    },
+    {
+      "a": "chervil",
+      "b": "fennel",
+      "reason": {
+        "nl": "Venkel behoort tot dezelfde schermbloemenfamilie en scheidt stoffen via de wortels uit die de groei van omliggende planten remmen.",
+        "en": "Fennel belongs to the same family and releases allelopathic root exudates that inhibit the growth of neighbouring crops."
+      },
+      "source": "https://www.mooiemoestuin.nl/moestuin/combinatieteelt/"
+    },
+    {
+      "a": "chervil",
+      "b": "celery",
+      "reason": {
+        "nl": "Als verwante schermbloemigen trekken ze dezelfde plagen en ziektes aan, zoals bladvlekkenziekte en bladluizen.",
+        "en": "Sharing the Apiaceae family, they attract the same pests and diseases such as leaf spot and aphids."
+      },
+      "source": "https://www.mooiemoestuin.nl/moestuin/combinatieteelt/"
+    },
+    {
+      "a": "chervil",
+      "b": "parsley",
+      "reason": {
+        "nl": "Planten uit dezelfde schermbloemenfamilie verhogen samen de ziektedruk van meeldauw, bladvlekkenziekte en wortelvlieg.",
+        "en": "Both are umbellifers, and grouping them increases susceptibility to powdery mildew, leaf spot, and carrot flies."
+      },
+      "source": "https://www.mooiemoestuin.nl/moestuin/combinatieteelt/"
+    },
+    {
+      "a": "chervil",
+      "b": "mint",
+      "reason": {
+        "nl": "Munt woekert agressief via ondergrondse uitlopers en verstikt het tere wortelstelsel van kervel.",
+        "en": "Mint spreads aggressively through underground stolons and easily chokes out chervil's delicate root system."
+      },
+      "source": "https://www.mooiemoestuin.nl/moestuin/combinatieteelt/"
+    },
+    {
+      "a": "edamame",
+      "b": "onion",
+      "reason": {
+        "nl": "Scheidt zwavelverbindingen en antimicrobiële stoffen uit die de stikstofbindende Rhizobium-bacteriën op bonenwortels remmen.",
+        "en": "Releases sulfur compounds and antimicrobial root exudates that inhibit symbiotic Rhizobium nodules, stunting growth."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/vragen-2/soja-boontjes"
+    },
+    {
+      "a": "edamame",
+      "b": "garlic",
+      "reason": {
+        "nl": "Worteluitscheidingen verstoren de nuttige stikstofbindende Rhizobium-knobbeltjes op de wortels van edamame.",
+        "en": "Root exudates disrupt symbiotic nitrogen-fixing Rhizobium nodules on edamame roots, reducing growth."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/vragen-2/soja-boontjes"
+    },
+    {
+      "a": "edamame",
+      "b": "leek",
+      "reason": {
+        "nl": "Behoort tot de lookfamilie en scheidt stoffen uit die de stikstofbindende bacteriën op bonenwortels remmen.",
+        "en": "Part of the Allium family, releasing compounds into the soil that inhibit nitrogen-fixing bacteria on bean roots."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/vragen-2/soja-boontjes"
+    },
+    {
+      "a": "edamame",
+      "b": "shallot",
+      "reason": {
+        "nl": "Remt de vorming van Rhizobium-bacteriën via antimicrobiële worteluitscheidingen, wat de stikstofbinding belemmert.",
+        "en": "Inhibits Rhizobium nodule development through antimicrobial root exudates, substantially reducing nitrogen fixation."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/vragen-2/soja-boontjes"
+    },
+    {
+      "a": "edamame",
+      "b": "pea",
+      "reason": {
+        "nl": "Concurreert als peulvrucht om dezelfde voedingsstoffen en verhoogt het risico op gedeelde plagen en schimmels zoals voetrot.",
+        "en": "As fellow legumes, they compete for identical micronutrients and increase the risk of shared pests and fungal blights."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/vragen-2/soja-boontjes"
+    },
+    {
+      "a": "edamame",
+      "b": "mangetout",
+      "reason": {
+        "nl": "Deelt dezelfde bodemniche en verhoogt de vatbaarheid voor gezamenlijke plagen en schimmelziekten zoals vlekkenziekte.",
+        "en": "Occupies the same soil niche and multiplies the risk of shared pests and fungal diseases such as anthracnose."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/vragen-2/soja-boontjes"
+    },
+    {
+      "a": "edamame",
+      "b": "fennel",
+      "reason": {
+        "nl": "Heeft een sterke allelopatische werking die wortelgroei en vegetatieve ontwikkeling van peulgewassen afremt.",
+        "en": "Exerts a strong allelopathic effect, secreting compounds that inhibit root elongation and growth in legumes."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/vragen-2/soja-boontjes"
+    },
+    {
+      "a": "fig-in-pot",
+      "b": "blueberry-in-pot",
+      "reason": {
+        "nl": "Blauwe bessen vereisen een zure bodem (pH 4,0–5,5) en zacht water, terwijl vijgen een kalkrijke, neutrale tot licht alkalische bodem (pH 6,5–7,5) verlangen.",
+        "en": "Blueberries require acidic soil (pH 4.0–5.5) and soft rainwater, whereas figs need lime-rich, neutral to slightly alkaline substrate (pH 6.5–7.5)."
+      },
+      "source": "https://groei.nl/artikel/fruit-kweken-in-potten"
+    },
+    {
+      "a": "fig-in-pot",
+      "b": "mint",
+      "reason": {
+        "nl": "Munt woekert via ondergrondse wortelstokken en verstikt in de beperkte potruimte snel de wortelkluit van de vijg terwijl het al het vocht wegkaapt.",
+        "en": "Mint spreads aggressively via underground rhizomes, rapidly wrapping around the fig's root ball in container conditions and stealing moisture."
+      },
+      "source": "https://groei.nl/artikel/fruit-kweken-in-potten"
+    },
+    {
+      "a": "fig-in-pot",
+      "b": "cabbage",
+      "reason": {
+        "nl": "Kolen zijn zware stikstofvreters die veel water verbruiken; te veel stikstof leidt bij een vijg tot overmatige bladgroei ten koste van de vruchtzetting.",
+        "en": "Cabbages are heavy nitrogen feeders requiring large amounts of water; excess nitrogen causes the fig to produce excessive leaves instead of setting fruit."
+      },
+      "source": "https://groei.nl/artikel/fruit-kweken-in-potten"
+    },
+    {
+      "a": "fig-in-pot",
+      "b": "courgette",
+      "reason": {
+        "nl": "Courgettes vragen veel water en stikstofrijke bemesting, wat bij de vijg leidt tot overdadige bladgroei, vruchtval en overschaduwing van de boom.",
+        "en": "Courgettes demand massive amounts of water and nitrogen, causing the fig to direct energy into excessive foliage rather than fruit, while shading the tree."
+      },
+      "source": "https://groei.nl/artikel/fruit-kweken-in-potten"
+    },
+    {
+      "a": "fig-in-pot",
+      "b": "pumpkin",
+      "reason": {
+        "nl": "Pompoenen zijn zware stikstof- en waterbehoevende planten die de compacte vijgenboom overschaduwen en door overtollige stikstof vruchtdracht belemmeren.",
+        "en": "Pumpkins require high volumes of water and heavy nitrogen, which inhibits fig fruiting by promoting wild foliage growth, while also overshadowing the plant."
+      },
+      "source": "https://groei.nl/artikel/fruit-kweken-in-potten"
+    },
+    {
+      "a": "garden-cress",
+      "b": "cabbage",
+      "reason": {
+        "nl": "Kruisbloemige verwant; verhoogt de druk van gedeelde ziektes zoals knolvoet en plagen zoals koolwitjes, terwijl grote kolen de tuinkers overschaduwen.",
+        "en": "Cruciferous relative; increases the pressure of shared diseases like clubroot and pests like cabbage whites, while large cabbages smother cress."
+      },
+      "source": "https://beweegt.velt.nu/tienen/2210/kleineveldkers"
+    },
+    {
+      "a": "garden-cress",
+      "b": "broccoli",
+      "reason": {
+        "nl": "Behoort tot dezelfde kruisbloemenfamilie, wat het risico op knolvoet vergroot en gezamenlijke plagen zoals aardvlooien en koolvliegen aantrekt.",
+        "en": "Belongs to the same crucifer family, increasing clubroot risk and attracting shared pests such as flea beetles and cabbage root flies."
+      },
+      "source": "https://beweegt.velt.nu/tienen/2210/kleineveldkers"
+    },
+    {
+      "a": "garden-cress",
+      "b": "cauliflower",
+      "reason": {
+        "nl": "Als kruisbloemige vergroot dit de vatbaarheid voor knolvoet en koolplagen, terwijl het grote gewas de kleine tuinkers verdringt.",
+        "en": "As a crucifer, it elevates susceptibility to clubroot and brassica pests, while the large plant outcompetes small cress."
+      },
+      "source": "https://beweegt.velt.nu/tienen/2210/kleineveldkers"
+    },
+    {
+      "a": "garden-cress",
+      "b": "brussels-sprouts",
+      "reason": {
+        "nl": "Gedeelde kruisbloemige familie verhoogt de ziektedruk van knolvoet en trekt dezelfde schadelijke insecten aan.",
+        "en": "Sharing the crucifer family increases disease pressure from clubroot and attracts the same insect pests."
+      },
+      "source": "https://beweegt.velt.nu/tienen/2210/kleineveldkers"
+    },
+    {
+      "a": "garden-cress",
+      "b": "turnip",
+      "reason": {
+        "nl": "Beide zijn kruisbloemigen, waardoor directe nabijheid de kans op knolvoet en aantasting door aardvlooien vergroot.",
+        "en": "Both are brassicas, so close proximity increases the likelihood of clubroot and flea beetle infestations."
+      },
+      "source": "https://beweegt.velt.nu/tienen/2210/kleineveldkers"
+    },
+    {
+      "a": "garden-cress",
+      "b": "pumpkin",
+      "reason": {
+        "nl": "Krachtig woekerend blad overgroeit de kleine, tere tuinkers en ontneemt haar het nodige licht en de luchtcirculatie.",
+        "en": "Vigorous, sprawling foliage quickly overruns small, fragile cress, depriving it of necessary light and air circulation."
+      },
+      "source": "https://beweegt.velt.nu/tienen/2210/kleineveldkers"
+    },
+    {
+      "a": "garden-cress",
+      "b": "courgette",
+      "reason": {
+        "nl": "Grote, uitdijende bladeren verstikken de lage tuinkers en belemmeren de luchtcirculatie, wat leidt tot schimmelproblemen.",
+        "en": "Large, sprawling leaves smother low-growing cress and restrict air circulation, leading to fungal issues."
+      },
+      "source": "https://beweegt.velt.nu/tienen/2210/kleineveldkers"
+    },
+    {
+      "a": "garden-cress",
+      "b": "cucumber",
+      "reason": {
+        "nl": "Rankende planten overwoekeren de kwetsbare tuinkers snel en blokkeren het benodigde indirecte licht.",
+        "en": "Sprawling vines easily overrun delicate garden cress and block essential indirect light."
+      },
+      "source": "https://beweegt.velt.nu/tienen/2210/kleineveldkers"
+    },
+    {
+      "a": "gooseberry-in-pot",
+      "b": "potato",
+      "reason": {
+        "nl": "Is een zware eter met agressieve wortels die de beperkte potgrond ontdoet van kalium en vocht, met daarnaast gedeelde vatbaarheid voor bodemschimmels.",
+        "en": "Is a heavy feeder with vigorous roots that strip limited potting soil of potassium and moisture, along with shared vulnerability to soil-borne fungi."
+      },
+      "source": "https://groei.nl/artikel/kruisbes-kweken-in-een-pot"
+    },
+    {
+      "a": "gooseberry-in-pot",
+      "b": "carrot",
+      "reason": {
+        "nl": "Heeft diepe, ongestoorde penwortelruimte nodig en botst daardoor direct met de ondiepe wortels van de kruisbes, wat leidt tot groeiremming bij beide planten.",
+        "en": "Requires deep, undisturbed taproot development and directly competes with the gooseberry's shallow root system, stunting growth for both."
+      },
+      "source": "https://groei.nl/artikel/kruisbes-kweken-in-een-pot"
+    },
+    {
+      "a": "gooseberry-in-pot",
+      "b": "cabbage",
+      "reason": {
+        "nl": "Vraagt enorme hoeveelheden stikstof en water, waardoor de bessenstruik wordt overvleugeld en te weinig vocht en kalium overhoudt om bessen te rijpen.",
+        "en": "Demands huge amounts of nitrogen and water, outcompeting the berry bush and depriving it of the moisture and potassium needed to swell and ripen berries."
+      },
+      "source": "https://groei.nl/artikel/kruisbes-kweken-in-een-pot"
+    },
+    {
+      "a": "gooseberry-in-pot",
+      "b": "cauliflower",
+      "reason": {
+        "nl": "Als grote koolsoort onttrekt bloemkool te veel vocht en voedingsstoffen aan de pot, waardoor de kruisbes achterblijft in groei en vruchtdracht.",
+        "en": "As a large brassica, cauliflower strips excessive moisture and nutrients from the container, depriving the gooseberry of what it needs to develop fruit."
+      },
+      "source": "https://groei.nl/artikel/kruisbes-kweken-in-een-pot"
+    },
+    {
+      "a": "gooseberry-in-pot",
+      "b": "kale",
+      "reason": {
+        "nl": "Concurreert hevig om stikstof en water in de pot, waardoor de kruisbes een tekort krijgt aan noodzakelijk vocht en kalium.",
+        "en": "Competes heavily for nitrogen and water in a container, depriving the gooseberry of essential moisture and potassium."
+      },
+      "source": "https://groei.nl/artikel/kruisbes-kweken-in-een-pot"
+    },
+    {
+      "a": "gooseberry-in-pot",
+      "b": "redcurrant-in-pot",
+      "reason": {
+        "nl": "Het combineren van meerdere Ribes-soorten in één pot beperkt de luchtcirculatie, verhoogt de luchtvochtigheid en vergroot het risico op Amerikaanse kruisbessenmeeldauw en bladwespen drastisch.",
+        "en": "Combining multiple Ribes species tightly in a single container restricts airflow, increasing humidity and dramatically raising the risk of American gooseberry mildew and sawflies."
+      },
+      "source": "https://groei.nl/artikel/kruisbes-kweken-in-een-pot"
+    },
+    {
+      "a": "komatsuna",
+      "b": "cabbage",
+      "reason": {
+        "nl": "Deelt dezelfde plagen zoals aardvlooien en koolluis, verhoogt het risico op knolvoet en concurreert hevig om stikstof.",
+        "en": "Shares the same pests like flea beetles and cabbage aphids, increases clubroot risk, and competes heavily for nitrogen."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "cauliflower",
+      "reason": {
+        "nl": "Trekt dezelfde koolplagen aan, verhoogt de kans op bodemgebonden knolvoet en vraagt dezelfde voedingsstoffen.",
+        "en": "Attracts the same brassica pests, raises the risk of soil-borne clubroot, and competes for the same nutrients."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "broccoli",
+      "reason": {
+        "nl": "Trekt gespecialiseerde koolplagen en ziektes zoals knolvoet aan en concurreert op dezelfde worteldiepte om stikstof.",
+        "en": "Attracts specialist brassica pests and diseases like clubroot, while competing at the same root depth for nitrogen."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "kale",
+      "reason": {
+        "nl": "Als zware stikstofverbruiker concurreert boerenkool sterk met komatsuna en trekt het aardvlooien en koolluizen aan.",
+        "en": "As a heavy nitrogen feeder, kale competes strongly with komatsuna and attracts flea beetles and cabbage aphids."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "kohlrabi",
+      "reason": {
+        "nl": "Verhoogt de vatbaarheid voor aardvlooien en knolvoet en concurreert om dezelfde voedingsstoffen in de bodem.",
+        "en": "Increases susceptibility to flea beetles and clubroot while competing for the same soil nutrients."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "rocket",
+      "reason": {
+        "nl": "Behoort tot de kruisbloemigen en trekt aardvlooien aan die gaten in de bladeren van komatsuna vreten.",
+        "en": "Belongs to the brassica family and attracts flea beetles that riddle komatsuna leaves with holes."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "fennel",
+      "reason": {
+        "nl": "Scheidt allelopathische stoffen af via de wortels die de groei en kieming van komatsuna remmen.",
+        "en": "Releases allelopathic root exudates that chemically inhibit the growth and seed germination of komatsuna."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "strawberry",
+      "reason": {
+        "nl": "Vertoont negatieve allelopathie met koolgewassen, concurreert om wortelruimte en verhoogt het risico op schimmelziekten.",
+        "en": "Exhibits negative allelopathy with brassicas, competes for root resources, and increases vulnerability to fungal diseases."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "komatsuna",
+      "b": "mint",
+      "reason": {
+        "nl": "Vormt woekerende wortelstokken in dezelfde grond die vocht opmaken en de wortels van komatsuna verstikken.",
+        "en": "Produces rampant underground rhizomes when planted in the same soil, overtaking root volume and choking komatsuna."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/brassica-rapa-perviridis/komatsuna-of-mosterdspinazie/"
+    },
+    {
+      "a": "lavender",
+      "b": "mint",
+      "reason": {
+        "nl": "Heeft veel vocht nodig wat bij lavendel leidt tot wortelrot, en woekert met verstikkende worteluitlopers.",
+        "en": "Requires high moisture causing root rot in lavender, and spreads aggressive roots that suffocate it."
+      },
+      "source": "https://groei.nl/artikel/lavendel-geur-haag"
+    },
+    {
+      "a": "lavender",
+      "b": "chives",
+      "reason": {
+        "nl": "Verlangt vochtige, humusrijke grond; dit leidt bij lavendel onherroepelijk tot wortelrot en schimmels.",
+        "en": "Demands moist, humus-rich soil, which inevitably causes root rot and fungal diseases in lavender."
+      },
+      "source": "https://groei.nl/artikel/lavendel-geur-haag"
+    },
+    {
+      "a": "lavender",
+      "b": "parsley",
+      "reason": {
+        "nl": "Heeft vochtige, voedzame aarde nodig, terwijl lavendel niet tegen natte voeten kan.",
+        "en": "Requires moist, nutrient-rich soil, whereas lavender cannot tolerate wet roots."
+      },
+      "source": "https://groei.nl/artikel/lavendel-geur-haag"
+    },
+    {
+      "a": "lavender",
+      "b": "basil",
+      "reason": {
+        "nl": "Vraagt regelmatige watergift en vochtige grond, waardoor de wortels van lavendel gaan rotten.",
+        "en": "Requires regular watering and moist soil, which rots lavender's root system."
+      },
+      "source": "https://groei.nl/artikel/lavendel-geur-haag"
+    },
+    {
+      "a": "lavender",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Vraagt veel vocht en voeding waardoor lavendel wegkwijnt, en lavendel overschaduwt compacte groenten.",
+        "en": "Demands high moisture and nutrients causing lavender to deteriorate, while lavender overtakes compact greens."
+      },
+      "source": "https://groei.nl/artikel/lavendel-geur-haag"
+    },
+    {
+      "a": "lavender",
+      "b": "spinach",
+      "reason": {
+        "nl": "Verlangt een vochtige en rijk bemeste bodem, waarin lavendel zijn vorm verliest en niet gedijt.",
+        "en": "Needs moist, heavily fertilized soil, where lavender loses its compact shape and languishes."
+      },
+      "source": "https://groei.nl/artikel/lavendel-geur-haag"
+    },
+    {
+      "a": "lavender",
+      "b": "cucumber",
+      "reason": {
+        "nl": "Zware eter die dagelijks water nodig heeft; een teveel aan vocht en stikstof is schadelijk voor lavendel.",
+        "en": "Heavy feeder needing daily water; excess moisture and nitrogen harm lavender."
+      },
+      "source": "https://groei.nl/artikel/lavendel-geur-haag"
+    },
+    {
+      "a": "lavender",
+      "b": "pumpkin",
+      "reason": {
+        "nl": "Heeft dagelijks water en zwaar bemeste aarde nodig, wat zorgt voor wortelrot en groeiproblemen bij lavendel.",
+        "en": "Needs daily water and heavily fertilized soil, leading to root rot and poor growth for lavender."
+      },
+      "source": "https://groei.nl/artikel/lavendel-geur-haag"
+    },
+    {
+      "a": "lemon-balm",
+      "b": "rosemary",
+      "reason": {
+        "nl": "Hebben een tegenovergestelde behoefte: droge, arme grond en volle zon, terwijl citroenmelisse veel vocht vraagt en hen overgroeit of doet wegrotten.",
+        "en": "Have conflicting needs: they require dry, poor soil and sun, whereas lemon balm needs plenty of moisture and will outgrow or cause them to rot."
+      },
+      "source": "https://eetbaarijsselstein.wordpress.com/2020/05/19/citroenmelisse-een-heel-gewoon-kruid/"
+    },
+    {
+      "a": "lemon-balm",
+      "b": "thyme",
+      "reason": {
+        "nl": "Hebben een tegenovergestelde behoefte: droge, arme grond en volle zon, terwijl citroenmelisse veel vocht vraagt en hen overgroeit of doet wegrotten.",
+        "en": "Have conflicting needs: they require dry, poor soil and sun, whereas lemon balm needs plenty of moisture and will outgrow or cause them to rot."
+      },
+      "source": "https://eetbaarijsselstein.wordpress.com/2020/05/19/citroenmelisse-een-heel-gewoon-kruid/"
+    },
+    {
+      "a": "lemon-balm",
+      "b": "lavender",
+      "reason": {
+        "nl": "Hebben een tegenovergestelde behoefte: droge, arme grond en volle zon, terwijl citroenmelisse veel vocht vraagt en hen overgroeit of doet wegrotten.",
+        "en": "Have conflicting needs: they require dry, poor soil and sun, whereas lemon balm needs plenty of moisture and will outgrow or cause them to rot."
+      },
+      "source": "https://eetbaarijsselstein.wordpress.com/2020/05/19/citroenmelisse-een-heel-gewoon-kruid/"
+    },
+    {
+      "a": "lemon-balm",
+      "b": "sage",
+      "reason": {
+        "nl": "Hebben een tegenovergestelde behoefte: droge, arme grond en volle zon, terwijl citroenmelisse veel vocht vraagt en hen overgroeit of doet wegrotten.",
+        "en": "Have conflicting needs: they require dry, poor soil and sun, whereas lemon balm needs plenty of moisture and will outgrow or cause them to rot."
+      },
+      "source": "https://eetbaarijsselstein.wordpress.com/2020/05/19/citroenmelisse-een-heel-gewoon-kruid/"
+    },
+    {
+      "a": "lemon-balm",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Citroenmelisse is een forse groeier die deze lage en trage gewassen snel overschaduwt en ondergronds verdringt.",
+        "en": "Lemon balm is a vigorous grower that quickly overshadows and underground outcompetes these low and slow-growing crops."
+      },
+      "source": "https://eetbaarijsselstein.wordpress.com/2020/05/19/citroenmelisse-een-heel-gewoon-kruid/"
+    },
+    {
+      "a": "lemon-balm",
+      "b": "radish",
+      "reason": {
+        "nl": "Citroenmelisse is een forse groeier die deze lage en trage gewassen snel overschaduwt en ondergronds verdringt.",
+        "en": "Lemon balm is a vigorous grower that quickly overshadows and underground outcompetes these low and slow-growing crops."
+      },
+      "source": "https://eetbaarijsselstein.wordpress.com/2020/05/19/citroenmelisse-een-heel-gewoon-kruid/"
+    },
+    {
+      "a": "lemon-balm",
+      "b": "carrot",
+      "reason": {
+        "nl": "Citroenmelisse is een forse groeier die deze lage en trage gewassen snel overschaduwt en ondergronds verdringt.",
+        "en": "Lemon balm is a vigorous grower that quickly overshadows and underground outcompetes these low and slow-growing crops."
+      },
+      "source": "https://eetbaarijsselstein.wordpress.com/2020/05/19/citroenmelisse-een-heel-gewoon-kruid/"
+    },
+    {
+      "a": "lemon-balm",
+      "b": "spinach",
+      "reason": {
+        "nl": "Citroenmelisse is een forse groeier die deze lage en trage gewassen snel overschaduwt en ondergronds verdringt.",
+        "en": "Lemon balm is a vigorous grower that quickly overshadows and underground outcompetes these low and slow-growing crops."
+      },
+      "source": "https://eetbaarijsselstein.wordpress.com/2020/05/19/citroenmelisse-een-heel-gewoon-kruid/"
+    },
+    {
+      "a": "lemon-balm",
+      "b": "mint",
+      "reason": {
+        "nl": "Vormen beide woekerende worteluitlopers en verstikken elkaars kluit door hevige wortelconcurrentie in een bak of pot.",
+        "en": "Both produce spreading underground runners and will suffocate each other's root systems through root competition in a container."
+      },
+      "source": "https://eetbaarijsselstein.wordpress.com/2020/05/19/citroenmelisse-een-heel-gewoon-kruid/"
+    },
+    {
+      "a": "lemon-verbena",
+      "b": "mint",
+      "reason": {
+        "nl": "Munt woekert hevig met ondergrondse uitlopers en verstikt in een pot of bak al snel het wortelstelsel van de houtige citroenverbena.",
+        "en": "Mint spreads aggressively via underground stolons and will quickly strangle the root system of woody lemon verbena in a shared container."
+      },
+      "source": "https://www.mooiemoestuin.nl/kruiden/citroenverbena/"
+    },
+    {
+      "a": "lemon-verbena",
+      "b": "lemon-balm",
+      "reason": {
+        "nl": "Citroenmelisse breidt zich agressief uit en domineert in een plantenbak al snel de wortelzone en voedingsstoffen ten koste van de gevoeligere citroenverbena.",
+        "en": "Lemon balm is an aggressive root spreader that quickly dominates the root zone and nutrients, outcompeting the more delicate lemon verbena."
+      },
+      "source": "https://www.mooiemoestuin.nl/kruiden/citroenverbena/"
+    },
+    {
+      "a": "lemon-verbena",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Citroenverbena kan uitgroeien tot een hoge struik waarvan de dichte schaduw laaggroeiende, lichtbehoeftige sla belemmert in de groei.",
+        "en": "Lemon verbena can grow into a tall shrub whose dense shade starves low-growing, light-hungry lettuce of sunlight."
+      },
+      "source": "https://www.mooiemoestuin.nl/kruiden/citroenverbena/"
+    },
+    {
+      "a": "lemon-verbena",
+      "b": "radish",
+      "reason": {
+        "nl": "De dichte schaduw van een opgroeiende citroenverbenastruik belemmert de ontwikkeling van laagblijvende, zonminnende radijzen.",
+        "en": "The dense canopy shade of growing lemon verbena stunts the development of low-growing, sun-loving radishes."
+      },
+      "source": "https://www.mooiemoestuin.nl/kruiden/citroenverbena/"
+    },
+    {
+      "a": "lemon-verbena",
+      "b": "celery",
+      "reason": {
+        "nl": "Selderij vereist veel vocht, terwijl citroenverbena juist uitstekend gedraineerde, drogere grond nodig heeft en snel wegrot bij te veel nattigheid.",
+        "en": "Celery requires consistently moist soil, whereas lemon verbena demands sharp drainage and quickly suffers from root rot in wet conditions."
+      },
+      "source": "https://www.mooiemoestuin.nl/kruiden/citroenverbena/"
+    },
+    {
+      "a": "lemongrass",
+      "b": "lavender",
+      "reason": {
+        "nl": "Lavendel vraagt om arme, drogere grond, terwijl citroengras juist vochtige, voedselrijke aarde en regelmatig water verlangt.",
+        "en": "Lavender requires lean, dry soil, whereas lemongrass demands moist, nutrient-rich soil and regular watering."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-kweken-op-terras/"
+    },
+    {
+      "a": "lemongrass",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Koele-seizoensla schiet snel door in de hete, zonnige omstandigheden (zoals bij een zuidermuur of in de kas) die citroengras nodig heeft.",
+        "en": "Cool-season lettuce will bolt prematurely in the hot, sunny environment (such as against a south-facing wall or in a greenhouse) that lemongrass requires."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-kweken-op-terras/"
+    },
+    {
+      "a": "lemongrass",
+      "b": "oregano",
+      "reason": {
+        "nl": "Oregano heeft droge, schrale grond nodig; in de vochtige en voedselrijke potgrond voor citroengras kan het wortelrot oplopen.",
+        "en": "Oregano requires dry, lean soil and risks developing root rot in the moist, nutrient-rich soil needed by lemongrass."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-kweken-op-terras/"
+    },
+    {
+      "a": "lemongrass",
+      "b": "radish",
+      "reason": {
+        "nl": "Radijzen verkiezen koelere wortelzones en schieten snel door naar zaad op de warme, zonnige plek die citroengras verlangt.",
+        "en": "Radishes prefer cooler root zones and bolt quickly to seed in the hot, sunny placement required by lemongrass."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-kweken-op-terras/"
+    },
+    {
+      "a": "lemongrass",
+      "b": "rosemary",
+      "reason": {
+        "nl": "Rozemarijn heeft schrale, droge grond nodig, terwijl citroengras uitdroogt zonder regelmatig water en voedselrijke aarde.",
+        "en": "Rosemary needs lean, dry soil, whereas lemongrass will become parched without regular watering and rich soil."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-kweken-op-terras/"
+    },
+    {
+      "a": "lemongrass",
+      "b": "spinach",
+      "reason": {
+        "nl": "Spinazie geeft de voorkeur aan koelere grond en schiet snel door in de volle zon en warmte die citroengras nodig heeft om te groeien.",
+        "en": "Spinach prefers cooler root zones and bolts quickly under the high heat and full sun required by lemongrass."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-kweken-op-terras/"
+    },
+    {
+      "a": "lemongrass",
+      "b": "thyme",
+      "reason": {
+        "nl": "Tijm verlangt droge, relatief arme aarde en kan wortelrot krijgen in de vochtige, voedselrijke bodem die citroengras vereist.",
+        "en": "Thyme requires dry, relatively lean soil and risks root rot in the moist, nutrient-rich soil that lemongrass requires."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/moestuin/groenten/kruiden-kweken-op-terras/"
+    },
+    {
+      "a": "lovage",
+      "b": "thyme",
+      "reason": {
+        "nl": "Tijm verlangt droge, arme grond en volle zon; in de vochtige, rijke bodem en dichte schaduw van lavas zal het wegrotten.",
+        "en": "Thyme requires dry, lean soil and full sun; in lovage's moist, rich soil and dense shade, it will rot."
+      },
+      "source": "https://moestuincursus.nl/almanak/kruiden/maggiplant-lavas/"
+    },
+    {
+      "a": "lovage",
+      "b": "rosemary",
+      "reason": {
+        "nl": "Rozemarijn heeft droge, arme grond en volle zon nodig en kan rotten door de vochtige, rijke aarde en schaduw van lavas.",
+        "en": "Rosemary needs dry, lean soil and full sun, and is prone to rotting in the moist, rich soil and shade cast by lovage."
+      },
+      "source": "https://moestuincursus.nl/almanak/kruiden/maggiplant-lavas/"
+    },
+    {
+      "a": "lovage",
+      "b": "sage",
+      "reason": {
+        "nl": "Salie vereist droge, arme grond en veel zon, en kwijnt weg in de vochtige, voedselrijke grond en schaduw van lavas.",
+        "en": "Sage requires dry, lean soil and full sun, and will suffer in lovage's moist, nutrient-rich soil and heavy shade."
+      },
+      "source": "https://moestuincursus.nl/almanak/kruiden/maggiplant-lavas/"
+    },
+    {
+      "a": "lovage",
+      "b": "lavender",
+      "reason": {
+        "nl": "Lavendel heeft droge, arme grond en directe zon nodig en verrot in de vochtige, humusrijke grond en schaduw rond lavas.",
+        "en": "Lavender requires dry, lean soil and direct sun, and will rot in the moist, rich soil and dense shade around lovage."
+      },
+      "source": "https://moestuincursus.nl/almanak/kruiden/maggiplant-lavas/"
+    },
+    {
+      "a": "lovage",
+      "b": "tarragon",
+      "reason": {
+        "nl": "Beide planten scheiden vijandige wortelstoffen af (allelopathie) en concurreren zwaar om wortelruimte en voedingsstoffen.",
+        "en": "Both plants produce antagonistic root exudates (allelopathy) and compete heavily for root space and nutrients."
+      },
+      "source": "https://moestuincursus.nl/almanak/kruiden/maggiplant-lavas/"
+    },
+    {
+      "a": "lovage",
+      "b": "summer-savory",
+      "reason": {
+        "nl": "De groei van bonenkruid raakt sterk belemmerd door de dichte schaduw en voedselrijke, vochtige grond naast lavas.",
+        "en": "Savory growth is significantly stunted by the dense shade and nutrient-rich, moist conditions next to lovage."
+      },
+      "source": "https://moestuincursus.nl/almanak/kruiden/maggiplant-lavas/"
+    },
+    {
+      "a": "lovage",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Wordt in compacte bedden door de diepe schaduw en krachtige wortels van lavas snel beroofd van zonlicht en vocht.",
+        "en": "Quickly deprived of sunlight and moisture in compact beds due to lovage's dense canopy shade and deep taproots."
+      },
+      "source": "https://moestuincursus.nl/almanak/kruiden/maggiplant-lavas/"
+    },
+    {
+      "a": "lovage",
+      "b": "carrot",
+      "reason": {
+        "nl": "Fijnere wortelgewassen worden overschaduwd en van water beroofd door de grote bladmassa en diepe wortels van lavas.",
+        "en": "Delicate root crops are easily deprived of sunlight and water by lovage's dense canopy spread and deep taproots."
+      },
+      "source": "https://moestuincursus.nl/almanak/kruiden/maggiplant-lavas/"
+    },
+    {
+      "a": "lovage",
+      "b": "radish",
+      "reason": {
+        "nl": "Krijgt te weinig zonlicht en vocht in een kleine teeltruimte door de dichte schaduw en zware wortelconcurrentie van lavas.",
+        "en": "Suffers from lack of sunlight and moisture in tight spaces due to lovage's dense shade and strong root competition."
+      },
+      "source": "https://moestuincursus.nl/almanak/kruiden/maggiplant-lavas/"
+    },
+    {
+      "a": "marjoram",
+      "b": "celery",
+      "reason": {
+        "nl": "Selderij vraagt veel vocht en zware bemesting, terwijl marjolein op schrale, droge grond hoort en bezwijkt aan wortelrot.",
+        "en": "Celery requires heavy moisture and rich fertilization, whereas marjoram needs dry, lean soil and perishes from root rot."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/origanum-majorana/marjolein/"
+    },
+    {
+      "a": "marjoram",
+      "b": "lettuce",
+      "reason": {
+        "nl": "De uitdijende, houtige marjoleinstruik overschaduwt en verdringt lage bladgroenten in kleine kweekbakken.",
+        "en": "The expanding, woody marjoram bush shades out and crowds delicate, low-growing greens in small planters."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/origanum-majorana/marjolein/"
+    },
+    {
+      "a": "marjoram",
+      "b": "radish",
+      "reason": {
+        "nl": "Marjolein groeit breed uit en overschaduwt kleine, laagblijvende groenten in kleine moestuinbakken.",
+        "en": "Marjoram develops into a spreading shrub that shades out small, low-growing crops in tight spaces."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/origanum-majorana/marjolein/"
+    },
+    {
+      "a": "marjoram",
+      "b": "spinach",
+      "reason": {
+        "nl": "Wordt in kleine moestuinvakken snel overschaduwd en verdrongen door de grote struikachtige groei van marjolein.",
+        "en": "Easily shaded out and outcompeted in small garden beds by the large, shrubby growth of marjoram."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/origanum-majorana/marjolein/"
+    },
+    {
+      "a": "marjoram",
+      "b": "thyme",
+      "reason": {
+        "nl": "In potten concurreren de dichte, houtige wortels van marjolein en tijm te zwaar om dezelfde voedingsstoffen en wortelruimte.",
+        "en": "In pots, the dense, woody root systems of marjoram and thyme compete aggressively for the same trace nutrients and space."
+      },
+      "source": "https://www.tuinadvies.nl/planten/kruiden/origanum-majorana/marjolein/"
+    },
+    {
+      "a": "mizuna",
+      "b": "radish",
+      "reason": {
+        "nl": "Kruisbloemige die dezelfde plagen zoals aardvlooien en rupsen aantrekt en het risico op knolvoet vergroot.",
+        "en": "Crucifer that attracts the same pests such as flea beetles and caterpillars and increases the risk of clubroot."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mizuna",
+      "b": "rocket",
+      "reason": {
+        "nl": "Gedeelde kruisbloemige die gevoelig is voor dezelfde plagen zoals aardvlooien en bodemziekten zoals knolvoet.",
+        "en": "Shared brassica susceptible to the same pests like flea beetles and soil-borne diseases like clubroot."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mizuna",
+      "b": "pak-choi",
+      "reason": {
+        "nl": "Behoort tot dezelfde koolfamilie; trekt aardvlooien en koolrupsen aan en bevordert knolvoet in de bodem.",
+        "en": "Belongs to the same brassica family; attracts flea beetles and caterpillars and promotes clubroot in the soil."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mizuna",
+      "b": "cabbage",
+      "reason": {
+        "nl": "Gedeelde koolsoort die plagen zoals aardvlooien concentreert en knolvoet kan verspreiden.",
+        "en": "Shared brassica crop that concentrates pests like flea beetles and can spread clubroot."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mizuna",
+      "b": "turnip",
+      "reason": {
+        "nl": "Kruisbloemige die dezelfde schadelijke insecten aantrekt en het risico op knolvoet verhoogt.",
+        "en": "Crucifer that attracts the same insect pests and increases the risk of clubroot."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mizuna",
+      "b": "fennel",
+      "reason": {
+        "nl": "Scheidt allelopatische stoffen af via de wortels die de groei en wortelontwikkeling remmen.",
+        "en": "Excretes allelopathic substances through roots that inhibit root growth and plant development."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mizuna",
+      "b": "courgette",
+      "reason": {
+        "nl": "Groeit te uitbundig en werpt zware schaduw, wat leidt tot sprieterige groei en meeldauw bij mizuna.",
+        "en": "Vigorous growth casts heavy shade and monopolizes moisture, leading to leggy growth and mildew."
+      },
+      "source": "https://makkelijkemoestuin.nl/en/knowledge-base/asian-salad-mix-sowing-and-growing"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "broccoli",
+      "reason": {
+        "nl": "Behoort tot dezelfde kruisbloemenfamilie; verhoogt het risico op plagen zoals aardvlooien, koolwitjes en knolvoet.",
+        "en": "Belongs to the same brassica family; increases the risk of shared pests like flea beetles, cabbage whites, and clubroot."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "kohlrabi",
+      "reason": {
+        "nl": "Deelt dezelfde plagen (aardvlooien en rupsen van het koolwitje) en bodemschimmels zoals knolvoet.",
+        "en": "Shares the same pests (flea beetles and cabbage white caterpillars) and soil-borne fungal diseases like clubroot."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "cauliflower",
+      "reason": {
+        "nl": "Vergroot de plaagdruk van koolwitjes en aardvlooien aanzienlijk door verwantschap binnen dezelfde familie.",
+        "en": "Significantly increases pest pressure from cabbage whites and flea beetles due to belonging to the same family."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "radish",
+      "reason": {
+        "nl": "Kruisbloemige die dezelfde schadelijke insecten, zoals vraatzuchtige aardvlooien, aantrekt.",
+        "en": "A brassica that attracts the same damaging insects, such as hungry flea beetles."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "kale",
+      "reason": {
+        "nl": "Deelt dezelfde ziekten en plagen (aardvlooien, rupsen van koolwitjes en knolvoet) met bladmosterd.",
+        "en": "Shares diseases and pests (flea beetles, cabbage white caterpillars, and clubroot) with mustard greens."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "fennel",
+      "reason": {
+        "nl": "Geeft via de wortels stoffen af die de groei en kieming van blad- en koolgewassen actief belemmeren.",
+        "en": "Releases allelopathic root exudates that actively inhibit the germination and growth of leafy brassicas."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "pumpkin",
+      "reason": {
+        "nl": "Grote rankende plant met breed blad die bladmosterd overwoekert, licht wegneemt en de grond te klam houdt.",
+        "en": "Large sprawling plant whose broad foliage overtakes mustard greens, depriving them of light and good airflow."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "mustard-greens",
+      "b": "runner-bean",
+      "reason": {
+        "nl": "Hoge klimmers overwoekeren de mosterd, waardoor de bladontwikkeling door lichtgebrek stagneert.",
+        "en": "Tall climbing beans overshadow mustard greens, causing leaf growth to stall due to a lack of sunlight."
+      },
+      "source": "https://makkelijkemoestuin.nl/kennisbank/aziatische-pluksla-zaaien-en-kweken"
+    },
+    {
+      "a": "nasturtium",
+      "b": "basil",
+      "reason": {
+        "nl": "Wordt door de krachtige, kruipende ranken van Oost-Indische kers overwoekerd en beroofd van licht en lucht.",
+        "en": "Easily smothered by the aggressive trailing vines of nasturtium, depriving it of sunlight and airflow."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "nasturtium",
+      "b": "carrot",
+      "reason": {
+        "nl": "De trage, fijnbladige groei van worteltjes wordt snel verstikt door de forse ranken.",
+        "en": "Slow, fine foliage of carrots is quickly overgrown and smothered by vigorous nasturtium vines."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "nasturtium",
+      "b": "fennel",
+      "reason": {
+        "nl": "Scheidt allelopathische stoffen af via de wortels die de groei van naburige planten remmen.",
+        "en": "Releases allelopathic root exudates that inhibit the growth of neighboring plants."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "nasturtium",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Wordt snel overschaduwd en verstikt door de uitbundige groei van Oost-Indische kers.",
+        "en": "Quickly shaded out and smothered by the vigorous crawling growth of nasturtium."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "nasturtium",
+      "b": "parsley",
+      "reason": {
+        "nl": "Het compacte, traaggroeiende kruid wordt gemakkelijk overwoekerd en verstikt.",
+        "en": "This compact, slow-growing herb is easily overwhelmed and smothered by sprawling vines."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/oi-kers"
+    },
+    {
+      "a": "pea-shoots",
+      "b": "garlic",
+      "reason": {
+        "nl": "Knoflook scheidt zwavelverbindingen en schimmelwerende stoffen uit die de stikstofbindende Rhizobium-bacteriën op erwtenwortels belemmeren.",
+        "en": "Garlic releases sulfurous compounds and antifungal root exudates that inhibit nitrogen-fixing Rhizobium bacteria on pea roots."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/wintererwt"
+    },
+    {
+      "a": "pea-shoots",
+      "b": "onion",
+      "reason": {
+        "nl": "Uien verstoren met hun worteluitscheidingen nuttige bodemmicroben en stikstofbinding, wat leidt tot slechte kieming en vervormde groei bij erwtenscheuten.",
+        "en": "Onions secrete compounds that interfere with beneficial soil microbes and nitrogen fixation, causing stunted growth and poor germination in pea shoots."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/wintererwt"
+    },
+    {
+      "a": "pea-shoots",
+      "b": "chives",
+      "reason": {
+        "nl": "Bieslook behoort tot de alliumfamilie en belemmert de ontwikkeling en stikstofopname van peulvruchten zoals erwtenscheuten.",
+        "en": "Chives belong to the allium family and their root exudates disrupt beneficial soil bacteria and stunt pea shoot development."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/wintererwt"
+    },
+    {
+      "a": "pea-shoots",
+      "b": "leek",
+      "reason": {
+        "nl": "Prei remt als allium de stikstofbindende bacteriën op de wortels van erwtenscheuten, wat leidt tot vergeling en achterblijvende groei.",
+        "en": "Leek root secretions hinder the nitrogen-fixing Rhizobium bacteria of pea shoots, leading to yellowing foliage and poor growth."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/wintererwt"
+    },
+    {
+      "a": "pea-shoots",
+      "b": "fennel",
+      "reason": {
+        "nl": "Venkel scheidt via wortels en blad allelopathische stoffen uit die de zaadkieming en groei van peulvruchten sterk remmen.",
+        "en": "Fennel secretes allelopathic substances that inhibit seed emergence and stunt the growth of nearby legumes like pea shoots."
+      },
+      "source": "https://makkelijkemoestuin.nl/shop/zaden/wintererwt"
+    },
+    {
+      "a": "purslane",
+      "b": "carrot",
+      "reason": {
+        "nl": "De snel uitdijende mat van zomerpostelein overwoekert en verstikt langzaam kiemende wortelzaailingen.",
+        "en": "The fast-spreading carpet of summer purslane smothers and crowds out slow-germinating carrot seedlings."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "purslane",
+      "b": "parsnip",
+      "reason": {
+        "nl": "Pastinaak kiemt en groeit zeer traag en wordt al snel overschaduwd en verdrongen door het snelle tapijt van postelein.",
+        "en": "Parsnips germinate and establish very slowly, quickly getting overshadowed and crowded out by purslane's rapid spread."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "purslane",
+      "b": "parsley",
+      "reason": {
+        "nl": "Peterselie ontkiemt langzaam en delicaat, waardoor het snel overgroeid raakt door de agressief bodembedekkende postelein.",
+        "en": "Parsley germinates slowly and delicately, making it prone to being smothered by aggressive purslane ground cover."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "purslane",
+      "b": "pumpkin",
+      "reason": {
+        "nl": "Pompoenen vormen een dicht bladerdek laag over de grond, waardoor postelein te weinig zonlicht krijgt en kan gaan rotten.",
+        "en": "Pumpkins create a dense leaf canopy low over the ground, depriving sun-loving purslane of light and causing it to rot."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "purslane",
+      "b": "courgette",
+      "reason": {
+        "nl": "Kruipende of dichtbegroeide courgettes werpen te veel schaduw op de bodem, waardoor zomerpostelein sprieterig wordt.",
+        "en": "Sprawling courgettes cast dense lower shade, causing warmth- and sun-loving purslane to become spindly."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "purslane",
+      "b": "french-bean",
+      "reason": {
+        "nl": "Lage struikbonen sluiten de bodem af met dicht gebladerte, wat postelein berooft van het benodigde directe zonlicht.",
+        "en": "Low bush beans cover the soil with dense foliage, depriving purslane of the direct sunlight it requires."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "purslane",
+      "b": "thyme",
+      "reason": {
+        "nl": "Tijm verlangt droge, arme grond, terwijl postelein regelmatig water nodig heeft om sappig te blijven, wat leidt tot wortelrot bij tijm.",
+        "en": "Thyme thrives in lean, dry soil, whereas purslane needs regular watering for tender leaves, leading to root rot in thyme."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "purslane",
+      "b": "rosemary",
+      "reason": {
+        "nl": "Rozemarijn vereist droge omstandigheden en verdraagt het vochtige regime dat postelein nodig heeft slecht.",
+        "en": "Rosemary requires dry conditions and easily suffers from root rot under the frequent watering purslane demands."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "purslane",
+      "b": "sage",
+      "reason": {
+        "nl": "Salie gedijt op drogere grond; het regelmatige waterregime van postelein leidt bij mediterrane kruiden snel tot wortelrot.",
+        "en": "Sage thrives in drier soil; the steady watering schedule required to keep purslane succulent causes root rot in Mediterranean herbs."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "radicchio",
+      "b": "parsley",
+      "reason": {
+        "nl": "Peterselie scheidt via de wortels stoffen uit die de wortelontwikkeling en kropvorming van cichoreiachtigen zoals roodlof remmen.",
+        "en": "Parsley secretes allelopathic root exudates that inhibit root development and head formation in chicory crops like radicchio."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "radicchio",
+      "b": "celeriac",
+      "reason": {
+        "nl": "Knolselderij remt de kropvorming van roodlof door worteluitscheidingen en onttrekt bovendien snel veel vocht en voeding aan de bodem.",
+        "en": "Celeriac inhibits radicchio heading through root exudates and rapidly depletes soil moisture and nutrients."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "radicchio",
+      "b": "celery",
+      "reason": {
+        "nl": "Bleekselderij scheidt groeiremmende stoffen uit die kropvorming dwarsbomen en verbruikt grote hoeveelheden vocht in plantenbakken.",
+        "en": "Celery produces allelopathic root exudates that hinder head formation and heavily depletes available water."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "radicchio",
+      "b": "celery-leaf",
+      "reason": {
+        "nl": "Bladselderij scheidt stoffen uit die de wortelgroei en kropvorming van cichoreiachtigen belemmeren.",
+        "en": "Celery leaf produces allelopathic exudates that impair root expansion and head formation in chicories."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "radicchio",
+      "b": "lovage",
+      "reason": {
+        "nl": "Lavas behoort tot de schermbloemigen waarvan de worteluitscheidingen een nadelige invloed hebben op de kropvorming van roodlof.",
+        "en": "Lovage belongs to the umbellifer family, whose root secretions adversely affect the growth and heading of chicories."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "radicchio",
+      "b": "beetroot",
+      "reason": {
+        "nl": "Rode bieten concurreren op dezelfde diepte om dezelfde sporenelementen, wat resulteert in slecht gevormde roodlofkroppen.",
+        "en": "Beetroot competes at the same root depth for specific trace minerals, leading to underdeveloped, poorly folded radicchio heads."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "radicchio",
+      "b": "endive",
+      "reason": {
+        "nl": "Als nauwe verwant uit hetzelfde geslacht vergroot andijvie de kans op overdracht van wortelluizen en schimmelziekten zoals meeldauw en vruchtrot.",
+        "en": "As a close relative within the same genus, endive increases the risk of transferring root aphids and fungal diseases like mildew and botrytis head rot."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "radicchio",
+      "b": "lettuce",
+      "reason": {
+        "nl": "Verwantschap binnen de composietenfamilie verhoogt de vatbaarheid voor gezamenlijke plagen en schimmels zoals botrytis.",
+        "en": "Sharing the same botanical family increases the risk of shared pest infestations and fungal issues such as botrytis rot."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "radicchio",
+      "b": "fennel",
+      "reason": {
+        "nl": "Venkel scheidt biochemische stoffen af via de wortels die een algemeen remmende werking hebben op compacte kropvormende bladgewassen.",
+        "en": "Fennel releases biochemical compounds from its roots that exert a stunting effect on compact heading crops like radicchio."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "radicchio",
+      "b": "tomato",
+      "reason": {
+        "nl": "Dichte tomatenplanten zorgen voor te veel vochtige schaduw en belemmeren de luchtcirculatie, waardoor roodlof in de herfst snel gaat rotten.",
+        "en": "Dense tomato plants cast damp shade and block airflow, depriving radicchio of autumn sunlight and causing leaves to rot."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "radicchio",
+      "b": "sweetcorn",
+      "reason": {
+        "nl": "Hoge maïsplanten nemen het nodige najaarszonlicht weg en creëren een vochtige schaduw die leidt tot bladsmet en vruchtrot.",
+        "en": "Tall sweetcorn blocks essential autumn sunlight and creates damp shade that leads to leaf rot and head spoiling."
+      },
+      "source": "https://velt.nu/radicchio"
+    },
+    {
+      "a": "raspberry-in-pot",
+      "b": "aubergine",
+      "reason": {
+        "nl": "Als lid van de nachtschadefamilie kan aubergine bodemschimmels zoals Verticillium en Phytophthora herbergen en concurreren om wortelruimte en voeding in de pot.",
+        "en": "As a nightshade, aubergine can harbor soil-borne fungal diseases like Verticillium wilt and Phytophthora, and heavily competes for root space and nutrients in a container."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/framboos-heeft-het-moeilijk"
+    },
+    {
+      "a": "raspberry-in-pot",
+      "b": "fennel",
+      "reason": {
+        "nl": "Venkel produceert allelopathische wortelstoffen die de groei van de frambozenstengels remmen en de oogst verminderen.",
+        "en": "Fennel produces allelopathic root exudates that act as a natural growth inhibitor, stunting raspberry canes and reducing yield in a confined planter."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/framboos-heeft-het-moeilijk"
+    },
+    {
+      "a": "raspberry-in-pot",
+      "b": "potato",
+      "reason": {
+        "nl": "Aardappels concurreren hevig om voedingsstoffen en kunnen schadelijke schimmelziekten zoals Verticillium en Phytophthora overdragen aan de framboos.",
+        "en": "Potatoes compete heavily for nutrients and root space, and can transmit devastating soil-borne fungal diseases such as Verticillium wilt and Phytophthora."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/framboos-heeft-het-moeilijk"
+    },
+    {
+      "a": "raspberry-in-pot",
+      "b": "strawberry",
+      "reason": {
+        "nl": "Cultuuraardbeien behoren tot dezelfde rozenfamilie, waardoor plagen zoals de frambozenkever en frambozenbloesemkever en schimmels zoals Botrytis snel overspringen.",
+        "en": "Standard strawberries share the same plant family (Rosaceae), significantly increasing the transmission of shared pests (raspberry beetle, strawberry blossom weevil) and grey mould (Botrytis)."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/framboos-heeft-het-moeilijk"
+    },
+    {
+      "a": "raspberry-in-pot",
+      "b": "tomato",
+      "reason": {
+        "nl": "Tomaten behoren tot de nachtschadefamilie en kunnen bodemschimmels zoals Verticillium en Phytophthora overbrengen, wat kan leiden tot het afsterven van frambozen.",
+        "en": "Tomatoes are nightshades that can carry soil-borne fungal diseases like Verticillium wilt and Phytophthora, which can cause raspberry canes to wilt and die."
+      },
+      "source": "https://community.makkelijkemoestuin.nl/posts/net-niet-mm/framboos-heeft-het-moeilijk"
+    },
+    {
+      "a": "redcurrant-in-pot",
+      "b": "strawberry",
+      "reason": {
+        "nl": "Het bladerdek van de aalbes creëert schaduw en vocht aan de grond waardoor aardbeien slecht opdrogen en snel gaan rotten (Botrytis), en ze concurreren om oppervlaktewater.",
+        "en": "The currant's foliage traps moisture and creates shade causing strawberries to dry too slowly and rot (Botrytis), while also competing for surface water."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/aalbes"
+    },
+    {
+      "a": "redcurrant-in-pot",
+      "b": "potato",
+      "reason": {
+        "nl": "Aardappels zijn zware vreters met agressieve knollen die te veel water en voedingsstoffen onttrekken en schimmelziekten kunnen introduceren.",
+        "en": "Potatoes are heavy feeders with aggressive tubers that rapidly deplete water and nutrients and can introduce soil pathogens and blights."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/aalbes"
+    },
+    {
+      "a": "redcurrant-in-pot",
+      "b": "carrot",
+      "reason": {
+        "nl": "Wortels hebben diepe, losse grond nodig en het oogsten ervan verstoort het oppervlakkige, kwetsbare wortelstelsel van de rode bes.",
+        "en": "Carrots require deep, loose soil, and harvesting them disturbs the redcurrant's delicate and shallow root system."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/aalbes"
+    },
+    {
+      "a": "stevia",
+      "b": "mint",
+      "reason": {
+        "nl": "Woekert agressief met ondergrondse worteluitlopers en verdringt het fijne wortelstelsel van stevia snel.",
+        "en": "Spreads aggressively via underground runners and quickly chokes out stevia's delicate root system."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/stevia"
+    },
+    {
+      "a": "stevia",
+      "b": "fennel",
+      "reason": {
+        "nl": "Scheidt allelopathische stoffen af via de wortels die de groei van naburige kruiden en groenten zoals stevia belemmeren.",
+        "en": "Exudes allelopathic compounds from its roots that inhibit or stunt the growth of neighbouring herbs and vegetables like stevia."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/stevia"
+    },
+    {
+      "a": "stevia",
+      "b": "rosemary",
+      "reason": {
+        "nl": "Verlangt schrale, droge grond en weinig water, terwijl stevia gelijkmatig vochtige grond vereist; in dezelfde pot leidt dit tot wortelrot of uitdroging.",
+        "en": "Requires lean, dry soil and minimal water, whereas stevia needs evenly moist soil; sharing a planter leads to either root rot or dehydration."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/stevia"
+    },
+    {
+      "a": "stevia",
+      "b": "thyme",
+      "reason": {
+        "nl": "Heeft droge, arme grond nodig en kan niet tegen het vochtige substraat dat stevia nodig heeft om te overleven.",
+        "en": "Needs dry, poor soil and cannot tolerate the consistently moist substrate that stevia requires to thrive."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/stevia"
+    },
+    {
+      "a": "stevia",
+      "b": "lavender",
+      "reason": {
+        "nl": "Een mediterrane plant die droge, goed doorlatende grond eist; het regelmatige water geven voor stevia veroorzaakt wortelrot bij lavendel.",
+        "en": "A Mediterranean plant requiring dry, free-draining soil; regular watering for stevia will cause root rot in lavender."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/stevia"
+    },
+    {
+      "a": "stevia",
+      "b": "pumpkin",
+      "reason": {
+        "nl": "Grote, wijd vertakkende plant die te veel zware schaduw werpt, waardoor stevia zonlicht tekortkomt en zijn zoete smaak verliest.",
+        "en": "Large, sprawling plant that casts dense shade, starving stevia of sunlight and diminishing its sweet steviol glycosides."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/stevia"
+    },
+    {
+      "a": "stevia",
+      "b": "cabbage",
+      "reason": {
+        "nl": "Dichte koolsoorten werpen te veel schaduw over stevia, wat resulteert in slappe, houterige stengels en smakeloos blad.",
+        "en": "Dense brassicas cast too much shade over stevia, resulting in leggy, woody stems and bland-tasting foliage."
+      },
+      "source": "https://www.keukenplanten.nl/zaaikalender/stevia"
+    },
+    {
+      "a": "summer-savory",
+      "b": "mint",
+      "reason": {
+        "nl": "Munt woekert hevig met ondergrondse uitlopers en verlangt vochtige grond, waardoor het compacte bonenkruid snel overwoekerd en verstikt raakt.",
+        "en": "Mint spreads aggressively via underground runners and requires high moisture, quickly outcompeting and smothering savory."
+      },
+      "source": "https://www.tuinadvies.nl/tuininfo/dieren-in-de-tuin/insecten-bestuivers/partnerplanten-soorten-en-weetjes"
+    },
+    {
+      "a": "tatsoi",
+      "b": "kale",
+      "reason": {
+        "nl": "Het combineren van kruisbloemigen trekt gedeelde plagen aan zoals koolwitjes en aardvlooien, en verhoogt het risico op knolvoet.",
+        "en": "Grouping brassicas together attracts shared pests like cabbage whites and flea beetles, and raises the risk of clubroot."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "tatsoi",
+      "b": "cauliflower",
+      "reason": {
+        "nl": "Trekt dezelfde koolplagen aan (rupsen, koolvlieg) en vergroot de kans op hardnekkige bodemziekten zoals knolvoet.",
+        "en": "Attracts shared brassica pests like caterpillars and cabbage root fly, increasing the risk of persistent soil diseases like clubroot."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "tatsoi",
+      "b": "kohlrabi",
+      "reason": {
+        "nl": "Behoort tot dezelfde familie en vormt een magneet voor gedeelde plagen en bodemgebonden ziektes.",
+        "en": "Belongs to the brassica family, attracting the same pests and increasing vulnerability to soil-borne diseases."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "tatsoi",
+      "b": "mustard-greens",
+      "reason": {
+        "nl": "Als kruisbloemige vergroot dit gewas de plaagdruk van rupsen en aardvlooien en het risico op knolvoet.",
+        "en": "As a cruciferous crop, it increases pest pressure from caterpillars and flea beetles as well as clubroot risk."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "tatsoi",
+      "b": "fennel",
+      "reason": {
+        "nl": "Worteluitscheidingen van venkel hebben een remmende werking op de groei van naburige groenten.",
+        "en": "Fennel root exudates exert an allelopathic, growth-retarding effect on neighboring crops."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "tatsoi",
+      "b": "courgette",
+      "reason": {
+        "nl": "Overgroeit de lage rozetten van tatsoi snel, ontneemt licht en luchtcirculatie, en trekt slakken aan.",
+        "en": "Rapidly outcompetes low tatsoi rosettes for light, restricts ventilation, and fosters a humid microclimate for slugs."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "tatsoi",
+      "b": "pumpkin",
+      "reason": {
+        "nl": "Woekerende bladeren overschaduwen tatsoi en creëren een vochtige schuilplaats voor slakken.",
+        "en": "Sprawling foliage shades out compact tatsoi and creates a humid environment favored by slugs."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "tatsoi",
+      "b": "strawberry",
+      "reason": {
+        "nl": "Aardbei-uitlopers kunnen lage rozetten verstikken, concurreren om vocht en bieden een schuilplaats aan slakken.",
+        "en": "Strawberry runners can choke low-growing rosettes, compete for moisture, and shelter slugs that damage tatsoi."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "wild-rocket",
+      "b": "cabbage",
+      "reason": {
+        "nl": "Als kruisbloemige trekt kool dezelfde plagen aan, zoals aardvlooien en rupsen van het koolwitje, en verhoogt het de kans op knolvoet.",
+        "en": "As a brassica, cabbage attracts shared pests like flea beetles and cabbage white caterpillars, and raises the risk of clubroot."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "wild-rocket",
+      "b": "radish",
+      "reason": {
+        "nl": "Behoort tot de kruisbloemigen en concentreert plaagdruk van aardvlooien en koolwitjesrupsen.",
+        "en": "Belongs to the cabbage family and concentrates pest pressure from flea beetles and cabbage white caterpillars."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "wild-rocket",
+      "b": "pak-choi",
+      "reason": {
+        "nl": "Kruisbloemige buurplant die gevoelig is voor dezelfde plagen, waardoor aardvlooien en rupsen zich snel verspreiden naar rucola.",
+        "en": "A brassica neighbor susceptible to the same pests, causing flea beetles and caterpillars to easily spread to wild rocket."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "wild-rocket",
+      "b": "mustard-greens",
+      "reason": {
+        "nl": "Trekt als verwant kruisbloemig gewas aardvlooien en koolwitjes aan die jonge rucola aanvreten.",
+        "en": "Being a related crucifer, it attracts flea beetles and cabbage whites that feed heavily on young wild rocket."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "wild-rocket",
+      "b": "turnip",
+      "reason": {
+        "nl": "Deelt vatbaarheid voor knolvoet, aardvlooien en rupsen van het koolwitje met rucola.",
+        "en": "Shares vulnerability to clubroot, flea beetles, and cabbage white caterpillars with wild rocket."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "wild-rocket",
+      "b": "mint",
+      "reason": {
+        "nl": "Woekert agressief via ondergrondse uitlopers en verstikt de wortels van compacte bladgroenten.",
+        "en": "Spreads aggressively via underground runners and chokes out the root zone of compact leafy greens."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "wild-rocket",
+      "b": "lovage",
+      "reason": {
+        "nl": "Grote, krachtig groeiende vaste plant die compacte rucola in gedeelde bedden of bakken gemakkelijk overwoekert.",
+        "en": "A large, vigorous perennial that quickly overwhelms and outcompetes compact wild rocket in shared beds or planters."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "winter-purslane",
+      "b": "chives",
+      "reason": {
+        "nl": "Overwoekerende bieslook vertoont dominant gedrag en overschaduwt en verstikt de fijne zaailingen van winterpostelein.",
+        "en": "Overgrown chives can dominate and shade out delicate winter purslane seedlings before they can establish."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "winter-purslane",
+      "b": "swiss-chard",
+      "reason": {
+        "nl": "De grote, breed uitgroeiende bladeren van snijbiet kunnen de kwetsbare zaailingen van winterpostelein gemakkelijk overschaduwen en verstikken.",
+        "en": "Broad, sprawling chard foliage shades out and smothers delicate winter purslane seedlings in compact beds."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "winter-purslane",
+      "b": "mint",
+      "reason": {
+        "nl": "Munt is een agressieve woekeraar die de tere zaailingen van winterpostelein snel kan overgroeien en verstikken.",
+        "en": "Aggressive and sprawling mint can quickly overshadow and smother delicate winter purslane seedlings."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "winter-purslane",
+      "b": "sorrel",
+      "reason": {
+        "nl": "De brede bladeren van zuring kunnen dichtgroeien en het tere jonge groen van winterpostelein verstikken.",
+        "en": "Broad-leaved sorrel can sprawl densely, shading out and smothering fragile winter purslane seedlings."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "winter-purslane",
+      "b": "courgette",
+      "reason": {
+        "nl": "Het zware, vochtopslorpende bladerdek van courgette ontneemt winterpostelein het nodige licht en kan leiden tot mislukte kieming of wegkwijnen.",
+        "en": "Dense, moisture-sucking courgette canopies deprive winter purslane of light, leading to failed germination or damping off."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
+    },
+    {
+      "a": "winter-purslane",
+      "b": "tomato",
+      "reason": {
+        "nl": "Dichte struiktomaten werpen te veel schaduw op de nog warme nazomerbodem, wat de kieming en groei van winterpostelein belemmert.",
+        "en": "Dense summer tomato canopies provide excessive shade and deplete moisture, impeding winter purslane germination and causing damping off."
+      },
+      "source": "https://velt.nu/tip/hoe-start-je-met-wisselteelt"
     }
   ]
 }

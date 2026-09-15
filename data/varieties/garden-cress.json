@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "garden-cress-cressida",
+    "names": {
+      "nl": "Tuinkers 'Cressida'",
+      "en": "Garden Cress 'Cressida'"
+    },
+    "days_to_harvest": {
+      "min": 7,
+      "max": 28
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "ultra-early",
+      "rapid-germination",
+      "uniform-germination",
+      "fine-leaved",
+      "sharp",
+      "peppery",
+      "organic",
+      "cut-and-come-again"
+    ],
+    "crop_slug": "garden-cress",
+    "sources": [
+      "https://www.bolster.nl/tuinkers-cressida-lepidium-sativum/p91",
+      "https://www.bolster.nl/tuinkers-telen/t23310",
+      "https://www.bolster.nl/tuinkers-oogsten/t25679",
+      "https://www.facebook.com/DeBolsterBiologischeZaden/photos/1120426656882392/",
+      "https://ekoshoptillvaro.nl/products/tuinkers-kiemgroente-biologische-zaden-de-bolster",
+      "https://marvygreen.com/products/yb9jrogs",
+      "https://www.vreeken.nl/301100-tuinkers-grootbladige",
+      "https://www.vreeken.nl/301000-tuinkers-gewone-groene",
+      "https://www.gardenseeds.nl/product/zaaiset-tuinkers-cresso-bio/",
+      "https://dezaden.nl/product/buzzy-tuinkers-zaden-gewone/",
+      "https://www.welkoop.nl/hortitops-tuinkers-lepidium-sativum-gewone-groentezaden-15gram_1039959",
+      "https://www.vreeken.nl/301010-tuinkers-gewone-groene"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "garden-cress-grootbladige",
+    "names": {
+      "nl": "Tuinkers 'Grootbladige'",
+      "en": "Broadleaf Garden Cress"
+    },
+    "days_to_harvest": {
+      "min": 7,
+      "max": 20
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "broadleaf",
+      "large-leaved",
+      "mild",
+      "less-pungent",
+      "vigorous"
+    ],
+    "crop_slug": "garden-cress",
+    "sources": [
+      "https://www.bolster.nl/tuinkers-cressida-lepidium-sativum/p91",
+      "https://www.bolster.nl/tuinkers-telen/t23310",
+      "https://www.bolster.nl/tuinkers-oogsten/t25679",
+      "https://www.facebook.com/DeBolsterBiologischeZaden/photos/1120426656882392/",
+      "https://ekoshoptillvaro.nl/products/tuinkers-kiemgroente-biologische-zaden-de-bolster",
+      "https://marvygreen.com/products/yb9jrogs",
+      "https://www.vreeken.nl/301100-tuinkers-grootbladige",
+      "https://www.vreeken.nl/301000-tuinkers-gewone-groene",
+      "https://www.gardenseeds.nl/product/zaaiset-tuinkers-cresso-bio/",
+      "https://dezaden.nl/product/buzzy-tuinkers-zaden-gewone/",
+      "https://www.welkoop.nl/hortitops-tuinkers-lepidium-sativum-gewone-groentezaden-15gram_1039959",
+      "https://www.vreeken.nl/301010-tuinkers-gewone-groene"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "garden-cress-cresso",
+    "names": {
+      "nl": "Tuinkers 'Cresso' BIO",
+      "en": "Garden Cress 'Cresso' BIO"
+    },
+    "days_to_harvest": {
+      "min": 5,
+      "max": 10
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden (Garden Seeds)"
+    ],
+    "traits": [
+      "fast-growing",
+      "upright",
+      "compact",
+      "aromatic",
+      "zesty",
+      "radish-mustard-spice",
+      "organic"
+    ],
+    "crop_slug": "garden-cress",
+    "sources": [
+      "https://www.bolster.nl/tuinkers-cressida-lepidium-sativum/p91",
+      "https://www.bolster.nl/tuinkers-telen/t23310",
+      "https://www.bolster.nl/tuinkers-oogsten/t25679",
+      "https://www.facebook.com/DeBolsterBiologischeZaden/photos/1120426656882392/",
+      "https://ekoshoptillvaro.nl/products/tuinkers-kiemgroente-biologische-zaden-de-bolster",
+      "https://marvygreen.com/products/yb9jrogs",
+      "https://www.vreeken.nl/301100-tuinkers-grootbladige",
+      "https://www.vreeken.nl/301000-tuinkers-gewone-groene",
+      "https://www.gardenseeds.nl/product/zaaiset-tuinkers-cresso-bio/",
+      "https://dezaden.nl/product/buzzy-tuinkers-zaden-gewone/",
+      "https://www.welkoop.nl/hortitops-tuinkers-lepidium-sativum-gewone-groentezaden-15gram_1039959",
+      "https://www.vreeken.nl/301010-tuinkers-gewone-groene"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "garden-cress-gewone",
+    "names": {
+      "nl": "Tuinkers 'Gewone'",
+      "en": "Plain Garden Cress"
+    },
+    "days_to_harvest": {
+      "min": 5,
+      "max": 10
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "early",
+      "plain-leaf",
+      "rapid-germination",
+      "high-vitamin-c",
+      "sharp",
+      "crisp",
+      "low-maintenance",
+      "resilient"
+    ],
+    "crop_slug": "garden-cress",
+    "sources": [
+      "https://www.bolster.nl/tuinkers-cressida-lepidium-sativum/p91",
+      "https://www.bolster.nl/tuinkers-telen/t23310",
+      "https://www.bolster.nl/tuinkers-oogsten/t25679",
+      "https://www.facebook.com/DeBolsterBiologischeZaden/photos/1120426656882392/",
+      "https://ekoshoptillvaro.nl/products/tuinkers-kiemgroente-biologische-zaden-de-bolster",
+      "https://marvygreen.com/products/yb9jrogs",
+      "https://www.vreeken.nl/301100-tuinkers-grootbladige",
+      "https://www.vreeken.nl/301000-tuinkers-gewone-groene",
+      "https://www.gardenseeds.nl/product/zaaiset-tuinkers-cresso-bio/",
+      "https://dezaden.nl/product/buzzy-tuinkers-zaden-gewone/",
+      "https://www.welkoop.nl/hortitops-tuinkers-lepidium-sativum-gewone-groentezaden-15gram_1039959",
+      "https://www.vreeken.nl/301010-tuinkers-gewone-groene"
+    ],
+    "verified": false
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "slug": "raspberry-in-pot-little-sweet-sister",
+    "names": {
+      "nl": "Dwergframboos 'Little Sweet Sister'",
+      "en": "Dwarf Raspberry 'Little Sweet Sister'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com",
+      "Intratuin"
+    ],
+    "traits": [
+      "dwarf",
+      "bush",
+      "everbearing",
+      "self-fertile",
+      "heavy cropper",
+      "winter-hardy"
+    ],
+    "crop_slug": "raspberry-in-pot",
+    "sources": [
+      "https://nl-nl.bakker.com/products/dwerg-framboos-little-sweet-sister",
+      "https://www.intratuin.nl/dwergframboos-rubus-idaeus-little-sweet-sister-d-13-h-45-cm.html",
+      "https://nl-nl.bakker.com/products/framboos-ruby-beauty-%C2%AE",
+      "https://www.vreeken.nl/822160-pot-zomerframboos-ruby-beauty-bonbonberry-yummy",
+      "https://www.vreeken.nl/822137-geelbladige-dwergframboos-groovy-pbr-jdeboer005-pbr",
+      "https://www.intratuin.nl/herfstframboos-rubus-idaeus-naschmich-d-19-h-50-cm.html",
+      "https://www.intratuin.nl/tuinplanten/fruitbomen-en-struiken/frambozenstruik",
+      "https://www.intratuin.nl/moestuin/moestuin-planten/fruitplanten",
+      "https://www.intratuin.nl/moestuin/moestuin-planten/fruitplanten?p=2",
+      "https://groei.nl/artikel/framboos-kweken-in-een-pot",
+      "https://www.welkoop.nl/advies/soorten-potgrond.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "raspberry-in-pot-ruby-beauty",
+    "names": {
+      "nl": "Pot Zomerframboos 'Ruby Beauty'",
+      "en": "Potted Summer Raspberry 'Ruby Beauty'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden",
+      "Bakker.com"
+    ],
+    "traits": [
+      "bush",
+      "ultra-compact",
+      "thornless",
+      "non-invasive",
+      "self-pollinating"
+    ],
+    "crop_slug": "raspberry-in-pot",
+    "sources": [
+      "https://nl-nl.bakker.com/products/dwerg-framboos-little-sweet-sister",
+      "https://www.intratuin.nl/dwergframboos-rubus-idaeus-little-sweet-sister-d-13-h-45-cm.html",
+      "https://nl-nl.bakker.com/products/framboos-ruby-beauty-%C2%AE",
+      "https://www.vreeken.nl/822160-pot-zomerframboos-ruby-beauty-bonbonberry-yummy",
+      "https://www.vreeken.nl/822137-geelbladige-dwergframboos-groovy-pbr-jdeboer005-pbr",
+      "https://www.intratuin.nl/herfstframboos-rubus-idaeus-naschmich-d-19-h-50-cm.html",
+      "https://www.intratuin.nl/tuinplanten/fruitbomen-en-struiken/frambozenstruik",
+      "https://www.intratuin.nl/moestuin/moestuin-planten/fruitplanten",
+      "https://www.intratuin.nl/moestuin/moestuin-planten/fruitplanten?p=2",
+      "https://groei.nl/artikel/framboos-kweken-in-een-pot",
+      "https://www.welkoop.nl/advies/soorten-potgrond.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "raspberry-in-pot-groovy",
+    "names": {
+      "nl": "Geelbladige Dwergframboos 'Groovy'",
+      "en": "Golden-leaved Dwarf Raspberry 'Groovy'"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "dwarf",
+      "compact",
+      "virtually spineless",
+      "ornamental foliage",
+      "primocane"
+    ],
+    "crop_slug": "raspberry-in-pot",
+    "sources": [
+      "https://nl-nl.bakker.com/products/dwerg-framboos-little-sweet-sister",
+      "https://www.intratuin.nl/dwergframboos-rubus-idaeus-little-sweet-sister-d-13-h-45-cm.html",
+      "https://nl-nl.bakker.com/products/framboos-ruby-beauty-%C2%AE",
+      "https://www.vreeken.nl/822160-pot-zomerframboos-ruby-beauty-bonbonberry-yummy",
+      "https://www.vreeken.nl/822137-geelbladige-dwergframboos-groovy-pbr-jdeboer005-pbr",
+      "https://www.intratuin.nl/herfstframboos-rubus-idaeus-naschmich-d-19-h-50-cm.html",
+      "https://www.intratuin.nl/tuinplanten/fruitbomen-en-struiken/frambozenstruik",
+      "https://www.intratuin.nl/moestuin/moestuin-planten/fruitplanten",
+      "https://www.intratuin.nl/moestuin/moestuin-planten/fruitplanten?p=2",
+      "https://groei.nl/artikel/framboos-kweken-in-een-pot",
+      "https://www.welkoop.nl/advies/soorten-potgrond.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "raspberry-in-pot-naschmich",
+    "names": {
+      "nl": "Herfstframboos 'Naschmich'",
+      "en": "Snack Raspberry 'Naschmich'"
+    },
+    "days_to_harvest": null,
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "bush",
+      "patio",
+      "autumn-fruiting",
+      "winter-hardy",
+      "heavy-bearing"
+    ],
+    "crop_slug": "raspberry-in-pot",
+    "sources": [
+      "https://nl-nl.bakker.com/products/dwerg-framboos-little-sweet-sister",
+      "https://www.intratuin.nl/dwergframboos-rubus-idaeus-little-sweet-sister-d-13-h-45-cm.html",
+      "https://nl-nl.bakker.com/products/framboos-ruby-beauty-%C2%AE",
+      "https://www.vreeken.nl/822160-pot-zomerframboos-ruby-beauty-bonbonberry-yummy",
+      "https://www.vreeken.nl/822137-geelbladige-dwergframboos-groovy-pbr-jdeboer005-pbr",
+      "https://www.intratuin.nl/herfstframboos-rubus-idaeus-naschmich-d-19-h-50-cm.html",
+      "https://www.intratuin.nl/tuinplanten/fruitbomen-en-struiken/frambozenstruik",
+      "https://www.intratuin.nl/moestuin/moestuin-planten/fruitplanten",
+      "https://www.intratuin.nl/moestuin/moestuin-planten/fruitplanten?p=2",
+      "https://groei.nl/artikel/framboos-kweken-in-een-pot",
+      "https://www.welkoop.nl/advies/soorten-potgrond.html"
+    ],
+    "verified": false
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "slug": "lemongrass-oost-indisch",
+    "names": {
+      "nl": "Oost-Indisch Citroengras",
+      "en": "East Indian Lemongrass"
+    },
+    "days_to_harvest": {
+      "min": 90,
+      "max": 120
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy Seeds",
+      "Tuinplus"
+    ],
+    "traits": [
+      "bush",
+      "compact",
+      "clumping"
+    ],
+    "crop_slug": "lemongrass",
+    "sources": [
+      "https://tuinplus.nl/nl/4/080402/buzzy-xotica-citroengras-oost-indische.aspx",
+      "https://www.tuinwereld.nl/product/buzzy-xotica-citroengras-oost-indische",
+      "https://dezaden.nl/product/buzzy-xotica-citroengras-zaden-oost-indische/",
+      "https://tuincentrumsoontiens.nl/webshop/eetbare-tuin-moestuin/groente-en-kruidenzaden/citroengras-ostindische/",
+      "https://nl-nl.bakker.com/collections/citroengras-cymbopogon-lat",
+      "https://tuinzaden.eu/nl/citroengras-zaden-kopen/919634-citroengras-zaden.html",
+      "https://www.koopzaden.nl/product/citroengras-sereh-zaden-citronella",
+      "https://snoekzaden.nl/webshop/alle-categorie%C3%ABn/xotica/buzzy%C2%AE-xotica-citroengras,-sereh",
+      "https://www.mooiemoestuin.nl/kruiden/citroengras/",
+      "https://www.vreeken.nl/339000-citroengras",
+      "https://www.vreeken.nl/zaden/eenjarige-planten/keukenkruiden/p2-70",
+      "https://www.vreeken.nl/831350-citronellagras",
+      "https://www.ah.nl/allerhande/informatie/citroengras",
+      "https://www.vreeken.nl/831300-citroengras",
+      "https://www.intratuin.nl/biologische-citroengras-cymbopogon-flexuosus-d-12-h-10-cm.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lemongrass-zaad-citroengras",
+    "names": {
+      "nl": "Zaad-Citroengras",
+      "en": "Seed Lemongrass"
+    },
+    "days_to_harvest": {
+      "min": 100,
+      "max": 120
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "compact",
+      "early",
+      "vigorous",
+      "pest-resistant"
+    ],
+    "crop_slug": "lemongrass",
+    "sources": [
+      "https://tuinplus.nl/nl/4/080402/buzzy-xotica-citroengras-oost-indische.aspx",
+      "https://www.tuinwereld.nl/product/buzzy-xotica-citroengras-oost-indische",
+      "https://dezaden.nl/product/buzzy-xotica-citroengras-zaden-oost-indische/",
+      "https://tuincentrumsoontiens.nl/webshop/eetbare-tuin-moestuin/groente-en-kruidenzaden/citroengras-ostindische/",
+      "https://nl-nl.bakker.com/collections/citroengras-cymbopogon-lat",
+      "https://tuinzaden.eu/nl/citroengras-zaden-kopen/919634-citroengras-zaden.html",
+      "https://www.koopzaden.nl/product/citroengras-sereh-zaden-citronella",
+      "https://snoekzaden.nl/webshop/alle-categorie%C3%ABn/xotica/buzzy%C2%AE-xotica-citroengras,-sereh",
+      "https://www.mooiemoestuin.nl/kruiden/citroengras/",
+      "https://www.vreeken.nl/339000-citroengras",
+      "https://www.vreeken.nl/zaden/eenjarige-planten/keukenkruiden/p2-70",
+      "https://www.vreeken.nl/831350-citronellagras",
+      "https://www.ah.nl/allerhande/informatie/citroengras",
+      "https://www.vreeken.nl/831300-citroengras",
+      "https://www.intratuin.nl/biologische-citroengras-cymbopogon-flexuosus-d-12-h-10-cm.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lemongrass-west-indisch-echte-sereh",
+    "names": {
+      "nl": "West-Indisch Citroengras / Echte Sereh",
+      "en": "West Indian Lemongrass / True Sereh"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "robust",
+      "thick-stemmed",
+      "clumping"
+    ],
+    "crop_slug": "lemongrass",
+    "sources": [
+      "https://tuinplus.nl/nl/4/080402/buzzy-xotica-citroengras-oost-indische.aspx",
+      "https://www.tuinwereld.nl/product/buzzy-xotica-citroengras-oost-indische",
+      "https://dezaden.nl/product/buzzy-xotica-citroengras-zaden-oost-indische/",
+      "https://tuincentrumsoontiens.nl/webshop/eetbare-tuin-moestuin/groente-en-kruidenzaden/citroengras-ostindische/",
+      "https://nl-nl.bakker.com/collections/citroengras-cymbopogon-lat",
+      "https://tuinzaden.eu/nl/citroengras-zaden-kopen/919634-citroengras-zaden.html",
+      "https://www.koopzaden.nl/product/citroengras-sereh-zaden-citronella",
+      "https://snoekzaden.nl/webshop/alle-categorie%C3%ABn/xotica/buzzy%C2%AE-xotica-citroengras,-sereh",
+      "https://www.mooiemoestuin.nl/kruiden/citroengras/",
+      "https://www.vreeken.nl/339000-citroengras",
+      "https://www.vreeken.nl/zaden/eenjarige-planten/keukenkruiden/p2-70",
+      "https://www.vreeken.nl/831350-citronellagras",
+      "https://www.ah.nl/allerhande/informatie/citroengras",
+      "https://www.vreeken.nl/831300-citroengras",
+      "https://www.intratuin.nl/biologische-citroengras-cymbopogon-flexuosus-d-12-h-10-cm.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lemongrass-biologisch",
+    "names": {
+      "nl": "Biologisch Citroengras",
+      "en": "Organic Lemongrass"
+    },
+    "days_to_harvest": {
+      "min": 30,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "bushy",
+      "early",
+      "fast-growing",
+      "organic"
+    ],
+    "crop_slug": "lemongrass",
+    "sources": [
+      "https://tuinplus.nl/nl/4/080402/buzzy-xotica-citroengras-oost-indische.aspx",
+      "https://www.tuinwereld.nl/product/buzzy-xotica-citroengras-oost-indische",
+      "https://dezaden.nl/product/buzzy-xotica-citroengras-zaden-oost-indische/",
+      "https://tuincentrumsoontiens.nl/webshop/eetbare-tuin-moestuin/groente-en-kruidenzaden/citroengras-ostindische/",
+      "https://nl-nl.bakker.com/collections/citroengras-cymbopogon-lat",
+      "https://tuinzaden.eu/nl/citroengras-zaden-kopen/919634-citroengras-zaden.html",
+      "https://www.koopzaden.nl/product/citroengras-sereh-zaden-citronella",
+      "https://snoekzaden.nl/webshop/alle-categorie%C3%ABn/xotica/buzzy%C2%AE-xotica-citroengras,-sereh",
+      "https://www.mooiemoestuin.nl/kruiden/citroengras/",
+      "https://www.vreeken.nl/339000-citroengras",
+      "https://www.vreeken.nl/zaden/eenjarige-planten/keukenkruiden/p2-70",
+      "https://www.vreeken.nl/831350-citronellagras",
+      "https://www.ah.nl/allerhande/informatie/citroengras",
+      "https://www.vreeken.nl/831300-citroengras",
+      "https://www.intratuin.nl/biologische-citroengras-cymbopogon-flexuosus-d-12-h-10-cm.html"
+    ],
+    "verified": false
+  }
+]

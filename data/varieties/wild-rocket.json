@@ -1,0 +1,164 @@
+[
+  {
+    "slug": "wild-rocket-rochelle",
+    "names": {
+      "nl": "Wilde Rucola 'Rochelle'",
+      "en": "Wild Rocket 'Rochelle'"
+    },
+    "days_to_harvest": {
+      "min": 45,
+      "max": 55
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "mildew-resistant",
+      "disease-resistant",
+      "slow-bolting",
+      "bolt-resistant",
+      "erect"
+    ],
+    "crop_slug": "wild-rocket",
+    "sources": [
+      "https://www.bolster.nl/rucola-rochelle-diplotaxis-tenuifolia/p14084",
+      "https://www.bolster.nl/verrukkelijke-rucola/t25228",
+      "https://www.vreeken.nl/242100-wilde-rucola-sylvetta",
+      "https://demoestuinwinkel.nl/products/sluis_garden_rucola_wild_-_rocky_wild",
+      "https://www.bolster.nl/rucola/c694",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-rucola-wild-sylvetta",
+      "https://www.vreeken.nl/242050-olijfblad-rucola-foglia-ulivo-olivetta",
+      "https://www.dutchgardenseeds.com/hoe-kweek-ik-groente/rucola-kweken/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p11-40",
+      "https://www.vreeken.nl/zaden/groenten-fruit/sla/p2-80",
+      "https://nl-be.bakker.com/collections/schorseneer-scorzonera-lat",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p17-25",
+      "https://www.dutchgardenseeds.com/biologische-zaden-biologische-wilde-rucola-nl/",
+      "https://www.dutchgardenseeds.com/rucola-zaden/",
+      "https://www.koopzaden.nl/product/rucola-wild-rocky-wild-bio-zaden"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "wild-rocket-sylvetta",
+    "names": {
+      "nl": "Wilde Rucola 'Sylvetta'",
+      "en": "Wild Rocket 'Sylvetta'"
+    },
+    "days_to_harvest": {
+      "min": 40,
+      "max": 50
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "perennial",
+      "multi-cut",
+      "cut-and-come-again",
+      "compact"
+    ],
+    "crop_slug": "wild-rocket",
+    "sources": [
+      "https://www.bolster.nl/rucola-rochelle-diplotaxis-tenuifolia/p14084",
+      "https://www.bolster.nl/verrukkelijke-rucola/t25228",
+      "https://www.vreeken.nl/242100-wilde-rucola-sylvetta",
+      "https://demoestuinwinkel.nl/products/sluis_garden_rucola_wild_-_rocky_wild",
+      "https://www.bolster.nl/rucola/c694",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-rucola-wild-sylvetta",
+      "https://www.vreeken.nl/242050-olijfblad-rucola-foglia-ulivo-olivetta",
+      "https://www.dutchgardenseeds.com/hoe-kweek-ik-groente/rucola-kweken/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p11-40",
+      "https://www.vreeken.nl/zaden/groenten-fruit/sla/p2-80",
+      "https://nl-be.bakker.com/collections/schorseneer-scorzonera-lat",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p17-25",
+      "https://www.dutchgardenseeds.com/biologische-zaden-biologische-wilde-rucola-nl/",
+      "https://www.dutchgardenseeds.com/rucola-zaden/",
+      "https://www.koopzaden.nl/product/rucola-wild-rocky-wild-bio-zaden"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "wild-rocket-a-foglia-dulivo",
+    "names": {
+      "nl": "Olijfblad-Rucola 'A Foglia d’Ulivo'",
+      "en": "Olive Leaf Wild Rocket 'A Foglia d’Ulivo'"
+    },
+    "days_to_harvest": {
+      "min": 40,
+      "max": 50
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "perennial",
+      "hardy",
+      "ornamental"
+    ],
+    "crop_slug": "wild-rocket",
+    "sources": [
+      "https://www.bolster.nl/rucola-rochelle-diplotaxis-tenuifolia/p14084",
+      "https://www.bolster.nl/verrukkelijke-rucola/t25228",
+      "https://www.vreeken.nl/242100-wilde-rucola-sylvetta",
+      "https://demoestuinwinkel.nl/products/sluis_garden_rucola_wild_-_rocky_wild",
+      "https://www.bolster.nl/rucola/c694",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-rucola-wild-sylvetta",
+      "https://www.vreeken.nl/242050-olijfblad-rucola-foglia-ulivo-olivetta",
+      "https://www.dutchgardenseeds.com/hoe-kweek-ik-groente/rucola-kweken/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p11-40",
+      "https://www.vreeken.nl/zaden/groenten-fruit/sla/p2-80",
+      "https://nl-be.bakker.com/collections/schorseneer-scorzonera-lat",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p17-25",
+      "https://www.dutchgardenseeds.com/biologische-zaden-biologische-wilde-rucola-nl/",
+      "https://www.dutchgardenseeds.com/rucola-zaden/",
+      "https://www.koopzaden.nl/product/rucola-wild-rocky-wild-bio-zaden"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "wild-rocket-buzzy-organic",
+    "names": {
+      "nl": "Biologische Meerjarige Wilde Rucola",
+      "en": "Organic Perennial Wild Rocket"
+    },
+    "days_to_harvest": {
+      "min": 35,
+      "max": 45
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy Seeds",
+      "Dutch Garden Seeds"
+    ],
+    "traits": [
+      "early",
+      "repeat-cropper",
+      "compact",
+      "balcony-friendly",
+      "certified-organic"
+    ],
+    "crop_slug": "wild-rocket",
+    "sources": [
+      "https://www.bolster.nl/rucola-rochelle-diplotaxis-tenuifolia/p14084",
+      "https://www.bolster.nl/verrukkelijke-rucola/t25228",
+      "https://www.vreeken.nl/242100-wilde-rucola-sylvetta",
+      "https://demoestuinwinkel.nl/products/sluis_garden_rucola_wild_-_rocky_wild",
+      "https://www.bolster.nl/rucola/c694",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-rucola-wild-sylvetta",
+      "https://www.vreeken.nl/242050-olijfblad-rucola-foglia-ulivo-olivetta",
+      "https://www.dutchgardenseeds.com/hoe-kweek-ik-groente/rucola-kweken/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p11-40",
+      "https://www.vreeken.nl/zaden/groenten-fruit/sla/p2-80",
+      "https://nl-be.bakker.com/collections/schorseneer-scorzonera-lat",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p17-25",
+      "https://www.dutchgardenseeds.com/biologische-zaden-biologische-wilde-rucola-nl/",
+      "https://www.dutchgardenseeds.com/rucola-zaden/",
+      "https://www.koopzaden.nl/product/rucola-wild-rocky-wild-bio-zaden"
+    ],
+    "verified": false
+  }
+]

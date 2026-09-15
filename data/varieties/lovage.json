@@ -1,0 +1,138 @@
+[
+  {
+    "slug": "lovage-zee-lavas",
+    "names": {
+      "nl": "Zee-Lavas / Schotse Lavas",
+      "en": "Sea Lovage / Scots Lovage"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "naturally dwarf",
+      "compact bush",
+      "extremely hardy",
+      "cold-resistant",
+      "coastal wind tolerant",
+      "reddish-purple stems",
+      "milder celery-lovage flavor"
+    ],
+    "crop_slug": "lovage",
+    "sources": [
+      "https://dezaden.nl/product/buzzy-lavas-maggiplant-zaden/",
+      "https://www.vreeken.nl/372164-zee-lavas",
+      "https://www.bolster.nl/lavas-levisticum-officinale/p115",
+      "https://plukkers.com/products/lavas",
+      "https://www.welkoop.nl/hortitops-lavas-levisticum-officinalis-maggiplant-kruidenzaden-1-5gram_1039947",
+      "https://nl-nl.bakker.com/products/lavas-bio",
+      "https://nl-nl.bakker.com/products/maggieplant"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lovage-biologische-lavas",
+    "names": {
+      "nl": "Biologische Lavas",
+      "en": "Organic Lovage"
+    },
+    "days_to_harvest": {
+      "min": 80,
+      "max": 100
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "100% organic",
+      "zaadvast",
+      "heirloom",
+      "open-pollinated",
+      "perennial",
+      "pest-resistant",
+      "potent bouillon aroma"
+    ],
+    "crop_slug": "lovage",
+    "sources": [
+      "https://dezaden.nl/product/buzzy-lavas-maggiplant-zaden/",
+      "https://www.vreeken.nl/372164-zee-lavas",
+      "https://www.bolster.nl/lavas-levisticum-officinale/p115",
+      "https://plukkers.com/products/lavas",
+      "https://www.welkoop.nl/hortitops-lavas-levisticum-officinalis-maggiplant-kruidenzaden-1-5gram_1039947",
+      "https://nl-nl.bakker.com/products/lavas-bio",
+      "https://nl-nl.bakker.com/products/maggieplant"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lovage-hortitops-maggiplant",
+    "names": {
+      "nl": "Hortitops Lavas Maggiplant",
+      "en": "Hortitops Lovage Maggi Plant"
+    },
+    "days_to_harvest": {
+      "min": 80,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "first-year compact habit",
+      "frost-hardy",
+      "perennial",
+      "disease-resistant",
+      "partial-shade tolerant"
+    ],
+    "crop_slug": "lovage",
+    "sources": [
+      "https://dezaden.nl/product/buzzy-lavas-maggiplant-zaden/",
+      "https://www.vreeken.nl/372164-zee-lavas",
+      "https://www.bolster.nl/lavas-levisticum-officinale/p115",
+      "https://plukkers.com/products/lavas",
+      "https://www.welkoop.nl/hortitops-lavas-levisticum-officinalis-maggiplant-kruidenzaden-1-5gram_1039947",
+      "https://nl-nl.bakker.com/products/lavas-bio",
+      "https://nl-nl.bakker.com/products/maggieplant"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lovage-maggieplant-gepot-plantgoed",
+    "names": {
+      "nl": "Maggieplant / Lavas (Gepot Plantgoed)",
+      "en": "Lovage (Potted Starter Plant)"
+    },
+    "days_to_harvest": {
+      "min": 20,
+      "max": 30
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com"
+    ],
+    "traits": [
+      "early",
+      "quick start",
+      "heavy foliage producer",
+      "extreme frost resistance",
+      "robust stems"
+    ],
+    "crop_slug": "lovage",
+    "sources": [
+      "https://dezaden.nl/product/buzzy-lavas-maggiplant-zaden/",
+      "https://www.vreeken.nl/372164-zee-lavas",
+      "https://www.bolster.nl/lavas-levisticum-officinale/p115",
+      "https://plukkers.com/products/lavas",
+      "https://www.welkoop.nl/hortitops-lavas-levisticum-officinalis-maggiplant-kruidenzaden-1-5gram_1039947",
+      "https://nl-nl.bakker.com/products/lavas-bio",
+      "https://nl-nl.bakker.com/products/maggieplant"
+    ],
+    "verified": false
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "slug": "chamomile-zloty-lan",
+    "names": {
+      "nl": "Echte Kamille 'Zloty Lan'",
+      "en": "Chamomile 'Zloty Lan'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "bush",
+      "compact",
+      "tetraploid",
+      "honey-scented"
+    ],
+    "crop_slug": "chamomile",
+    "sources": [
+      "https://www.vreeken.nl/zoeken/kamille",
+      "https://www.vreeken.nl/347500-kamille-echte-zloty-lan",
+      "https://www.vreeken.nl/357700-roomse-kamille",
+      "https://nl-nl.bakker.com/collections/roomse-kamille-chamaemelum-lat",
+      "https://www.bolster.nl/echte-kamille-matricaria-chamomilla/p195",
+      "https://plukkers.com/products/echte-kamille",
+      "https://www.samenhaus.de/echte-kamille-bio-kamillesamen-von-de-bolster/a-534984",
+      "https://nl-nl.bakker.com/products/echte-kamille-bio",
+      "https://sprinklr.co/products/zaden-echte-kamille",
+      "https://www.welkoop.nl/hortitops-kamille-matricaria-chamomilla-kruidenzaden-0-25gram_1039940",
+      "https://nl-nl.bakker.com/collections/kamille-matricaria-lat"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "chamomile-roman",
+    "names": {
+      "nl": "Roomse Kamille",
+      "en": "Roman Chamomile"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "dwarf",
+      "creeping",
+      "perennial",
+      "drought-tolerant",
+      "apple-scented"
+    ],
+    "crop_slug": "chamomile",
+    "sources": [
+      "https://www.vreeken.nl/zoeken/kamille",
+      "https://www.vreeken.nl/347500-kamille-echte-zloty-lan",
+      "https://www.vreeken.nl/357700-roomse-kamille",
+      "https://nl-nl.bakker.com/collections/roomse-kamille-chamaemelum-lat",
+      "https://www.bolster.nl/echte-kamille-matricaria-chamomilla/p195",
+      "https://plukkers.com/products/echte-kamille",
+      "https://www.samenhaus.de/echte-kamille-bio-kamillesamen-von-de-bolster/a-534984",
+      "https://nl-nl.bakker.com/products/echte-kamille-bio",
+      "https://sprinklr.co/products/zaden-echte-kamille",
+      "https://www.welkoop.nl/hortitops-kamille-matricaria-chamomilla-kruidenzaden-0-25gram_1039940",
+      "https://nl-nl.bakker.com/collections/kamille-matricaria-lat"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "chamomile-bio",
+    "names": {
+      "nl": "Echte Kamille BIO",
+      "en": "Chamomile BIO"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster (Biologische Zaden)"
+    ],
+    "traits": [
+      "bushy",
+      "annual",
+      "certified-organic",
+      "open-pollinated",
+      "heirloom"
+    ],
+    "crop_slug": "chamomile",
+    "sources": [
+      "https://www.vreeken.nl/zoeken/kamille",
+      "https://www.vreeken.nl/347500-kamille-echte-zloty-lan",
+      "https://www.vreeken.nl/357700-roomse-kamille",
+      "https://nl-nl.bakker.com/collections/roomse-kamille-chamaemelum-lat",
+      "https://www.bolster.nl/echte-kamille-matricaria-chamomilla/p195",
+      "https://plukkers.com/products/echte-kamille",
+      "https://www.samenhaus.de/echte-kamille-bio-kamillesamen-von-de-bolster/a-534984",
+      "https://nl-nl.bakker.com/products/echte-kamille-bio",
+      "https://sprinklr.co/products/zaden-echte-kamille",
+      "https://www.welkoop.nl/hortitops-kamille-matricaria-chamomilla-kruidenzaden-0-25gram_1039940",
+      "https://nl-nl.bakker.com/collections/kamille-matricaria-lat"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "chamomile-hortitops",
+    "names": {
+      "nl": "Hortitops Kamille",
+      "en": "Hortitops Chamomile"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "compact",
+      "bush",
+      "drought-resilient",
+      "medicinal"
+    ],
+    "crop_slug": "chamomile",
+    "sources": [
+      "https://www.vreeken.nl/zoeken/kamille",
+      "https://www.vreeken.nl/347500-kamille-echte-zloty-lan",
+      "https://www.vreeken.nl/357700-roomse-kamille",
+      "https://nl-nl.bakker.com/collections/roomse-kamille-chamaemelum-lat",
+      "https://www.bolster.nl/echte-kamille-matricaria-chamomilla/p195",
+      "https://plukkers.com/products/echte-kamille",
+      "https://www.samenhaus.de/echte-kamille-bio-kamillesamen-von-de-bolster/a-534984",
+      "https://nl-nl.bakker.com/products/echte-kamille-bio",
+      "https://sprinklr.co/products/zaden-echte-kamille",
+      "https://www.welkoop.nl/hortitops-kamille-matricaria-chamomilla-kruidenzaden-0-25gram_1039940",
+      "https://nl-nl.bakker.com/collections/kamille-matricaria-lat"
+    ],
+    "verified": false
+  }
+]

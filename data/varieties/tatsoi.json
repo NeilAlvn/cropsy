@@ -1,0 +1,171 @@
+[
+  {
+    "slug": "tatsoi-biologisch",
+    "names": {
+      "nl": "Tatsoi (Biologisch)",
+      "en": "Tatsoi (Organic)"
+    },
+    "days_to_harvest": {
+      "min": 20,
+      "max": 40
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "early",
+      "cold-hardy",
+      "frost-tolerant",
+      "cut-and-come-again"
+    ],
+    "crop_slug": "tatsoi",
+    "sources": [
+      "https://tuinzaden.eu/nl/tatsoi-zaden-kopen/922744-tatsoi-biologische-zaden.html",
+      "https://demoestuinwinkel.nl/products/buzzy_microgreens_tatsoi",
+      "https://stadstuinieren.nl/artikel/tatsoi-kweken-oogsten-en-recepten/",
+      "https://www.bolster.nl/tatsoi-brassica-rapa/p3136",
+      "https://demoestuinwinkel.nl/products/de_bolster_tatsoi",
+      "https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/tatsoi-zelf-telen/",
+      "https://www.deoosteindeonline.nl/product/tatsoi-zaden-green-coin-bio",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://allezadenkopen.nl/products/tah-tsai-tatsoi-green-coin",
+      "https://demoestuinwinkel.nl/products/sluis_garden_tah_tsai_-_tatsoi_green_coin",
+      "https://demoestuinwinkel.nl/products/tatsoi-rood",
+      "https://www.vreeken.nl/223450-raapstelen-misome-tah-tsai-tat-choi-tatsoi-yukina-savoi",
+      "https://www.vreeken.nl/zoeken/raapsteel",
+      "https://www.vreeken.nl/267780-gemengde-bladsalade-spectrum",
+      "https://nl-nl.bakker.com/products/tatsoi-bio",
+      "https://www.robbiesmoestuin.nl/groeten-a-z/tatsoi",
+      "https://www.bolster.nl/tatsoi-telen/t22329"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "tatsoi-green-coin",
+    "names": {
+      "nl": "Tatsoi 'Green Coin'",
+      "en": "Tatsoi 'Green Coin'"
+    },
+    "days_to_harvest": {
+      "min": 25,
+      "max": 45
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden"
+    ],
+    "traits": [
+      "dwarf",
+      "compact",
+      "bolt-resistant",
+      "cold-tolerant"
+    ],
+    "crop_slug": "tatsoi",
+    "sources": [
+      "https://tuinzaden.eu/nl/tatsoi-zaden-kopen/922744-tatsoi-biologische-zaden.html",
+      "https://demoestuinwinkel.nl/products/buzzy_microgreens_tatsoi",
+      "https://stadstuinieren.nl/artikel/tatsoi-kweken-oogsten-en-recepten/",
+      "https://www.bolster.nl/tatsoi-brassica-rapa/p3136",
+      "https://demoestuinwinkel.nl/products/de_bolster_tatsoi",
+      "https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/tatsoi-zelf-telen/",
+      "https://www.deoosteindeonline.nl/product/tatsoi-zaden-green-coin-bio",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://allezadenkopen.nl/products/tah-tsai-tatsoi-green-coin",
+      "https://demoestuinwinkel.nl/products/sluis_garden_tah_tsai_-_tatsoi_green_coin",
+      "https://demoestuinwinkel.nl/products/tatsoi-rood",
+      "https://www.vreeken.nl/223450-raapstelen-misome-tah-tsai-tat-choi-tatsoi-yukina-savoi",
+      "https://www.vreeken.nl/zoeken/raapsteel",
+      "https://www.vreeken.nl/267780-gemengde-bladsalade-spectrum",
+      "https://nl-nl.bakker.com/products/tatsoi-bio",
+      "https://www.robbiesmoestuin.nl/groeten-a-z/tatsoi",
+      "https://www.bolster.nl/tatsoi-telen/t22329"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "tatsoi-rood",
+    "names": {
+      "nl": "Tatsoi Rood",
+      "en": "Red Tatsoi"
+    },
+    "days_to_harvest": {
+      "min": 20,
+      "max": 42
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy Seeds"
+    ],
+    "traits": [
+      "compact",
+      "ornamental",
+      "early",
+      "cut-and-come-again"
+    ],
+    "crop_slug": "tatsoi",
+    "sources": [
+      "https://tuinzaden.eu/nl/tatsoi-zaden-kopen/922744-tatsoi-biologische-zaden.html",
+      "https://demoestuinwinkel.nl/products/buzzy_microgreens_tatsoi",
+      "https://stadstuinieren.nl/artikel/tatsoi-kweken-oogsten-en-recepten/",
+      "https://www.bolster.nl/tatsoi-brassica-rapa/p3136",
+      "https://demoestuinwinkel.nl/products/de_bolster_tatsoi",
+      "https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/tatsoi-zelf-telen/",
+      "https://www.deoosteindeonline.nl/product/tatsoi-zaden-green-coin-bio",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://allezadenkopen.nl/products/tah-tsai-tatsoi-green-coin",
+      "https://demoestuinwinkel.nl/products/sluis_garden_tah_tsai_-_tatsoi_green_coin",
+      "https://demoestuinwinkel.nl/products/tatsoi-rood",
+      "https://www.vreeken.nl/223450-raapstelen-misome-tah-tsai-tat-choi-tatsoi-yukina-savoi",
+      "https://www.vreeken.nl/zoeken/raapsteel",
+      "https://www.vreeken.nl/267780-gemengde-bladsalade-spectrum",
+      "https://nl-nl.bakker.com/products/tatsoi-bio",
+      "https://www.robbiesmoestuin.nl/groeten-a-z/tatsoi",
+      "https://www.bolster.nl/tatsoi-telen/t22329"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "tatsoi-misome",
+    "names": {
+      "nl": "Tatsoi 'Misome'",
+      "en": "Tatsoi 'Misome'"
+    },
+    "days_to_harvest": {
+      "min": 21,
+      "max": 50
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "semi-upright",
+      "savoyed",
+      "cold-resilient",
+      "bolt-tolerant",
+      "cut-and-come-again"
+    ],
+    "crop_slug": "tatsoi",
+    "sources": [
+      "https://tuinzaden.eu/nl/tatsoi-zaden-kopen/922744-tatsoi-biologische-zaden.html",
+      "https://demoestuinwinkel.nl/products/buzzy_microgreens_tatsoi",
+      "https://stadstuinieren.nl/artikel/tatsoi-kweken-oogsten-en-recepten/",
+      "https://www.bolster.nl/tatsoi-brassica-rapa/p3136",
+      "https://demoestuinwinkel.nl/products/de_bolster_tatsoi",
+      "https://tinygardenbigfun.nl/index.php/planten-in-de-moestuin/tatsoi-zelf-telen/",
+      "https://www.deoosteindeonline.nl/product/tatsoi-zaden-green-coin-bio",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://allezadenkopen.nl/products/tah-tsai-tatsoi-green-coin",
+      "https://demoestuinwinkel.nl/products/sluis_garden_tah_tsai_-_tatsoi_green_coin",
+      "https://demoestuinwinkel.nl/products/tatsoi-rood",
+      "https://www.vreeken.nl/223450-raapstelen-misome-tah-tsai-tat-choi-tatsoi-yukina-savoi",
+      "https://www.vreeken.nl/zoeken/raapsteel",
+      "https://www.vreeken.nl/267780-gemengde-bladsalade-spectrum",
+      "https://nl-nl.bakker.com/products/tatsoi-bio",
+      "https://www.robbiesmoestuin.nl/groeten-a-z/tatsoi",
+      "https://www.bolster.nl/tatsoi-telen/t22329"
+    ],
+    "verified": false
+  }
+]

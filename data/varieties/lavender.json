@@ -1,0 +1,181 @@
+[
+  {
+    "slug": "lavender-munstead-strain",
+    "names": {
+      "nl": "Munstead Strain",
+      "en": "Munstead Strain"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 130
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken’s Zaden"
+    ],
+    "traits": [
+      "compact",
+      "dwarf-bush",
+      "perennial",
+      "hardy",
+      "drought-resistant",
+      "culinary",
+      "edible"
+    ],
+    "crop_slug": "lavender",
+    "sources": [
+      "https://www.vreeken.nl/594100-lavandula-angustifolia-munstead-strain",
+      "https://dezaden.nl/product/buzzy-biologische-echte-lavendel-zaden/",
+      "https://www.vreeken.nl/348100-lavendel",
+      "https://www.keukenplanten.nl/zaaikalender/lavendel",
+      "https://www.graszaaddirect.nl/products/echte-lavendel-lavandula-angustifolia",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-lavendel-echte",
+      "https://www.intratuin.nl/lavendel-lavandula-angustifolia-dwarf-blue-d-9-h-10-cm.html",
+      "https://www.intratuin.nl/plantengids/lavendel-lavandula-verzorgen",
+      "https://www.intratuin.nl/tuinplanten/vaste-planten/lavendel",
+      "https://www.bolster.nl/lavendel-lavandula-angustifolia/p116",
+      "https://www.bolster.eu/lavender-lavandula-angustifolia/p116",
+      "https://www.bolster.nl/planten-tegen-ongedierte-in-de-moestuin/t25607",
+      "https://www.bolster.nl/slakken-bestrijden-in-de-moestuin/t5197",
+      "https://demoestuinwinkel.nl/products/sluis_garden_lavendel_echte",
+      "https://www.welkoop.nl/tuin/planten/vaste-planten",
+      "https://www.welkoop.nl/hortitops-lavendel-lavandula-angustifolia-lavandula-officinalis-kruidenzaden-0-75gram_1039945",
+      "https://edepot.wur.nl/132727"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lavender-dwarf-blue",
+    "names": {
+      "nl": "Dwarf Blue",
+      "en": "Dwarf Blue"
+    },
+    "days_to_harvest": {
+      "min": 30,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "dwarf",
+      "bushy",
+      "evergreen",
+      "cold-hardy",
+      "drought-tolerant",
+      "culinary",
+      "edible"
+    ],
+    "crop_slug": "lavender",
+    "sources": [
+      "https://www.vreeken.nl/594100-lavandula-angustifolia-munstead-strain",
+      "https://dezaden.nl/product/buzzy-biologische-echte-lavendel-zaden/",
+      "https://www.vreeken.nl/348100-lavendel",
+      "https://www.keukenplanten.nl/zaaikalender/lavendel",
+      "https://www.graszaaddirect.nl/products/echte-lavendel-lavandula-angustifolia",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-lavendel-echte",
+      "https://www.intratuin.nl/lavendel-lavandula-angustifolia-dwarf-blue-d-9-h-10-cm.html",
+      "https://www.intratuin.nl/plantengids/lavendel-lavandula-verzorgen",
+      "https://www.intratuin.nl/tuinplanten/vaste-planten/lavendel",
+      "https://www.bolster.nl/lavendel-lavandula-angustifolia/p116",
+      "https://www.bolster.eu/lavender-lavandula-angustifolia/p116",
+      "https://www.bolster.nl/planten-tegen-ongedierte-in-de-moestuin/t25607",
+      "https://www.bolster.nl/slakken-bestrijden-in-de-moestuin/t5197",
+      "https://demoestuinwinkel.nl/products/sluis_garden_lavendel_echte",
+      "https://www.welkoop.nl/tuin/planten/vaste-planten",
+      "https://www.welkoop.nl/hortitops-lavendel-lavandula-angustifolia-lavandula-officinalis-kruidenzaden-0-75gram_1039945",
+      "https://edepot.wur.nl/132727"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lavender-biologische-lavendel",
+    "names": {
+      "nl": "Biologische Lavendel",
+      "en": "Organic Lavender"
+    },
+    "days_to_harvest": {
+      "min": 80,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "bushy",
+      "perennial",
+      "organic",
+      "hardy",
+      "pest-repellent",
+      "slug-repellent",
+      "culinary",
+      "edible"
+    ],
+    "crop_slug": "lavender",
+    "sources": [
+      "https://www.vreeken.nl/594100-lavandula-angustifolia-munstead-strain",
+      "https://dezaden.nl/product/buzzy-biologische-echte-lavendel-zaden/",
+      "https://www.vreeken.nl/348100-lavendel",
+      "https://www.keukenplanten.nl/zaaikalender/lavendel",
+      "https://www.graszaaddirect.nl/products/echte-lavendel-lavandula-angustifolia",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-lavendel-echte",
+      "https://www.intratuin.nl/lavendel-lavandula-angustifolia-dwarf-blue-d-9-h-10-cm.html",
+      "https://www.intratuin.nl/plantengids/lavendel-lavandula-verzorgen",
+      "https://www.intratuin.nl/tuinplanten/vaste-planten/lavendel",
+      "https://www.bolster.nl/lavendel-lavandula-angustifolia/p116",
+      "https://www.bolster.eu/lavender-lavandula-angustifolia/p116",
+      "https://www.bolster.nl/planten-tegen-ongedierte-in-de-moestuin/t25607",
+      "https://www.bolster.nl/slakken-bestrijden-in-de-moestuin/t5197",
+      "https://demoestuinwinkel.nl/products/sluis_garden_lavendel_echte",
+      "https://www.welkoop.nl/tuin/planten/vaste-planten",
+      "https://www.welkoop.nl/hortitops-lavendel-lavandula-angustifolia-lavandula-officinalis-kruidenzaden-0-75gram_1039945",
+      "https://edepot.wur.nl/132727"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lavender-echte-lavendel",
+    "names": {
+      "nl": "Hortitops Echte Lavendel",
+      "en": "Hortitops True Lavender"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "upright",
+      "bushy",
+      "winter-hardy",
+      "culinary",
+      "edible"
+    ],
+    "crop_slug": "lavender",
+    "sources": [
+      "https://www.vreeken.nl/594100-lavandula-angustifolia-munstead-strain",
+      "https://dezaden.nl/product/buzzy-biologische-echte-lavendel-zaden/",
+      "https://www.vreeken.nl/348100-lavendel",
+      "https://www.keukenplanten.nl/zaaikalender/lavendel",
+      "https://www.graszaaddirect.nl/products/echte-lavendel-lavandula-angustifolia",
+      "https://www.wishpel-bloempotten.nl/sluis-garden-lavendel-echte",
+      "https://www.intratuin.nl/lavendel-lavandula-angustifolia-dwarf-blue-d-9-h-10-cm.html",
+      "https://www.intratuin.nl/plantengids/lavendel-lavandula-verzorgen",
+      "https://www.intratuin.nl/tuinplanten/vaste-planten/lavendel",
+      "https://www.bolster.nl/lavendel-lavandula-angustifolia/p116",
+      "https://www.bolster.eu/lavender-lavandula-angustifolia/p116",
+      "https://www.bolster.nl/planten-tegen-ongedierte-in-de-moestuin/t25607",
+      "https://www.bolster.nl/slakken-bestrijden-in-de-moestuin/t5197",
+      "https://demoestuinwinkel.nl/products/sluis_garden_lavendel_echte",
+      "https://www.welkoop.nl/tuin/planten/vaste-planten",
+      "https://www.welkoop.nl/hortitops-lavendel-lavandula-angustifolia-lavandula-officinalis-kruidenzaden-0-75gram_1039945",
+      "https://edepot.wur.nl/132727"
+    ],
+    "verified": false
+  }
+]

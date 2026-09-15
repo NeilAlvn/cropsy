@@ -1,0 +1,149 @@
+[
+  {
+    "slug": "nasturtium-niet-rankend",
+    "names": {
+      "nl": "Oost-Indische kers 'Niet-rankend' (BIO)",
+      "en": "Nasturtium 'Non-trailing' (Organic)"
+    },
+    "days_to_harvest": {
+      "min": 35,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "bush",
+      "compact",
+      "non-trailing",
+      "drought-tolerant",
+      "organic",
+      "edible"
+    ],
+    "crop_slug": "nasturtium",
+    "sources": [
+      "https://www.bolster.nl/oost-indische-kers-niet-rankend-tropaeolum-majus/p232",
+      "https://www.pokon.nl/tips/oost-indische-kers/",
+      "https://groei.nl/artikel/zaaien-voor-beginners",
+      "https://nl-nl.bakker.com/collections/oost-indische-kers-tropaeolum-lat",
+      "https://www.vreeken.nl/558650-tropaeolum-nanum-tom-thumb-type-empress-india",
+      "https://www.vreeken.nl/693400-lima-kers-dark-leaf",
+      "https://www.semaille.com/nl/eenjarige-bloemen/1851-oostindische-kers-empress-of-india-5415166027337.html",
+      "https://www.welkoop.nl/hortitops-oost-indische-kers-jewel-bloemzaden-oost-indische-kers-tropaeolum_1040188",
+      "https://www.welkoop.nl/hortitops-oost-indische-kers-tropaeolum-majus-bloemzaden-3gram_1301669",
+      "https://www.intratuin.nl/baza-hangtuintje-biologische-oostindische-kers-tropaeolum.html",
+      "https://www.intratuin.nl/inspiratie/moestuinkalender-mei"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "nasturtium-empress-of-india",
+    "names": {
+      "nl": "Tropaeolum nanum 'Empress of India'",
+      "en": "Nasturtium 'Empress of India'"
+    },
+    "days_to_harvest": {
+      "min": 25,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "bush",
+      "dwarf",
+      "heirloom",
+      "early",
+      "crimson",
+      "cherry-scarlet"
+    ],
+    "crop_slug": "nasturtium",
+    "sources": [
+      "https://www.bolster.nl/oost-indische-kers-niet-rankend-tropaeolum-majus/p232",
+      "https://www.pokon.nl/tips/oost-indische-kers/",
+      "https://groei.nl/artikel/zaaien-voor-beginners",
+      "https://nl-nl.bakker.com/collections/oost-indische-kers-tropaeolum-lat",
+      "https://www.vreeken.nl/558650-tropaeolum-nanum-tom-thumb-type-empress-india",
+      "https://www.vreeken.nl/693400-lima-kers-dark-leaf",
+      "https://www.semaille.com/nl/eenjarige-bloemen/1851-oostindische-kers-empress-of-india-5415166027337.html",
+      "https://www.welkoop.nl/hortitops-oost-indische-kers-jewel-bloemzaden-oost-indische-kers-tropaeolum_1040188",
+      "https://www.welkoop.nl/hortitops-oost-indische-kers-tropaeolum-majus-bloemzaden-3gram_1301669",
+      "https://www.intratuin.nl/baza-hangtuintje-biologische-oostindische-kers-tropaeolum.html",
+      "https://www.intratuin.nl/inspiratie/moestuinkalender-mei"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "nasturtium-jewel",
+    "names": {
+      "nl": "Hortitops Oost-Indische Kers 'Jewel'",
+      "en": "Nasturtium 'Jewel'"
+    },
+    "days_to_harvest": {
+      "min": 35,
+      "max": 65
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "bush",
+      "non-climbing",
+      "semi-double",
+      "pollinator-friendly"
+    ],
+    "crop_slug": "nasturtium",
+    "sources": [
+      "https://www.bolster.nl/oost-indische-kers-niet-rankend-tropaeolum-majus/p232",
+      "https://www.pokon.nl/tips/oost-indische-kers/",
+      "https://groei.nl/artikel/zaaien-voor-beginners",
+      "https://nl-nl.bakker.com/collections/oost-indische-kers-tropaeolum-lat",
+      "https://www.vreeken.nl/558650-tropaeolum-nanum-tom-thumb-type-empress-india",
+      "https://www.vreeken.nl/693400-lima-kers-dark-leaf",
+      "https://www.semaille.com/nl/eenjarige-bloemen/1851-oostindische-kers-empress-of-india-5415166027337.html",
+      "https://www.welkoop.nl/hortitops-oost-indische-kers-jewel-bloemzaden-oost-indische-kers-tropaeolum_1040188",
+      "https://www.welkoop.nl/hortitops-oost-indische-kers-tropaeolum-majus-bloemzaden-3gram_1301669",
+      "https://www.intratuin.nl/baza-hangtuintje-biologische-oostindische-kers-tropaeolum.html",
+      "https://www.intratuin.nl/inspiratie/moestuinkalender-mei"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "nasturtium-baza-hangtuintje",
+    "names": {
+      "nl": "Baza Hangtuintje Biologische Oost-Indische Kers",
+      "en": "Baza Hanging Garden Organic Nasturtium"
+    },
+    "days_to_harvest": {
+      "min": 30,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "compact",
+      "organic",
+      "trap-crop"
+    ],
+    "crop_slug": "nasturtium",
+    "sources": [
+      "https://www.bolster.nl/oost-indische-kers-niet-rankend-tropaeolum-majus/p232",
+      "https://www.pokon.nl/tips/oost-indische-kers/",
+      "https://groei.nl/artikel/zaaien-voor-beginners",
+      "https://nl-nl.bakker.com/collections/oost-indische-kers-tropaeolum-lat",
+      "https://www.vreeken.nl/558650-tropaeolum-nanum-tom-thumb-type-empress-india",
+      "https://www.vreeken.nl/693400-lima-kers-dark-leaf",
+      "https://www.semaille.com/nl/eenjarige-bloemen/1851-oostindische-kers-empress-of-india-5415166027337.html",
+      "https://www.welkoop.nl/hortitops-oost-indische-kers-jewel-bloemzaden-oost-indische-kers-tropaeolum_1040188",
+      "https://www.welkoop.nl/hortitops-oost-indische-kers-tropaeolum-majus-bloemzaden-3gram_1301669",
+      "https://www.intratuin.nl/baza-hangtuintje-biologische-oostindische-kers-tropaeolum.html",
+      "https://www.intratuin.nl/inspiratie/moestuinkalender-mei"
+    ],
+    "verified": false
+  }
+]

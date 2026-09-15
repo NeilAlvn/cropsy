@@ -1,0 +1,153 @@
+[
+  {
+    "slug": "lemon-balm-citrina",
+    "names": {
+      "nl": "Citroenmelisse ‘Citrina’ (Bio)",
+      "en": "Lemon Balm 'Citrina' (Bio)"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden"
+    ],
+    "traits": [
+      "compact",
+      "bush",
+      "sweet-lemon aroma",
+      "winter-hardy",
+      "perennial",
+      "bee-friendly"
+    ],
+    "crop_slug": "lemon-balm",
+    "sources": [
+      "https://demoestuinwinkel.nl/products/sluis_garden_citroenmelisse_citrina",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2018.pdf",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.gardenseeds.nl/product/citroenmelisse-citrina/",
+      "https://puur-mieke.com/product/de-bolster-kruidencitroenmelisse-1g-bio/",
+      "https://www.bolster.eu/lemon-balm-melissa-officinalis/p108",
+      "https://www.bolster.nl/citroenmelisse-melissa-officinalis/p108",
+      "https://www.vreeken.nl/831874-melisse-kretenzer",
+      "https://www.intratuin.nl/biologische-citroenmelisse-melissa-officinalis-d-12-h-20-cm.html",
+      "https://www.pokon.nl/plant/item/citroenmelisse-kweken/",
+      "https://www.intratuin.nl/inspiratie/kruidentuin-kruiden-kweken"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lemon-balm-bio",
+    "names": {
+      "nl": "Citroenmelisse (Melissa officinalis Bio)",
+      "en": "Lemon Balm (Melissa officinalis Organic)"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "bushy",
+      "winter-hardy",
+      "frost-resistant",
+      "insect-deterring",
+      "mosquito-deterring",
+      "open-pollinated",
+      "organic"
+    ],
+    "crop_slug": "lemon-balm",
+    "sources": [
+      "https://demoestuinwinkel.nl/products/sluis_garden_citroenmelisse_citrina",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2018.pdf",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.gardenseeds.nl/product/citroenmelisse-citrina/",
+      "https://puur-mieke.com/product/de-bolster-kruidencitroenmelisse-1g-bio/",
+      "https://www.bolster.eu/lemon-balm-melissa-officinalis/p108",
+      "https://www.bolster.nl/citroenmelisse-melissa-officinalis/p108",
+      "https://www.vreeken.nl/831874-melisse-kretenzer",
+      "https://www.intratuin.nl/biologische-citroenmelisse-melissa-officinalis-d-12-h-20-cm.html",
+      "https://www.pokon.nl/plant/item/citroenmelisse-kweken/",
+      "https://www.intratuin.nl/inspiratie/kruidentuin-kruiden-kweken"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lemon-balm-kretenzer",
+    "names": {
+      "nl": "Kretenzer Melisse / Appelsienmelisse",
+      "en": "Cretan Lemon Balm / Orange Balm"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "bush",
+      "citrus-orange flavor",
+      "drought-tolerant",
+      "heat-tolerant",
+      "perennial"
+    ],
+    "crop_slug": "lemon-balm",
+    "sources": [
+      "https://demoestuinwinkel.nl/products/sluis_garden_citroenmelisse_citrina",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2018.pdf",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.gardenseeds.nl/product/citroenmelisse-citrina/",
+      "https://puur-mieke.com/product/de-bolster-kruidencitroenmelisse-1g-bio/",
+      "https://www.bolster.eu/lemon-balm-melissa-officinalis/p108",
+      "https://www.bolster.nl/citroenmelisse-melissa-officinalis/p108",
+      "https://www.vreeken.nl/831874-melisse-kretenzer",
+      "https://www.intratuin.nl/biologische-citroenmelisse-melissa-officinalis-d-12-h-20-cm.html",
+      "https://www.pokon.nl/plant/item/citroenmelisse-kweken/",
+      "https://www.intratuin.nl/inspiratie/kruidentuin-kruiden-kweken"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lemon-balm-potplant",
+    "names": {
+      "nl": "Biologische Citroenmelisse (Kant-en-klare potplant)",
+      "en": "Organic Lemon Balm (Potted Plant)"
+    },
+    "days_to_harvest": {
+      "min": 0,
+      "max": 14
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "compact",
+      "container bush",
+      "partially shade-tolerant",
+      "hardy",
+      "perennial"
+    ],
+    "crop_slug": "lemon-balm",
+    "sources": [
+      "https://demoestuinwinkel.nl/products/sluis_garden_citroenmelisse_citrina",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2018.pdf",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://www.gardenseeds.nl/product/citroenmelisse-citrina/",
+      "https://puur-mieke.com/product/de-bolster-kruidencitroenmelisse-1g-bio/",
+      "https://www.bolster.eu/lemon-balm-melissa-officinalis/p108",
+      "https://www.bolster.nl/citroenmelisse-melissa-officinalis/p108",
+      "https://www.vreeken.nl/831874-melisse-kretenzer",
+      "https://www.intratuin.nl/biologische-citroenmelisse-melissa-officinalis-d-12-h-20-cm.html",
+      "https://www.pokon.nl/plant/item/citroenmelisse-kweken/",
+      "https://www.intratuin.nl/inspiratie/kruidentuin-kruiden-kweken"
+    ],
+    "verified": false
+  }
+]

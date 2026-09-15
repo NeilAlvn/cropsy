@@ -1,0 +1,145 @@
+[
+  {
+    "slug": "tarragon-franse-dragon",
+    "names": {
+      "nl": "Franse Dragon",
+      "en": "French Tarragon"
+    },
+    "days_to_harvest": {
+      "min": 20,
+      "max": 30
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "bush",
+      "clump-forming",
+      "perennial",
+      "winter-hardy",
+      "sweet anise",
+      "liquorice",
+      "warm pepper"
+    ],
+    "crop_slug": "tarragon",
+    "sources": [
+      "https://www.vreeken.nl/831430-dragon-franse",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-dragon-russische-artemisia-dracunculus.html",
+      "https://www.vreeken.nl/342970-dragon-mexicaanse",
+      "http://www.permacultuurnederland.org/planten.php?zoek=franse&laag=&functieSER=Tjs=&page=0&pid=251&sort=naz",
+      "https://www.intratuin.nl/biologische-dragon-artemisia-dracunculus-d-12-h-15-cm-1263087.html",
+      "https://dezaden.nl/product/buzzy-russische-dragon-zaden/",
+      "https://tuinzaden.eu/nl/dragon-zaden-kopen/501060-russische-dragon-zaden.html",
+      "https://www.vreeken.nl/343000-dragon-russische"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "tarragon-mexicaanse-dragon",
+    "names": {
+      "nl": "Mexicaanse Dragon",
+      "en": "Mexican Mint Marigold"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "dwarf",
+      "bushy",
+      "heat-tolerant",
+      "drought-tolerant",
+      "tender perennial",
+      "sweet anise-tarragon flavor",
+      "edible flowers"
+    ],
+    "crop_slug": "tarragon",
+    "sources": [
+      "https://www.vreeken.nl/831430-dragon-franse",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-dragon-russische-artemisia-dracunculus.html",
+      "https://www.vreeken.nl/342970-dragon-mexicaanse",
+      "http://www.permacultuurnederland.org/planten.php?zoek=franse&laag=&functieSER=Tjs=&page=0&pid=251&sort=naz",
+      "https://www.intratuin.nl/biologische-dragon-artemisia-dracunculus-d-12-h-15-cm-1263087.html",
+      "https://dezaden.nl/product/buzzy-russische-dragon-zaden/",
+      "https://tuinzaden.eu/nl/dragon-zaden-kopen/501060-russische-dragon-zaden.html",
+      "https://www.vreeken.nl/343000-dragon-russische"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "tarragon-russische-dragon",
+    "names": {
+      "nl": "Russische Dragon",
+      "en": "Russian Tarragon"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "upright",
+      "branching bush",
+      "winter-hardy",
+      "robust",
+      "wind-resistant",
+      "easy to germinate from seed"
+    ],
+    "crop_slug": "tarragon",
+    "sources": [
+      "https://www.vreeken.nl/831430-dragon-franse",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-dragon-russische-artemisia-dracunculus.html",
+      "https://www.vreeken.nl/342970-dragon-mexicaanse",
+      "http://www.permacultuurnederland.org/planten.php?zoek=franse&laag=&functieSER=Tjs=&page=0&pid=251&sort=naz",
+      "https://www.intratuin.nl/biologische-dragon-artemisia-dracunculus-d-12-h-15-cm-1263087.html",
+      "https://dezaden.nl/product/buzzy-russische-dragon-zaden/",
+      "https://tuinzaden.eu/nl/dragon-zaden-kopen/501060-russische-dragon-zaden.html",
+      "https://www.vreeken.nl/343000-dragon-russische"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "tarragon-biologische-franse-dragon",
+    "names": {
+      "nl": "Biologische Franse Dragon",
+      "en": "Organic French Tarragon"
+    },
+    "days_to_harvest": {
+      "min": 0,
+      "max": 14
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "bushy",
+      "compact",
+      "organic",
+      "perennial",
+      "aromatic",
+      "anise",
+      "fennel"
+    ],
+    "crop_slug": "tarragon",
+    "sources": [
+      "https://www.vreeken.nl/831430-dragon-franse",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-dragon-russische-artemisia-dracunculus.html",
+      "https://www.vreeken.nl/342970-dragon-mexicaanse",
+      "http://www.permacultuurnederland.org/planten.php?zoek=franse&laag=&functieSER=Tjs=&page=0&pid=251&sort=naz",
+      "https://www.intratuin.nl/biologische-dragon-artemisia-dracunculus-d-12-h-15-cm-1263087.html",
+      "https://dezaden.nl/product/buzzy-russische-dragon-zaden/",
+      "https://tuinzaden.eu/nl/dragon-zaden-kopen/501060-russische-dragon-zaden.html",
+      "https://www.vreeken.nl/343000-dragon-russische"
+    ],
+    "verified": false
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "slug": "gooseberry-in-pot-captivator",
+    "names": {
+      "nl": "Kruisbes ‘Captivator’",
+      "en": "Gooseberry 'Captivator'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "thornless",
+      "spineless",
+      "compact bush",
+      "mildew-resistant",
+      "mid-to-late season"
+    ],
+    "crop_slug": "gooseberry-in-pot",
+    "sources": [
+      "https://www.intratuin.nl/moestuin/moestuin-planten/fruitplanten?p=3",
+      "https://nl-nl.bakker.com/products/rode-kruisbes-op-stam",
+      "https://www.vreeken.nl/planten-schimmels/fruit/p11-30",
+      "https://www.intratuin.nl/intratuin-biologische-kruisbes-ribes-uva-crispa-captivator-d-19-h-55-cm.html",
+      "https://groei.nl/artikel/kruisbes-kweken-in-een-pot",
+      "https://www.mooiemoestuin.nl/fruit/kruisbes/",
+      "https://www.intratuin.nl/tuinplanten/fruitbomen-en-struiken/bessenstruik",
+      "https://www.vreeken.nl/822620-kruisbes-groene-hinnonmacki-gron",
+      "https://www.moestuinforum.nl/topic/19102-kruisbes-op-stam-in-pot/",
+      "https://www.intratuin.nl/intratuin-biologische-kruisbes-ribes-uva-crispa-easycrisp-lady-late-d-13-h-45-cm.html",
+      "https://www.intratuin.nl/biologische-rode-kruisbes-ribes-uva-lady-later-d-19-h-60-cm.html",
+      "https://www.baldur-nederland.nl/onion/content/plant--und-verzorgingstips/fruit/kruisbessen-planten",
+      "https://www.intratuin.nl/potten",
+      "https://www.keukenplanten.nl/zaaikalender/kruisbes",
+      "https://www.welkoop.nl/advies/fruit-soorten.html",
+      "https://www.kruisbes.nl/kruisbessenstruik/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "gooseberry-in-pot-hinnonmaki-rod",
+    "names": {
+      "nl": "Kruisbes ‘Hinnonmäki Röd’",
+      "en": "Gooseberry 'Hinnonmaki Rod'"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com"
+    ],
+    "traits": [
+      "patio standard",
+      "op stam",
+      "winter-hardy",
+      "powdery mildew-resistant",
+      "mid-season"
+    ],
+    "crop_slug": "gooseberry-in-pot",
+    "sources": [
+      "https://www.intratuin.nl/moestuin/moestuin-planten/fruitplanten?p=3",
+      "https://nl-nl.bakker.com/products/rode-kruisbes-op-stam",
+      "https://www.vreeken.nl/planten-schimmels/fruit/p11-30",
+      "https://www.intratuin.nl/intratuin-biologische-kruisbes-ribes-uva-crispa-captivator-d-19-h-55-cm.html",
+      "https://groei.nl/artikel/kruisbes-kweken-in-een-pot",
+      "https://www.mooiemoestuin.nl/fruit/kruisbes/",
+      "https://www.intratuin.nl/tuinplanten/fruitbomen-en-struiken/bessenstruik",
+      "https://www.vreeken.nl/822620-kruisbes-groene-hinnonmacki-gron",
+      "https://www.moestuinforum.nl/topic/19102-kruisbes-op-stam-in-pot/",
+      "https://www.intratuin.nl/intratuin-biologische-kruisbes-ribes-uva-crispa-easycrisp-lady-late-d-13-h-45-cm.html",
+      "https://www.intratuin.nl/biologische-rode-kruisbes-ribes-uva-lady-later-d-19-h-60-cm.html",
+      "https://www.baldur-nederland.nl/onion/content/plant--und-verzorgingstips/fruit/kruisbessen-planten",
+      "https://www.intratuin.nl/potten",
+      "https://www.keukenplanten.nl/zaaikalender/kruisbes",
+      "https://www.welkoop.nl/advies/fruit-soorten.html",
+      "https://www.kruisbes.nl/kruisbessenstruik/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "gooseberry-in-pot-hinnonmaki-gron",
+    "names": {
+      "nl": "Kruisbes ‘Hinnonmäki Grön’",
+      "en": "Gooseberry 'Hinnonmaki Gron'"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 80
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken’s Zaden"
+    ],
+    "traits": [
+      "compact bush",
+      "frost-resistant",
+      "mildew-resistant",
+      "mid-season"
+    ],
+    "crop_slug": "gooseberry-in-pot",
+    "sources": [
+      "https://www.intratuin.nl/moestuin/moestuin-planten/fruitplanten?p=3",
+      "https://nl-nl.bakker.com/products/rode-kruisbes-op-stam",
+      "https://www.vreeken.nl/planten-schimmels/fruit/p11-30",
+      "https://www.intratuin.nl/intratuin-biologische-kruisbes-ribes-uva-crispa-captivator-d-19-h-55-cm.html",
+      "https://groei.nl/artikel/kruisbes-kweken-in-een-pot",
+      "https://www.mooiemoestuin.nl/fruit/kruisbes/",
+      "https://www.intratuin.nl/tuinplanten/fruitbomen-en-struiken/bessenstruik",
+      "https://www.vreeken.nl/822620-kruisbes-groene-hinnonmacki-gron",
+      "https://www.moestuinforum.nl/topic/19102-kruisbes-op-stam-in-pot/",
+      "https://www.intratuin.nl/intratuin-biologische-kruisbes-ribes-uva-crispa-easycrisp-lady-late-d-13-h-45-cm.html",
+      "https://www.intratuin.nl/biologische-rode-kruisbes-ribes-uva-lady-later-d-19-h-60-cm.html",
+      "https://www.baldur-nederland.nl/onion/content/plant--und-verzorgingstips/fruit/kruisbessen-planten",
+      "https://www.intratuin.nl/potten",
+      "https://www.keukenplanten.nl/zaaikalender/kruisbes",
+      "https://www.welkoop.nl/advies/fruit-soorten.html",
+      "https://www.kruisbes.nl/kruisbessenstruik/"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "gooseberry-in-pot-easycrisp-lady-late",
+    "names": {
+      "nl": "Kruisbes ‘Easycrisp Lady Late’",
+      "en": "Gooseberry 'Easycrisp Lady Late'"
+    },
+    "days_to_harvest": {
+      "min": 85,
+      "max": 95
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "reduced spines",
+      "upright",
+      "compact bush",
+      "mildew-resistant",
+      "late season"
+    ],
+    "crop_slug": "gooseberry-in-pot",
+    "sources": [
+      "https://www.intratuin.nl/moestuin/moestuin-planten/fruitplanten?p=3",
+      "https://nl-nl.bakker.com/products/rode-kruisbes-op-stam",
+      "https://www.vreeken.nl/planten-schimmels/fruit/p11-30",
+      "https://www.intratuin.nl/intratuin-biologische-kruisbes-ribes-uva-crispa-captivator-d-19-h-55-cm.html",
+      "https://groei.nl/artikel/kruisbes-kweken-in-een-pot",
+      "https://www.mooiemoestuin.nl/fruit/kruisbes/",
+      "https://www.intratuin.nl/tuinplanten/fruitbomen-en-struiken/bessenstruik",
+      "https://www.vreeken.nl/822620-kruisbes-groene-hinnonmacki-gron",
+      "https://www.moestuinforum.nl/topic/19102-kruisbes-op-stam-in-pot/",
+      "https://www.intratuin.nl/intratuin-biologische-kruisbes-ribes-uva-crispa-easycrisp-lady-late-d-13-h-45-cm.html",
+      "https://www.intratuin.nl/biologische-rode-kruisbes-ribes-uva-lady-later-d-19-h-60-cm.html",
+      "https://www.baldur-nederland.nl/onion/content/plant--und-verzorgingstips/fruit/kruisbessen-planten",
+      "https://www.intratuin.nl/potten",
+      "https://www.keukenplanten.nl/zaaikalender/kruisbes",
+      "https://www.welkoop.nl/advies/fruit-soorten.html",
+      "https://www.kruisbes.nl/kruisbessenstruik/"
+    ],
+    "verified": false
+  }
+]

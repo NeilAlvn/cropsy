@@ -1,0 +1,135 @@
+[
+  {
+    "slug": "redcurrant-in-pot-jonkheer-van-tets",
+    "names": {
+      "nl": "Rode bes 'Jonkheer van Tets'",
+      "en": "Redcurrant 'Jonkheer van Tets'"
+    },
+    "days_to_harvest": null,
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin",
+      "Bakker.com"
+    ],
+    "traits": [
+      "bush",
+      "compact",
+      "early",
+      "frost-hardy",
+      "self-pollinating"
+    ],
+    "crop_slug": "redcurrant-in-pot",
+    "sources": [
+      "https://www.intratuin.nl/intratuin-biologische-rode-bes-ribes-rubrum-jonkheer-van-tets-d-19-h-50-cm.html",
+      "https://nl-nl.bakker.com/products/aalbes-jonkheer-van-tets",
+      "https://nl-nl.bakker.com/products/zwarte-bes-op-stam-1",
+      "https://www.vreeken.nl/planten-schimmels/fruit/rest-fruit-in-struikvorm",
+      "https://nl-nl.bakker.com/products/aalbes-rovada",
+      "https://www.vreeken.nl/818130-aalbes-rovada",
+      "https://nl-nl.bakker.com/products/aalbes-junifer",
+      "https://nl-nl.bakker.com/products/aalbes-versaillaise-rouge",
+      "https://nl-nl.bakker.com/products/witte-aalbes-white-pearl",
+      "https://www.intratuin.nl/intratuin-biologische-rode-bes-ribes-rubrum-jonkheer-van-tets-d-23-h-100-cm.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "redcurrant-in-pot-rovada",
+    "names": {
+      "nl": "Rode bes 'Rovada'",
+      "en": "Redcurrant 'Rovada'"
+    },
+    "days_to_harvest": null,
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com",
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "compact",
+      "late",
+      "fungal-disease-resistant",
+      "self-pollinating"
+    ],
+    "crop_slug": "redcurrant-in-pot",
+    "sources": [
+      "https://www.intratuin.nl/intratuin-biologische-rode-bes-ribes-rubrum-jonkheer-van-tets-d-19-h-50-cm.html",
+      "https://nl-nl.bakker.com/products/aalbes-jonkheer-van-tets",
+      "https://nl-nl.bakker.com/products/zwarte-bes-op-stam-1",
+      "https://www.vreeken.nl/planten-schimmels/fruit/rest-fruit-in-struikvorm",
+      "https://nl-nl.bakker.com/products/aalbes-rovada",
+      "https://www.vreeken.nl/818130-aalbes-rovada",
+      "https://nl-nl.bakker.com/products/aalbes-junifer",
+      "https://nl-nl.bakker.com/products/aalbes-versaillaise-rouge",
+      "https://nl-nl.bakker.com/products/witte-aalbes-white-pearl",
+      "https://www.intratuin.nl/intratuin-biologische-rode-bes-ribes-rubrum-jonkheer-van-tets-d-23-h-100-cm.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "redcurrant-in-pot-junifer",
+    "names": {
+      "nl": "Rode bes 'Junifer'",
+      "en": "Redcurrant 'Junifer'"
+    },
+    "days_to_harvest": null,
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com"
+    ],
+    "traits": [
+      "bush",
+      "early",
+      "self-pollinating",
+      "hardy"
+    ],
+    "crop_slug": "redcurrant-in-pot",
+    "sources": [
+      "https://www.intratuin.nl/intratuin-biologische-rode-bes-ribes-rubrum-jonkheer-van-tets-d-19-h-50-cm.html",
+      "https://nl-nl.bakker.com/products/aalbes-jonkheer-van-tets",
+      "https://nl-nl.bakker.com/products/zwarte-bes-op-stam-1",
+      "https://www.vreeken.nl/planten-schimmels/fruit/rest-fruit-in-struikvorm",
+      "https://nl-nl.bakker.com/products/aalbes-rovada",
+      "https://www.vreeken.nl/818130-aalbes-rovada",
+      "https://nl-nl.bakker.com/products/aalbes-junifer",
+      "https://nl-nl.bakker.com/products/aalbes-versaillaise-rouge",
+      "https://nl-nl.bakker.com/products/witte-aalbes-white-pearl",
+      "https://www.intratuin.nl/intratuin-biologische-rode-bes-ribes-rubrum-jonkheer-van-tets-d-23-h-100-cm.html"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "redcurrant-in-pot-versaillaise-rouge",
+    "names": {
+      "nl": "Rode bes 'Versaillaise Rouge'",
+      "en": "Redcurrant 'Versaillaise Rouge'"
+    },
+    "days_to_harvest": null,
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com"
+    ],
+    "traits": [
+      "bush",
+      "mid-to-late",
+      "heirloom",
+      "self-fertile",
+      "hardy",
+      "pest-resistant"
+    ],
+    "crop_slug": "redcurrant-in-pot",
+    "sources": [
+      "https://www.intratuin.nl/intratuin-biologische-rode-bes-ribes-rubrum-jonkheer-van-tets-d-19-h-50-cm.html",
+      "https://nl-nl.bakker.com/products/aalbes-jonkheer-van-tets",
+      "https://nl-nl.bakker.com/products/zwarte-bes-op-stam-1",
+      "https://www.vreeken.nl/planten-schimmels/fruit/rest-fruit-in-struikvorm",
+      "https://nl-nl.bakker.com/products/aalbes-rovada",
+      "https://www.vreeken.nl/818130-aalbes-rovada",
+      "https://nl-nl.bakker.com/products/aalbes-junifer",
+      "https://nl-nl.bakker.com/products/aalbes-versaillaise-rouge",
+      "https://nl-nl.bakker.com/products/witte-aalbes-white-pearl",
+      "https://www.intratuin.nl/intratuin-biologische-rode-bes-ribes-rubrum-jonkheer-van-tets-d-23-h-100-cm.html"
+    ],
+    "verified": false
+  }
+]

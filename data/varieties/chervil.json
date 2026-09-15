@@ -1,0 +1,156 @@
+[
+  {
+    "slug": "chervil-massa",
+    "names": {
+      "nl": "Kervel 'Massa' (Gladbladig)",
+      "en": "Chervil 'Massa'"
+    },
+    "days_to_harvest": {
+      "min": 40,
+      "max": 55
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "slow-bolting",
+      "dark green smooth leaves",
+      "aromatic sweet-anise flavour"
+    ],
+    "crop_slug": "chervil",
+    "sources": [
+      "https://www.bolster.eu/herbs-pro/c1862",
+      "https://www.bolster.nl/kervel-massa-anthriscus-cerefolium/p2687",
+      "https://www.vreeken.nl/zaden/nuttige-planten/p1-80",
+      "https://www.vreeken.nl/347720-kervel-brusselse-winter",
+      "https://stadstuinieren.nl/artikel/kervel-kweken-en-oogsten/",
+      "https://www.bolster.nl/kervel-fijne-krul-anthriscus-cerefolium/p112",
+      "https://www.tuinwereld.nl/product/buzzy-organic-kervel-fijne-krul-bio",
+      "https://www.vreeken.nl/347710-kervel-fijne-krul",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-kervel-gewone-anthriscus-cerefolium.html",
+      "https://www.tuinplus.nl/nl/4/001105/buzzy-kervel-gewone.aspx",
+      "https://tuinzaden.eu/nl/35-50-korting-overige-kopen/925032-kervel-zaden-2027.html",
+      "https://dezaden.nl/product/buzzy-kervel-zaden-fijne-krul/",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/kruidenzaden"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "chervil-brusselse-winter",
+    "names": {
+      "nl": "Kervel 'Brusselse Winter'",
+      "en": "Chervil 'Brusselse Winter' (syn. 'Vertissimo')"
+    },
+    "days_to_harvest": {
+      "min": 45,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "winter-hardy",
+      "robust growth",
+      "cold-tolerant",
+      "medium-fine green leaf"
+    ],
+    "crop_slug": "chervil",
+    "sources": [
+      "https://www.bolster.eu/herbs-pro/c1862",
+      "https://www.bolster.nl/kervel-massa-anthriscus-cerefolium/p2687",
+      "https://www.vreeken.nl/zaden/nuttige-planten/p1-80",
+      "https://www.vreeken.nl/347720-kervel-brusselse-winter",
+      "https://stadstuinieren.nl/artikel/kervel-kweken-en-oogsten/",
+      "https://www.bolster.nl/kervel-fijne-krul-anthriscus-cerefolium/p112",
+      "https://www.tuinwereld.nl/product/buzzy-organic-kervel-fijne-krul-bio",
+      "https://www.vreeken.nl/347710-kervel-fijne-krul",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-kervel-gewone-anthriscus-cerefolium.html",
+      "https://www.tuinplus.nl/nl/4/001105/buzzy-kervel-gewone.aspx",
+      "https://tuinzaden.eu/nl/35-50-korting-overige-kopen/925032-kervel-zaden-2027.html",
+      "https://dezaden.nl/product/buzzy-kervel-zaden-fijne-krul/",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/kruidenzaden"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "chervil-fijne-krul",
+    "names": {
+      "nl": "Kervel 'Fijne Krul'",
+      "en": "Curled Chervil"
+    },
+    "days_to_harvest": {
+      "min": 35,
+      "max": 45
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden",
+      "Welkoop",
+      "Buzzy Seeds"
+    ],
+    "traits": [
+      "early",
+      "finely curled decorative foliage",
+      "compact",
+      "bushy",
+      "moderately frost-tolerant"
+    ],
+    "crop_slug": "chervil",
+    "sources": [
+      "https://www.bolster.eu/herbs-pro/c1862",
+      "https://www.bolster.nl/kervel-massa-anthriscus-cerefolium/p2687",
+      "https://www.vreeken.nl/zaden/nuttige-planten/p1-80",
+      "https://www.vreeken.nl/347720-kervel-brusselse-winter",
+      "https://stadstuinieren.nl/artikel/kervel-kweken-en-oogsten/",
+      "https://www.bolster.nl/kervel-fijne-krul-anthriscus-cerefolium/p112",
+      "https://www.tuinwereld.nl/product/buzzy-organic-kervel-fijne-krul-bio",
+      "https://www.vreeken.nl/347710-kervel-fijne-krul",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-kervel-gewone-anthriscus-cerefolium.html",
+      "https://www.tuinplus.nl/nl/4/001105/buzzy-kervel-gewone.aspx",
+      "https://tuinzaden.eu/nl/35-50-korting-overige-kopen/925032-kervel-zaden-2027.html",
+      "https://dezaden.nl/product/buzzy-kervel-zaden-fijne-krul/",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/kruidenzaden"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "chervil-gewone",
+    "names": {
+      "nl": "Kervel 'Gewone'",
+      "en": "Plain / Common Chervil"
+    },
+    "days_to_harvest": {
+      "min": 35,
+      "max": 50
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "early",
+      "classic flat/feathery leaf",
+      "strong aroma",
+      "cut-and-come-again regrowth"
+    ],
+    "crop_slug": "chervil",
+    "sources": [
+      "https://www.bolster.eu/herbs-pro/c1862",
+      "https://www.bolster.nl/kervel-massa-anthriscus-cerefolium/p2687",
+      "https://www.vreeken.nl/zaden/nuttige-planten/p1-80",
+      "https://www.vreeken.nl/347720-kervel-brusselse-winter",
+      "https://stadstuinieren.nl/artikel/kervel-kweken-en-oogsten/",
+      "https://www.bolster.nl/kervel-fijne-krul-anthriscus-cerefolium/p112",
+      "https://www.tuinwereld.nl/product/buzzy-organic-kervel-fijne-krul-bio",
+      "https://www.vreeken.nl/347710-kervel-fijne-krul",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-kervel-gewone-anthriscus-cerefolium.html",
+      "https://www.tuinplus.nl/nl/4/001105/buzzy-kervel-gewone.aspx",
+      "https://tuinzaden.eu/nl/35-50-korting-overige-kopen/925032-kervel-zaden-2027.html",
+      "https://dezaden.nl/product/buzzy-kervel-zaden-fijne-krul/",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/kruidenzaden"
+    ],
+    "verified": false
+  }
+]

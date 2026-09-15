@@ -1,0 +1,145 @@
+[
+  {
+    "slug": "edamame-soda-green",
+    "names": {
+      "nl": "Sojaboon Edamame 'Soda Green'",
+      "en": "Edamame 'Soda Green'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "bush",
+      "compact",
+      "early",
+      "high-yielding",
+      "organic"
+    ],
+    "crop_slug": "edamame",
+    "sources": [
+      "https://www.bolster.nl/sojabonen-telen/t24932",
+      "https://www.bolster.nl/sojaboon/c2037",
+      "https://www.bolster.eu/soy-bean-edamame-soda-green-glycine-max/p6863",
+      "https://www.sluisgarden.com/producten/cat/oriental_vegetables/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/bonen/p2-40",
+      "https://www.gardenseeds.nl/product/sojaboon-fiskey-by-v-edamame/",
+      "https://www.vreeken.nl/044050-sojaboon-fiskeby",
+      "https://www.vreeken.nl/044060-sojaboon-green-shell",
+      "https://www.garantzaden.nl/sojabonen-edamame-green-shell",
+      "https://www.vreeken.nl/044000-sojaboon-envy-chiba-green-midori-giant"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "edamame-fiskeby-v",
+    "names": {
+      "nl": "Sojaboon 'Fiskeby V'",
+      "en": "Edamame 'Fiskeby V'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden",
+      "Vreeken’s Zaden"
+    ],
+    "traits": [
+      "dwarf",
+      "bush",
+      "early",
+      "cool-climate-adapted",
+      "heavy-yielding"
+    ],
+    "crop_slug": "edamame",
+    "sources": [
+      "https://www.bolster.nl/sojabonen-telen/t24932",
+      "https://www.bolster.nl/sojaboon/c2037",
+      "https://www.bolster.eu/soy-bean-edamame-soda-green-glycine-max/p6863",
+      "https://www.sluisgarden.com/producten/cat/oriental_vegetables/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/bonen/p2-40",
+      "https://www.gardenseeds.nl/product/sojaboon-fiskey-by-v-edamame/",
+      "https://www.vreeken.nl/044050-sojaboon-fiskeby",
+      "https://www.vreeken.nl/044060-sojaboon-green-shell",
+      "https://www.garantzaden.nl/sojabonen-edamame-green-shell",
+      "https://www.vreeken.nl/044000-sojaboon-envy-chiba-green-midori-giant"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "edamame-green-shell",
+    "names": {
+      "nl": "Sojaboon 'Green Shell'",
+      "en": "Edamame 'Green Shell'"
+    },
+    "days_to_harvest": {
+      "min": 80,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken’s Zaden"
+    ],
+    "traits": [
+      "bush",
+      "self-supporting",
+      "cool-climate-adapted",
+      "non-gmo"
+    ],
+    "crop_slug": "edamame",
+    "sources": [
+      "https://www.bolster.nl/sojabonen-telen/t24932",
+      "https://www.bolster.nl/sojaboon/c2037",
+      "https://www.bolster.eu/soy-bean-edamame-soda-green-glycine-max/p6863",
+      "https://www.sluisgarden.com/producten/cat/oriental_vegetables/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/bonen/p2-40",
+      "https://www.gardenseeds.nl/product/sojaboon-fiskey-by-v-edamame/",
+      "https://www.vreeken.nl/044050-sojaboon-fiskeby",
+      "https://www.vreeken.nl/044060-sojaboon-green-shell",
+      "https://www.garantzaden.nl/sojabonen-edamame-green-shell",
+      "https://www.vreeken.nl/044000-sojaboon-envy-chiba-green-midori-giant"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "edamame-envy",
+    "names": {
+      "nl": "Sojaboon 'Envy'",
+      "en": "Edamame 'Envy'"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken’s Zaden"
+    ],
+    "traits": [
+      "bush",
+      "compact",
+      "extra-early",
+      "cool-tolerant"
+    ],
+    "crop_slug": "edamame",
+    "sources": [
+      "https://www.bolster.nl/sojabonen-telen/t24932",
+      "https://www.bolster.nl/sojaboon/c2037",
+      "https://www.bolster.eu/soy-bean-edamame-soda-green-glycine-max/p6863",
+      "https://www.sluisgarden.com/producten/cat/oriental_vegetables/",
+      "https://www.vreeken.nl/zaden/groenten-fruit/bonen/p2-40",
+      "https://www.gardenseeds.nl/product/sojaboon-fiskey-by-v-edamame/",
+      "https://www.vreeken.nl/044050-sojaboon-fiskeby",
+      "https://www.vreeken.nl/044060-sojaboon-green-shell",
+      "https://www.garantzaden.nl/sojabonen-edamame-green-shell",
+      "https://www.vreeken.nl/044000-sojaboon-envy-chiba-green-midori-giant"
+    ],
+    "verified": false
+  }
+]

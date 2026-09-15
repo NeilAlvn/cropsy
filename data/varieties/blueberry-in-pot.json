@@ -1,0 +1,159 @@
+[
+  {
+    "slug": "blueberry-in-pot-top-hat",
+    "names": {
+      "nl": "Blauwe bes 'Top Hat'",
+      "en": "Top Hat"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com"
+    ],
+    "traits": [
+      "dwarf",
+      "patio bush",
+      "self-fertile",
+      "sweet",
+      "cold-hardy",
+      "ornamental",
+      "mid-season"
+    ],
+    "crop_slug": "blueberry-in-pot",
+    "sources": [
+      "https://nl-nl.bakker.com/collections/blauwe-bessenstruik",
+      "https://www.baldur-nederland.nl/onion/content/plant--und-verzorgingstips/fruit/blauwe-bessen",
+      "https://www.lovethegarden.com/be-nl/kweekgids/blauwe-bosbessen-planten",
+      "https://www.intratuin.nl/biologische-blauwe-bes-vaccinium-corymbosum-sunshine-blue-d-13-h-40-cm.html",
+      "https://www.intratuin.nl/tuinplanten/fruitbomen-en-struiken/bessenstruik/blauwe-bessenstruik",
+      "https://www.vreeken.nl/zoeken/Blauwe/bes",
+      "https://www.vreeken.nl/818500-blauwe-bes-bluecrop",
+      "https://www.vreeken.nl/planten-schimmels/fruit/p1-70",
+      "https://nl-nl.bakker.com/products/blauwe-bes-bluecrop",
+      "https://nl-nl.bakker.com/products/blauwe-bes-vaccinium-brigitta-blue-blauw-bio-winterhard",
+      "https://fairplant.nl/nl/nieuws/In-potten-of-in-de-volle-grond%3A-hoe-kweek-je-je-blauwe-bessenplanten/",
+      "https://nl-nl.bakker.com/products/blauwe-bes-berkeley",
+      "https://nl-nl.bakker.com/products/blauwe-bes-reka-winterhard-bio",
+      "https://nl-nl.bakker.com/products/blauwe-bes-top-hat-1"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "blueberry-in-pot-little-blue-wonder",
+    "names": {
+      "nl": "Blauwe bes 'Little Blue Wonder'",
+      "en": "Little Blue Wonder"
+    },
+    "days_to_harvest": null,
+    "container_ok": true,
+    "suppliers": [
+      "Bakker.com"
+    ],
+    "traits": [
+      "compact",
+      "dwarf",
+      "self-fertile",
+      "sweet",
+      "winter-hardy",
+      "slow grower",
+      "ornamental"
+    ],
+    "crop_slug": "blueberry-in-pot",
+    "sources": [
+      "https://nl-nl.bakker.com/collections/blauwe-bessenstruik",
+      "https://www.baldur-nederland.nl/onion/content/plant--und-verzorgingstips/fruit/blauwe-bessen",
+      "https://www.lovethegarden.com/be-nl/kweekgids/blauwe-bosbessen-planten",
+      "https://www.intratuin.nl/biologische-blauwe-bes-vaccinium-corymbosum-sunshine-blue-d-13-h-40-cm.html",
+      "https://www.intratuin.nl/tuinplanten/fruitbomen-en-struiken/bessenstruik/blauwe-bessenstruik",
+      "https://www.vreeken.nl/zoeken/Blauwe/bes",
+      "https://www.vreeken.nl/818500-blauwe-bes-bluecrop",
+      "https://www.vreeken.nl/planten-schimmels/fruit/p1-70",
+      "https://nl-nl.bakker.com/products/blauwe-bes-bluecrop",
+      "https://nl-nl.bakker.com/products/blauwe-bes-vaccinium-brigitta-blue-blauw-bio-winterhard",
+      "https://fairplant.nl/nl/nieuws/In-potten-of-in-de-volle-grond%3A-hoe-kweek-je-je-blauwe-bessenplanten/",
+      "https://nl-nl.bakker.com/products/blauwe-bes-berkeley",
+      "https://nl-nl.bakker.com/products/blauwe-bes-reka-winterhard-bio",
+      "https://nl-nl.bakker.com/products/blauwe-bes-top-hat-1"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "blueberry-in-pot-sunshine-blue",
+    "names": {
+      "nl": "Biologische Blauwe bes 'Sunshine Blue'",
+      "en": "Sunshine Blue"
+    },
+    "days_to_harvest": null,
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "semi-dwarf",
+      "bushy",
+      "self-fertile",
+      "semi-evergreen",
+      "ornamental",
+      "mid-season"
+    ],
+    "crop_slug": "blueberry-in-pot",
+    "sources": [
+      "https://nl-nl.bakker.com/collections/blauwe-bessenstruik",
+      "https://www.baldur-nederland.nl/onion/content/plant--und-verzorgingstips/fruit/blauwe-bessen",
+      "https://www.lovethegarden.com/be-nl/kweekgids/blauwe-bosbessen-planten",
+      "https://www.intratuin.nl/biologische-blauwe-bes-vaccinium-corymbosum-sunshine-blue-d-13-h-40-cm.html",
+      "https://www.intratuin.nl/tuinplanten/fruitbomen-en-struiken/bessenstruik/blauwe-bessenstruik",
+      "https://www.vreeken.nl/zoeken/Blauwe/bes",
+      "https://www.vreeken.nl/818500-blauwe-bes-bluecrop",
+      "https://www.vreeken.nl/planten-schimmels/fruit/p1-70",
+      "https://nl-nl.bakker.com/products/blauwe-bes-bluecrop",
+      "https://nl-nl.bakker.com/products/blauwe-bes-vaccinium-brigitta-blue-blauw-bio-winterhard",
+      "https://fairplant.nl/nl/nieuws/In-potten-of-in-de-volle-grond%3A-hoe-kweek-je-je-blauwe-bessenplanten/",
+      "https://nl-nl.bakker.com/products/blauwe-bes-berkeley",
+      "https://nl-nl.bakker.com/products/blauwe-bes-reka-winterhard-bio",
+      "https://nl-nl.bakker.com/products/blauwe-bes-top-hat-1"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "blueberry-in-pot-bluecrop",
+    "names": {
+      "nl": "Blauwe Bes 'Bluecrop'",
+      "en": "Bluecrop"
+    },
+    "days_to_harvest": null,
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "upright",
+      "bush",
+      "sweet-tart",
+      "disease-resistant",
+      "self-fertile",
+      "mid-season"
+    ],
+    "crop_slug": "blueberry-in-pot",
+    "sources": [
+      "https://nl-nl.bakker.com/collections/blauwe-bessenstruik",
+      "https://www.baldur-nederland.nl/onion/content/plant--und-verzorgingstips/fruit/blauwe-bessen",
+      "https://www.lovethegarden.com/be-nl/kweekgids/blauwe-bosbessen-planten",
+      "https://www.intratuin.nl/biologische-blauwe-bes-vaccinium-corymbosum-sunshine-blue-d-13-h-40-cm.html",
+      "https://www.intratuin.nl/tuinplanten/fruitbomen-en-struiken/bessenstruik/blauwe-bessenstruik",
+      "https://www.vreeken.nl/zoeken/Blauwe/bes",
+      "https://www.vreeken.nl/818500-blauwe-bes-bluecrop",
+      "https://www.vreeken.nl/planten-schimmels/fruit/p1-70",
+      "https://nl-nl.bakker.com/products/blauwe-bes-bluecrop",
+      "https://nl-nl.bakker.com/products/blauwe-bes-vaccinium-brigitta-blue-blauw-bio-winterhard",
+      "https://fairplant.nl/nl/nieuws/In-potten-of-in-de-volle-grond%3A-hoe-kweek-je-je-blauwe-bessenplanten/",
+      "https://nl-nl.bakker.com/products/blauwe-bes-berkeley",
+      "https://nl-nl.bakker.com/products/blauwe-bes-reka-winterhard-bio",
+      "https://nl-nl.bakker.com/products/blauwe-bes-top-hat-1"
+    ],
+    "verified": false
+  }
+]

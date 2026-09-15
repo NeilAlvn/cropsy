@@ -1,0 +1,155 @@
+[
+  {
+    "slug": "lemon-verbena-limoentje",
+    "names": {
+      "nl": "Citroenverbena 'Limoentje'",
+      "en": "Lemon Verbena 'Limoentje'"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "shrub",
+      "bush",
+      "semi-hardy"
+    ],
+    "crop_slug": "lemon-verbena",
+    "sources": [
+      "https://www.vreeken.nl/831320-citroenverbena",
+      "https://www.vreeken.nl/831325-citroenverbena-limoentje",
+      "https://www.vreeken.nl/planten-schimmels/eetbare-planten/rest-eetbare-planten/p1-40",
+      "https://nl-nl.bakker.com/products/citroenverbena",
+      "https://www.vreeken.nl/planten-schimmels/eetbare-planten/rest-eetbare-planten/p2-30",
+      "https://www.intratuin.nl/geelbladige-citroenverbena-aloysia-triphylla-golden-wind-d-14-h-15-cm.html",
+      "https://www.intratuin.nl/moestuin/moestuin-planten?p=5",
+      "https://www.intratuin.nl/moestuin/moestuin-planten/kruidenplanten/biologisch",
+      "https://www.intratuin.nl/plantengids/citroenverbena-verveine-aloysia-triphylla-snoeien-stekken",
+      "https://nl-be.bakker.com/products/citroenverbena",
+      "https://www.intratuin.nl/biologische-citroenverbena-aloysia-triphylla-d-12-h-15-cm.html",
+      "https://www.intratuin.nl/moestuin/moestuin-planten/kruidenplanten",
+      "https://www.intratuin.nl/intratuin-geurstokjes-may-citrus-verbena-200-ml.html",
+      "https://nl-nl.bakker.com/products/ijzerhard"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lemon-verbena-golden-wind",
+    "names": {
+      "nl": "Geelbladige Citroenverbena 'Golden Wind'",
+      "en": "Yellow-leaved Lemon Verbena 'Golden Wind'"
+    },
+    "days_to_harvest": {
+      "min": 50,
+      "max": 70
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "compact",
+      "bush",
+      "ornamental",
+      "moderately frost-resistant"
+    ],
+    "crop_slug": "lemon-verbena",
+    "sources": [
+      "https://www.vreeken.nl/831320-citroenverbena",
+      "https://www.vreeken.nl/831325-citroenverbena-limoentje",
+      "https://www.vreeken.nl/planten-schimmels/eetbare-planten/rest-eetbare-planten/p1-40",
+      "https://nl-nl.bakker.com/products/citroenverbena",
+      "https://www.vreeken.nl/planten-schimmels/eetbare-planten/rest-eetbare-planten/p2-30",
+      "https://www.intratuin.nl/geelbladige-citroenverbena-aloysia-triphylla-golden-wind-d-14-h-15-cm.html",
+      "https://www.intratuin.nl/moestuin/moestuin-planten?p=5",
+      "https://www.intratuin.nl/moestuin/moestuin-planten/kruidenplanten/biologisch",
+      "https://www.intratuin.nl/plantengids/citroenverbena-verveine-aloysia-triphylla-snoeien-stekken",
+      "https://nl-be.bakker.com/products/citroenverbena",
+      "https://www.intratuin.nl/biologische-citroenverbena-aloysia-triphylla-d-12-h-15-cm.html",
+      "https://www.intratuin.nl/moestuin/moestuin-planten/kruidenplanten",
+      "https://www.intratuin.nl/intratuin-geurstokjes-may-citrus-verbena-200-ml.html",
+      "https://nl-nl.bakker.com/products/ijzerhard"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lemon-verbena-aloysia-citrodora",
+    "names": {
+      "nl": "Citroenverbena",
+      "en": "Lemon Verbena"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Bakker"
+    ],
+    "traits": [
+      "bush",
+      "early",
+      "tender"
+    ],
+    "crop_slug": "lemon-verbena",
+    "sources": [
+      "https://www.vreeken.nl/831320-citroenverbena",
+      "https://www.vreeken.nl/831325-citroenverbena-limoentje",
+      "https://www.vreeken.nl/planten-schimmels/eetbare-planten/rest-eetbare-planten/p1-40",
+      "https://nl-nl.bakker.com/products/citroenverbena",
+      "https://www.vreeken.nl/planten-schimmels/eetbare-planten/rest-eetbare-planten/p2-30",
+      "https://www.intratuin.nl/geelbladige-citroenverbena-aloysia-triphylla-golden-wind-d-14-h-15-cm.html",
+      "https://www.intratuin.nl/moestuin/moestuin-planten?p=5",
+      "https://www.intratuin.nl/moestuin/moestuin-planten/kruidenplanten/biologisch",
+      "https://www.intratuin.nl/plantengids/citroenverbena-verveine-aloysia-triphylla-snoeien-stekken",
+      "https://nl-be.bakker.com/products/citroenverbena",
+      "https://www.intratuin.nl/biologische-citroenverbena-aloysia-triphylla-d-12-h-15-cm.html",
+      "https://www.intratuin.nl/moestuin/moestuin-planten/kruidenplanten",
+      "https://www.intratuin.nl/intratuin-geurstokjes-may-citrus-verbena-200-ml.html",
+      "https://nl-nl.bakker.com/products/ijzerhard"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "lemon-verbena-biologische",
+    "names": {
+      "nl": "Biologische Citroenverbena",
+      "en": "Organic Lemon Verbena"
+    },
+    "days_to_harvest": {
+      "min": 45,
+      "max": 60
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "bush",
+      "organic",
+      "insect-repellent"
+    ],
+    "crop_slug": "lemon-verbena",
+    "sources": [
+      "https://www.vreeken.nl/831320-citroenverbena",
+      "https://www.vreeken.nl/831325-citroenverbena-limoentje",
+      "https://www.vreeken.nl/planten-schimmels/eetbare-planten/rest-eetbare-planten/p1-40",
+      "https://nl-nl.bakker.com/products/citroenverbena",
+      "https://www.vreeken.nl/planten-schimmels/eetbare-planten/rest-eetbare-planten/p2-30",
+      "https://www.intratuin.nl/geelbladige-citroenverbena-aloysia-triphylla-golden-wind-d-14-h-15-cm.html",
+      "https://www.intratuin.nl/moestuin/moestuin-planten?p=5",
+      "https://www.intratuin.nl/moestuin/moestuin-planten/kruidenplanten/biologisch",
+      "https://www.intratuin.nl/plantengids/citroenverbena-verveine-aloysia-triphylla-snoeien-stekken",
+      "https://nl-be.bakker.com/products/citroenverbena",
+      "https://www.intratuin.nl/biologische-citroenverbena-aloysia-triphylla-d-12-h-15-cm.html",
+      "https://www.intratuin.nl/moestuin/moestuin-planten/kruidenplanten",
+      "https://www.intratuin.nl/intratuin-geurstokjes-may-citrus-verbena-200-ml.html",
+      "https://nl-nl.bakker.com/products/ijzerhard"
+    ],
+    "verified": false
+  }
+]

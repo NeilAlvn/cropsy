@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "stevia-suikerplantje",
+    "names": {
+      "nl": "Suikerplantje",
+      "en": "Stevia"
+    },
+    "days_to_harvest": {
+      "min": 100,
+      "max": 120
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop",
+      "Hortitops"
+    ],
+    "traits": [
+      "compact",
+      "bush",
+      "frost-sensitive",
+      "perennial"
+    ],
+    "crop_slug": "stevia",
+    "sources": [
+      "https://www.123zaden.nl/stevia-suikerplantje",
+      "https://nl-nl.bakker.com/collections/stevia-lat",
+      "https://www.welkoop.nl/hortitops-stevia-stevia-rebaudiana-suikerplantje-kruidenzaden-25stuks_1165903",
+      "https://www.hobbytuinpuurnatuur.nl/product/7572625/stevia-stevia-rebaudiana-15-zaden",
+      "https://www.dutchgardenseeds.co.uk/growing-herbs/sowing-and-growing-of-stevia/",
+      "https://nl-nl.bakker.com/products/suikerplantje",
+      "https://www.sluisgarden.com/product/stevia-sugar-plant-sweet-herb-sweet-leaf-of-paraguay/",
+      "https://www.koopzaden.nl/product/stevia-zaden-honingplant",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://biezen.nl/stevia-of-honingplant-sluis-garden-zaden",
+      "https://hermie.com/en/201799825/buzzy-stevia-seeds-sugar-plant-or-honeyweed",
+      "https://www.janssentuinproducten.nl/buzzy-stevia/",
+      "https://www.detuinwinkelonline.nl/product/buzzy-zaden-stevia-suikerplantje-of-honingkruid",
+      "https://www.dutchgardenseeds.com/kruiden-kweken/stevia-zaaien-en-kweken/",
+      "https://fr-be.bakker.com/collections/stevia-stevia-lat",
+      "https://www.vreeken.nl/832900-suikerblad",
+      "https://www.vreeken.nl/zaden/kruiden-specerijen/eenjarige-kruiden",
+      "https://stevia-pura.de/Wat-is-Rebaudiosid-A"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "stevia-honingplant",
+    "names": {
+      "nl": "Honingplant",
+      "en": "Sugar Plant"
+    },
+    "days_to_harvest": {
+      "min": 90,
+      "max": 120
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Sluis Garden"
+    ],
+    "traits": [
+      "upright",
+      "bushy"
+    ],
+    "crop_slug": "stevia",
+    "sources": [
+      "https://www.123zaden.nl/stevia-suikerplantje",
+      "https://nl-nl.bakker.com/collections/stevia-lat",
+      "https://www.welkoop.nl/hortitops-stevia-stevia-rebaudiana-suikerplantje-kruidenzaden-25stuks_1165903",
+      "https://www.hobbytuinpuurnatuur.nl/product/7572625/stevia-stevia-rebaudiana-15-zaden",
+      "https://www.dutchgardenseeds.co.uk/growing-herbs/sowing-and-growing-of-stevia/",
+      "https://nl-nl.bakker.com/products/suikerplantje",
+      "https://www.sluisgarden.com/product/stevia-sugar-plant-sweet-herb-sweet-leaf-of-paraguay/",
+      "https://www.koopzaden.nl/product/stevia-zaden-honingplant",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://biezen.nl/stevia-of-honingplant-sluis-garden-zaden",
+      "https://hermie.com/en/201799825/buzzy-stevia-seeds-sugar-plant-or-honeyweed",
+      "https://www.janssentuinproducten.nl/buzzy-stevia/",
+      "https://www.detuinwinkelonline.nl/product/buzzy-zaden-stevia-suikerplantje-of-honingkruid",
+      "https://www.dutchgardenseeds.com/kruiden-kweken/stevia-zaaien-en-kweken/",
+      "https://fr-be.bakker.com/collections/stevia-stevia-lat",
+      "https://www.vreeken.nl/832900-suikerblad",
+      "https://www.vreeken.nl/zaden/kruiden-specerijen/eenjarige-kruiden",
+      "https://stevia-pura.de/Wat-is-Rebaudiosid-A"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "stevia-honingkruid",
+    "names": {
+      "nl": "Honingkruid",
+      "en": "Stevia"
+    },
+    "days_to_harvest": {
+      "min": 100,
+      "max": 120
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy Seeds",
+      "Hermie"
+    ],
+    "traits": [
+      "dwarf",
+      "compact",
+      "bush",
+      "pest-resilient"
+    ],
+    "crop_slug": "stevia",
+    "sources": [
+      "https://www.123zaden.nl/stevia-suikerplantje",
+      "https://nl-nl.bakker.com/collections/stevia-lat",
+      "https://www.welkoop.nl/hortitops-stevia-stevia-rebaudiana-suikerplantje-kruidenzaden-25stuks_1165903",
+      "https://www.hobbytuinpuurnatuur.nl/product/7572625/stevia-stevia-rebaudiana-15-zaden",
+      "https://www.dutchgardenseeds.co.uk/growing-herbs/sowing-and-growing-of-stevia/",
+      "https://nl-nl.bakker.com/products/suikerplantje",
+      "https://www.sluisgarden.com/product/stevia-sugar-plant-sweet-herb-sweet-leaf-of-paraguay/",
+      "https://www.koopzaden.nl/product/stevia-zaden-honingplant",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://biezen.nl/stevia-of-honingplant-sluis-garden-zaden",
+      "https://hermie.com/en/201799825/buzzy-stevia-seeds-sugar-plant-or-honeyweed",
+      "https://www.janssentuinproducten.nl/buzzy-stevia/",
+      "https://www.detuinwinkelonline.nl/product/buzzy-zaden-stevia-suikerplantje-of-honingkruid",
+      "https://www.dutchgardenseeds.com/kruiden-kweken/stevia-zaaien-en-kweken/",
+      "https://fr-be.bakker.com/collections/stevia-stevia-lat",
+      "https://www.vreeken.nl/832900-suikerblad",
+      "https://www.vreeken.nl/zaden/kruiden-specerijen/eenjarige-kruiden",
+      "https://stevia-pura.de/Wat-is-Rebaudiosid-A"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "stevia-suikerblad",
+    "names": {
+      "nl": "Suikerblad",
+      "en": "Stevia"
+    },
+    "days_to_harvest": {
+      "min": 30,
+      "max": 120
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "mounding",
+      "bushy"
+    ],
+    "crop_slug": "stevia",
+    "sources": [
+      "https://www.123zaden.nl/stevia-suikerplantje",
+      "https://nl-nl.bakker.com/collections/stevia-lat",
+      "https://www.welkoop.nl/hortitops-stevia-stevia-rebaudiana-suikerplantje-kruidenzaden-25stuks_1165903",
+      "https://www.hobbytuinpuurnatuur.nl/product/7572625/stevia-stevia-rebaudiana-15-zaden",
+      "https://www.dutchgardenseeds.co.uk/growing-herbs/sowing-and-growing-of-stevia/",
+      "https://nl-nl.bakker.com/products/suikerplantje",
+      "https://www.sluisgarden.com/product/stevia-sugar-plant-sweet-herb-sweet-leaf-of-paraguay/",
+      "https://www.koopzaden.nl/product/stevia-zaden-honingplant",
+      "https://www.gardenseeds.nl/downloads/tuinmagazine-2020.pdf",
+      "https://biezen.nl/stevia-of-honingplant-sluis-garden-zaden",
+      "https://hermie.com/en/201799825/buzzy-stevia-seeds-sugar-plant-or-honeyweed",
+      "https://www.janssentuinproducten.nl/buzzy-stevia/",
+      "https://www.detuinwinkelonline.nl/product/buzzy-zaden-stevia-suikerplantje-of-honingkruid",
+      "https://www.dutchgardenseeds.com/kruiden-kweken/stevia-zaaien-en-kweken/",
+      "https://fr-be.bakker.com/collections/stevia-stevia-lat",
+      "https://www.vreeken.nl/832900-suikerblad",
+      "https://www.vreeken.nl/zaden/kruiden-specerijen/eenjarige-kruiden",
+      "https://stevia-pura.de/Wat-is-Rebaudiosid-A"
+    ],
+    "verified": false
+  }
+]

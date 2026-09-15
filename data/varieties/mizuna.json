@@ -1,0 +1,148 @@
+[
+  {
+    "slug": "mizuna-green-leaved",
+    "names": {
+      "nl": "Mizuna 'Green Leaved'",
+      "en": "Mizuna 'Green Leaved'"
+    },
+    "days_to_harvest": {
+      "min": 21,
+      "max": 50
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken’s Zaden"
+    ],
+    "traits": [
+      "early",
+      "cold-resistant",
+      "winter-hardy",
+      "cut-and-come-again"
+    ],
+    "crop_slug": "mizuna",
+    "sources": [
+      "https://www.vreeken.nl/223200-mizuna-green-leaved",
+      "https://www.vreeken.nl/223270-mizuna-red-ruble",
+      "https://tuinzaden.eu/en/microgreens-seeds/921749-mizuna-green-microgreens-seeds.html",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/bladgroenten?p=18",
+      "https://tuinzaden.eu/nl/kweeksets-zaden-kopen/922118-rode-mizuna-micro-garden-microgreens-grow-kit.html",
+      "https://www.vreeken.nl/223260-mizuna-red-knight-f1",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p5-90",
+      "https://www.bolster.nl/raapsteel-mizuna-brassica-rapa/p1422",
+      "https://www.bolster.nl/raapstelen-oogsten/t22820",
+      "https://www.bolster.nl/mesclun-aziatisch-mengsel-van-soorten/p3215",
+      "https://www.bolster.nl/aziatische-bladgewassen-telen-onze-tips/t10429"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "mizuna-red-ruble",
+    "names": {
+      "nl": "Rode Rucola",
+      "en": "Mizuna 'Red Ruble'"
+    },
+    "days_to_harvest": {
+      "min": 20,
+      "max": 45
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken’s Zaden"
+    ],
+    "traits": [
+      "bush",
+      "early",
+      "cold-tolerant",
+      "cut-and-come-again",
+      "ornamental"
+    ],
+    "crop_slug": "mizuna",
+    "sources": [
+      "https://www.vreeken.nl/223200-mizuna-green-leaved",
+      "https://www.vreeken.nl/223270-mizuna-red-ruble",
+      "https://tuinzaden.eu/en/microgreens-seeds/921749-mizuna-green-microgreens-seeds.html",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/bladgroenten?p=18",
+      "https://tuinzaden.eu/nl/kweeksets-zaden-kopen/922118-rode-mizuna-micro-garden-microgreens-grow-kit.html",
+      "https://www.vreeken.nl/223260-mizuna-red-knight-f1",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p5-90",
+      "https://www.bolster.nl/raapsteel-mizuna-brassica-rapa/p1422",
+      "https://www.bolster.nl/raapstelen-oogsten/t22820",
+      "https://www.bolster.nl/mesclun-aziatisch-mengsel-van-soorten/p3215",
+      "https://www.bolster.nl/aziatische-bladgewassen-telen-onze-tips/t10429"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "mizuna-red-knight-f1",
+    "names": {
+      "nl": "Mizuna 'Red Knight' F1",
+      "en": "Mizuna 'Red Knight' F1"
+    },
+    "days_to_harvest": {
+      "min": 25,
+      "max": 45
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken’s Zaden"
+    ],
+    "traits": [
+      "hybrid",
+      "early",
+      "cold-hardy",
+      "disease-tolerant",
+      "compact",
+      "upright"
+    ],
+    "crop_slug": "mizuna",
+    "sources": [
+      "https://www.vreeken.nl/223200-mizuna-green-leaved",
+      "https://www.vreeken.nl/223270-mizuna-red-ruble",
+      "https://tuinzaden.eu/en/microgreens-seeds/921749-mizuna-green-microgreens-seeds.html",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/bladgroenten?p=18",
+      "https://tuinzaden.eu/nl/kweeksets-zaden-kopen/922118-rode-mizuna-micro-garden-microgreens-grow-kit.html",
+      "https://www.vreeken.nl/223260-mizuna-red-knight-f1",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p5-90",
+      "https://www.bolster.nl/raapsteel-mizuna-brassica-rapa/p1422",
+      "https://www.bolster.nl/raapstelen-oogsten/t22820",
+      "https://www.bolster.nl/mesclun-aziatisch-mengsel-van-soorten/p3215",
+      "https://www.bolster.nl/aziatische-bladgewassen-telen-onze-tips/t10429"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "mizuna-raapsteel",
+    "names": {
+      "nl": "Raapsteel 'Mizuna' (Biologisch)",
+      "en": "Raapsteel 'Mizuna' (Organic)"
+    },
+    "days_to_harvest": {
+      "min": 21,
+      "max": 42
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "organic",
+      "cold-tolerant",
+      "cut-and-come-again"
+    ],
+    "crop_slug": "mizuna",
+    "sources": [
+      "https://www.vreeken.nl/223200-mizuna-green-leaved",
+      "https://www.vreeken.nl/223270-mizuna-red-ruble",
+      "https://tuinzaden.eu/en/microgreens-seeds/921749-mizuna-green-microgreens-seeds.html",
+      "https://www.intratuin.nl/moestuin/moestuin-zaden/groentezaden/bladgroenten?p=18",
+      "https://tuinzaden.eu/nl/kweeksets-zaden-kopen/922118-rode-mizuna-micro-garden-microgreens-grow-kit.html",
+      "https://www.vreeken.nl/223260-mizuna-red-knight-f1",
+      "https://www.vreeken.nl/zaden/groenten-fruit/rest-groenten/p5-90",
+      "https://www.bolster.nl/raapsteel-mizuna-brassica-rapa/p1422",
+      "https://www.bolster.nl/raapstelen-oogsten/t22820",
+      "https://www.bolster.nl/mesclun-aziatisch-mengsel-van-soorten/p3215",
+      "https://www.bolster.nl/aziatische-bladgewassen-telen-onze-tips/t10429"
+    ],
+    "verified": false
+  }
+]

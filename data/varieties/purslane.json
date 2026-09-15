@@ -1,0 +1,151 @@
+[
+  {
+    "slug": "purslane-zomerpostelein-organic",
+    "names": {
+      "nl": "Zomerpostelein (Biologisch)",
+      "en": "Summer Purslane (Organic)"
+    },
+    "days_to_harvest": {
+      "min": 21,
+      "max": 30
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster"
+    ],
+    "traits": [
+      "low-growing",
+      "compact",
+      "carpet-forming",
+      "ultra-early",
+      "fast-maturing",
+      "cut-and-come-again"
+    ],
+    "crop_slug": "purslane",
+    "sources": [
+      "https://www.bolster.nl/zomerpostelein-portulaca-oleracea/p97",
+      "https://demoestuinwinkel.nl/products/de_bolster_zomerpostelein",
+      "https://www.bolster.nl/winterpostelein-claytonia-perfoliata/p96",
+      "https://www.vreeken.nl/217900-postelein-gele",
+      "https://dezaden.nl/categorie/groentezaden/postelein-zaden/",
+      "https://www.tuinplus.nl/nl/4/002490/buzzy-postelein-groene.aspx",
+      "https://dezaden.nl/product/buzzy-postelein-zaden-groene/",
+      "https://www.tuindreef.nl/groene-postelein-groentezaden",
+      "https://www.welkoop.nl/hortitops-postelein-portulaca-oleracea-groene-groentezaden-10gram_1039875",
+      "https://allezadenkopen.nl/products/postelein-winterpostelein",
+      "https://www.intratuin.nl/intratuin-groentezaad-postelein-portulaca-oleracea-gewone-groene.html",
+      "https://www.vreeken.nl/218000-postelein-groene-gewone"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "purslane-gele",
+    "names": {
+      "nl": "Postelein 'Gele'",
+      "en": "Yellow Purslane"
+    },
+    "days_to_harvest": {
+      "min": 25,
+      "max": 35
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "compact",
+      "upright-bushy",
+      "early",
+      "delicate"
+    ],
+    "crop_slug": "purslane",
+    "sources": [
+      "https://www.bolster.nl/zomerpostelein-portulaca-oleracea/p97",
+      "https://demoestuinwinkel.nl/products/de_bolster_zomerpostelein",
+      "https://www.bolster.nl/winterpostelein-claytonia-perfoliata/p96",
+      "https://www.vreeken.nl/217900-postelein-gele",
+      "https://dezaden.nl/categorie/groentezaden/postelein-zaden/",
+      "https://www.tuinplus.nl/nl/4/002490/buzzy-postelein-groene.aspx",
+      "https://dezaden.nl/product/buzzy-postelein-zaden-groene/",
+      "https://www.tuindreef.nl/groene-postelein-groentezaden",
+      "https://www.welkoop.nl/hortitops-postelein-portulaca-oleracea-groene-groentezaden-10gram_1039875",
+      "https://allezadenkopen.nl/products/postelein-winterpostelein",
+      "https://www.intratuin.nl/intratuin-groentezaad-postelein-portulaca-oleracea-gewone-groene.html",
+      "https://www.vreeken.nl/218000-postelein-groene-gewone"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "purslane-groene",
+    "names": {
+      "nl": "Postelein 'Groene'",
+      "en": "Green Purslane"
+    },
+    "days_to_harvest": {
+      "min": 20,
+      "max": 28
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Buzzy Seeds"
+    ],
+    "traits": [
+      "dwarf",
+      "bushy",
+      "vigorous",
+      "damping-off-resistant"
+    ],
+    "crop_slug": "purslane",
+    "sources": [
+      "https://www.bolster.nl/zomerpostelein-portulaca-oleracea/p97",
+      "https://demoestuinwinkel.nl/products/de_bolster_zomerpostelein",
+      "https://www.bolster.nl/winterpostelein-claytonia-perfoliata/p96",
+      "https://www.vreeken.nl/217900-postelein-gele",
+      "https://dezaden.nl/categorie/groentezaden/postelein-zaden/",
+      "https://www.tuinplus.nl/nl/4/002490/buzzy-postelein-groene.aspx",
+      "https://dezaden.nl/product/buzzy-postelein-zaden-groene/",
+      "https://www.tuindreef.nl/groene-postelein-groentezaden",
+      "https://www.welkoop.nl/hortitops-postelein-portulaca-oleracea-groene-groentezaden-10gram_1039875",
+      "https://allezadenkopen.nl/products/postelein-winterpostelein",
+      "https://www.intratuin.nl/intratuin-groentezaad-postelein-portulaca-oleracea-gewone-groene.html",
+      "https://www.vreeken.nl/218000-postelein-groene-gewone"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "purslane-gewone-groene",
+    "names": {
+      "nl": "Postelein 'Gewone Groene'",
+      "en": "Common Green Purslane"
+    },
+    "days_to_harvest": {
+      "min": 25,
+      "max": 30
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "fast-growing",
+      "low-bush",
+      "clump-forming"
+    ],
+    "crop_slug": "purslane",
+    "sources": [
+      "https://www.bolster.nl/zomerpostelein-portulaca-oleracea/p97",
+      "https://demoestuinwinkel.nl/products/de_bolster_zomerpostelein",
+      "https://www.bolster.nl/winterpostelein-claytonia-perfoliata/p96",
+      "https://www.vreeken.nl/217900-postelein-gele",
+      "https://dezaden.nl/categorie/groentezaden/postelein-zaden/",
+      "https://www.tuinplus.nl/nl/4/002490/buzzy-postelein-groene.aspx",
+      "https://dezaden.nl/product/buzzy-postelein-zaden-groene/",
+      "https://www.tuindreef.nl/groene-postelein-groentezaden",
+      "https://www.welkoop.nl/hortitops-postelein-portulaca-oleracea-groene-groentezaden-10gram_1039875",
+      "https://allezadenkopen.nl/products/postelein-winterpostelein",
+      "https://www.intratuin.nl/intratuin-groentezaad-postelein-portulaca-oleracea-gewone-groene.html",
+      "https://www.vreeken.nl/218000-postelein-groene-gewone"
+    ],
+    "verified": false
+  }
+]

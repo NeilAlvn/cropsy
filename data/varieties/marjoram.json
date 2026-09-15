@@ -1,0 +1,171 @@
+[
+  {
+    "slug": "marjoram-echte-marjolein",
+    "names": {
+      "nl": "Echte Marjolein",
+      "en": "Sweet Marjoram"
+    },
+    "days_to_harvest": {
+      "min": 60,
+      "max": 75
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Intratuin"
+    ],
+    "traits": [
+      "bush",
+      "compact",
+      "annual",
+      "frost-sensitive",
+      "aromatic"
+    ],
+    "crop_slug": "marjoram",
+    "sources": [
+      "https://www.intratuin.nl/intratuin-kruidenzaad-marjolein-origanum-majorana.html",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-marjolein-origanum-vulgare.html",
+      "https://www.pokon.nl/plant/item/marjolein/",
+      "https://www.bolster.nl/marjolein/c2064",
+      "https://www.feggies.nl/products/marjolein",
+      "https://www.bolster.nl/wilde-marjolein-origanum-vulgare/p118",
+      "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-wilde-marjolein/",
+      "https://groei.nl/artikel/hoe-zaai-ik-oregano",
+      "https://www.vreeken.nl/356030-oregano-hop-kirigami",
+      "https://www.vreeken.nl/zoeken/Hop/oregano",
+      "https://www.welkoop.nl/hortitops-marjolein-origanum-vulgare-oreganorosebloeiendovulgare-kruidenzaden-0-25gram_1039948",
+      "https://www.tuinwereld.nl/product/buzzy-marjolein-oregano",
+      "https://www.intratuin.nl/biologische-intratuin-kruidenzaad-wilde-marjolein-origanum-vulgare.html",
+      "https://www.groenrijk.nl/plantengids/plant/vaste-plant/origanum-vulgare-aureum",
+      "https://www.vreeken.nl/356005-oregano"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "marjoram-wilde-marjolein",
+    "names": {
+      "nl": "Wilde Marjolein",
+      "en": "Wild Marjoram"
+    },
+    "days_to_harvest": {
+      "min": 75,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "De Bolster Biologische Zaden"
+    ],
+    "traits": [
+      "clump-forming",
+      "bush",
+      "organic",
+      "winter-hardy",
+      "perennial",
+      "drought-tolerant"
+    ],
+    "crop_slug": "marjoram",
+    "sources": [
+      "https://www.intratuin.nl/intratuin-kruidenzaad-marjolein-origanum-majorana.html",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-marjolein-origanum-vulgare.html",
+      "https://www.pokon.nl/plant/item/marjolein/",
+      "https://www.bolster.nl/marjolein/c2064",
+      "https://www.feggies.nl/products/marjolein",
+      "https://www.bolster.nl/wilde-marjolein-origanum-vulgare/p118",
+      "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-wilde-marjolein/",
+      "https://groei.nl/artikel/hoe-zaai-ik-oregano",
+      "https://www.vreeken.nl/356030-oregano-hop-kirigami",
+      "https://www.vreeken.nl/zoeken/Hop/oregano",
+      "https://www.welkoop.nl/hortitops-marjolein-origanum-vulgare-oreganorosebloeiendovulgare-kruidenzaden-0-25gram_1039948",
+      "https://www.tuinwereld.nl/product/buzzy-marjolein-oregano",
+      "https://www.intratuin.nl/biologische-intratuin-kruidenzaad-wilde-marjolein-origanum-vulgare.html",
+      "https://www.groenrijk.nl/plantengids/plant/vaste-plant/origanum-vulgare-aureum",
+      "https://www.vreeken.nl/356005-oregano"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "marjoram-kirigami",
+    "names": {
+      "nl": "Hopmarjolein 'Kirigami'",
+      "en": "Hop Oregano 'Kirigami'"
+    },
+    "days_to_harvest": {
+      "min": 80,
+      "max": 90
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Vreeken's Zaden"
+    ],
+    "traits": [
+      "cushion-forming",
+      "cascading",
+      "trailing",
+      "early",
+      "hybrid",
+      "ornamental",
+      "edible",
+      "heat-tolerant",
+      "drought-tolerant"
+    ],
+    "crop_slug": "marjoram",
+    "sources": [
+      "https://www.intratuin.nl/intratuin-kruidenzaad-marjolein-origanum-majorana.html",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-marjolein-origanum-vulgare.html",
+      "https://www.pokon.nl/plant/item/marjolein/",
+      "https://www.bolster.nl/marjolein/c2064",
+      "https://www.feggies.nl/products/marjolein",
+      "https://www.bolster.nl/wilde-marjolein-origanum-vulgare/p118",
+      "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-wilde-marjolein/",
+      "https://groei.nl/artikel/hoe-zaai-ik-oregano",
+      "https://www.vreeken.nl/356030-oregano-hop-kirigami",
+      "https://www.vreeken.nl/zoeken/Hop/oregano",
+      "https://www.welkoop.nl/hortitops-marjolein-origanum-vulgare-oreganorosebloeiendovulgare-kruidenzaden-0-25gram_1039948",
+      "https://www.tuinwereld.nl/product/buzzy-marjolein-oregano",
+      "https://www.intratuin.nl/biologische-intratuin-kruidenzaad-wilde-marjolein-origanum-vulgare.html",
+      "https://www.groenrijk.nl/plantengids/plant/vaste-plant/origanum-vulgare-aureum",
+      "https://www.vreeken.nl/356005-oregano"
+    ],
+    "verified": false
+  },
+  {
+    "slug": "marjoram-rosebloeiend",
+    "names": {
+      "nl": "Wilde Marjolein Rosebloeiend",
+      "en": "Oregano Rosebloeiend"
+    },
+    "days_to_harvest": {
+      "min": 70,
+      "max": 85
+    },
+    "container_ok": true,
+    "suppliers": [
+      "Welkoop"
+    ],
+    "traits": [
+      "upright",
+      "bush",
+      "winter-hardy",
+      "perennial",
+      "drought-tolerant"
+    ],
+    "crop_slug": "marjoram",
+    "sources": [
+      "https://www.intratuin.nl/intratuin-kruidenzaad-marjolein-origanum-majorana.html",
+      "https://www.intratuin.nl/intratuin-kruidenzaad-marjolein-origanum-vulgare.html",
+      "https://www.pokon.nl/plant/item/marjolein/",
+      "https://www.bolster.nl/marjolein/c2064",
+      "https://www.feggies.nl/products/marjolein",
+      "https://www.bolster.nl/wilde-marjolein-origanum-vulgare/p118",
+      "https://www.ivn.nl/aanbod/moestuinieren/leren-over-de-natuur/kweektips-wilde-marjolein/",
+      "https://groei.nl/artikel/hoe-zaai-ik-oregano",
+      "https://www.vreeken.nl/356030-oregano-hop-kirigami",
+      "https://www.vreeken.nl/zoeken/Hop/oregano",
+      "https://www.welkoop.nl/hortitops-marjolein-origanum-vulgare-oreganorosebloeiendovulgare-kruidenzaden-0-25gram_1039948",
+      "https://www.tuinwereld.nl/product/buzzy-marjolein-oregano",
+      "https://www.intratuin.nl/biologische-intratuin-kruidenzaad-wilde-marjolein-origanum-vulgare.html",
+      "https://www.groenrijk.nl/plantengids/plant/vaste-plant/origanum-vulgare-aureum",
+      "https://www.vreeken.nl/356005-oregano"
+    ],
+    "verified": false
+  }
+]
