@@ -33,7 +33,7 @@ export async function POST(request: Request): Promise<Response> {
   const res = await fetch('https://plant.id/api/v3/health_assessment?details=local_name,description,treatment&language=nl', {
     method: 'POST',
     headers: { 'Api-Key': KEY, 'content-type': 'application/json' },
-    body: JSON.stringify({ images: [`data:image/jpeg;base64,${b64}`], similar_images: false }),
+    body: JSON.stringify({ images: [`data:image/jpeg;base64,${b64}`] }),
   })
   if (!res.ok) return Response.json({ error: 'vendor', status: res.status }, { status: 502 })
   const data = (await res.json()) as {
