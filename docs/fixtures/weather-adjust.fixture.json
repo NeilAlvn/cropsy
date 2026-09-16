@@ -166,8 +166,8 @@
       "task_id": "t-water-wet",
       "action": "skip",
       "reason": {
-        "nl": "Genoeg regen rond deze dag (15 mm) — overslaan.",
-        "en": "Enough rain around this day (15 mm) — skip watering."
+        "nl": "Genoeg regen rond deze dag (15 mm). Overslaan.",
+        "en": "Enough rain around this day (15 mm). Skip watering."
       }
     },
     {
@@ -175,8 +175,8 @@
       "action": "defer",
       "to": "2026-05-05",
       "reason": {
-        "nl": "Bodem nog te koud (< 12°C) — uitgesteld tot het warmer is.",
-        "en": "Soil still too cold (< 12°C) — held until it warms up."
+        "nl": "Bodem nog te koud (< 12°C). Uitgesteld tot het warmer is.",
+        "en": "Soil still too cold (< 12°C). Held until it warms up."
       }
     },
     {
@@ -184,8 +184,8 @@
       "action": "bring_forward",
       "to": "2026-05-10",
       "reason": {
-        "nl": "Hitte verwacht (34°C) — eerder water geven.",
-        "en": "Heat expected (34°C) — water earlier."
+        "nl": "Hitte verwacht (34°C). Eerder water geven.",
+        "en": "Heat expected (34°C). Water earlier."
       }
     }
   ]

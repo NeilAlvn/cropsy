@@ -117,8 +117,8 @@ function adjustTask(task: Task, byDate: Map<string, DayObservation>, p: AdjustPa
         task_id: task.id,
         action: 'skip',
         reason: {
-          nl: `Genoeg regen rond deze dag (${Math.round(rain)} mm) — overslaan.`,
-          en: `Enough rain around this day (${Math.round(rain)} mm) — skip watering.`,
+          nl: `Genoeg regen rond deze dag (${Math.round(rain)} mm). Overslaan.`,
+          en: `Enough rain around this day (${Math.round(rain)} mm). Skip watering.`,
         },
       }
     }
@@ -145,8 +145,8 @@ function adjustTask(task: Task, byDate: Map<string, DayObservation>, p: AdjustPa
         action: 'bring_forward',
         to: day,
         reason: {
-          nl: `Hitte verwacht (${Math.round(obs.temp_max_c)}°C) — eerder water geven.`,
-          en: `Heat expected (${Math.round(obs.temp_max_c)}°C) — water earlier.`,
+          nl: `Hitte verwacht (${Math.round(obs.temp_max_c)}°C). Eerder water geven.`,
+          en: `Heat expected (${Math.round(obs.temp_max_c)}°C). Water earlier.`,
         },
       }
     }
@@ -168,8 +168,8 @@ function adjustTask(task: Task, byDate: Map<string, DayObservation>, p: AdjustPa
           action: 'defer',
           to: obs.date,
           reason: {
-            nl: `Bodem nog te koud (< ${task.min_soil_c}°C) — uitgesteld tot het warmer is.`,
-            en: `Soil still too cold (< ${task.min_soil_c}°C) — held until it warms up.`,
+            nl: `Bodem nog te koud (< ${task.min_soil_c}°C). Uitgesteld tot het warmer is.`,
+            en: `Soil still too cold (< ${task.min_soil_c}°C). Held until it warms up.`,
           },
         }
       }
@@ -180,8 +180,8 @@ function adjustTask(task: Task, byDate: Map<string, DayObservation>, p: AdjustPa
       action: 'defer',
       to: toISO(addDays(due, p.maxDeferDays)),
       reason: {
-        nl: `Bodem blijft te koud (< ${task.min_soil_c}°C) — nog even wachten.`,
-        en: `Soil staying too cold (< ${task.min_soil_c}°C) — wait a little longer.`,
+        nl: `Bodem blijft te koud (< ${task.min_soil_c}°C). Nog even wachten.`,
+        en: `Soil staying too cold (< ${task.min_soil_c}°C). Wait a little longer.`,
       },
     }
   }
