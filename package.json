@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "type": "module",
-  "description": "Container-first vegetable-growing app for NL/EU — backend, data & timing engine.",
+  "description": "Container-first vegetable-growing app for NL/EU \u2014 backend, data & timing engine.",
   "scripts": {
     "dev": "npm run snapshot && next dev",
     "build": "next build",
@@ -22,7 +22,8 @@
     "verify:replan": "tsx scripts/verify-replan.ts",
     "verify:watering": "tsx scripts/verify-watering.ts",
     "verify:streak": "tsx scripts/verify-streak.ts",
-    "verify:all": "npm run lint:crops && npm run verify:engine && npm run verify:adjust && npm run verify:replan && npm run verify:watering && npm run verify:streak && npm run verify:season && npm run lint:content && npm run verify:snapshot",
+    "verify:newsletter": "tsx scripts/verify-newsletter.ts",
+    "verify:all": "npm run lint:crops && npm run verify:engine && npm run verify:adjust && npm run verify:replan && npm run verify:watering && npm run verify:streak && npm run verify:newsletter && npm run verify:season && npm run lint:content && npm run verify:snapshot",
     "lint:crops": "tsx scripts/lint-crops.ts",
     "lint:content": "tsx scripts/lint-content.ts",
     "verify:season": "tsx scripts/verify-season.ts",
