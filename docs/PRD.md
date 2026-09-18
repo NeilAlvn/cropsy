@@ -188,7 +188,7 @@ Each row: what GrowIt does (from the 128-screen capture), what Cropsy does, and 
 - **Location**: sheet with search (exists), GPS button, postcode entry. Frost cell rounded to 0.1°.
 - **Language**: NL + EN at launch. All crop content has both.
 - **Accessibility**: 44 pt targets, dynamic type to 130%, no colour-only state.
-- **Telemetry**: none in v1 beyond RevenueCat and crash reporting (Sentry, EU region). No ad SDKs, no ATT.
+- **Telemetry**: RevenueCat, crash reporting (Sentry, EU region) and opt-in product analytics (PostHog, EU cloud — see the 2026-09-18 amendment). Analytics is off until the person opts in, first-party only, and carries counts, not content. No ad SDKs, no ATT.
 
 ---
 
@@ -303,7 +303,7 @@ Unchanged from API-CONTRACT §6: outbox, delta pull on `updated_at`, last-write-
 
 ## 10. Architecture (delta only — everything else is in API-CONTRACT.md)
 
-- **Mobile**: Flutter, Drift as UI source of truth, `supabase_flutter` under RLS, `purchases_flutter`, `flutter_local_notifications`, `rive` or `lottie` for the mascot, `sentry_flutter` (EU DSN). No Firebase.
+- **Mobile**: Flutter, Drift as UI source of truth, `supabase_flutter` under RLS, `purchases_flutter`, `flutter_local_notifications`, `rive` or `lottie` for the mascot, `sentry_flutter` (EU DSN), `posthog_flutter` (EU cloud, opt-in, native auto-init disabled). No Firebase.
 - **Engines**: base (`engine`), overlay (`weather_adjust`), **new `replan`**, **new `watering`** (exists in Dart, port to TS for the fixture). All pure, all fixture-tested on both sides.
 - **Backend**: Next 16 API routes on Vercel `fra1`. New routes: `GET /api/content` (snapshot + ETag), `POST /api/identify` and `POST /api/diagnose` (Phase 4 proxies, key server-side), `GET /api/profile/status`. Supabase Storage bucket `journal` with owner-scoped policies.
 - **Website**: unchanged; exports growing guides as markdown the content pipeline reads.
@@ -405,3 +405,12 @@ Weekly data fixes from `feedback`. Watch the §3 metrics. Decide on the season p
 **2026-09-13 — harvest day-count anchor.** `harvest.days_min/max` count from the plant's *outdoor* start: the transplant date for indoor-started crops, otherwise the sow/plant date. That is how the 60 crop rows were entered (tomato 60–85 days is from planting out, not from sowing); `buildPath` in `replan.ts`/`replan.dart` follows it. `_SCHEMA.md` updated.
 
 **2026-09-13 — §8.1 field provenance.** `difficulty`, `water_cadence_days`, `feed_cadence_days`, `depth_mm`, `germination_days`, `days_to_transplant`, `perennial`, `image` were filled for all 60 crops from general horticultural references (`scripts/migrate-crop-fields.ts`), not the ≥2-source cross-check `verified` asserts for timing. Bounds-checked by the linter; grower spot-check in Phase 3. The `flower` node from §7.1 is dropped for v1 — no data field drives it.
+
+**2026-09-18 — opt-in product analytics.** §5.9 said "no telemetry beyond RevenueCat and Sentry", and §2 sells "no tracking SDKs" as a gap we take. Amended: PostHog (EU cloud, org `Cropsy`, project 278217) ships in the app, because §3's success metrics — July MAU vs March MAU, D7 for people who add ≥ 1 plant, the paid funnel — cannot be read from App Store Connect and RevenueCat alone. The promise is narrowed, not dropped:
+
+- **Opt-in.** `posthog_flutter` is not initialised until the person answers yes; native `AUTO_INIT` is false on both platforms, so an install that never opts in creates no id and sends nothing. Asked once on first open of the shell, changeable in Settings for ever after.
+- **Counts, not content.** Four events (`plant_added` with a crop slug, `task_logged` with the re-derivation's shift in days, `onboarding_completed` with how many plants were picked, `paywall_shown`) plus the SDK's app open/background. No notes, no photos, no postcode, no free text.
+- **Off by default in the SDK too**: session replay, surveys and PostHog's own error tracking are all disabled — replay would film someone's garden, surveys are the pop-up §3 promises never to show, and errors are Sentry's job.
+- Still true: first-party only, EU ingest, no ad SDK, no cross-app tracking, therefore no ATT prompt.
+
+The website is unchanged and carries no analytics.
