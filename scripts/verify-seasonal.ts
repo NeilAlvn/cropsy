@@ -3,6 +3,8 @@
 // year, so the dates are asserted here instead.
 import assert from 'node:assert/strict'
 
+process.env.NEWSLETTER_SECRET ??= 'test-secret-for-verification-only'
+
 const { dueToday } = await import('../src/server/seasonal')
 
 const on = (iso: string) => dueToday(new Date(`${iso}T08:00:00Z`))
@@ -27,3 +29,21 @@ for (let d = new Date(Date.UTC(2027, 0, 1)); d.getUTCFullYear() === 2027; d.setU
 assert.equal(quiet, 365 - 10, 'exactly ten days a year are send days')
 
 console.log('seasonal windows: 9 checks passed')
+
+// Slugs are how the database talks, not how a mail talks.
+const { cropName, harvestRecap } = await import('../src/server/seasonal')
+assert.equal(cropName('tomato', 'nl'), 'Tomaat', 'a known slug uses the Dutch name')
+assert.equal(cropName('tomato', 'en'), 'Tomato', 'and the English one')
+assert.equal(cropName('some-unknown-crop', 'nl'), 'some unknown crop', 'an unknown slug at least loses its dashes')
+assert.equal(cropName(null, 'nl'), null, 'no crop, no name')
+
+const mail = harvestRecap(
+  { id: 'x', email: 'a@b.nl', lang: 'nl', harvests: 12, kg: 4.25, pieces: 30, crops: 3, top_crop: 'tomato' },
+  2027,
+)
+assert.match(mail.html, /tomaat/, 'the recap says the crop name, not the slug')
+assert.ok(!mail.html.includes('>tomato<'), 'and does not leak the English slug into Dutch copy')
+assert.match(mail.html, /4,3 kg en 30 stuks|4,2 kg en 30 stuks/, 'Dutch decimals use a comma')
+assert.match(mail.html, /unsubscribe\?token=/, 'every seasonal mail carries a way out')
+
+console.log('recap copy: 8 checks passed')

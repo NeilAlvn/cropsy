@@ -10,6 +10,7 @@
 
 import { layout, nl, en, button, fine, send } from './email'
 import { sign, verify, SITE } from './newsletter'
+import snapshot from '../../generated/crops-snapshot.json'
 
 const url = process.env.SUPABASE_URL
 const serviceKey = process.env.SUPABASE_SERVICE_ROLE_KEY
@@ -104,8 +105,21 @@ export function seasonOpener(r: Recipient): { subject: string; html: string } {
   }
 }
 
+/**
+ * Crop slugs are how the database talks; "cherry-tomato" is not how a mail
+ * talks. The snapshot the API already serves carries both names, so the recap
+ * can say "kerstomaat" to a Dutch reader without another round trip.
+ */
+const cropNames: Record<string, { nl: string; en: string }> = Object.fromEntries(
+  (snapshot.crops as { slug: string; names: { nl: string; en: string } }[]).map((c) => [c.slug, c.names]),
+)
+
+export const cropName = (slug: string | null, lang: 'nl' | 'en'): string | null =>
+  slug ? (cropNames[slug]?.[lang] ?? slug.replace(/-/g, ' ')) : null
+
 export function harvestRecap(r: Recap, year: number): { subject: string; html: string } {
   const dutch = r.lang === 'nl'
+  const top = cropName(r.top_crop, r.lang)
   const kg = Number(r.kg)
   const pieces = Number(r.pieces)
   const amounts = [
@@ -120,9 +134,9 @@ export function harvestRecap(r: Recap, year: number): { subject: string; html: s
       dutch ? 'Het Cropsy-plantje juicht' : 'The Cropsy plant cheering',
       [
         nl(`Je hebt dit jaar ${r.harvests}× geoogst, van ${r.crops} ${r.crops === 1 ? 'gewas' : 'gewassen'}${amounts ? `: samen ${amounts}` : ''}.`),
-        nl(r.top_crop ? `Je trouwste gewas was ${r.top_crop}.` : 'Alles bij elkaar een seizoen om trots op te zijn.', true),
+        nl(top ? `Je trouwste gewas was ${top.toLowerCase()}.` : 'Alles bij elkaar een seizoen om trots op te zijn.', true),
         en(`You harvested ${r.harvests} times this year, from ${r.crops} ${r.crops === 1 ? 'crop' : 'crops'}${amounts ? `: ${amounts} in total` : ''}.`),
-        en(r.top_crop ? `Your most reliable crop was ${r.top_crop}.` : 'All in all, a season to be proud of.', true),
+        en(top ? `Your most reliable crop was ${cropName(r.top_crop, 'en')!.toLowerCase()}.` : 'All in all, a season to be proud of.', true),
         button(SITE, dutch ? 'Plan volgend seizoen' : 'Plan next season'),
         foot(r.id, r.lang),
       ].join('\n'),

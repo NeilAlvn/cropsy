@@ -3,6 +3,7 @@
 // Vercel's scheduler calls this with `Authorization: Bearer $CRON_SECRET`.
 // Without that header it answers 401, because a public URL that mails every
 // opted-in grower is a URL someone else will press.
+import { configured } from '../../../../src/server/newsletter'
 import {
   alreadySent,
   dueToday,
@@ -17,7 +18,9 @@ import {
 const cronSecret = process.env.CRON_SECRET
 
 export async function GET(request: Request): Promise<Response> {
-  if (!cronSecret) return new Response('server not configured', { status: 500 })
+  // Both, before anything is sent: every mail below carries an unsubscribe
+  // link, and a link that cannot be signed is a mail that cannot be stopped.
+  if (!cronSecret || !configured()) return new Response('server not configured', { status: 500 })
   if (request.headers.get('authorization') !== `Bearer ${cronSecret}`) {
     return new Response('unauthorized', { status: 401 })
   }
