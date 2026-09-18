@@ -202,7 +202,9 @@ password_requirements = ""
 
 [auth.rate_limit]
 # Number of emails that can be sent per hour. Requires auth.email.smtp to be enabled.
-email_sent = 2
+# 30, not 2: 2/hour is the built-in mailer's cap, and with Resend behind it
+# that number would lock out a household or a café full of testers.
+email_sent = 30
 # Number of SMS messages that can be sent per hour. Requires auth.sms to be enabled.
 sms_sent = 30
 # Number of anonymous sign-ins that can be made per hour per IP address. Requires enable_anonymous_sign_ins = true.
@@ -244,15 +246,30 @@ otp_length = 8
 # Number of seconds before the email OTP expires (defaults to 1 hour).
 otp_expiry = 3600
 
-# Use a production-ready SMTP server
-# [auth.email.smtp]
-# enabled = true
-# host = "smtp.sendgrid.net"
-# port = 587
-# user = "apikey"
-# pass = "env(SENDGRID_API_KEY)"
-# admin_email = "admin@email.com"
-# sender_name = "Admin"
+# Production SMTP: Resend, EU region (eu-west-1), sending domain
+# send.cropsyapp.com. Supabase's built-in mailer is capped at a couple of
+# messages an hour and is explicitly not for production, so the magic link is
+# the one thing that would fail on launch day without this.
+#
+# `pass` reads RESEND_SMTP_KEY from the environment of whoever runs
+# `supabase config push` — the key itself is never committed. Create it in
+# Resend under API keys with *sending access only*, then:
+#   export RESEND_SMTP_KEY='re_...'
+#   npx supabase config push
+[auth.email.smtp]
+enabled = true
+host = "smtp.resend.com"
+# 587 (STARTTLS). 465 also works; 25 is blocked by most hosts.
+port = 587
+# Resend's SMTP username is the literal string "resend"; the API key is the
+# password.
+user = "resend"
+pass = "env(RESEND_SMTP_KEY)"
+# This is the From address, so it has to live on the domain Resend verified
+# (send.cropsyapp.com) — Resend refuses anything else. People reply to
+# hello@cropsyapp.com, which is a mailbox, not this.
+admin_email = "login@send.cropsyapp.com"
+sender_name = "Cropsy"
 
 # Uncomment to customize email template
 # [auth.email.template.invite]
