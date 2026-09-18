@@ -446,3 +446,34 @@ enabled = true
 [auth.email.template.magic_link]
 subject = "Inloggen bij Cropsy / Sign in to Cropsy"
 content_path = "./supabase/templates/magic_link.html"
+
+# The first mail a new account ever gets. `enable_confirmations` is on and the
+# app offers password sign-up, so both that and a magic link to an unknown
+# address send *this* template, not the magic-link one — without it, a new
+# user's first impression of Cropsy is Supabase's stock English mail.
+[auth.email.template.confirmation]
+subject = "Bevestig je e-mailadres / Confirm your email address"
+content_path = "./supabase/templates/confirmation.html"
+
+# Forgot-password mail. The app keeps magic links as the no-password way in,
+# but someone who set a password expects the familiar button.
+[auth.email.template.recovery]
+subject = "Nieuw wachtwoord voor Cropsy / A new Cropsy password"
+content_path = "./supabase/templates/recovery.html"
+
+# Changing the address on the account. `double_confirm_changes` is on, so this
+# goes to the old address and the new one — losing the mailbox must not mean
+# losing the garden.
+[auth.email.template.email_change]
+subject = "Bevestig je nieuwe e-mailadres / Confirm your new email address"
+content_path = "./supabase/templates/email_change.html"
+
+# Not a link, a warning: the only way someone learns their password changed
+# while they were not looking.
+[auth.email.notification.password_changed]
+enabled = true
+subject = "Je Cropsy-wachtwoord is gewijzigd / Your Cropsy password was changed"
+# Notification templates resolve their path from `supabase/`, not from the
+# project root the way `[auth.email.template.*]` does — hence no `supabase/`
+# here. Getting it wrong fails the whole push, not just this block.
+content_path = "./templates/password_changed.html"
