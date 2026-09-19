@@ -26,15 +26,48 @@ the PRD. Everything under "Verified" was checked that day; everything under
 - Website pricing cards now say Lifetime €49.99 and list the PRD §9 free-tier
   limits (they said €59.99 and made-up features before).
 
+## Done in App Store Connect on 2026-09-19 (Claude, via Luuk's session)
+
+- App Information: primary language switched to **English (U.K.)** so every
+  non-Dutch storefront falls back to English; Dutch stays localised. Names:
+  NL `Cropsy: Moestuin Planner` / `Zaaikalender & herinneringen`, EN
+  `Cropsy: Garden Planner` / `Plant care & sowing calendar`. Category
+  Lifestyle + Utilities. Content rights: yes, third-party content (the crop
+  photos). Age rating questionnaire done: **4+**.
+- Version 1.0: promotional text, description, keywords (from the ASO
+  screenshots: NL `tuinontwerp,groente,tuinplanner,plantenverzorging,
+  plantenziekte,balkon,oogst,zaaien,herbs,pots`; EN `allotment,pots,herbs,
+  design,pests,journal,homegrown,watering,reminder,transplant,diagnosis,
+  harvest`), support/marketing URLs, copyright, six 6.9" screenshots per
+  language (simulator captures: season path, home, plant path, garden,
+  explore, diagnose). Manual release selected.
+- App Privacy: policy URL, eight data types declared and published (email,
+  coarse location, photos, other user content, user ID, purchase history,
+  product interaction, crash data; none used for tracking).
+- Pricing: free, all 175 storefronts, Mac and Vision Pro availability off.
+- Subscription `cropsy_yearly`: price changed to **€29.99** (base Netherlands,
+  recalculated everywhere). Review screenshot (paywall) + notes on both the
+  subscription and `cropsy_lifetime`.
+- App icon in the build is now the mascot (`tool/icon/icon-1024.png`).
+- The build is **iPhone only** (`TARGETED_DEVICE_FAMILY = 1`): the iPad
+  layouts were never tested and iPad screenshots would otherwise be required.
+
 ## Luuk — before the first TestFlight build
 
 1. ~~`REVENUECAT_SECRET_KEY`~~ **Done 2026-09-19**: v1 secret key
    `cropsy-api-vercel` in RevenueCat, set in Vercel production, API redeployed.
    Full proof (premium visible server-side) comes with the sandbox purchase.
 
-2. **Archive and upload** from this Mac (Xcode 26.6 is installed): Xcode →
-   Product → Archive on `ios/Runner.xcworkspace`, Release, then Distribute →
-   TestFlight. `1.0.0+1` is fine for the first build.
+2. **Sign in to Xcode** (Xcode → Settings → Accounts → add your Apple ID,
+   team Vision Tech B.V.). `flutter build ipa` failed on 2026-09-19 with
+   "No Accounts: Add a new account in Accounts settings", so no archive could
+   be signed. After that: `cd cropsy-mobile && flutter build ipa
+   --export-method app-store`, then upload `build/ios/ipa/*.ipa` with the
+   Transporter app or Xcode → Organizer. `1.0.0+1` is fine for the first build.
+2b. **App Review contact phone**: the version page in App Store Connect has
+   name, email and the review notes filled in but Apple refuses to save
+   without a phone number (`+31...`). Type it and press Save; if the page was
+   reloaded, the notes text is in the section below.
 3. **Sandbox tester** in App Store Connect → Users and Access → Sandbox; sign in
    with it on a device and buy `cropsy_lifetime`, then `cropsy_yearly`, then
    Restore. Check the entitlement shows in Settings → Membership.
