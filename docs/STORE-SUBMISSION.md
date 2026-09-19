@@ -15,7 +15,7 @@ the PRD. Everything under "Verified" was checked that day; everything under
   `/api/content` serves the 2.5 MB snapshot with an ETag.
 - Vercel production env: `CRON_SECRET`, `NEWSLETTER_SECRET`, `RESEND_API_KEY`,
   `SENTRY_DSN`, `KINDWISE_API_KEY`, `PLANTNET_API_KEY`, `SUPABASE_URL`,
-  `SUPABASE_SERVICE_ROLE_KEY`. **Missing: `REVENUECAT_SECRET_KEY`** (below).
+  `SUPABASE_SERVICE_ROLE_KEY`, `REVENUECAT_SECRET_KEY` (added 2026-09-19).
 - Resend domain `send.cropsyapp.com` Verified; DKIM, MX and DMARC
   (`p=quarantine`) resolve. Supabase custom SMTP is enabled against
   `smtp.resend.com:587`, sender `Cropsy <login@send.cropsyapp.com>`. A magic
