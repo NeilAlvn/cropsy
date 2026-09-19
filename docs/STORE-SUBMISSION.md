@@ -76,7 +76,7 @@ Declare these. Everything else is "not collected".
 > postcode such as 3511 works as the fallback. Notifications are requested
 > after the first task appears.
 >
-> In-app purchases: Premium yearly (€19.99) and Lifetime (€49.99), both
+> In-app purchases: Premium yearly (€29.99) and Lifetime (€49.99), both
 > through StoreKit via RevenueCat. Free tier is one garden and six plants.
 > The plant scan (Scan tab) sends a photo to Pl@ntNet; the diagnosis (Diagnose
 > tab) to Kindwise. Both are premium-gated after a small free quota.

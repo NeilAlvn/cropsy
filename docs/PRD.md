@@ -32,7 +32,7 @@ The competitive research (2026-09, 20+ apps, ~15k written reviews) found one anc
 
 | Wound | Evidence | Cropsy answer |
 |---|---|---|
-| Annual-only subscription for a 4-month hobby | #1 complaint across GrowIt, Planta, Seed to Spoon; "I would pay $40 once" | Free tier + lifetime €49.99 + optional €19.99/yr |
+| Annual-only subscription for a 4-month hobby | #1 complaint across GrowIt, Planta, Seed to Spoon; "I would pay $40 once" | Free tier + lifetime €49.99 + optional €29.99/yr |
 | US-only frost/zone data, Fahrenheit, imperial | ~8% of GrowIt complaints; "can't change the location to the UK" | Frost dates from KNMI/Open-Meteo climate normals per 0.1° cell; metric and Celsius only; IJsheiligen-aware |
 | Fixed schedules that break within weeks; user feels "behind", abandons by July | Strongest strategic signal; no incumbent re-plans | Adaptive timeline: log a delay, the path re-derives; the mascot says "not behind, here's the new plan" |
 
@@ -292,7 +292,7 @@ Unchanged from API-CONTRACT §6: outbox, delta pull on `updated_at`, last-write-
 |---|---|---|
 | Free | €0 | 1 garden, 6 growing plants, full timeline, reminders, all crop content, 20 journal photos, 2 streak freezes/month |
 | Lifetime | €49.99 once | Unlimited gardens and plants, planner grid, diagnose, unlimited photos and freezes, export |
-| Yearly | €19.99 | Same as lifetime, recurring |
+| Yearly | €29.99 | Same as lifetime, recurring |
 
 - RevenueCat, same integration as Farmsy (`purchases_flutter`, `GET /api/profile/status`).
 - No free trial with card. A 7-day *feature preview* of the planner grid is allowed, no purchase needed, expires silently.
@@ -414,3 +414,5 @@ Weekly data fixes from `feedback`. Watch the §3 metrics. Decide on the season p
 - Still true: first-party only, EU ingest, no ad SDK, no cross-app tracking, therefore no ATT prompt.
 
 The website is unchanged and carries no analytics.
+
+**2026-09-19 — yearly price.** Yearly goes from €19.99 to €29.99 (Luuk, 2026-09-19); lifetime stays €49.99, so paying once is still the better deal after two seasons rather than three. §0 and §9 updated; the App Store Connect subscription price follows.
