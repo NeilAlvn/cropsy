@@ -28,13 +28,9 @@ the PRD. Everything under "Verified" was checked that day; everything under
 
 ## Luuk — before the first TestFlight build
 
-1. **`REVENUECAT_SECRET_KEY`** in Vercel (RevenueCat → project 93eb04ea → API
-   keys → secret key). Without it `/api/profile/status`, `/api/identify` and
-   `/api/diagnose` treat every paying user as free.
-
-   ```bash
-   cd cropsy && vercel env add REVENUECAT_SECRET_KEY production && vercel deploy --prod --yes
-   ```
+1. ~~`REVENUECAT_SECRET_KEY`~~ **Done 2026-09-19**: v1 secret key
+   `cropsy-api-vercel` in RevenueCat, set in Vercel production, API redeployed.
+   Full proof (premium visible server-side) comes with the sandbox purchase.
 
 2. **Archive and upload** from this Mac (Xcode 26.6 is installed): Xcode →
    Product → Archive on `ios/Runner.xcworkspace`, Release, then Distribute →
@@ -42,9 +38,10 @@ the PRD. Everything under "Verified" was checked that day; everything under
 3. **Sandbox tester** in App Store Connect → Users and Access → Sandbox; sign in
    with it on a device and buy `cropsy_lifetime`, then `cropsy_yearly`, then
    Restore. Check the entitlement shows in Settings → Membership.
-4. **Magic link on a device**: request a link from the app, tap it in Mail, the
-   app must open on `com.cropsyapp.app://login-callback` and show you signed
-   in. (Delivery is proven; the deep link needs a real device.)
+4. ~~Magic link on a device~~ **Done 2026-09-19 on the simulator**: link from
+   Mail opened via `xcrun simctl openurl`, Safari asked "Open with Cropsy?",
+   the app opened signed in as the account, Membership Free. Repeat once on a
+   real phone when you have the TestFlight build, no code change expected.
 
 ## App Store Connect — privacy labels
 
