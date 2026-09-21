@@ -58,12 +58,25 @@ the PRD. Everything under "Verified" was checked that day; everything under
    `cropsy-api-vercel` in RevenueCat, set in Vercel production, API redeployed.
    Full proof (premium visible server-side) comes with the sandbox purchase.
 
-2. **Sign in to Xcode** (Xcode → Settings → Accounts → add your Apple ID,
-   team Vision Tech B.V.). `flutter build ipa` failed on 2026-09-19 with
-   "No Accounts: Add a new account in Accounts settings", so no archive could
-   be signed. After that: `cd cropsy-mobile && flutter build ipa
-   --export-method app-store`, then upload `build/ios/ipa/*.ipa` with the
-   Transporter app or Xcode → Organizer. `1.0.0+1` is fine for the first build.
+2. ~~First build~~ **Uploaded 2026-09-21**: `1.0.0 (1)`, Delivery UUID
+   `8b386d81-3145-44b2-80bb-3664e1b2a671`, validated and uploaded with
+   `altool`. No Xcode account is needed on this Mac: signing and upload run on
+   an App Store Connect API key (`cropsy-ci-admin`, Key ID `HYH97DCL82`, Admin,
+   file in `~/.appstoreconnect/private_keys/`; Issuer
+   `47f95e96-b09e-48b1-85e1-37886c9c2177`). Admin is required: an App Manager
+   key archives but fails export with "Cloud signing permission error". The
+   team is **`R8MCFDU64H`** (the project used to carry `8UD57A925C`, which
+   belongs to nobody here). To ship the next build, bump the `+N` in
+   `pubspec.yaml`, then:
+
+   ```bash
+   cd cropsy-mobile
+   K=HYH97DCL82; I=47f95e96-b09e-48b1-85e1-37886c9c2177
+   AUTH=(-allowProvisioningUpdates -authenticationKeyPath ~/.appstoreconnect/private_keys/AuthKey_$K.p8 -authenticationKeyID $K -authenticationKeyIssuerID $I)
+   xcodebuild archive -workspace ios/Runner.xcworkspace -scheme Runner -configuration Release -destination 'generic/platform=iOS' -archivePath build/ios/archive/Runner.xcarchive $AUTH
+   xcodebuild -exportArchive -archivePath build/ios/archive/Runner.xcarchive -exportPath build/ios/ipa -exportOptionsPlist ios/ExportOptions.plist $AUTH
+   xcrun altool --upload-app -f build/ios/ipa/cropsy.ipa -t ios --apiKey $K --apiIssuer $I
+   ```
 2b. **App Review contact phone**: the version page in App Store Connect has
    name, email and the review notes filled in but Apple refuses to save
    without a phone number (`+31...`). Type it and press Save; if the page was
