@@ -97,10 +97,22 @@ the PRD. Everything under "Verified" was checked that day; everything under
    changes: light/dark fixes, the weather card on Home, milestone and content
    stops on the season path, search in Diagnose, and the profile as the
    settings hub.
-2b. **App Review contact phone**: the version page in App Store Connect has
-   name, email and the review notes filled in but Apple refuses to save
-   without a phone number (`+31...`). Type it and press Save; if the page was
-   reloaded, the notes text is in the section below.
+2b. ~~App Review contact phone~~ **Done**: name, phone, email and notes are
+   saved on the version page (checked over the API 2026-09-23).
+2c. ~~Third build~~ **Uploaded 2026-09-23 evening**: `1.0.0 (4)`, Delivery
+   UUID `5cc81489-10f2-4487-8f1a-f9fa16d59974`. Paywall now shows the yearly
+   renewal line, Terms and Privacy links and Restore feedback (App Review
+   3.1.2); location copy says ~1 km everywhere; camera/photo purpose strings
+   name identify and diagnose; no "beta" wording left. Attached to version
+   1.0 as soon as processing finished. Also that evening: Dutch privacy
+   policy URL set in App Information, privacy labels confirmed published.
+2d. **Demo account** (Neil): create a password user in Supabase → Auth →
+   Users, fill Demo Account on the version page, and drop the "will be added
+   before submission" sentence from the review notes.
+2e. **In-App Purchases on the version page** (Neil, with the sandbox test in
+   3): both `cropsy_lifetime` and `cropsy_yearly` are READY_TO_SUBMIT and only
+   go to review together with 1.0, so they must be added under "In-App
+   Purchases and Subscriptions" on the version page before Submit.
 3. **Sandbox tester** in App Store Connect → Users and Access → Sandbox; sign in
    with it on a device and buy `cropsy_lifetime`, then `cropsy_yearly`, then
    Restore. Check the entitlement shows in Settings → Membership.
