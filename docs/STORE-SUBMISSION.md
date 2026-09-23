@@ -73,10 +73,30 @@ the PRD. Everything under "Verified" was checked that day; everything under
    cd cropsy-mobile
    K=HYH97DCL82; I=47f95e96-b09e-48b1-85e1-37886c9c2177
    AUTH=(-allowProvisioningUpdates -authenticationKeyPath ~/.appstoreconnect/private_keys/AuthKey_$K.p8 -authenticationKeyID $K -authenticationKeyIssuerID $I)
+   flutter build ios --release --no-codesign
    xcodebuild archive -workspace ios/Runner.xcworkspace -scheme Runner -configuration Release -destination 'generic/platform=iOS' -archivePath build/ios/archive/Runner.xcarchive $AUTH
    xcodebuild -exportArchive -archivePath build/ios/archive/Runner.xcarchive -exportPath build/ios/ipa -exportOptionsPlist ios/ExportOptions.plist $AUTH
    xcrun altool --upload-app -f build/ios/ipa/cropsy.ipa -t ios --apiKey $K --apiIssuer $I
    ```
+
+   The `flutter build` line is not optional and is not there to produce the
+   binary. `Info.plist` reads `CFBundleVersion` from
+   `$(FLUTTER_BUILD_NUMBER)`, which lives in `ios/Flutter/Generated.xcconfig`
+   — a generated file that only Flutter rewrites. `xcodebuild archive` on its
+   own happily builds the *previous* build number, and the upload is then
+   rejected with `ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE`, "The bundle
+   version must be higher than the previously uploaded version". Confirm
+   before uploading:
+
+   ```bash
+   /usr/libexec/PlistBuddy -c "Print :ApplicationProperties:CFBundleVersion" build/ios/archive/Runner.xcarchive/Info.plist
+   ```
+
+2a. ~~Second build~~ **Uploaded 2026-09-23**: `1.0.0 (2)`, Delivery UUID
+   `66289dbe-7fd7-4568-acf5-995611af0766`. The first TestFlight round's
+   changes: light/dark fixes, the weather card on Home, milestone and content
+   stops on the season path, search in Diagnose, and the profile as the
+   settings hub.
 2b. **App Review contact phone**: the version page in App Store Connect has
    name, email and the review notes filled in but Apple refuses to save
    without a phone number (`+31...`). Type it and press Save; if the page was
