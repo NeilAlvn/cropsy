@@ -237,14 +237,13 @@ Luuk at 22:28, release v1.0 live for testers):
   `lib/config.dart`. Products `cropsy_lifetime` and `cropsy_yearly:annual`
   attached to entitlement `premium` and to the `$rc_lifetime` / `$rc_annual`
   packages of offering `default`.
-- Build **1.0.0 (5)** = build 4 + the Android RevenueCat key. AAB at
-  `cropsy-mobile/build/app/outputs/bundle/release/app-release.aab`, not yet
-  uploaded.
+- Build **1.0.0 (5)** = build 4 + the Android RevenueCat key. Luuk dragged it into the internal track the same
+  evening; the track now shows release 5 (1.0.0).
 
 **Still to do for Android (Neil / Luuk):**
 
-1. Drag the build-5 AAB into Interne tests → Nieuwe release maken →
-   Uitrollen (replaces build 4; the extension cannot upload 89 MB).
+1. ~~Drag the build-5 AAB into Interne tests~~ **Done.** Next AABs go the
+   same way (the extension cannot upload 89 MB).
 2. RevenueCat cannot validate Play purchases until a **Play service-account
    JSON** is uploaded on the Cropsy Android app page (Google Cloud → service
    account → key; grant it in Play Console → Users and permissions with
