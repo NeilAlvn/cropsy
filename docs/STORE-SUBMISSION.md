@@ -182,12 +182,61 @@ magic links.
   available" to the store link.
 - Delete the ASC record "Cropsy (old record)" (`app.visiontech.cropsy`).
 
-## Android (PRD §12.3, undecided)
+## Android (Play Console, 2026-09-23 evening)
 
-Not ready to ship: release build is signed with the debug key, no upload
-keystore, `revenueCatAndroidKey` is empty, no Play Console app or IAPs, no
-Data Safety form. iOS-first is the zero-work option; the website copy
-("Coming to both stores") stays true either way.
+Play Console app **Cropsy: Garden Planner** already existed as a draft under
+the Vision Tech B.V. account (hello@visiontechbv.nl, developer id
+`8577504145002136184`, app id `4976214359714233314`, package
+`com.cropsyapp.app`). Luuk's personal Play account (l88smits@gmail.com) has no
+apps; do not create one there.
+
+Done that evening:
+
+- Signed release bundle. Upload key `android/upload-keystore.jks` + password
+  in `android/key.properties`, both gitignored and only on Luuk's Mac —
+  **back the keystore up** (1Password); Play App Signing can reset a lost
+  upload key but it costs a support ticket. Gradle reads the properties and
+  falls back to the debug key when absent. JDK is Homebrew `openjdk@21`
+  (`flutter config --jdk-dir /opt/homebrew/opt/openjdk@21`). Build:
+  `JAVA_HOME=/opt/homebrew/opt/openjdk@21 flutter build appbundle --release`
+  → `build/app/outputs/bundle/release/app-release.aab` (versionCode 4).
+- Store listing en-US (default) and nl-NL: name, short and full description
+  (App Store text minus the euro prices, Play shows its own), 512 icon,
+  1024×500 feature graphic (`tool/store/feature.html`), six 9:16 phone
+  screenshots (`tool/store/play/`, rendered from frame.html at 1320×2346 —
+  Play rejects the 1320×2868 App Store size), two shots each in the 7" and
+  10" tablet slots (Play marks them required; phone shots are accepted).
+- Store settings: App, Lifestyle, contact hello@cropsyapp.com,
+  https://www.cropsyapp.com.
+- App content: privacy policy URL, ads (none), IARC content rating (PEGI 3 /
+  Everyone), advertising ID (not used — the bundle has no AD_ID permission),
+  government apps (no), financial features (none), health (none). Data safety
+  filled through the preview step and **saved as draft**: encrypted in
+  transit, account creation by password and email link, account-deletion and
+  data-deletion URL `https://www.cropsyapp.com/en/privacy`; approximate
+  location, email, user id, photos, purchase history, app interactions
+  (opt-in), other user content, crash logs — all collected, none shared, no
+  advertising or tracking.
+- Internal testing: tester lists "Luuk Smits" and "Neil Alvin Medallon"
+  attached to the internal track.
+
+**Still to do for Android (Neil / Luuk):**
+
+1. Upload the AAB. The Chrome extension caps uploads at 10 MB and the bundle
+   is 89 MB, so drag `cropsy-mobile/build/app/outputs/bundle/release/app-release.aab`
+   into Play Console → Testen en releasen → Interne tests → Nieuwe release
+   maken, then Uitrollen. Until a bundle with the BILLING permission is
+   uploaded, Play refuses to create in-app products.
+2. App access ("Inloggegevens"): answer Ja, paste the demo account (same one
+   as for Apple) and the review notes. This unlocks Target audience (answer
+   18 and over) and then the data-safety draft can be submitted.
+3. In-app products: `cropsy_lifetime` (one-time, €49.99) and `cropsy_yearly`
+   (subscription, base plan yearly €29.99) under Inkomsten genereren met
+   Play. Then RevenueCat → add Android app `com.cropsyapp.app`, paste the
+   Play service-account JSON, copy the public SDK key into
+   `lib/config.dart` `revenueCatAndroidKey`, rebuild, re-upload. Until then
+   the Android paywall stays on the free tier with the "not available right
+   now" copy.
 
 ## Deliberately deferred
 
