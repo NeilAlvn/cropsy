@@ -220,23 +220,42 @@ Done that evening:
 - Internal testing: tester lists "Luuk Smits" and "Neil Alvin Medallon"
   attached to the internal track.
 
+Later that evening (build 1.0.0 (4) was dragged into the internal track by
+Luuk at 22:28, release v1.0 live for testers):
+
+- Play products, both **active**: `cropsy_lifetime` (one-time, purchase
+  option `lifetime`) and subscription `cropsy_yearly` with base plan
+  **`annual`** (yearly, auto-renew, 14-day grace). Prices were set in bulk
+  as net EUR (41,32 / 24,79) because Play's bulk dialog treats the amount as
+  pre-tax; the result is NL €49,99 / €29,99, DE €48,99 / €29,99, US
+  $46,99 / $27,99. The Play money field wants a **comma** decimal
+  (`49,99`); `49.99` becomes 4999. A first base plan called `yearly` was
+  created monthly by mistake and deleted while still a draft — do not reuse
+  that id.
+- RevenueCat: Play app **Cropsy Android** (`appac58de8291`, package
+  `com.cropsyapp.app`), public key `goog_TdnQhLhENRoFBAyWerWXZRLuJPd` now in
+  `lib/config.dart`. Products `cropsy_lifetime` and `cropsy_yearly:annual`
+  attached to entitlement `premium` and to the `$rc_lifetime` / `$rc_annual`
+  packages of offering `default`.
+- Build **1.0.0 (5)** = build 4 + the Android RevenueCat key. AAB at
+  `cropsy-mobile/build/app/outputs/bundle/release/app-release.aab`, not yet
+  uploaded.
+
 **Still to do for Android (Neil / Luuk):**
 
-1. Upload the AAB. The Chrome extension caps uploads at 10 MB and the bundle
-   is 89 MB, so drag `cropsy-mobile/build/app/outputs/bundle/release/app-release.aab`
-   into Play Console → Testen en releasen → Interne tests → Nieuwe release
-   maken, then Uitrollen. Until a bundle with the BILLING permission is
-   uploaded, Play refuses to create in-app products.
-2. App access ("Inloggegevens"): answer Ja, paste the demo account (same one
+1. Drag the build-5 AAB into Interne tests → Nieuwe release maken →
+   Uitrollen (replaces build 4; the extension cannot upload 89 MB).
+2. RevenueCat cannot validate Play purchases until a **Play service-account
+   JSON** is uploaded on the Cropsy Android app page (Google Cloud → service
+   account → key; grant it in Play Console → Users and permissions with
+   "View financial data" + "Manage orders and subscriptions"). RevenueCat's
+   guide: https://www.revenuecat.com/docs/service-credentials/creating-play-service-credentials
+   Then enable Google real-time developer notifications on the same page.
+   Sandbox purchases need a Play license tester (Play Console → Settings →
+   License testing) — add the same emails as the internal testers.
+3. App access ("Inloggegevens"): answer Ja, paste the demo account (same one
    as for Apple) and the review notes. This unlocks Target audience (answer
    18 and over) and then the data-safety draft can be submitted.
-3. In-app products: `cropsy_lifetime` (one-time, €49.99) and `cropsy_yearly`
-   (subscription, base plan yearly €29.99) under Inkomsten genereren met
-   Play. Then RevenueCat → add Android app `com.cropsyapp.app`, paste the
-   Play service-account JSON, copy the public SDK key into
-   `lib/config.dart` `revenueCatAndroidKey`, rebuild, re-upload. Until then
-   the Android paywall stays on the free tier with the "not available right
-   now" copy.
 
 ## Deliberately deferred
 
